@@ -11,6 +11,16 @@
   <meta property="og:type" content="website" />
   <meta name="twitter:card" content="summary_large_image" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🛸</text></svg>" />
+
+  <!-- GA4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-MM5TGJDV0C"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-MM5TGJDV0C');
+  </script>
+
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Saira+Stencil+One&family=Tourney:wght@900&family=Share+Tech+Mono&family=Syne:wght@800;900&family=Space+Grotesk:wght@300;400;600&family=Bebas+Neue&family=Rajdhani:wght@600;700&display=swap" rel="stylesheet" />
 
@@ -27,7 +37,6 @@
       cursor: crosshair;
     }
 
-    /* ── BACKGROUND ── */
     #xr-bg {
       position: fixed; inset: 0; z-index: 0; pointer-events: none;
       background:
@@ -37,7 +46,6 @@
         #000;
     }
 
-    /* ── STARS ── */
     #xr-stars {
       position: fixed; inset: 0; z-index: 1; pointer-events: none; overflow: hidden;
     }
@@ -48,13 +56,11 @@
     }
     @keyframes twinkle { 0%,100%{opacity:0} 50%{opacity:var(--op)} }
 
-    /* ── SCANLINES ── */
     body::after {
       content: ''; position: fixed; inset: 0; pointer-events: none; z-index: 9999;
       background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.07) 2px, rgba(0,0,0,0.07) 4px);
     }
 
-    /* ── BEAM ── */
     #xr-beam {
       position: relative; z-index: 10; height: 4px;
       background: linear-gradient(90deg, transparent, #00ff88 15%, #00dcff 50%, #b400ff 85%, transparent);
@@ -62,7 +68,6 @@
     }
     @keyframes beam { 0%,100%{opacity:.6} 50%{opacity:1} }
 
-    /* ── SIGNAL BAR ── */
     #xr-sigbar {
       position: relative; z-index: 10;
       background: rgba(0,0,0,0.92);
@@ -80,7 +85,6 @@
     }
     @keyframes sd { 0%,100%{opacity:1} 50%{opacity:.1} }
 
-    /* ── HERO ── */
     #xr-hero {
       position: relative; z-index: 10;
       padding: 32px 20px 24px;
@@ -105,7 +109,6 @@
     }
     @keyframes ufofly { 0%,100%{transform:translateY(0) rotate(-4deg)} 50%{transform:translateY(-14px) rotate(4deg)} }
 
-    /* ── LOGO ── */
     #logo-wrap {
       position: relative; z-index: 2; text-align: center;
       animation: logozoom 3s ease-in-out infinite;
@@ -177,7 +180,6 @@
       transform: rotate(-1.5deg); position: relative; z-index: 2;
     }
 
-    /* ── TICKER ── */
     #xr-ticker {
       position: relative; z-index: 10;
       display: flex; align-items: center; height: 28px; overflow: hidden;
@@ -202,7 +204,6 @@
     }
     @keyframes tickroll { 0%{transform:translateX(0)} 100%{transform:translateX(-50%)} }
 
-    /* ── NAV ── */
     #xr-nav {
       position: sticky; top: 0; z-index: 100;
       background: rgba(0,0,0,0.95);
@@ -230,7 +231,6 @@
       padding: 1px 5px; border-radius: 2px; margin-left: 4px;
     }
 
-    /* ── MAIN ── */
     main {
       position: relative; z-index: 10;
       max-width: 1400px; margin: 0 auto; padding: 2rem 1.5rem;
@@ -238,7 +238,6 @@
     .section { display: none; }
     .section.active { display: block; }
 
-    /* ── SECTION HEADER ── */
     .section-hdr {
       display: flex; align-items: center; gap: 12px;
       margin-bottom: 16px; padding-bottom: 10px;
@@ -251,10 +250,8 @@
     .section-line { flex: 1; height: 1px; background: linear-gradient(90deg, rgba(0,255,136,0.25), transparent); }
     .section-ts { font-family: 'Share Tech Mono', monospace; font-size: 8px; color: rgba(255,255,255,0.22); white-space: nowrap; }
 
-    /* ── GRID ── */
     .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 12px; }
 
-    /* ── CARD ── */
     .card {
       background: rgba(255,255,255,0.025);
       border: 1px solid rgba(255,255,255,0.07);
@@ -339,7 +336,6 @@
     }
     .card-access:hover { text-shadow: 0 0 14px rgba(0,220,255,0.8); }
 
-    /* ── LOADING / ERROR ── */
     .loading-wrap {
       grid-column: 1/-1;
       display: flex; flex-direction: column; align-items: center; justify-content: center;
@@ -365,7 +361,6 @@
       color: #ff2d55; letter-spacing: .12em; text-transform: uppercase;
     }
 
-    /* ── ABOUT ── */
     .about-wrap { max-width: 820px; margin: 0 auto; }
     .classified-panel {
       background: rgba(255,255,255,0.025);
@@ -400,7 +395,6 @@
     .doc-body p { margin-bottom: 1rem; }
     .doc-body strong { color: #00ff88; }
 
-    /* ── FOOTER ── */
     footer {
       position: relative; z-index: 10;
       background: #000; border-top: 1px solid rgba(255,255,255,0.06);
@@ -422,7 +416,6 @@
       color: rgba(255,255,255,0.18); letter-spacing: .12em; line-height: 2;
     }
 
-    /* ── RESPONSIVE ── */
     @media (max-width: 640px) {
       #xr-sigbar span:not(:first-child) { display: none; }
       main { padding: 1.2rem 1rem; }
@@ -435,7 +428,6 @@
 
 <div id="xr-bg"></div>
 <div id="xr-stars"></div>
-
 <div id="xr-beam"></div>
 
 <div id="xr-sigbar">
@@ -481,7 +473,6 @@
 
 <main>
 
-  <!-- NEWS -->
   <section class="section active" id="section-news">
     <div class="section-hdr">
       <h2>◈ LATEST TRANSMISSIONS</h2>
@@ -493,7 +484,6 @@
     </div>
   </section>
 
-  <!-- VIDEOS -->
   <section class="section" id="section-videos">
     <div class="section-hdr">
       <h2>▶ VIDEO INTELLIGENCE</h2>
@@ -505,7 +495,6 @@
     </div>
   </section>
 
-  <!-- PODCASTS -->
   <section class="section" id="section-podcasts">
     <div class="section-hdr">
       <h2>◉ AUDIO INTEL</h2>
@@ -517,7 +506,6 @@
     </div>
   </section>
 
-  <!-- DECLASSIFIED -->
   <section class="section" id="section-docs">
     <div class="section-hdr">
       <h2>⬡ DECLASSIFIED / FOIA</h2>
@@ -529,7 +517,6 @@
     </div>
   </section>
 
-  <!-- ABOUT -->
   <section class="section" id="section-about">
     <div class="section-hdr">
       <h2>▣ MISSION BRIEFING</h2>
@@ -568,7 +555,6 @@
 </footer>
 
 <script>
-  // ── STARFIELD ──
   const sf = document.getElementById('xr-stars');
   for (let i = 0; i < 200; i++) {
     const s = document.createElement('div');
@@ -578,7 +564,6 @@
     sf.appendChild(s);
   }
 
-  // ── CLOCK ──
   function updateClock() {
     const el = document.getElementById('live-clock');
     if (el) el.textContent = new Date().toUTCString().replace('GMT','UTC');
@@ -586,7 +571,6 @@
   updateClock(); setInterval(updateClock, 1000);
   document.getElementById('footer-year').textContent = new Date().getFullYear();
 
-  // ── TABS ──
   function switchTab(name) {
     document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
     document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
@@ -594,7 +578,6 @@
     document.getElementById('tab-' + name).classList.add('active');
   }
 
-  // ── HELPERS ──
   function timeAgo(dateStr) {
     if (!dateStr) return '';
     const diff = Date.now() - new Date(dateStr).getTime();
