@@ -1,0 +1,15 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" fill="#000000"/>
+  <!-- UFO body fills the width -->
+  <ellipse cx="32" cy="38" rx="30" ry="11" fill="#000000" stroke="#00dcff" stroke-width="3.5"/>
+  <!-- dome fills upper half -->
+  <ellipse cx="32" cy="26" rx="16" ry="14" fill="#00ff88"/>
+  <!-- dome highlight -->
+  <ellipse cx="28" cy="22" rx="6" ry="5" fill="#00ff88" opacity=".4"/>
+  <!-- underside curve -->
+  <path d="M4 39 Q32 56 60 39" fill="none" stroke="#00dcff" stroke-width="2.5" opacity=".7"/>
+  <!-- legs -->
+  <line x1="20" y1="48" x2="14" y2="60" stroke="#00dcff" stroke-width="2.5"/>
+  <line x1="32" y1="49" x2="32" y2="62" stroke="#00dcff" stroke-width="2.5"/>
+  <line x1="44" y1="48" x2="50" y2="60" stroke="#00dcff" stroke-width="2.5"/>
+</svg>
