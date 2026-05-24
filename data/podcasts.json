@@ -1,5 +1,35 @@
 [
   {
+    "id": "4146dab7",
+    "type": "podcast",
+    "title": "#73 UFO Disclosure Plot Twist — Need To Know — May 2026",
+    "description": "In this special Need to Know episode, Bryce Zabel, Richard Dolan, and producer Tyler Stevens react in real time to the Trump ...",
+    "url": "https://www.youtube.com/watch?v=8C1pgdKUuoQ",
+    "image": "https://i.ytimg.com/vi/8C1pgdKUuoQ/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-05-10T22:05:40Z"
+  },
+  {
+    "id": "54817b01",
+    "type": "podcast",
+    "title": "#72 UFO Hail Mary — Need to Know — March 2026",
+    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan talk about Project Hail Mary, the disappearance of General ...",
+    "url": "https://www.youtube.com/watch?v=JiiXNgQ4qL8",
+    "image": "https://i.ytimg.com/vi/JiiXNgQ4qL8/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-03-30T01:00:06Z"
+  },
+  {
+    "id": "eb30d500",
+    "type": "podcast",
+    "title": "Is Hollywood covering up UFO truths? | Reality Check",
+    "description": "In this episode of Reality Check, Ross Coulthart sits down with Bryce Zabel and Brent Friedman, the co-creators of \"Dark Skies\" ...",
+    "url": "https://www.youtube.com/watch?v=nSwNuEdD7y0",
+    "image": "https://i.ytimg.com/vi/nSwNuEdD7y0/hqdefault.jpg",
+    "source": "NewsNation",
+    "publishedAt": "2026-03-24T21:30:06Z"
+  },
+  {
     "id": "070d1f55",
     "type": "podcast",
     "title": "Doomer Friday: Thomas Jane &amp; Andy McGrillen on the UFO Files &amp; Alien Species - Psicoactivo Live #30",
@@ -90,23 +120,33 @@
     "publishedAt": "2026-05-14T04:08:27Z"
   },
   {
-    "id": "caf84686",
+    "id": "e1e077dd",
     "type": "podcast",
-    "title": "from Ep17  High Strangeness - MUFON  Interview #duet #ufofev #paranormalexpert #uap #strange",
-    "description": "In this episode of 'High Strangeness, the host Interviews a State Director for MUFON. Learn about UAP investigations. Check it out ...",
-    "url": "https://www.youtube.com/watch?v=dH879uYlG54",
-    "image": "https://i.ytimg.com/vi/dH879uYlG54/hqdefault.jpg",
-    "source": "High Strangeness",
-    "publishedAt": "2024-06-11T22:00:21Z"
+    "title": "Why do UFOs appear differently around the world? With Vinnie Adams from the Disclosure team",
+    "description": "clip from an interview with Vinnie from the disclosure team. #tomvernonuap #interview #usa #uk #ufo #uap #disclosureteam.",
+    "url": "https://www.youtube.com/watch?v=l3IhsfkCCCI",
+    "image": "https://i.ytimg.com/vi/l3IhsfkCCCI/hqdefault.jpg",
+    "source": "Tom Vernon UAP",
+    "publishedAt": "2026-05-05T00:54:00Z"
   },
   {
-    "id": "d554f94d",
+    "id": "59acc3fa",
     "type": "podcast",
-    "title": "UFO podcast seeing success for parent company Tenderfoot TV",
-    "description": "Media company Tenderfoot TV is seeing success with the launch of \"High Strange,\" a podcast that focuses on UFOs. Tenderfoot ...",
-    "url": "https://www.youtube.com/watch?v=hup3qWCAgRQ",
-    "image": "https://i.ytimg.com/vi/hup3qWCAgRQ/hqdefault.jpg",
-    "source": "CBS News",
-    "publishedAt": "2023-05-15T15:31:21Z"
+    "title": "The stigma behind telling the truth about UFOs with Vinnie Adams from the Disclosure Team",
+    "description": "clip from our interview where we discuss Vinnies take on the evolution of the UFO phenomenon. #tomvernonuap #disclosureteam ...",
+    "url": "https://www.youtube.com/watch?v=VE_j8Zxsv80",
+    "image": "https://i.ytimg.com/vi/VE_j8Zxsv80/hqdefault.jpg",
+    "source": "Tom Vernon UAP",
+    "publishedAt": "2026-05-05T00:49:51Z"
+  },
+  {
+    "id": "1430462b",
+    "type": "podcast",
+    "title": "Lue Elizondo Marathon - 7+ hours of interviews!",
+    "description": "This video brings together every interview and panel discussion I've had the privilege of doing with Lue Elizondo since starting ...",
+    "url": "https://www.youtube.com/watch?v=b8GVxLD6_1M",
+    "image": "https://i.ytimg.com/vi/b8GVxLD6_1M/hqdefault.jpg",
+    "source": "Disclosure Team with Vinnie Adams ",
+    "publishedAt": "2026-04-22T15:01:27Z"
   }
 ]
