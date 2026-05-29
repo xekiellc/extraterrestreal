@@ -118,6 +118,7 @@
       animation: logozoom 3s ease-in-out infinite;
       transform-origin: center center;
       margin-bottom: 4px;
+      line-height: 1;
     }
     @keyframes logozoom {
       0%  { transform:scale(1);    filter:brightness(1) }
@@ -127,10 +128,10 @@
     }
     .logo-a {
       font-family: 'Saira Stencil One', sans-serif;
-      font-size: clamp(20px, 4vw, 36px);
+      font-size: clamp(20px, 4.5vw, 42px);
       letter-spacing: .05em; color: #00ff88;
       text-shadow: 0 0 10px rgba(0,255,136,0.9), 0 0 25px rgba(0,255,136,0.6), 0 0 60px rgba(0,255,136,0.3);
-      display: block; line-height: 1;
+      display: inline;
       animation: greenpulse 3s ease-in-out infinite;
     }
     @keyframes greenpulse {
@@ -139,11 +140,11 @@
     }
     .logo-b {
       font-family: 'Tourney', sans-serif; font-weight: 900;
-      font-size: clamp(30px, 7vw, 58px);
+      font-size: clamp(20px, 4.5vw, 42px);
       letter-spacing: .06em;
       background: linear-gradient(90deg, #00dcff 0%, #b400ff 60%, #ff2d55 100%);
       -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
-      display: block; line-height: 1;
+      display: inline;
       filter: drop-shadow(0 0 16px rgba(0,220,255,0.6)) drop-shadow(0 0 40px rgba(180,0,255,0.4));
       animation: realpulse 3s ease-in-out infinite;
       background-size: 200% 100%;
@@ -445,8 +446,7 @@
     <div class="glow-orb"></div>
     <div id="xr-ufo">🛸</div>
     <div id="logo-wrap">
-      <span class="logo-a">EXTRATERRESTR</span>
-      <span class="logo-b">REAL</span>
+      <span class="logo-a">EXTRATERRESTR</span><span class="logo-b">REAL</span>
     </div>
     <div class="xr-tagline">UFOs are real &nbsp;·&nbsp; Aliens are real &nbsp;·&nbsp; The government knows</div>
     <div class="xr-pills">
