@@ -60,6 +60,16 @@
     "publishedAt": "2026-05-01T19:31:10Z"
   },
   {
+    "id": "f121d7ae",
+    "type": "podcast",
+    "title": "The Allagash Abduction",
+    "description": "allagash #aliens #uap In August 1976, four friends set out on a canoe trip through the remote wilderness of northern Maine ...",
+    "url": "https://www.youtube.com/watch?v=dCCEwi0SvSA",
+    "image": "https://i.ytimg.com/vi/dCCEwi0SvSA/hqdefault_live.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-06-04T20:44:47Z"
+  },
+  {
     "id": "4c68999d",
     "type": "podcast",
     "title": "UFOs, Owls, and Synchronicities with Mike Clelland (SITS CLASSIC)",
@@ -78,16 +88,6 @@
     "image": "https://i.ytimg.com/vi/X_POUC3M7XE/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-05-30T09:55:44Z"
-  },
-  {
-    "id": "536a0ab6",
-    "type": "podcast",
-    "title": "UFOs, Borderlands &amp; High Strangeness with Ruben Uriarte | SITS CLASSIC",
-    "description": "As today's UFO conversation becomes increasingly centered on American military footage and government hearings, ...",
-    "url": "https://www.youtube.com/watch?v=ot2rjUtbSfc",
-    "image": "https://i.ytimg.com/vi/ot2rjUtbSfc/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-05-27T14:00:06Z"
   },
   {
     "id": "fb58327c",
@@ -160,14 +160,14 @@
     "publishedAt": "2026-05-05T00:49:51Z"
   },
   {
-    "id": "1430462b",
+    "id": "2dfc381c",
     "type": "podcast",
-    "title": "Lue Elizondo Marathon - 7+ hours of interviews!",
-    "description": "This video brings together every interview and panel discussion I've had the privilege of doing with Lue Elizondo since starting ...",
-    "url": "https://www.youtube.com/watch?v=b8GVxLD6_1M",
-    "image": "https://i.ytimg.com/vi/b8GVxLD6_1M/hqdefault.jpg",
-    "source": "Disclosure Team with Vinnie Adams ",
-    "publishedAt": "2026-04-22T15:01:27Z"
+    "title": "J-Boogie and Amy Return + Vinnie Adams of Disclosure Team joins us to eulogize UFO Legend Nick Pope!",
+    "description": "Twitter/X Space host sensations @Jboogiefever and @amyfaistlynch return to talk Amy's paranormal experiences, 60s,70s,80s ...",
+    "url": "https://www.youtube.com/watch?v=AHxEk4_a0KQ",
+    "image": "https://i.ytimg.com/vi/AHxEk4_a0KQ/hqdefault.jpg",
+    "source": "Calling All Beings",
+    "publishedAt": "2026-04-12T01:58:24Z"
   },
   {
     "id": "b93f3db4",
