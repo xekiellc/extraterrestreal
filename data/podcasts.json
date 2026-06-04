@@ -180,16 +180,6 @@
     "publishedAt": "2026-05-26T16:55:48Z"
   },
   {
-    "id": "baed4d17",
-    "type": "podcast",
-    "title": "Trump, Aliens, and a Vanishing Act: What&#39;s Happening? #shorts",
-    "description": "In 2025, an insider report claimed Trump moved special access programs from the Pentagon to the White House, involving ...",
-    "url": "https://www.youtube.com/watch?v=-4VrmO6Gb3k",
-    "image": "https://i.ytimg.com/vi/-4VrmO6Gb3k/hqdefault.jpg",
-    "source": "OVERHANDGARY",
-    "publishedAt": "2026-05-21T05:25:29Z"
-  },
-  {
     "id": "692c66de",
     "type": "podcast",
     "title": "Kehidupan Luar Angkasa Akan Terungkap? #astronacci #alien #podcast #viral #teorikonspirasi",
@@ -198,5 +188,15 @@
     "image": "https://i.ytimg.com/vi/60w_dbBY2N0/hqdefault.jpg",
     "source": "NPDclips",
     "publishedAt": "2026-05-15T00:28:19Z"
+  },
+  {
+    "id": "44f1a5cd",
+    "type": "podcast",
+    "title": "UFO Disclosure Has Started w/ Jeremy Corbell on Sleeping Dog | Shane Smith Has Questions",
+    "description": "After the latest U.S. government release of UAP/UFO files, filmmaker and investigative journalist Jeremy Corbell returns to Shane ...",
+    "url": "https://www.youtube.com/watch?v=t-UgoLo-oV8",
+    "image": "https://i.ytimg.com/vi/t-UgoLo-oV8/hqdefault.jpg",
+    "source": "VICE News",
+    "publishedAt": "2026-05-14T16:01:33Z"
   }
 ]
