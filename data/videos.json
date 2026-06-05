@@ -10,6 +10,16 @@
     "publishedAt": "2026-06-05T00:00:06Z"
   },
   {
+    "id": "3986aec6",
+    "type": "video",
+    "title": "How did Jeremy Corbell get classified videos?",
+    "description": "How did Jeremy Corbell get classified videos? Watch this full episode of \"Reality Check\": https://youtu.be/lKRH1F8MwTM ...",
+    "url": "https://www.youtube.com/watch?v=iucGX2yBaec",
+    "image": "https://i.ytimg.com/vi/iucGX2yBaec/hqdefault.jpg",
+    "source": "NewsNation",
+    "publishedAt": "2026-06-03T20:00:22Z"
+  },
+  {
     "id": "af475873",
     "type": "video",
     "title": "This is the biggest leak in human history. 🛸 #shorts #ufo",
@@ -18,16 +28,6 @@
     "image": "https://i.ytimg.com/vi/5QfquXMWqac/hqdefault.jpg",
     "source": "FILM STUDIOS",
     "publishedAt": "2026-06-03T17:40:03Z"
-  },
-  {
-    "id": "e4cd722f",
-    "type": "video",
-    "title": "UFO expert analyzes new military footage | Newsmaker | FOX 10 Phoenix",
-    "description": "Journalist and UFOologist Jeremy Corbell joins host John Hook to discuss his new movie, Sleeping Dog, and the ongoing ...",
-    "url": "https://www.youtube.com/watch?v=x2KJB13oDCA",
-    "image": "https://i.ytimg.com/vi/x2KJB13oDCA/hqdefault.jpg",
-    "source": "FOX 10 Phoenix",
-    "publishedAt": "2026-05-31T20:55:51Z"
   },
   {
     "id": "54091796",
@@ -80,14 +80,14 @@
     "publishedAt": "2026-05-28T18:05:34Z"
   },
   {
-    "id": "c66f4f28",
+    "id": "55f8c48e",
     "type": "video",
-    "title": "Black Ops Pilot Exposes Psychic UFO Program (It&#39;s Not What You Think)",
-    "description": "Main episode: https://youtu.be/OOr98r51Sj0?si=8lO3l-dZOBLRG7tE Grab Your Alchemy Merchandise!",
-    "url": "https://www.youtube.com/watch?v=jXnizNCEoH4",
-    "image": "https://i.ytimg.com/vi/jXnizNCEoH4/hqdefault.jpg",
-    "source": "Jesse Michels Clips",
-    "publishedAt": "2026-05-21T18:31:35Z"
+    "title": "Why The Pentagon Tried To Censor This UFO Book",
+    "description": "Our American Alchemist this week is Jake Barber's Sentinels of Ether.",
+    "url": "https://www.youtube.com/watch?v=OOr98r51Sj0",
+    "image": "https://i.ytimg.com/vi/OOr98r51Sj0/hqdefault.jpg",
+    "source": "Jesse Michels",
+    "publishedAt": "2026-05-21T17:15:20Z"
   },
   {
     "id": "54b9e31c",
