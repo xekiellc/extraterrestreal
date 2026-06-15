@@ -60,6 +60,16 @@
     "publishedAt": "2026-05-01T19:31:10Z"
   },
   {
+    "id": "abc5ecbd",
+    "type": "podcast",
+    "title": "The People Who Claim They Can Summon UFOs With Their Minds (w/ @VETTEDPODCAST)",
+    "description": "documentary #uap #psionics AVAILABLE right now for Early Access: ...",
+    "url": "https://www.youtube.com/watch?v=71L-6d4wHW0",
+    "image": "https://i.ytimg.com/vi/71L-6d4wHW0/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-06-15T13:00:06Z"
+  },
+  {
     "id": "65929a14",
     "type": "podcast",
     "title": "DISCLOSURE DAY Review with 2 Guys Who Worked with STEVEN SPIELBERG",
@@ -78,16 +88,6 @@
     "image": "https://i.ytimg.com/vi/l_SWxpwt5FE/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-06-13T21:45:06Z"
-  },
-  {
-    "id": "e445fdf9",
-    "type": "podcast",
-    "title": "BATCH 3 UFO FILE DROP: New Government Videos Revealed + The UFO Experience (1982) Watchalong",
-    "description": "Live #UAP #DisclosureDay Join Ryan for a watchalong of the classic UFO documentary The UFO Experience (1982), hosted by ...",
-    "url": "https://www.youtube.com/watch?v=1sr9ocy4_hs",
-    "image": "https://i.ytimg.com/vi/1sr9ocy4_hs/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-06-12T22:07:14Z"
   },
   {
     "id": "0079ce33",
@@ -110,14 +110,14 @@
     "publishedAt": "2026-06-09T04:08:35Z"
   },
   {
-    "id": "fb58327c",
+    "id": "f3ca78ad",
     "type": "podcast",
-    "title": "Ep. 2313 James Keenan: Skinwalker Ranch",
-    "description": "Tonight, Thursday on FADE to BLACK: James Keenan explores the unexplained phenomena spanning ancient history to modern ...",
-    "url": "https://www.youtube.com/watch?v=lFAnIxl_hTg",
-    "image": "https://i.ytimg.com/vi/lFAnIxl_hTg/hqdefault.jpg",
+    "title": "Ep. 2312 Bill and Jaci Kousoulas: Our Paranormal World",
+    "description": "Tonight, Wednesday on FADE to BLACK: Bill and Jaci explore bridging tragedy and transcending darkness through the lens of ...",
+    "url": "https://www.youtube.com/watch?v=xVE2gQOhnVM",
+    "image": "https://i.ytimg.com/vi/xVE2gQOhnVM/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-05-22T04:08:27Z"
+    "publishedAt": "2026-05-21T04:11:47Z"
   },
   {
     "id": "a4727c28",
@@ -140,14 +140,14 @@
     "publishedAt": "2024-06-11T22:00:21Z"
   },
   {
-    "id": "65f4e198",
+    "id": "36e32ab2",
     "type": "podcast",
-    "title": "The UAP Reality - Daz Smith and Joe Murgia Discuss High Strangeness",
-    "description": "This is a July 7, 2022 discussion with Joe Murgia. Joe is a prominent and cutting-edge UAP researcher with a very informative ...",
-    "url": "https://www.youtube.com/watch?v=p-UVj6mWLWw",
-    "image": "https://i.ytimg.com/vi/p-UVj6mWLWw/hqdefault.jpg",
-    "source": "Down The Rabbit Hole",
-    "publishedAt": "2022-07-08T11:45:07Z"
+    "title": "High Strange | Roundtable #01",
+    "description": "Listen to Full Episodes of High Strange on Apple Podcast: https://podcasts.apple.com/us/podcast/high-strange/id1677004614 ...",
+    "url": "https://www.youtube.com/watch?v=PNKmcDlUh3U",
+    "image": "https://i.ytimg.com/vi/PNKmcDlUh3U/hqdefault.jpg",
+    "source": "Tenderfoot TV",
+    "publishedAt": "2023-06-09T16:36:06Z"
   },
   {
     "id": "74e3ef82",
