@@ -40,6 +40,16 @@
     "publishedAt": "2026-06-12T23:32:33Z"
   },
   {
+    "id": "146e3072",
+    "type": "news",
+    "title": "Monday: Hili dialogue",
+    "description": "Welcome to another damn week: it’s Monday, June 15, 2025—the Ides of June and also National Megalodon Day, celebrating the largest shark that ever lived. We can only estimate their sixe, but here’s s0me info from Wikiped…",
+    "url": "https://whyevolutionistrue.com/2026/06/15/monday-hili-dialogue-573/",
+    "image": "https://whyevolutionistrue.com/wp-content/uploads/2026/06/d83e6ce2-afdb-4354-9e90-0aa532744d6d.jpg",
+    "source": "Whyevolutionistrue.com",
+    "publishedAt": "2026-06-15T11:45:42Z"
+  },
+  {
     "id": "43d807fc",
     "type": "news",
     "title": "Every Steven Spielberg Movie, Ranked",
@@ -68,16 +78,6 @@
     "image": "https://cdn.mos.cms.futurecdn.net/GuuJtfRjzzAazDcH6XZuuL-2000-80.jpg",
     "source": "CinemaBlend",
     "publishedAt": "2026-06-13T23:21:00Z"
-  },
-  {
-    "id": "0d06dd6a",
-    "type": "news",
-    "title": "How Much Of Disclosure Day Is Based On Real Life?",
-    "description": "Steven Spielberg's Disclosure Day features ties to real-life accounts, widely-held beliefs, and known conspiracies regarding extraterrestrials.",
-    "url": "https://screenrant.com/disclosure-day-real-life-comparisons-explained/",
-    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/colin-firth-as-noah-scanlon-in-disclosure-day.jpg?w=1600&h=900&fit=crop",
-    "source": "Screen Rant",
-    "publishedAt": "2026-06-13T21:55:22Z"
   },
   {
     "id": "d8f322c1",
@@ -130,6 +130,16 @@
     "publishedAt": "2026-06-06T11:00:00Z"
   },
   {
+    "id": "cc5420bc",
+    "type": "news",
+    "title": "A UAP Science Advisory Council to the U.S. Government: Keeping Our Eyes on the Orbs, Not the Audience!",
+    "description": "The latest UAP file release includes a new report (accessible here) dated June 5, 2026, signed by Dr. Jon Kosloski, the director of the All-Domain Anomaly Resolution Office (AARO) in the Pentagon, which mentions that dur…",
+    "url": "https://freerepublic.com/focus/f-chat/4383813/posts",
+    "image": "",
+    "source": "Freerepublic.com",
+    "publishedAt": "2026-06-15T11:08:05Z"
+  },
+  {
     "id": "ae492881",
     "type": "news",
     "title": "CIA was 'extraordinarily' evasive with UFO scientist, new US files say",
@@ -148,16 +158,6 @@
     "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/feds-baffled-orbs-launching-orbs-third-ufo-files-dump-1.jpg?quality=75&strip=all&w=1200",
     "source": "New York Post",
     "publishedAt": "2026-06-12T13:13:42Z"
-  },
-  {
-    "id": "5af32444",
-    "type": "news",
-    "title": "A Brief-ish History of SETI. Part IX: What Have We Found?",
-    "description": "In our final installment in the series, we'll examine all the close calls, possible candidates, and instances in which extraterrestrial signals could not be ruled out",
-    "url": "https://www.universetoday.com/articles/a-brief-ish-history-of-seti-part-ix-what-have-we-found",
-    "image": "https://www.universetoday.com/article_images/ESO_-_The_Milky_Way_panorama_by_20260604_010902.jpg",
-    "source": "Universe Today",
-    "publishedAt": "2026-06-04T01:09:31Z"
   },
   {
     "id": "c178d28d",
@@ -248,5 +248,15 @@
     "image": "https://spacedaily.com/wp-content/uploads/2026/06/When-the-SS-Great-Eastern-laid-the-first-working-transatlantic-telegraph-cable-in-1866-1.png",
     "source": "Space Daily",
     "publishedAt": "2026-06-08T12:00:03Z"
+  },
+  {
+    "id": "5af32444",
+    "type": "news",
+    "title": "A Brief-ish History of SETI. Part IX: What Have We Found?",
+    "description": "In our final installment in the series, we'll examine all the close calls, possible candidates, and instances in which extraterrestrial signals could not be ruled out",
+    "url": "https://www.universetoday.com/articles/a-brief-ish-history-of-seti-part-ix-what-have-we-found",
+    "image": "https://www.universetoday.com/article_images/ESO_-_The_Milky_Way_panorama_by_20260604_010902.jpg",
+    "source": "Universe Today",
+    "publishedAt": "2026-06-04T01:09:31Z"
   }
 ]
