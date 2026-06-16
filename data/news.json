@@ -40,6 +40,26 @@
     "publishedAt": "2026-06-12T23:32:33Z"
   },
   {
+    "id": "7d7bd941",
+    "type": "news",
+    "title": "Let’s Talk About the Ending of DISCLOSURE DAY and Why Spielberg Leaves the Biggest Question Unanswered",
+    "description": "Steven Spielberg’s Disclosure Day spends nearly its entire runtime building toward one question: What happens when the truth of the UFO cover-up finally comes out?The film promises aliens, government secrets, and a world…",
+    "url": "https://geektyrant.com/news/lets-talk-about-the-ending-of-disclosure-day-and-why-spielberg-leaves-the-biggest-question-unanswered",
+    "image": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6a2c30047684c312d273c47f/1781557053791/Let%E2%80%99s+Talk+About+the+Ending+of+DISCLOSURE+DAY+and+Why+It+Left+Me+Wanting+More.jpg?format=1500w",
+    "source": "GeekTyrant",
+    "publishedAt": "2026-06-15T20:57:00Z"
+  },
+  {
+    "id": "7562eafa",
+    "type": "news",
+    "title": "Why Disclosure Day Ends With One Mysterious Word: “Listen”",
+    "description": "At the end of Steven Spielberg’s new movie Disclosure Day, an alien tells Daniel (Josh O’Connor) a message that Margaret (Emily Blunt) then relays as “Listen.” Here's what that means.",
+    "url": "https://www.menshealth.com/entertainment/a71592039/disclosure-day-ending-explained-listen/",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/9fafca89-3e91-4617-b630-cab6347e8197.jpg?crop=0.957xw:0.851xh;0xw,0.029xh&resize=1200:*",
+    "source": "menshealth.com",
+    "publishedAt": "2026-06-15T20:16:57Z"
+  },
+  {
     "id": "05dbc300",
     "type": "news",
     "title": "Steven Spielberg admits he's been converted on UFOs, says he believes the believers",
@@ -58,26 +78,6 @@
     "image": "https://variety.com/wp-content/uploads/2026/06/Screen-Shot-2026-06-15-at-9.29.03-AM.png?w=1000&h=563&crop=1",
     "source": "Variety",
     "publishedAt": "2026-06-15T13:38:16Z"
-  },
-  {
-    "id": "146e3072",
-    "type": "news",
-    "title": "Monday: Hili dialogue",
-    "description": "Welcome to another damn week: it’s Monday, June 15, 2025—the Ides of June and also National Megalodon Day, celebrating the largest shark that ever lived. We can only estimate their sixe, but here’s s0me info from Wikiped…",
-    "url": "https://whyevolutionistrue.com/2026/06/15/monday-hili-dialogue-573/",
-    "image": "https://whyevolutionistrue.com/wp-content/uploads/2026/06/d83e6ce2-afdb-4354-9e90-0aa532744d6d.jpg",
-    "source": "Whyevolutionistrue.com",
-    "publishedAt": "2026-06-15T11:45:42Z"
-  },
-  {
-    "id": "43d807fc",
-    "type": "news",
-    "title": "Every Steven Spielberg Movie, Ranked",
-    "description": "Steven Spielberg is one of the greatest filmmakers of all time and certainly the most recognizable and we take a look at his vast and varied resume.",
-    "url": "https://www.thewrap.com/creative-content/movies/best-steven-spielberg-movies-ranked/",
-    "image": "https://www.thewrap.com/wp-content/uploads/2026/06/disclosure-day-emily-blunt-image.jpg",
-    "source": "TheWrap",
-    "publishedAt": "2026-06-15T00:30:00Z"
   },
   {
     "id": "d8f322c1",
@@ -128,135 +128,5 @@
     "image": "https://media.radaronline.com/brand-img/UEVmhPrMQ/1200x628/entagon-files-reveal-four-alleged-alien-races-among-us-1780572473184.jpg",
     "source": "Radaronline.com",
     "publishedAt": "2026-06-06T11:00:00Z"
-  },
-  {
-    "id": "85b9f448",
-    "type": "news",
-    "title": "Glowing 'mother orb' spotted launching swarms of mystery objects near secret US site, new Pentagon files reveal",
-    "description": "The latest batch of UFO files from the Trump administration included a report from federal agents who saw a 'mother orb' launching clusters of smaller mysterious objects.",
-    "url": "https://www.dailymail.com/sciencetech/article-15900975/mother-orb-ufo-cheyenne-mountain-colorado.html",
-    "image": "https://i.dailymail.com/1s/2026/06/15/14/109361449-0-image-m-40_1781528595097.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-06-15T14:15:53Z"
-  },
-  {
-    "id": "cc5420bc",
-    "type": "news",
-    "title": "A UAP Science Advisory Council to the U.S. Government: Keeping Our Eyes on the Orbs, Not the Audience!",
-    "description": "The latest UAP file release includes a new report (accessible here) dated June 5, 2026, signed by Dr. Jon Kosloski, the director of the All-Domain Anomaly Resolution Office (AARO) in the Pentagon, which mentions that dur…",
-    "url": "https://freerepublic.com/focus/f-chat/4383813/posts",
-    "image": "",
-    "source": "Freerepublic.com",
-    "publishedAt": "2026-06-15T11:08:05Z"
-  },
-  {
-    "id": "ae492881",
-    "type": "news",
-    "title": "CIA was 'extraordinarily' evasive with UFO scientist, new US files say",
-    "description": "No bombshells so far in the latest Pentagon batch of declassified Unidentified Anomalous Phenomena files. But they show the CIA hid its involvement.",
-    "url": "https://www.usatoday.com/story/news/politics/2026/06/12/new-ufo-files-declassified-us-cia/90522579007/",
-    "image": "https://s.yimg.com/lo/mysterio/api/93d215ade254f96b5be9ff80e53137cb1da8f1fcb99b573e6f8c199f2e64bbfe/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_news_641%2Fc010b31b68216e5ab80ecef61a723482",
-    "source": "USA Today",
-    "publishedAt": "2026-06-12T17:15:22Z"
-  },
-  {
-    "id": "c178d28d",
-    "type": "news",
-    "title": "EXCLUSIVE: Pentagon Files Reveal Dogfights With UFOs — And Experts Warn Shocking Revelations Are Just Tip of the Alien Invasion Iceberg",
-    "description": "Pentagon files detail UFO dogfights as experts warn alien invasion concerns may be growing.",
-    "url": "https://radaronline.com/p/pentagon-files-ufo-dogfights-alien-invasion-fears/",
-    "image": "https://media.radaronline.com/brand-img/MDObiApYx/1200x628/pentagon-files-ufo-dogfights-alien-invasion-fears-1781080968559.jpg",
-    "source": "Radaronline.com",
-    "publishedAt": "2026-06-13T11:00:00Z"
-  },
-  {
-    "id": "27eba83b",
-    "type": "news",
-    "title": "'Disclosure Day': For Steven Spielberg, aliens are not just fiction",
-    "description": "As the filmmaker releases a new film on extraterrestrials, here's a brief history of modern alien conspiracies and why scientists are now taking UFO reports seriously. Are we alone in this universe? Amid all the unanswer…",
-    "url": "https://www.dw.com/en/disclosure-day-for-steven-spielberg-aliens-are-not-just-fiction/a-77478176",
-    "image": "https://static.dw.com/image/77480113_6.jpg",
-    "source": "DW (English)",
-    "publishedAt": "2026-06-10T09:35:00Z"
-  },
-  {
-    "id": "44f48c87",
-    "type": "news",
-    "title": "'Disclosure Day': For Spielberg, aliens are not just fiction",
-    "description": "As Steven Spielberg releases a new film on extraterrestrials, here's a brief history of modern alien conspiracies and why scientists are now taking UFO reports seriously.",
-    "url": "https://www.dw.com/en/disclosure-day-for-spielberg-aliens-are-not-just-fiction/a-77478176",
-    "image": "https://static.dw.com/image/77480113_6.jpg",
-    "source": "DW (English)",
-    "publishedAt": "2026-06-10T09:35:00Z"
-  },
-  {
-    "id": "d7d75766",
-    "type": "news",
-    "title": "Show HN: Simple news aggregator with source bias meters",
-    "description": "Article URL: https://unbiasthenews.com Comments URL: https://news.ycombinator.com/item?id=48327194 Points: 2 # Comments: 0",
-    "url": "https://unbiasthenews.com",
-    "image": "",
-    "source": "Unbiasthenews.com",
-    "publishedAt": "2026-05-29T18:21:24Z"
-  },
-  {
-    "id": "953dc2eb",
-    "type": "news",
-    "title": "Trying to Wrap Your Head Around UFO 'Disclosure' Under President Trump",
-    "description": "The UFO files released so far are a nothingburger, but Trump has serious power to do more.",
-    "url": "https://www.jezebel.com/trying-to-understand-ufo-disclosure-under-president-trump",
-    "image": "https://img.pastemagazine.com/wp-content/suploads/2025/06/main-Trump-Rubio-Hegseth-Iran-Press-Conference.jpg",
-    "source": "Jezebel",
-    "publishedAt": "2026-06-02T16:08:51Z"
-  },
-  {
-    "id": "5f5ccf44",
-    "type": "news",
-    "title": "The shocking evidence about JFK's death, the CIA and what the president knew about UFOs: It may sound absurd, but I've spent five decades researching UFOs, writes top barrister JONATHAN CAPLAN KC. This is what I've discovered",
-    "description": "When former US Air Force intelligence officer David Grusch gave evidence to the US Congress about the existence of UFOs, one question sent a deep chill through the room.",
-    "url": "https://www.dailymail.com/sciencetech/article-15861899/shocking-evidence-jfk-death-ufo-cia-knew.html",
-    "image": "https://i.dailymail.com/1s/2026/05/31/11/108990789-0-image-m-83_1780224671330.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-05-31T11:04:49Z"
-  },
-  {
-    "id": "7a309715",
-    "type": "news",
-    "title": "Scientists Just Updated the Rules for What Happens When We Find Aliens",
-    "description": "New SETI protocols outline how scientists should verify, share, and respond to potential evidence of alien intelligence in the modern information age.",
-    "url": "https://gizmodo.com/scientists-just-updated-the-rules-for-what-happens-when-we-find-aliens-2000769422",
-    "image": "https://gizmodo.com/app/uploads/2026/06/SETI-Radar-Search-Dish-1200x675.jpg",
-    "source": "Gizmodo.com",
-    "publishedAt": "2026-06-09T14:25:04Z"
-  },
-  {
-    "id": "e7aa2613",
-    "type": "news",
-    "title": "Alien first contact: how the new rules differ from science fiction",
-    "description": "Astronomers should not try to message E.T. before international consultation has occurred.",
-    "url": "https://theconversation.com/alien-first-contact-how-the-new-rules-differ-from-science-fiction-278394",
-    "image": "https://images.theconversation.com/files/739467/original/file-20260602-57-enb7mo.jpg?ixlib=rb-4.1.0&rect=49%2C243%2C1673%2C836&q=45&auto=format&w=1356&h=668&fit=crop",
-    "source": "The Conversation Africa",
-    "publishedAt": "2026-06-08T12:02:07Z"
-  },
-  {
-    "id": "f9f9c6a4",
-    "type": "news",
-    "title": "In 1977, a radio telescope in Ohio called Big Ear picked up a 72-second signal so strong and so cleanly from the direction of Sagittarius that the astronomer on duty circled it in red ink and wrote ‘Wow!’ in the margin, and nearly fifty years later nobody has ever heard it again.",
-    "description": "On August 15, 1977, Ohio's Big Ear telescope recorded a 72-second narrowband signal from Sagittarius so strong its discoverer circled it and wrote 'Wow!' in red ink. Despite decades of searches and a recent Arecibo re-an…",
-    "url": "https://spacedaily.com/sd-in-1977-a-radio-telescope-in-ohio-called-big-ear-picked-up-a-72-second-signal-so-strong-and-so-cleanly-from-the-direction-of-sagittarius-that-the-astronomer-on-duty-circled-it-in-red-ink-and-wrote/",
-    "image": "https://spacedaily.com/wp-content/uploads/2026/06/When-the-SS-Great-Eastern-laid-the-first-working-transatlantic-telegraph-cable-in-1866-1.png",
-    "source": "Space Daily",
-    "publishedAt": "2026-06-08T12:00:03Z"
-  },
-  {
-    "id": "5af32444",
-    "type": "news",
-    "title": "A Brief-ish History of SETI. Part IX: What Have We Found?",
-    "description": "In our final installment in the series, we'll examine all the close calls, possible candidates, and instances in which extraterrestrial signals could not be ruled out",
-    "url": "https://www.universetoday.com/articles/a-brief-ish-history-of-seti-part-ix-what-have-we-found",
-    "image": "https://www.universetoday.com/article_images/ESO_-_The_Milky_Way_panorama_by_20260604_010902.jpg",
-    "source": "Universe Today",
-    "publishedAt": "2026-06-04T01:09:31Z"
   }
 ]
