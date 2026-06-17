@@ -1,5 +1,15 @@
 [
   {
+    "id": "0f105926",
+    "type": "video",
+    "title": "John Lear and Jeremy Corbell, The Higher Reality",
+    "description": "The relationship between John Lear and Jeremy Corbell in the UFO topic is rooted in a generational lineage of investigative ...",
+    "url": "https://www.youtube.com/watch?v=ZEOxYsnNYVI",
+    "image": "https://i.ytimg.com/vi/ZEOxYsnNYVI/hqdefault.jpg",
+    "source": "The Higher Reality",
+    "publishedAt": "2026-06-09T21:25:38Z"
+  },
+  {
     "id": "3bdc3b85",
     "type": "video",
     "title": "BREAKING: Jeremy Corbell Threatens to Release UFO Files if Trump Doesn&#39;t",
@@ -18,16 +28,6 @@
     "image": "https://i.ytimg.com/vi/-XdvIrexF08/hqdefault.jpg",
     "source": "Jesse Michels",
     "publishedAt": "2026-06-07T18:05:02Z"
-  },
-  {
-    "id": "960f6878",
-    "type": "video",
-    "title": "Lue Elizondo LIVE in Los Angeles with Jeremy Corbell &amp; George Knapp",
-    "description": "Shop SAUCER - https://saucerco.com Follow SAUCER: → Instagram - https://www.instagram.com/saucerco/ → TikTok ...",
-    "url": "https://www.youtube.com/watch?v=Wz53KY3SfPg",
-    "image": "https://i.ytimg.com/vi/Wz53KY3SfPg/hqdefault.jpg",
-    "source": "SAUCER",
-    "publishedAt": "2026-06-06T18:56:44Z"
   },
   {
     "id": "642ee1ca",
@@ -160,16 +160,6 @@
     "publishedAt": "2026-05-28T20:00:31Z"
   },
   {
-    "id": "045e7847",
-    "type": "video",
-    "title": "‘Time for President Trump to tell the world’ about UAP and UFOs: Investigative journalist",
-    "description": "On Friday's “Finnerty,” investigative journalist Jeremy Corbell weighed in on the second batch of government UFO files released.",
-    "url": "https://www.youtube.com/watch?v=pP-p_R7LffY",
-    "image": "https://i.ytimg.com/vi/pP-p_R7LffY/hqdefault.jpg",
-    "source": "Newsmax",
-    "publishedAt": "2026-05-23T02:15:11Z"
-  },
-  {
     "id": "fa4bc5eb",
     "type": "video",
     "title": "New UFO videos: Deep analysis with Ross Coulthart | Reality Check",
@@ -178,6 +168,16 @@
     "image": "https://i.ytimg.com/vi/r_xevi3rSQI/hqdefault.jpg",
     "source": "NewsNation",
     "publishedAt": "2026-05-09T03:21:31Z"
+  },
+  {
+    "id": "1dcfaace",
+    "type": "video",
+    "title": "Bob Lazar is back on Rogan &amp; Eric Burlison leads UFO Disclosure investigation - Psicoactivo Live #11",
+    "description": "On a fresh Psicoactivo, we have news of Bob Lazar's return to The Joe Rogan Experience at the same time Luigi Venditelli gave ...",
+    "url": "https://www.youtube.com/watch?v=O8FMw6-SsyI",
+    "image": "https://i.ytimg.com/vi/O8FMw6-SsyI/hqdefault.jpg",
+    "source": "Psicoactivo Podcast",
+    "publishedAt": "2026-03-30T20:10:11Z"
   },
   {
     "id": "33bfecb8",
