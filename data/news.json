@@ -1,5 +1,15 @@
 [
   {
+    "id": "cf483a26",
+    "type": "news",
+    "title": "UFO investigator says Spielberg's 'Disclosure Day' captures truth behind whistleblower testimony",
+    "description": "MUFON investigator says Spielberg's \"Disclosure Day\" mirrors real UFO testimony from David Grusch's Capitol Hill whistleblower hearing on UAPs.",
+    "url": "https://www.foxnews.com/media/ufo-investigator-spielberg-disclosure-day-captures-truth-whistleblower-testimony",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/steven-spielberg-new-york-premiere.jpeg",
+    "source": "Fox News",
+    "publishedAt": "2026-06-16T10:00:24Z"
+  },
+  {
     "id": "0d73b368",
     "type": "news",
     "title": "As 'Disclosure Day' Premieres, Steven Spielberg Says He Believes Aliens Really Have Visited Earth",
@@ -30,14 +40,14 @@
     "publishedAt": "2026-06-13T10:35:01Z"
   },
   {
-    "id": "a0f3b44f",
+    "id": "64f70692",
     "type": "news",
-    "title": "The UFO files the government won't ever release: I've read them all. They fear a full-blown national crisis and destruction of religious faith... but it's time for the REAL disclosure day. Here's what you deserve to know",
-    "description": "One of the biggest names in the UFO disclosure movement says a pivotal moment may be approaching.",
-    "url": "https://www.dailymail.com/sciencetech/article-15883727/ufo-files-government-secrets-corbell-grusch.html",
-    "image": "https://i.dailymail.com/1s/2026/06/10/21/109210757-0-image-m-73_1781121818329.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-06-12T23:32:33Z"
+    "title": "Pentagon files reveal agents' reports of 'orbs launching orbs' near sensitive US security site",
+    "description": "Pentagon records reveal federal agents reported glowing orange orbs releasing smaller red objects near a sensitive national security site in October 2023.",
+    "url": "https://www.foxnews.com/politics/pentagon-files-reveal-agents-reports-orbs-launching-orbs-near-sensitive-us-security-site",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/orbs-dow-fbi.jpg",
+    "source": "Fox News",
+    "publishedAt": "2026-06-16T10:00:20Z"
   },
   {
     "id": "923f8d13",
@@ -60,24 +70,14 @@
     "publishedAt": "2026-06-16T00:19:03Z"
   },
   {
-    "id": "7d7bd941",
+    "id": "a0f3b44f",
     "type": "news",
-    "title": "Let’s Talk About the Ending of DISCLOSURE DAY and Why Spielberg Leaves the Biggest Question Unanswered",
-    "description": "Steven Spielberg’s Disclosure Day spends nearly its entire runtime building toward one question: What happens when the truth of the UFO cover-up finally comes out?The film promises aliens, government secrets, and a world…",
-    "url": "https://geektyrant.com/news/lets-talk-about-the-ending-of-disclosure-day-and-why-spielberg-leaves-the-biggest-question-unanswered",
-    "image": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6a2c30047684c312d273c47f/1781557053791/Let%E2%80%99s+Talk+About+the+Ending+of+DISCLOSURE+DAY+and+Why+It+Left+Me+Wanting+More.jpg?format=1500w",
-    "source": "GeekTyrant",
-    "publishedAt": "2026-06-15T20:57:00Z"
-  },
-  {
-    "id": "7562eafa",
-    "type": "news",
-    "title": "Why Disclosure Day Ends With One Mysterious Word: “Listen”",
-    "description": "At the end of Steven Spielberg’s new movie Disclosure Day, an alien tells Daniel (Josh O’Connor) a message that Margaret (Emily Blunt) then relays as “Listen.” Here's what that means.",
-    "url": "https://www.menshealth.com/entertainment/a71592039/disclosure-day-ending-explained-listen/",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/9fafca89-3e91-4617-b630-cab6347e8197.jpg?crop=0.957xw:0.851xh;0xw,0.029xh&resize=1200:*",
-    "source": "menshealth.com",
-    "publishedAt": "2026-06-15T20:16:57Z"
+    "title": "The UFO files the government won't ever release: I've read them all. They fear a full-blown national crisis and destruction of religious faith... but it's time for the REAL disclosure day. Here's what you deserve to know",
+    "description": "One of the biggest names in the UFO disclosure movement says a pivotal moment may be approaching.",
+    "url": "https://www.dailymail.com/sciencetech/article-15883727/ufo-files-government-secrets-corbell-grusch.html",
+    "image": "https://i.dailymail.com/1s/2026/06/10/21/109210757-0-image-m-73_1781121818329.jpg",
+    "source": "Dailymail.com",
+    "publishedAt": "2026-06-12T23:32:33Z"
   },
   {
     "id": "d8f322c1",
@@ -88,16 +88,6 @@
     "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/06/newspress-collage-a0y35z1t9-1781182350168.jpg?quality=75&strip=all&1781168053&w=1200",
     "source": "Page Six",
     "publishedAt": "2026-06-11T13:45:00Z"
-  },
-  {
-    "id": "092e9623",
-    "type": "news",
-    "title": "What's Behind Steven Spielberg's Lifelong Obsession With Flying Saucers and Extraterrestrial Visitors?",
-    "description": "Half a century after \"Close Encounters of the Third Kind,\" the director returns to the subject of UFOs with \"Disclosure Day.\" His science fiction films are informed by his fascination with alien encounters in American su…",
-    "url": "https://www.smithsonianmag.com/history/whats-behind-steven-spielbergs-lifelong-obsession-with-flying-saucers-and-extraterrestrial-visitors-180988903/",
-    "image": "https://th-thumbnailer.cdn-si-edu.com/O82q9Z0Hmgr-X_zy2l4VeeK2opM=/fit-in/1600x0/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cc/ec/ccecfd31-656c-408b-8007-d7660ca532a7/spielberg.jpg",
-    "source": "Smithsonian.com",
-    "publishedAt": "2026-06-11T11:45:00Z"
   },
   {
     "id": "b595876f",
