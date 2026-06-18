@@ -1,5 +1,15 @@
 [
   {
+    "id": "131beb7a",
+    "type": "news",
+    "title": "Neil deGrasse Tyson dares government to 'just show the alien,' as disclosure fervor continues to grow",
+    "description": "Neil deGrasse Tyson calls on the government to just show the alien, saying Americans are ready for disclosure after years of hearings and UAP files.",
+    "url": "https://www.foxnews.com/media/neil-degrasse-tyson-dares-government-show-alien-disclosure-fervor-continues-grow",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/neil-degrasse-tyson-aliens-fox-news.jpeg",
+    "source": "Fox News",
+    "publishedAt": "2026-06-17T17:10:41Z"
+  },
+  {
     "id": "cf483a26",
     "type": "news",
     "title": "UFO investigator says Spielberg's 'Disclosure Day' captures truth behind whistleblower testimony",
@@ -28,16 +38,6 @@
     "image": "https://i.dailymail.com/1s/2026/06/11/18/109287597-0-image-m-19_1781198654407.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-06-13T14:15:06Z"
-  },
-  {
-    "id": "bd325f54",
-    "type": "news",
-    "title": "Pentagon unveils new batch of UFO files",
-    "description": "The Pentagon has published 72 additional declassified UFO files as part of a transparency initiative launched under a presidential order Read Full Article at RT.com",
-    "url": "https://www.rt.com/news/641490-pentagon-unveils-new-ufo-files/",
-    "image": "https://mf.b37mrtl.ru/files/2026.06/article/6a2d1e3285f5406f246d2a7a.jpg",
-    "source": "RT",
-    "publishedAt": "2026-06-13T10:35:01Z"
   },
   {
     "id": "72dfdaf9",
@@ -70,16 +70,6 @@
     "publishedAt": "2026-06-16T16:16:26Z"
   },
   {
-    "id": "023f20d0",
-    "type": "news",
-    "title": "The Two UFO Incidents at the Heart of Disclosure Day Are Iconic Lore for Believers",
-    "description": "Steven Spielberg’s Disclosure Day draws on two real-world UFO legends for inspiration. Spielberg’s latest blockbuster is as much about human beings as it is about aliens; by the end of Disclosure Day, it’s clear this is …",
-    "url": "http://comicbook.com/uncategorized/feature/the-two-ufo-incidents-at-the-heart-of-disclosure-day-are-iconic-lore-for-believers/",
-    "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/06/Disclosure-Days-Aliens.jpg?resize=2000,1125",
-    "source": "ComicBook.com",
-    "publishedAt": "2026-06-16T13:00:00Z"
-  },
-  {
     "id": "a0f3b44f",
     "type": "news",
     "title": "The UFO files the government won't ever release: I've read them all. They fear a full-blown national crisis and destruction of religious faith... but it's time for the REAL disclosure day. Here's what you deserve to know",
@@ -88,16 +78,6 @@
     "image": "https://i.dailymail.com/1s/2026/06/10/21/109210757-0-image-m-73_1781121818329.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-06-12T23:32:33Z"
-  },
-  {
-    "id": "d8f322c1",
-    "type": "news",
-    "title": "As Steven Spielberg releases ‘Disclosure Day,’ we reveal who Hollywood turns to for alien secrets",
-    "description": "In the half century that has elapsed since the release of Steven Spielberg’s “Close Encounters of the Third Kind” and “Disclosure Day,” which opens today, perception surrounding so-called UAPs (Unidentified Anomalous Phe…",
-    "url": "https://pagesix.com/2026/06/11/hollywood/as-steven-spielberg-releases-disclosure-day-we-reveal-who-hollywood-turns-to-for-alien-secrets/",
-    "image": "https://pagesix.com/wp-content/uploads/sites/3/2026/06/newspress-collage-a0y35z1t9-1781182350168.jpg?quality=75&strip=all&1781168053&w=1200",
-    "source": "Page Six",
-    "publishedAt": "2026-06-11T13:45:00Z"
   },
   {
     "id": "b595876f",
