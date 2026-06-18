@@ -130,16 +130,6 @@
     "publishedAt": "2026-06-03T21:30:06Z"
   },
   {
-    "id": "caf84686",
-    "type": "podcast",
-    "title": "from Ep17  High Strangeness - MUFON  Interview #duet #ufofev #paranormalexpert #uap #strange",
-    "description": "In this episode of 'High Strangeness, the host Interviews a State Director for MUFON. Learn about UAP investigations. Check it out ...",
-    "url": "https://www.youtube.com/watch?v=dH879uYlG54",
-    "image": "https://i.ytimg.com/vi/dH879uYlG54/hqdefault.jpg",
-    "source": "High Strangeness",
-    "publishedAt": "2024-06-11T22:00:21Z"
-  },
-  {
     "id": "d554f94d",
     "type": "podcast",
     "title": "UFO podcast seeing success for parent company Tenderfoot TV",
@@ -148,6 +138,16 @@
     "image": "https://i.ytimg.com/vi/hup3qWCAgRQ/hqdefault.jpg",
     "source": "CBS News",
     "publishedAt": "2023-05-15T15:31:21Z"
+  },
+  {
+    "id": "65f4e198",
+    "type": "podcast",
+    "title": "The UAP Reality - Daz Smith and Joe Murgia Discuss High Strangeness",
+    "description": "This is a July 7, 2022 discussion with Joe Murgia. Joe is a prominent and cutting-edge UAP researcher with a very informative ...",
+    "url": "https://www.youtube.com/watch?v=p-UVj6mWLWw",
+    "image": "https://i.ytimg.com/vi/p-UVj6mWLWw/hqdefault.jpg",
+    "source": "Down The Rabbit Hole",
+    "publishedAt": "2022-07-08T11:45:07Z"
   },
   {
     "id": "74e3ef82",

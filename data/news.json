@@ -1,5 +1,15 @@
 [
   {
+    "id": "4dcb739d",
+    "type": "news",
+    "title": "Neil deGrasse Tyson urges government to just ‘show the alien’ after latest UFO files release",
+    "description": "Astrophysicist and science communicator Neil DeGrasse Tyson, 67, dropped a bombshell and told the government to “show the alien” while speaking on “The Fox News Rundown.\"",
+    "url": "https://nypost.com/2026/06/17/us-news/neil-degrasse-tyson-urges-government-to-just-show-the-alien/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/aliens-comp.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-06-17T21:32:57Z"
+  },
+  {
     "id": "131beb7a",
     "type": "news",
     "title": "Neil deGrasse Tyson dares government to 'just show the alien,' as disclosure fervor continues to grow",
@@ -30,16 +40,6 @@
     "publishedAt": "2026-06-14T20:11:00Z"
   },
   {
-    "id": "11f1c321",
-    "type": "news",
-    "title": "UFO leakers expose disturbing government tactics used to keep America's alien cover-up a secret",
-    "description": "A trio of whistleblowers and witnesses have come forward claiming they paid a steep personal price after speaking out about UFOs they encountered.",
-    "url": "https://www.dailymail.com/sciencetech/article-15892451/ufo-whistleblowers-government-retaliation.html",
-    "image": "https://i.dailymail.com/1s/2026/06/11/18/109287597-0-image-m-19_1781198654407.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-06-13T14:15:06Z"
-  },
-  {
     "id": "72dfdaf9",
     "type": "news",
     "title": "Spielberg said Disclosure Day would shake Christian faith... instead it finally answered the ultimate question about what aliens mean for God, says UFO researcher",
@@ -60,14 +60,14 @@
     "publishedAt": "2026-06-16T19:55:00Z"
   },
   {
-    "id": "0f13eeaa",
+    "id": "11f1c321",
     "type": "news",
-    "title": "Self-proclaimed psychic issues chilling warning after vision of alien abductions at World Cup: 'I saw thousands taken'",
-    "description": "A chilling prediction from a self-proclaimed psychic that could change the world and reveal the existence of alien life is just days away from being put to the test.",
-    "url": "https://www.dailymail.com/sciencetech/article-15904251/vo-bahiana-alien-abduction-world-cup-miami.html",
-    "image": "https://i.dailymail.com/1s/2026/06/16/17/109390705-0-image-a-31_1781626439356.jpg",
+    "title": "UFO leakers expose disturbing government tactics used to keep America's alien cover-up a secret",
+    "description": "A trio of whistleblowers and witnesses have come forward claiming they paid a steep personal price after speaking out about UFOs they encountered.",
+    "url": "https://www.dailymail.com/sciencetech/article-15892451/ufo-whistleblowers-government-retaliation.html",
+    "image": "https://i.dailymail.com/1s/2026/06/11/18/109287597-0-image-m-19_1781198654407.jpg",
     "source": "Dailymail.com",
-    "publishedAt": "2026-06-16T16:16:26Z"
+    "publishedAt": "2026-06-13T14:15:06Z"
   },
   {
     "id": "a0f3b44f",
