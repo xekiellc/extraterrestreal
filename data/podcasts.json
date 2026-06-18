@@ -30,6 +30,16 @@
     "publishedAt": "2026-03-24T21:30:06Z"
   },
   {
+    "id": "310fa45c",
+    "type": "podcast",
+    "title": "UFOs and UAP in the UK - UFO EDITION 01",
+    "description": "DEAD HAND RADIO is a podcast about the Cold War. It's history and the effects it had on our culture, technology and the future of ...",
+    "url": "https://www.youtube.com/watch?v=q29PJKmF1Og",
+    "image": "https://i.ytimg.com/vi/q29PJKmF1Og/hqdefault.jpg",
+    "source": "Andrew Hall Studio",
+    "publishedAt": "2026-06-18T05:50:07Z"
+  },
+  {
     "id": "fa25c4e4",
     "type": "podcast",
     "title": "Andy McGrillen on a possible Trump Executive Order &amp; Catastrophic Disclosure - Psicoactivo Live #31",
@@ -48,16 +58,6 @@
     "image": "https://i.ytimg.com/vi/PzHdga4xFrc/hqdefault.jpg",
     "source": "Psicoactivo Podcast",
     "publishedAt": "2026-05-22T20:26:09Z"
-  },
-  {
-    "id": "868e6910",
-    "type": "podcast",
-    "title": "Doomer Friday: Andy from That UFO Podcast joins us to discuss the latest - Psicoactivo Live #22",
-    "description": "On a very special Doomer Friday, we have Andy McGrillen on deck. The host of That UFO Podcast joins the crew for the first time ...",
-    "url": "https://www.youtube.com/watch?v=lCS6R_HKHMU",
-    "image": "https://i.ytimg.com/vi/lCS6R_HKHMU/hqdefault.jpg",
-    "source": "Psicoactivo Podcast",
-    "publishedAt": "2026-05-01T19:31:10Z"
   },
   {
     "id": "fc6c0df7",
@@ -88,6 +88,36 @@
     "image": "https://i.ytimg.com/vi/71L-6d4wHW0/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-06-15T13:00:06Z"
+  },
+  {
+    "id": "2669403b",
+    "type": "podcast",
+    "title": "Ep. 2319 Clyde Lewis: Clyde on F2B!",
+    "description": "Tonight, Tuesday on FADE to BLACK: Is the greatest UFO psy-op really coming from governments—or from religious fear ...",
+    "url": "https://www.youtube.com/watch?v=CUnoufRiMrk",
+    "image": "https://i.ytimg.com/vi/CUnoufRiMrk/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-06-17T04:09:58Z"
+  },
+  {
+    "id": "63d9d66c",
+    "type": "podcast",
+    "title": "Ep. 2314 Dean Alioto: The Experiencers: Full Disclosure",
+    "description": "Tonight, Monday on FADE to BLACK: Filmmaker Dean Alioto—creator of the cult classic The McPherson Tape—returns with The ...",
+    "url": "https://www.youtube.com/watch?v=2iDgFjkRbGI",
+    "image": "https://i.ytimg.com/vi/2iDgFjkRbGI/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-06-09T04:08:35Z"
+  },
+  {
+    "id": "fb58327c",
+    "type": "podcast",
+    "title": "Ep. 2313 James Keenan: Skinwalker Ranch",
+    "description": "Tonight, Thursday on FADE to BLACK: James Keenan explores the unexplained phenomena spanning ancient history to modern ...",
+    "url": "https://www.youtube.com/watch?v=lFAnIxl_hTg",
+    "image": "https://i.ytimg.com/vi/lFAnIxl_hTg/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-05-22T04:08:27Z"
   },
   {
     "id": "a4727c28",
@@ -168,15 +198,5 @@
     "image": "https://i.ytimg.com/vi/60w_dbBY2N0/hqdefault.jpg",
     "source": "NPDclips",
     "publishedAt": "2026-05-15T00:28:19Z"
-  },
-  {
-    "id": "44f1a5cd",
-    "type": "podcast",
-    "title": "UFO Disclosure Has Started w/ Jeremy Corbell on Sleeping Dog | Shane Smith Has Questions",
-    "description": "After the latest U.S. government release of UAP/UFO files, filmmaker and investigative journalist Jeremy Corbell returns to Shane ...",
-    "url": "https://www.youtube.com/watch?v=t-UgoLo-oV8",
-    "image": "https://i.ytimg.com/vi/t-UgoLo-oV8/hqdefault.jpg",
-    "source": "VICE News",
-    "publishedAt": "2026-05-14T16:01:33Z"
   }
 ]
