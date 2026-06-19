@@ -1,5 +1,25 @@
 [
   {
+    "id": "1b7fffd3",
+    "type": "news",
+    "title": "UFO whistleblowers expose government retaliation in secret war against disclosure",
+    "description": "Dylan Borland, a former Air Force geospatial intelligence specialist, claims his career was ruined after reporting a 100-foot triangular craft in 2012, citing phishing attacks, blacklisting and threats against his family…",
+    "url": "https://www.naturalnews.com/2026-06-18-government-retaliation-secret-war-against-ufo-disclosure.html",
+    "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/what-are-ufos-1.jpg",
+    "source": "Naturalnews.com",
+    "publishedAt": "2026-06-18T06:00:00Z"
+  },
+  {
+    "id": "9693894e",
+    "type": "news",
+    "title": "Newly released UFO files allege China, Russia retrieved downed UAPs — and attempted to reverse-engineer them: expert",
+    "description": "\"This is a global phenomenon, and it's really a race to see who can reverse engineer this first, and it has extreme national security implications that we really need to get our hands around.\"",
+    "url": "https://nypost.com/2026/06/18/us-news/newly-released-ufo-files-allege-china-and-russia-retrieved-downed-uaps-and-attempted-to-reverse-engineer-them/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/newspress-collage-gimmj4lxx-1781760770556.jpg?quality=75&strip=all&1781746424&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-06-18T05:49:07Z"
+  },
+  {
     "id": "3fe51e57",
     "type": "news",
     "title": "Renowned scientist Neil deGrasse Tyson tells US government to 'Show the alien!' after latest UFO disclosure",
@@ -30,16 +50,6 @@
     "publishedAt": "2026-06-17T17:10:41Z"
   },
   {
-    "id": "cf483a26",
-    "type": "news",
-    "title": "UFO investigator says Spielberg's 'Disclosure Day' captures truth behind whistleblower testimony",
-    "description": "MUFON investigator says Spielberg's \"Disclosure Day\" mirrors real UFO testimony from David Grusch's Capitol Hill whistleblower hearing on UAPs.",
-    "url": "https://www.foxnews.com/media/ufo-investigator-spielberg-disclosure-day-captures-truth-whistleblower-testimony",
-    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/steven-spielberg-new-york-premiere.jpeg",
-    "source": "Fox News",
-    "publishedAt": "2026-06-16T10:00:24Z"
-  },
-  {
     "id": "72dfdaf9",
     "type": "news",
     "title": "Spielberg said Disclosure Day would shake Christian faith... instead it finally answered the ultimate question about what aliens mean for God, says UFO researcher",
@@ -48,6 +58,16 @@
     "image": "https://i.dailymail.com/1s/2026/06/16/21/109391815-0-image-m-32_1781641487195.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-06-16T23:26:50Z"
+  },
+  {
+    "id": "cf483a26",
+    "type": "news",
+    "title": "UFO investigator says Spielberg's 'Disclosure Day' captures truth behind whistleblower testimony",
+    "description": "MUFON investigator says Spielberg's \"Disclosure Day\" mirrors real UFO testimony from David Grusch's Capitol Hill whistleblower hearing on UAPs.",
+    "url": "https://www.foxnews.com/media/ufo-investigator-spielberg-disclosure-day-captures-truth-whistleblower-testimony",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/steven-spielberg-new-york-premiere.jpeg",
+    "source": "Fox News",
+    "publishedAt": "2026-06-16T10:00:24Z"
   },
   {
     "id": "11f1c321",
