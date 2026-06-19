@@ -1,5 +1,15 @@
 [
   {
+    "id": "8893d93a",
+    "type": "video",
+    "title": "NHI Extracting Our Souls - Whitley Strieber on 70 Years Of Contact",
+    "description": "Public interest in UFO and ET matters has never been higher than it is right now. The primary focus of those who are demanding ...",
+    "url": "https://www.youtube.com/watch?v=YiNznVZ5ciY",
+    "image": "https://i.ytimg.com/vi/YiNznVZ5ciY/hqdefault.jpg",
+    "source": "Jeremy Corbell",
+    "publishedAt": "2026-06-19T00:00:06Z"
+  },
+  {
     "id": "702191bc",
     "type": "video",
     "title": "“THEY WERE EXTRACTING THE SOUL LIKE AN OYSTER FROM ITS SHELL”",
@@ -8,16 +18,6 @@
     "image": "https://i.ytimg.com/vi/O6dzUSQBSW4/hqdefault.jpg",
     "source": "Jeremy Corbell",
     "publishedAt": "2026-06-18T21:33:08Z"
-  },
-  {
-    "id": "8893d93a",
-    "type": "video",
-    "title": "NHI Extracting Our Souls - Whitley Strieber on 70 Years Of Contact",
-    "description": "Public interest in UFO and ET matters has never been higher than it is right now. The primary focus of those who are demanding ...",
-    "url": "https://www.youtube.com/watch?v=YiNznVZ5ciY",
-    "image": "https://i.ytimg.com/vi/YiNznVZ5ciY/hqdefault_live.jpg",
-    "source": "Jeremy Corbell",
-    "publishedAt": "2026-06-18T16:28:32Z"
   },
   {
     "id": "0f105926",
@@ -35,7 +35,7 @@
     "title": "Watergate, the JFK assassination and a UFO secret at the center of it all | Reality Check",
     "description": "Jonathan Caplan KC, a veteran British barrister and King's Counsel, joins Ross Coulthart this week for \"Reality Check\" with Ross ...",
     "url": "https://www.youtube.com/watch?v=PeULVsP-jEQ",
-    "image": "https://i.ytimg.com/vi/PeULVsP-jEQ/hqdefault_live.jpg",
+    "image": "https://i.ytimg.com/vi/PeULVsP-jEQ/hqdefault.jpg",
     "source": "NewsNation",
     "publishedAt": "2026-06-18T21:30:06Z"
   },
@@ -122,7 +122,7 @@
   {
     "id": "687a7cf8",
     "type": "video",
-    "title": "How Rogue Programs Down UFOs  | Dr. Steven Greer",
+    "title": "Last Warning From Extraterrestrial Allies | Dr. Steven Greer",
     "description": "Dr. Steven Greer outlines an urgent disclosure timeline and the practical roadmap for releasing suppressed technologies, ...",
     "url": "https://www.youtube.com/watch?v=SRci_UDJNWg",
     "image": "https://i.ytimg.com/vi/SRci_UDJNWg/hqdefault.jpg",
@@ -140,44 +140,14 @@
     "publishedAt": "2026-06-12T16:00:07Z"
   },
   {
-    "id": "22e47e7b",
+    "id": "640a0626",
     "type": "video",
-    "title": "The Dr. Steven Greer Podcast - Episode 21",
-    "description": "In this episode, Dr. Greer discusses key points from the Spielberg film Disclosure Day and also his upcoming CE5 event in July.",
-    "url": "https://www.youtube.com/watch?v=jjDZjBtLqm8",
-    "image": "https://i.ytimg.com/vi/jjDZjBtLqm8/hqdefault.jpg",
-    "source": "Dr. Steven Greer",
-    "publishedAt": "2026-06-11T21:34:04Z"
-  },
-  {
-    "id": "023fd830",
-    "type": "video",
-    "title": "UFO Reverse Engineering, Crash Retrievals, and the Pentagon’s New Files | UAP Gerb",
-    "description": "John Michael Godier is joined by @UAPGerb to discuss the Pentagon's latest UAP document and video releases, including ...",
-    "url": "https://www.youtube.com/watch?v=ecEY2xNFzPw",
-    "image": "https://i.ytimg.com/vi/ecEY2xNFzPw/hqdefault.jpg",
-    "source": "Event Horizon",
-    "publishedAt": "2026-05-28T20:00:31Z"
-  },
-  {
-    "id": "045e7847",
-    "type": "video",
-    "title": "‘Time for President Trump to tell the world’ about UAP and UFOs: Investigative journalist",
-    "description": "On Friday's “Finnerty,” investigative journalist Jeremy Corbell weighed in on the second batch of government UFO files released.",
-    "url": "https://www.youtube.com/watch?v=pP-p_R7LffY",
-    "image": "https://i.ytimg.com/vi/pP-p_R7LffY/hqdefault.jpg",
-    "source": "Newsmax",
-    "publishedAt": "2026-05-23T02:15:11Z"
-  },
-  {
-    "id": "fa4bc5eb",
-    "type": "video",
-    "title": "New UFO videos: Deep analysis with Ross Coulthart | Reality Check",
-    "description": "The Pentagon has begun releasing the so-called \"UFO files,\" which contain never-before-seen documents, photos and videos ...",
-    "url": "https://www.youtube.com/watch?v=r_xevi3rSQI",
-    "image": "https://i.ytimg.com/vi/r_xevi3rSQI/hqdefault.jpg",
-    "source": "NewsNation",
-    "publishedAt": "2026-05-09T03:21:31Z"
+    "title": "Dr. Steven Greer on Suppressed Anti-Gravity Technology",
+    "description": "Think you're looking at ET? Dr. Steven Greer drops a massive reality check: 80% of what we think are alien spaceships are ...",
+    "url": "https://www.youtube.com/watch?v=wa5weq7iBO0",
+    "image": "https://i.ytimg.com/vi/wa5weq7iBO0/hqdefault.jpg",
+    "source": "Gaia",
+    "publishedAt": "2026-06-12T03:45:01Z"
   },
   {
     "id": "33bfecb8",
@@ -238,5 +208,35 @@
     "image": "https://i.ytimg.com/vi/4m9_URZzjLM/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2024-07-10T13:00:07Z"
+  },
+  {
+    "id": "b22d0d7e",
+    "type": "video",
+    "title": "BOMBSHELL: David Grusch&#39;s Shocking New Confession",
+    "description": "Watch Vetted's 'PSIONICS' Documentary: https://www.psionics.film Patrick discusses bombshell revelation from UFO ...",
+    "url": "https://www.youtube.com/watch?v=T5UUQPIcJJM",
+    "image": "https://i.ytimg.com/vi/T5UUQPIcJJM/hqdefault.jpg",
+    "source": "VETTED",
+    "publishedAt": "2026-06-15T02:05:41Z"
+  },
+  {
+    "id": "0a8c6cda",
+    "type": "video",
+    "title": "I’m seeing ‘good signs’ in the Trump administration’s UFO file initiative, whistleblower says",
+    "description": "UAP whistleblower and former Air Force intelligence officer David Grusch describes what he has seen and addresses skeptics on ...",
+    "url": "https://www.youtube.com/watch?v=-4pSVnCt_bw",
+    "image": "https://i.ytimg.com/vi/-4pSVnCt_bw/hqdefault.jpg",
+    "source": "Fox News",
+    "publishedAt": "2026-06-14T01:00:26Z"
+  },
+  {
+    "id": "702d7a7f",
+    "type": "video",
+    "title": "UAP disclosure: Whistleblower David Grusch has pushed for transparency | NewsNation Prime",
+    "description": "Investigative journalist Ross Coulthart re-introduces us to David Grusch, a former Air Force officer who has been credited with ...",
+    "url": "https://www.youtube.com/watch?v=DqOyfWLEwPQ",
+    "image": "https://i.ytimg.com/vi/DqOyfWLEwPQ/hqdefault.jpg",
+    "source": "NewsNation",
+    "publishedAt": "2026-06-14T00:33:13Z"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "id": "3fe51e57",
+    "type": "news",
+    "title": "Renowned scientist Neil deGrasse Tyson tells US government to 'Show the alien!' after latest UFO disclosure",
+    "description": "Astrophysicist Neil deGrasse Tyson, 67, explained how any alien visitor from another planet would likely look very different from humans and may not even share the same DNA structure.",
+    "url": "https://www.dailymail.com/sciencetech/article-15909475/neil-degrasse-tyson-government-ufo-disclosure.html",
+    "image": "https://i.dailymail.com/1s/2026/06/18/01/109428751-0-image-a-23_1781743847062.jpg",
+    "source": "Dailymail.com",
+    "publishedAt": "2026-06-18T01:08:07Z"
+  },
+  {
     "id": "4dcb739d",
     "type": "news",
     "title": "Neil deGrasse Tyson urges government to just ‘show the alien’ after latest UFO files release",
@@ -30,16 +40,6 @@
     "publishedAt": "2026-06-16T10:00:24Z"
   },
   {
-    "id": "0d73b368",
-    "type": "news",
-    "title": "As 'Disclosure Day' Premieres, Steven Spielberg Says He Believes Aliens Really Have Visited Earth",
-    "description": "Steven Spielberg grants that his 1977 UFO film Close Encounters was \"speculative,\" writes the Associated Press, but \"Disclosure Day, he insists, is the real deal.\" \"It's my first film that will be considered science fict…",
-    "url": "https://entertainment.slashdot.org/story/26/06/14/208255/as-disclosure-day-premieres-steven-spielberg-says-he-believes-aliens-really-have-visited-earth",
-    "image": "https://a.fsdn.com/sd/topics/scifi_64.png",
-    "source": "Slashdot.org",
-    "publishedAt": "2026-06-14T20:11:00Z"
-  },
-  {
     "id": "72dfdaf9",
     "type": "news",
     "title": "Spielberg said Disclosure Day would shake Christian faith... instead it finally answered the ultimate question about what aliens mean for God, says UFO researcher",
@@ -48,16 +48,6 @@
     "image": "https://i.dailymail.com/1s/2026/06/16/21/109391815-0-image-m-32_1781641487195.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-06-16T23:26:50Z"
-  },
-  {
-    "id": "679b5f83",
-    "type": "news",
-    "title": "Everything That Makes Zero Sense in Steven Spielberg’s DISCLOSURE DAY",
-    "description": "When I first watched Disclosure Day, I walked away feeling entertained but somewhat underwhelmed. After sitting with it for a few days and revisiting the film, a different issue started creeping into my mind. The more I …",
-    "url": "https://geektyrant.com/news/everything-that-makes-zero-sense-in-steven-spielbergs-disclosure-day",
-    "image": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6a2f6e10bc98c75a3182200c/1781639704011/Everything+That+Makes+ZERO+Sense+in+Steven+Spielberg%E2%80%99s+DISCLOSURE+DAY.jpg?format=1500w",
-    "source": "GeekTyrant",
-    "publishedAt": "2026-06-16T19:55:00Z"
   },
   {
     "id": "11f1c321",
