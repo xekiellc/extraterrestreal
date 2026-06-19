@@ -30,6 +30,16 @@
     "publishedAt": "2026-03-24T21:30:06Z"
   },
   {
+    "id": "310fa45c",
+    "type": "podcast",
+    "title": "UFOs and UAP in the UK - UFO EDITION 01",
+    "description": "DEAD HAND RADIO is a podcast about the Cold War. It's history and the effects it had on our culture, technology and the future of ...",
+    "url": "https://www.youtube.com/watch?v=q29PJKmF1Og",
+    "image": "https://i.ytimg.com/vi/q29PJKmF1Og/hqdefault.jpg",
+    "source": "Andrew Hall Studio",
+    "publishedAt": "2026-06-18T05:50:07Z"
+  },
+  {
     "id": "fa25c4e4",
     "type": "podcast",
     "title": "Andy McGrillen on a possible Trump Executive Order &amp; Catastrophic Disclosure - Psicoactivo Live #31",
@@ -48,16 +58,6 @@
     "image": "https://i.ytimg.com/vi/PzHdga4xFrc/hqdefault.jpg",
     "source": "Psicoactivo Podcast",
     "publishedAt": "2026-05-22T20:26:09Z"
-  },
-  {
-    "id": "868e6910",
-    "type": "podcast",
-    "title": "Doomer Friday: Andy from That UFO Podcast joins us to discuss the latest - Psicoactivo Live #22",
-    "description": "On a very special Doomer Friday, we have Andy McGrillen on deck. The host of That UFO Podcast joins the crew for the first time ...",
-    "url": "https://www.youtube.com/watch?v=lCS6R_HKHMU",
-    "image": "https://i.ytimg.com/vi/lCS6R_HKHMU/hqdefault.jpg",
-    "source": "Psicoactivo Podcast",
-    "publishedAt": "2026-05-01T19:31:10Z"
   },
   {
     "id": "fc6c0df7",
@@ -120,26 +120,6 @@
     "publishedAt": "2026-05-22T04:08:27Z"
   },
   {
-    "id": "a4727c28",
-    "type": "podcast",
-    "title": "A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups",
-    "description": "Payne Lindsey is an investigative filmmaker and podcaster known for hosting hit the true crime series including “Up and ...",
-    "url": "https://www.youtube.com/watch?v=bmJ2Eg9YDK4",
-    "image": "https://i.ytimg.com/vi/bmJ2Eg9YDK4/hqdefault.jpg",
-    "source": "IRONCLAD",
-    "publishedAt": "2026-06-03T21:30:06Z"
-  },
-  {
-    "id": "d554f94d",
-    "type": "podcast",
-    "title": "UFO podcast seeing success for parent company Tenderfoot TV",
-    "description": "Media company Tenderfoot TV is seeing success with the launch of \"High Strange,\" a podcast that focuses on UFOs. Tenderfoot ...",
-    "url": "https://www.youtube.com/watch?v=hup3qWCAgRQ",
-    "image": "https://i.ytimg.com/vi/hup3qWCAgRQ/hqdefault.jpg",
-    "source": "CBS News",
-    "publishedAt": "2023-05-15T15:31:21Z"
-  },
-  {
     "id": "65f4e198",
     "type": "podcast",
     "title": "The UAP Reality - Daz Smith and Joe Murgia Discuss High Strangeness",
@@ -198,5 +178,15 @@
     "image": "https://i.ytimg.com/vi/60w_dbBY2N0/hqdefault.jpg",
     "source": "NPDclips",
     "publishedAt": "2026-05-15T00:28:19Z"
+  },
+  {
+    "id": "44f1a5cd",
+    "type": "podcast",
+    "title": "UFO Disclosure Has Started w/ Jeremy Corbell on Sleeping Dog | Shane Smith Has Questions",
+    "description": "After the latest U.S. government release of UAP/UFO files, filmmaker and investigative journalist Jeremy Corbell returns to Shane ...",
+    "url": "https://www.youtube.com/watch?v=t-UgoLo-oV8",
+    "image": "https://i.ytimg.com/vi/t-UgoLo-oV8/hqdefault.jpg",
+    "source": "VICE News",
+    "publishedAt": "2026-05-14T16:01:33Z"
   }
 ]
