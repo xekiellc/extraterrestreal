@@ -30,16 +30,6 @@
     "publishedAt": "2026-03-24T21:30:06Z"
   },
   {
-    "id": "310fa45c",
-    "type": "podcast",
-    "title": "UFOs and UAP in the UK - UFO EDITION 01",
-    "description": "DEAD HAND RADIO is a podcast about the Cold War. It's history and the effects it had on our culture, technology and the future of ...",
-    "url": "https://www.youtube.com/watch?v=q29PJKmF1Og",
-    "image": "https://i.ytimg.com/vi/q29PJKmF1Og/hqdefault.jpg",
-    "source": "Andrew Hall Studio",
-    "publishedAt": "2026-06-18T05:50:07Z"
-  },
-  {
     "id": "fa25c4e4",
     "type": "podcast",
     "title": "Andy McGrillen on a possible Trump Executive Order &amp; Catastrophic Disclosure - Psicoactivo Live #31",
@@ -58,6 +48,16 @@
     "image": "https://i.ytimg.com/vi/PzHdga4xFrc/hqdefault.jpg",
     "source": "Psicoactivo Podcast",
     "publishedAt": "2026-05-22T20:26:09Z"
+  },
+  {
+    "id": "868e6910",
+    "type": "podcast",
+    "title": "Doomer Friday: Andy from That UFO Podcast joins us to discuss the latest - Psicoactivo Live #22",
+    "description": "On a very special Doomer Friday, we have Andy McGrillen on deck. The host of That UFO Podcast joins the crew for the first time ...",
+    "url": "https://www.youtube.com/watch?v=lCS6R_HKHMU",
+    "image": "https://i.ytimg.com/vi/lCS6R_HKHMU/hqdefault.jpg",
+    "source": "Psicoactivo Podcast",
+    "publishedAt": "2026-05-01T19:31:10Z"
   },
   {
     "id": "fc6c0df7",
