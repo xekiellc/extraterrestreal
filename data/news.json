@@ -40,6 +40,26 @@
     "publishedAt": "2026-06-17T21:32:57Z"
   },
   {
+    "id": "37fec75c",
+    "type": "news",
+    "title": "Sugar Season 2 Review: Colin Farrell Shines In Apple TV's Best Detective Series",
+    "description": "Sugar returns on Apple TV with Colin Farrell delivering another fantastic lead performance as the highly charismatic and silky smooth private eye.",
+    "url": "https://screenrant.com/sugar-season-2-review/",
+    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/colin-farrell-in-sugar-season-2.jpg?w=1600&h=900&fit=crop",
+    "source": "Screen Rant",
+    "publishedAt": "2026-06-19T10:00:27Z"
+  },
+  {
+    "id": "b4b7914e",
+    "type": "news",
+    "title": "Why Is Everyone Obsessed with UFOs Right Now?",
+    "description": "The craze is seizing the big screen, the White House, the New York gallery scene—from Disclosure days to shows by Eliza Douglas and Chloe Wise",
+    "url": "https://www.artnews.com/art-in-america/columns/ufo-obsession-speilberg-disclosure-days-chloe-wise-karla-knight-eliza-douglas-thandi-loewenson-1234789581/",
+    "image": "",
+    "source": "ARTnews",
+    "publishedAt": "2026-06-19T09:00:00Z"
+  },
+  {
     "id": "1accaaa8",
     "type": "news",
     "title": "Critical Thinking Tips for Close Encounters With UFO Claims",
@@ -58,16 +78,6 @@
     "image": "https://www.thewrap.com/wp-content/uploads/2026/06/Courteney-Grace-Disclosure-Day.jpg",
     "source": "TheWrap",
     "publishedAt": "2026-06-18T22:53:42Z"
-  },
-  {
-    "id": "58adab12",
-    "type": "news",
-    "title": "Steven Spielberg finally answers whether ET is slimy or dry",
-    "description": "Director laughed at the ‘wild’ question and said he had never been asked it before",
-    "url": "https://www.the-independent.com/arts-entertainment/films/news/steven-spielberg-et-slimy-dry-b2998532.html",
-    "image": "https://static.the-independent.com/2026/05/15/11/34/JIN18808895.jpeg?trim=0,807,2264,7&width=1200&height=800&crop=1200:800",
-    "source": "The-independent.com",
-    "publishedAt": "2026-06-18T17:33:59Z"
   },
   {
     "id": "131beb7a",
@@ -138,135 +148,5 @@
     "image": "https://media.radaronline.com/brand-img/UEVmhPrMQ/1200x628/entagon-files-reveal-four-alleged-alien-races-among-us-1780572473184.jpg",
     "source": "Radaronline.com",
     "publishedAt": "2026-06-06T11:00:00Z"
-  },
-  {
-    "id": "83f8a397",
-    "type": "news",
-    "title": "White House Forms Advisory Council To Study UFO Orbs And Other Military Sightings",
-    "description": "The White House has formed a new Science Advisory Council led by astrophysicist Avi Loeb to study UFO orbs and other military sightings. “Over the past week, I was tasked by the above organizations to create a research t…",
-    "url": "https://brobible.com/sports/article/white-house-advisory-council-ufo-orbs-military-sightings/",
-    "image": "https://brobible.com/wp-content/uploads/2026/06/ufo-orb.jpg",
-    "source": "BroBible",
-    "publishedAt": "2026-06-17T14:29:31Z"
-  },
-  {
-    "id": "85b9f448",
-    "type": "news",
-    "title": "Glowing 'mother orb' spotted launching swarms of mystery objects near secret US site, new Pentagon files reveal",
-    "description": "The latest batch of UFO files from the Trump administration included a report from federal agents who saw a 'mother orb' launching clusters of smaller mysterious objects.",
-    "url": "https://www.dailymail.com/sciencetech/article-15900975/mother-orb-ufo-cheyenne-mountain-colorado.html",
-    "image": "https://i.dailymail.com/1s/2026/06/15/14/109361449-0-image-m-40_1781528595097.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-06-15T14:15:53Z"
-  },
-  {
-    "id": "cc5420bc",
-    "type": "news",
-    "title": "A UAP Science Advisory Council to the U.S. Government: Keeping Our Eyes on the Orbs, Not the Audience!",
-    "description": "The latest UAP file release includes a new report (accessible here) dated June 5, 2026, signed by Dr. Jon Kosloski, the director of the All-Domain Anomaly Resolution Office (AARO) in the Pentagon, which mentions that dur…",
-    "url": "https://freerepublic.com/focus/f-chat/4383813/posts",
-    "image": "",
-    "source": "Freerepublic.com",
-    "publishedAt": "2026-06-15T11:08:05Z"
-  },
-  {
-    "id": "c178d28d",
-    "type": "news",
-    "title": "EXCLUSIVE: Pentagon Files Reveal Dogfights With UFOs — And Experts Warn Shocking Revelations Are Just Tip of the Alien Invasion Iceberg",
-    "description": "Pentagon files detail UFO dogfights as experts warn alien invasion concerns may be growing.",
-    "url": "https://radaronline.com/p/pentagon-files-ufo-dogfights-alien-invasion-fears/",
-    "image": "https://media.radaronline.com/brand-img/MDObiApYx/1200x628/pentagon-files-ufo-dogfights-alien-invasion-fears-1781080968559.jpg",
-    "source": "Radaronline.com",
-    "publishedAt": "2026-06-13T11:00:00Z"
-  },
-  {
-    "id": "27eba83b",
-    "type": "news",
-    "title": "'Disclosure Day': For Steven Spielberg, aliens are not just fiction",
-    "description": "As the filmmaker releases a new film on extraterrestrials, here's a brief history of modern alien conspiracies and why scientists are now taking UFO reports seriously. Are we alone in this universe? Amid all the unanswer…",
-    "url": "https://www.dw.com/en/disclosure-day-for-steven-spielberg-aliens-are-not-just-fiction/a-77478176",
-    "image": "https://static.dw.com/image/77480113_6.jpg",
-    "source": "DW (English)",
-    "publishedAt": "2026-06-10T09:35:00Z"
-  },
-  {
-    "id": "44f48c87",
-    "type": "news",
-    "title": "'Disclosure Day': For Spielberg, aliens are not just fiction",
-    "description": "As Steven Spielberg releases a new film on extraterrestrials, here's a brief history of modern alien conspiracies and why scientists are now taking UFO reports seriously.",
-    "url": "https://www.dw.com/en/disclosure-day-for-spielberg-aliens-are-not-just-fiction/a-77478176",
-    "image": "https://static.dw.com/image/77480113_6.jpg",
-    "source": "DW (English)",
-    "publishedAt": "2026-06-10T09:35:00Z"
-  },
-  {
-    "id": "d7d75766",
-    "type": "news",
-    "title": "Show HN: Simple news aggregator with source bias meters",
-    "description": "Article URL: https://unbiasthenews.com Comments URL: https://news.ycombinator.com/item?id=48327194 Points: 2 # Comments: 0",
-    "url": "https://unbiasthenews.com",
-    "image": "",
-    "source": "Unbiasthenews.com",
-    "publishedAt": "2026-05-29T18:21:24Z"
-  },
-  {
-    "id": "953dc2eb",
-    "type": "news",
-    "title": "Trying to Wrap Your Head Around UFO 'Disclosure' Under President Trump",
-    "description": "The UFO files released so far are a nothingburger, but Trump has serious power to do more.",
-    "url": "https://www.jezebel.com/trying-to-understand-ufo-disclosure-under-president-trump",
-    "image": "https://img.pastemagazine.com/wp-content/suploads/2025/06/main-Trump-Rubio-Hegseth-Iran-Press-Conference.jpg",
-    "source": "Jezebel",
-    "publishedAt": "2026-06-02T16:08:51Z"
-  },
-  {
-    "id": "5f5ccf44",
-    "type": "news",
-    "title": "The shocking evidence about JFK's death, the CIA and what the president knew about UFOs: It may sound absurd, but I've spent five decades researching UFOs, writes top barrister JONATHAN CAPLAN KC. This is what I've discovered",
-    "description": "When former US Air Force intelligence officer David Grusch gave evidence to the US Congress about the existence of UFOs, one question sent a deep chill through the room.",
-    "url": "https://www.dailymail.com/sciencetech/article-15861899/shocking-evidence-jfk-death-ufo-cia-knew.html",
-    "image": "https://i.dailymail.com/1s/2026/05/31/11/108990789-0-image-m-83_1780224671330.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-05-31T11:04:49Z"
-  },
-  {
-    "id": "7a309715",
-    "type": "news",
-    "title": "Scientists Just Updated the Rules for What Happens When We Find Aliens",
-    "description": "New SETI protocols outline how scientists should verify, share, and respond to potential evidence of alien intelligence in the modern information age.",
-    "url": "https://gizmodo.com/scientists-just-updated-the-rules-for-what-happens-when-we-find-aliens-2000769422",
-    "image": "https://gizmodo.com/app/uploads/2026/06/SETI-Radar-Search-Dish-1200x675.jpg",
-    "source": "Gizmodo.com",
-    "publishedAt": "2026-06-09T14:25:04Z"
-  },
-  {
-    "id": "e7aa2613",
-    "type": "news",
-    "title": "Alien first contact: how the new rules differ from science fiction",
-    "description": "Astronomers should not try to message E.T. before international consultation has occurred.",
-    "url": "https://theconversation.com/alien-first-contact-how-the-new-rules-differ-from-science-fiction-278394",
-    "image": "https://images.theconversation.com/files/739467/original/file-20260602-57-enb7mo.jpg?ixlib=rb-4.1.0&rect=49%2C243%2C1673%2C836&q=45&auto=format&w=1356&h=668&fit=crop",
-    "source": "The Conversation Africa",
-    "publishedAt": "2026-06-08T12:02:07Z"
-  },
-  {
-    "id": "f9f9c6a4",
-    "type": "news",
-    "title": "In 1977, a radio telescope in Ohio called Big Ear picked up a 72-second signal so strong and so cleanly from the direction of Sagittarius that the astronomer on duty circled it in red ink and wrote ‘Wow!’ in the margin, and nearly fifty years later nobody has ever heard it again.",
-    "description": "On August 15, 1977, Ohio's Big Ear telescope recorded a 72-second narrowband signal from Sagittarius so strong its discoverer circled it and wrote 'Wow!' in red ink. Despite decades of searches and a recent Arecibo re-an…",
-    "url": "https://spacedaily.com/sd-in-1977-a-radio-telescope-in-ohio-called-big-ear-picked-up-a-72-second-signal-so-strong-and-so-cleanly-from-the-direction-of-sagittarius-that-the-astronomer-on-duty-circled-it-in-red-ink-and-wrote/",
-    "image": "https://spacedaily.com/wp-content/uploads/2026/06/When-the-SS-Great-Eastern-laid-the-first-working-transatlantic-telegraph-cable-in-1866-1.png",
-    "source": "Space Daily",
-    "publishedAt": "2026-06-08T12:00:03Z"
-  },
-  {
-    "id": "5af32444",
-    "type": "news",
-    "title": "A Brief-ish History of SETI. Part IX: What Have We Found?",
-    "description": "In our final installment in the series, we'll examine all the close calls, possible candidates, and instances in which extraterrestrial signals could not be ruled out",
-    "url": "https://www.universetoday.com/articles/a-brief-ish-history-of-seti-part-ix-what-have-we-found",
-    "image": "https://www.universetoday.com/article_images/ESO_-_The_Milky_Way_panorama_by_20260604_010902.jpg",
-    "source": "Universe Today",
-    "publishedAt": "2026-06-04T01:09:31Z"
   }
 ]
