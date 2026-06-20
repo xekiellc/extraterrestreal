@@ -100,16 +100,6 @@
     "publishedAt": "2026-06-19T23:00:13Z"
   },
   {
-    "id": "918f3b16",
-    "type": "video",
-    "title": "Richard Dolan: They&#39;re Watching Us | The UFO Files, Disclosure &amp; Alien Behaviour",
-    "description": "Richard Dolan returns to That UFO Podcast for one of the most in-depth conversations we've ever had. Over nearly three hours, ...",
-    "url": "https://www.youtube.com/watch?v=H6trXDmLN5A",
-    "image": "https://i.ytimg.com/vi/H6trXDmLN5A/hqdefault.jpg",
-    "source": "That UFO Podcast",
-    "publishedAt": "2026-06-17T17:00:12Z"
-  },
-  {
     "id": "fca682fd",
     "type": "video",
     "title": "I Reviewed Every File in the White House UAP Release",
@@ -118,6 +108,26 @@
     "image": "https://i.ytimg.com/vi/puiDzzeklHw/hqdefault.jpg",
     "source": "Richard Dolan Intelligent Disclosure ",
     "publishedAt": "2026-06-13T19:30:09Z"
+  },
+  {
+    "id": "f185b014",
+    "type": "video",
+    "title": "Richard Dolan - 2019 Disclosure Update: Metamaterials and the Secret Science of UFOs",
+    "description": "Richard Dolan suggests it is possible that the great impetus for UFO “disclosure” may come not from the world of politics, but the ...",
+    "url": "https://www.youtube.com/watch?v=r0-600b9B4I",
+    "image": "https://i.ytimg.com/vi/r0-600b9B4I/hqdefault.jpg",
+    "source": "UFO Congress",
+    "publishedAt": "2026-06-13T00:00:06Z"
+  },
+  {
+    "id": "6e0e8803",
+    "type": "video",
+    "title": "JUST RECORDED: Dr. Steven Greer BREAKS SILENCE on Disclosure Day — &quot;Millions MISSED This&quot;",
+    "description": "In the midst of the global conversation surrounding Disclosure Day, we are joined by Dr. Steven Greer, founder of the modern ...",
+    "url": "https://www.youtube.com/watch?v=XSDDYhFqJi0",
+    "image": "https://i.ytimg.com/vi/XSDDYhFqJi0/hqdefault.jpg",
+    "source": "Emilio Ortiz",
+    "publishedAt": "2026-06-20T14:00:12Z"
   },
   {
     "id": "d44923b6",
@@ -138,16 +148,6 @@
     "image": "https://i.ytimg.com/vi/wa5weq7iBO0/hqdefault.jpg",
     "source": "Gaia",
     "publishedAt": "2026-06-12T03:45:01Z"
-  },
-  {
-    "id": "22e47e7b",
-    "type": "video",
-    "title": "The Dr. Steven Greer Podcast - Episode 21",
-    "description": "In this episode, Dr. Greer discusses key points from the Spielberg film Disclosure Day and also his upcoming CE5 event in July.",
-    "url": "https://www.youtube.com/watch?v=jjDZjBtLqm8",
-    "image": "https://i.ytimg.com/vi/jjDZjBtLqm8/hqdefault.jpg",
-    "source": "Dr. Steven Greer",
-    "publishedAt": "2026-06-11T21:34:04Z"
   },
   {
     "id": "023fd830",
@@ -220,6 +220,16 @@
     "publishedAt": "2026-05-16T21:29:36Z"
   },
   {
+    "id": "739b0d28",
+    "type": "video",
+    "title": "Cristina Gomez | A Future When We Know We Are Not Alone",
+    "description": "Anomacon #uap #aliens Summary: Cristina Gomez will shortly graduate from University and has been asking questions of her ...",
+    "url": "https://www.youtube.com/watch?v=4m9_URZzjLM",
+    "image": "https://i.ytimg.com/vi/4m9_URZzjLM/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2024-07-10T13:00:07Z"
+  },
+  {
     "id": "df322ef7",
     "type": "video",
     "title": "Ep. 1779 Cristina Gomez:  Bigfoot!",
@@ -228,15 +238,5 @@
     "image": "https://i.ytimg.com/vi/_8I-p0Ihdmk/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2023-03-17T04:15:18Z"
-  },
-  {
-    "id": "43ddc57a",
-    "type": "video",
-    "title": "2022 WRAP UP - And review of Missing 411 The UFO Connection",
-    "description": "SHIFTING THE PARADIGM PLAYLIST - https://www.youtube.com/playlist?list=PLneWjPNXc1RwPk7mA_1fMCzLrG0s3j2wT A ...",
-    "url": "https://www.youtube.com/watch?v=FLcuq9p5akY",
-    "image": "https://i.ytimg.com/vi/FLcuq9p5akY/hqdefault.jpg",
-    "source": "Cristina Gomez",
-    "publishedAt": "2022-12-28T03:47:10Z"
   }
 ]
