@@ -60,86 +60,6 @@
     "publishedAt": "2026-05-22T20:26:09Z"
   },
   {
-    "id": "cac749ed",
-    "type": "podcast",
-    "title": "The Crate in the Desert: A Military UFO Encounter That Still Defies Explanation (SITS CLASSIC)",
-    "description": "In this edition of Somewhere in the Skies Classics, we revisit one of the most mysterious military encounters ever featured on the ...",
-    "url": "https://www.youtube.com/watch?v=9QTp7A3Y_k4",
-    "image": "https://i.ytimg.com/vi/9QTp7A3Y_k4/hqdefault_live.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-06-21T11:45:12Z"
-  },
-  {
-    "id": "fc6c0df7",
-    "type": "podcast",
-    "title": "Alien Abductions Are Not Over: Full Disclosure on Experiencers w/ Dean Alioto",
-    "description": "alienabduction #disclosureday #uap Filmmaker and UFO researcher Dean Alioto returns to discuss his powerful new ...",
-    "url": "https://www.youtube.com/watch?v=_T90qKjeCAk",
-    "image": "https://i.ytimg.com/vi/_T90qKjeCAk/hqdefault_live.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-06-18T01:43:04Z"
-  },
-  {
-    "id": "5b6f7cec",
-    "type": "podcast",
-    "title": "Paul Hynek on His Father J. Allen Hynek, Steven Spielberg, and UFO Disclosure (SITS CLASSIC)",
-    "description": "Spielberg #DisclosureDay #Disclosure In this edition of Somewhere in the Skies Classics, we revisit our fascinating conversation ...",
-    "url": "https://www.youtube.com/watch?v=NzMuFjPg1Jk",
-    "image": "https://i.ytimg.com/vi/NzMuFjPg1Jk/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-06-17T14:00:05Z"
-  },
-  {
-    "id": "2669403b",
-    "type": "podcast",
-    "title": "Ep. 2319 Clyde Lewis: Clyde on F2B!",
-    "description": "Tonight, Tuesday on FADE to BLACK: Is the greatest UFO psy-op really coming from governments—or from religious fear ...",
-    "url": "https://www.youtube.com/watch?v=CUnoufRiMrk",
-    "image": "https://i.ytimg.com/vi/CUnoufRiMrk/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-06-17T04:09:58Z"
-  },
-  {
-    "id": "63d9d66c",
-    "type": "podcast",
-    "title": "Ep. 2314 Dean Alioto: The Experiencers: Full Disclosure",
-    "description": "Tonight, Monday on FADE to BLACK: Filmmaker Dean Alioto—creator of the cult classic The McPherson Tape—returns with The ...",
-    "url": "https://www.youtube.com/watch?v=2iDgFjkRbGI",
-    "image": "https://i.ytimg.com/vi/2iDgFjkRbGI/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-06-09T04:08:35Z"
-  },
-  {
-    "id": "f3ca78ad",
-    "type": "podcast",
-    "title": "Ep. 2312 Bill and Jaci Kousoulas: Our Paranormal World",
-    "description": "Tonight, Wednesday on FADE to BLACK: Bill and Jaci explore bridging tragedy and transcending darkness through the lens of ...",
-    "url": "https://www.youtube.com/watch?v=xVE2gQOhnVM",
-    "image": "https://i.ytimg.com/vi/xVE2gQOhnVM/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-05-21T04:11:47Z"
-  },
-  {
-    "id": "a4727c28",
-    "type": "podcast",
-    "title": "A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups",
-    "description": "Payne Lindsey is an investigative filmmaker and podcaster known for hosting hit the true crime series including “Up and ...",
-    "url": "https://www.youtube.com/watch?v=bmJ2Eg9YDK4",
-    "image": "https://i.ytimg.com/vi/bmJ2Eg9YDK4/hqdefault.jpg",
-    "source": "IRONCLAD",
-    "publishedAt": "2026-06-03T21:30:06Z"
-  },
-  {
-    "id": "d554f94d",
-    "type": "podcast",
-    "title": "UFO podcast seeing success for parent company Tenderfoot TV",
-    "description": "Media company Tenderfoot TV is seeing success with the launch of \"High Strange,\" a podcast that focuses on UFOs. Tenderfoot ...",
-    "url": "https://www.youtube.com/watch?v=hup3qWCAgRQ",
-    "image": "https://i.ytimg.com/vi/hup3qWCAgRQ/hqdefault.jpg",
-    "source": "CBS News",
-    "publishedAt": "2023-05-15T15:31:21Z"
-  },
-  {
     "id": "65f4e198",
     "type": "podcast",
     "title": "The UAP Reality - Daz Smith and Joe Murgia Discuss High Strangeness",
@@ -198,5 +118,15 @@
     "image": "https://i.ytimg.com/vi/60w_dbBY2N0/hqdefault.jpg",
     "source": "NPDclips",
     "publishedAt": "2026-05-15T00:28:19Z"
+  },
+  {
+    "id": "44f1a5cd",
+    "type": "podcast",
+    "title": "UFO Disclosure Has Started w/ Jeremy Corbell on Sleeping Dog | Shane Smith Has Questions",
+    "description": "After the latest U.S. government release of UAP/UFO files, filmmaker and investigative journalist Jeremy Corbell returns to Shane ...",
+    "url": "https://www.youtube.com/watch?v=t-UgoLo-oV8",
+    "image": "https://i.ytimg.com/vi/t-UgoLo-oV8/hqdefault.jpg",
+    "source": "VICE News",
+    "publishedAt": "2026-05-14T16:01:33Z"
   }
 ]
