@@ -1,5 +1,35 @@
 [
   {
+    "id": "4146dab7",
+    "type": "podcast",
+    "title": "#73 UFO Disclosure Plot Twist — Need To Know — May 2026",
+    "description": "In this special Need to Know episode, Bryce Zabel, Richard Dolan, and producer Tyler Stevens react in real time to the Trump ...",
+    "url": "https://www.youtube.com/watch?v=8C1pgdKUuoQ",
+    "image": "https://i.ytimg.com/vi/8C1pgdKUuoQ/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-05-10T22:05:40Z"
+  },
+  {
+    "id": "54817b01",
+    "type": "podcast",
+    "title": "#72 UFO Hail Mary — Need to Know — March 2026",
+    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan talk about Project Hail Mary, the disappearance of General ...",
+    "url": "https://www.youtube.com/watch?v=JiiXNgQ4qL8",
+    "image": "https://i.ytimg.com/vi/JiiXNgQ4qL8/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-03-30T01:00:06Z"
+  },
+  {
+    "id": "eb30d500",
+    "type": "podcast",
+    "title": "Is Hollywood covering up UFO truths? | Reality Check",
+    "description": "In this episode of Reality Check, Ross Coulthart sits down with Bryce Zabel and Brent Friedman, the co-creators of \"Dark Skies\" ...",
+    "url": "https://www.youtube.com/watch?v=nSwNuEdD7y0",
+    "image": "https://i.ytimg.com/vi/nSwNuEdD7y0/hqdefault.jpg",
+    "source": "NewsNation",
+    "publishedAt": "2026-03-24T21:30:06Z"
+  },
+  {
     "id": "310fa45c",
     "type": "podcast",
     "title": "008: UFOs and UAP in the UK - Andy McGrillen",
@@ -150,26 +180,6 @@
     "publishedAt": "2026-05-05T00:49:51Z"
   },
   {
-    "id": "b93f3db4",
-    "type": "podcast",
-    "title": "Witch Vanishes! UFO CON 2025 Crazy Witness Accounts! #shorts",
-    "description": "Step inside the enigmatic world of UFO conferences. Sharing bizarre sightings, otherworldly encounters, and the drama ...",
-    "url": "https://www.youtube.com/watch?v=lYB0t6rMLKw",
-    "image": "https://i.ytimg.com/vi/lYB0t6rMLKw/hqdefault.jpg",
-    "source": "Democracy At Risk",
-    "publishedAt": "2026-05-26T16:55:48Z"
-  },
-  {
-    "id": "692c66de",
-    "type": "podcast",
-    "title": "Kehidupan Luar Angkasa Akan Terungkap? #astronacci #alien #podcast #viral #teorikonspirasi",
-    "description": "Pada tahun 2015, ilmuwan utama NASA, Ellen Stofan, pernah memprediksi bahwa manusia kemungkinan akan menemukan ...",
-    "url": "https://www.youtube.com/watch?v=60w_dbBY2N0",
-    "image": "https://i.ytimg.com/vi/60w_dbBY2N0/hqdefault.jpg",
-    "source": "NPDclips",
-    "publishedAt": "2026-05-15T00:28:19Z"
-  },
-  {
     "id": "44f1a5cd",
     "type": "podcast",
     "title": "UFO Disclosure Has Started w/ Jeremy Corbell on Sleeping Dog | Shane Smith Has Questions",
@@ -178,5 +188,15 @@
     "image": "https://i.ytimg.com/vi/t-UgoLo-oV8/hqdefault.jpg",
     "source": "VICE News",
     "publishedAt": "2026-05-14T16:01:33Z"
+  },
+  {
+    "id": "867d1717",
+    "type": "podcast",
+    "title": "The REAL Reason Trump is Rushing to Disclose UFO Files | Dan Farah",
+    "description": "Watch every episode ad-free & uncensored on Patreon: https://patreon.com/dannyjones With news of Trump releasing UFO Files, ...",
+    "url": "https://www.youtube.com/watch?v=UpFqkpiOAMs",
+    "image": "https://i.ytimg.com/vi/UpFqkpiOAMs/hqdefault.jpg",
+    "source": "Danny Jones",
+    "publishedAt": "2026-05-04T17:00:48Z"
   }
 ]
