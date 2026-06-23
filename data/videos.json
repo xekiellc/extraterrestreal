@@ -140,14 +140,24 @@
     "publishedAt": "2026-06-21T22:00:18Z"
   },
   {
-    "id": "986a074b",
+    "id": "06487ba6",
     "type": "video",
-    "title": "We&#39;re at the Disclosure Red Line | Dr  Steven Greer",
-    "description": "Dr. Steven Greer issues a clear, calm warning: disclosure is no longer theoretical — we are approaching a red line that will ...",
-    "url": "https://www.youtube.com/watch?v=uYLSjyn4pTw",
-    "image": "https://i.ytimg.com/vi/uYLSjyn4pTw/hqdefault.jpg",
-    "source": "Best of Dr Steven Greer",
-    "publishedAt": "2026-06-21T16:00:06Z"
+    "title": "They Were All Warned",
+    "description": "Celebrities are sounding the alarm about an \"upcoming attack\" on Earth involving manmade UFOs and covert \"stagecraft\".",
+    "url": "https://www.youtube.com/watch?v=letpVYv8iaA",
+    "image": "https://i.ytimg.com/vi/letpVYv8iaA/hqdefault.jpg",
+    "source": "Nerd City",
+    "publishedAt": "2026-06-21T17:48:42Z"
+  },
+  {
+    "id": "46704f83",
+    "type": "video",
+    "title": "UFO Files: FBI agents investigating UAP report saw one themselves | Elizabeth Vargas Reports",
+    "description": "The Pentagon on Friday released a third tranche of information about “unidentified anomalous phenomena,” and this batch ...",
+    "url": "https://www.youtube.com/watch?v=7kGswYQFPVE",
+    "image": "https://i.ytimg.com/vi/7kGswYQFPVE/hqdefault.jpg",
+    "source": "NewsNation",
+    "publishedAt": "2026-06-13T11:00:30Z"
   },
   {
     "id": "023fd830",
@@ -168,16 +178,6 @@
     "image": "https://i.ytimg.com/vi/r_xevi3rSQI/hqdefault.jpg",
     "source": "NewsNation",
     "publishedAt": "2026-05-09T03:21:31Z"
-  },
-  {
-    "id": "1dcfaace",
-    "type": "video",
-    "title": "Bob Lazar is back on Rogan &amp; Eric Burlison leads UFO Disclosure investigation - Psicoactivo Live #11",
-    "description": "On a fresh Psicoactivo, we have news of Bob Lazar's return to The Joe Rogan Experience at the same time Luigi Venditelli gave ...",
-    "url": "https://www.youtube.com/watch?v=O8FMw6-SsyI",
-    "image": "https://i.ytimg.com/vi/O8FMw6-SsyI/hqdefault.jpg",
-    "source": "Psicoactivo Podcast",
-    "publishedAt": "2026-03-30T20:10:11Z"
   },
   {
     "id": "33bfecb8",
@@ -220,16 +220,6 @@
     "publishedAt": "2026-05-16T21:29:36Z"
   },
   {
-    "id": "739b0d28",
-    "type": "video",
-    "title": "Cristina Gomez | A Future When We Know We Are Not Alone",
-    "description": "Anomacon #uap #aliens Summary: Cristina Gomez will shortly graduate from University and has been asking questions of her ...",
-    "url": "https://www.youtube.com/watch?v=4m9_URZzjLM",
-    "image": "https://i.ytimg.com/vi/4m9_URZzjLM/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2024-07-10T13:00:07Z"
-  },
-  {
     "id": "df322ef7",
     "type": "video",
     "title": "Ep. 1779 Cristina Gomez:  Bigfoot!",
@@ -238,5 +228,15 @@
     "image": "https://i.ytimg.com/vi/_8I-p0Ihdmk/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2023-03-17T04:15:18Z"
+  },
+  {
+    "id": "0f0e1d56",
+    "type": "video",
+    "title": "Paradigm Shifts - Bald and Bonkers Show - Episode 4.1",
+    "description": "Paradigm Shifts Bald and Bonkers Show - Episode 4.1 Original Air Date: October 3rd, 2022 The Bald and Bonkers Boys are ...",
+    "url": "https://www.youtube.com/watch?v=eV6P6-1GsJs",
+    "image": "https://i.ytimg.com/vi/eV6P6-1GsJs/hqdefault.jpg",
+    "source": "Bald and Bonkers Network LLC",
+    "publishedAt": "2022-10-04T10:17:22Z"
   }
 ]
