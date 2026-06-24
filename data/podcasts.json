@@ -10,16 +10,6 @@
     "publishedAt": "2026-06-19T01:54:46Z"
   },
   {
-    "id": "ca3f31c1",
-    "type": "podcast",
-    "title": "Road to Disclosure FULL SHOW |  Reality Check with Ross Coulthart",
-    "description": "As the world packs theatres to watch Steven Spielberg's newest UFO film, real-world disclosure is happening in real time.",
-    "url": "https://www.youtube.com/watch?v=wAur0awdEjw",
-    "image": "https://i.ytimg.com/vi/wAur0awdEjw/hqdefault.jpg",
-    "source": "NewsNation",
-    "publishedAt": "2026-06-14T01:00:06Z"
-  },
-  {
     "id": "4146dab7",
     "type": "podcast",
     "title": "#73 UFO Disclosure Plot Twist — Need To Know — May 2026",
@@ -28,6 +18,16 @@
     "image": "https://i.ytimg.com/vi/8C1pgdKUuoQ/hqdefault.jpg",
     "source": "Stellar Productions",
     "publishedAt": "2026-05-10T22:05:40Z"
+  },
+  {
+    "id": "54817b01",
+    "type": "podcast",
+    "title": "#72 UFO Hail Mary — Need to Know — March 2026",
+    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan talk about Project Hail Mary, the disappearance of General ...",
+    "url": "https://www.youtube.com/watch?v=JiiXNgQ4qL8",
+    "image": "https://i.ytimg.com/vi/JiiXNgQ4qL8/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-03-30T01:00:06Z"
   },
   {
     "id": "310fa45c",
