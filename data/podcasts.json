@@ -60,6 +60,16 @@
     "publishedAt": "2026-05-22T20:26:09Z"
   },
   {
+    "id": "2a838c5e",
+    "type": "podcast",
+    "title": "This UAP Conference Could Change Everything (w/ Rich Hoffman)",
+    "description": "uap #science #aliens Ryan is joined by longtime UFO researcher, defense contractor, and Scientific Coalition for UAP Studies ...",
+    "url": "https://www.youtube.com/watch?v=p6ysrS8bI9o",
+    "image": "https://i.ytimg.com/vi/p6ysrS8bI9o/hqdefault_live.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-06-27T15:04:42Z"
+  },
+  {
     "id": "cac749ed",
     "type": "podcast",
     "title": "The Crate in the Desert: A Military UFO Encounter That Still Defies Explanation (SITS CLASSIC)",
@@ -78,16 +88,6 @@
     "image": "https://i.ytimg.com/vi/_T90qKjeCAk/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-06-22T13:00:06Z"
-  },
-  {
-    "id": "5b6f7cec",
-    "type": "podcast",
-    "title": "Paul Hynek on His Father J. Allen Hynek, Steven Spielberg, and UFO Disclosure (SITS CLASSIC)",
-    "description": "Spielberg #DisclosureDay #Disclosure In this edition of Somewhere in the Skies Classics, we revisit our fascinating conversation ...",
-    "url": "https://www.youtube.com/watch?v=NzMuFjPg1Jk",
-    "image": "https://i.ytimg.com/vi/NzMuFjPg1Jk/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-06-17T14:00:05Z"
   },
   {
     "id": "2669403b",
@@ -118,26 +118,6 @@
     "image": "https://i.ytimg.com/vi/xVE2gQOhnVM/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2026-05-21T04:11:47Z"
-  },
-  {
-    "id": "a4727c28",
-    "type": "podcast",
-    "title": "A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups",
-    "description": "Payne Lindsey is an investigative filmmaker and podcaster known for hosting hit the true crime series including “Up and ...",
-    "url": "https://www.youtube.com/watch?v=bmJ2Eg9YDK4",
-    "image": "https://i.ytimg.com/vi/bmJ2Eg9YDK4/hqdefault.jpg",
-    "source": "IRONCLAD",
-    "publishedAt": "2026-06-03T21:30:06Z"
-  },
-  {
-    "id": "d554f94d",
-    "type": "podcast",
-    "title": "UFO podcast seeing success for parent company Tenderfoot TV",
-    "description": "Media company Tenderfoot TV is seeing success with the launch of \"High Strange,\" a podcast that focuses on UFOs. Tenderfoot ...",
-    "url": "https://www.youtube.com/watch?v=hup3qWCAgRQ",
-    "image": "https://i.ytimg.com/vi/hup3qWCAgRQ/hqdefault.jpg",
-    "source": "CBS News",
-    "publishedAt": "2023-05-15T15:31:21Z"
   },
   {
     "id": "65f4e198",
@@ -198,5 +178,15 @@
     "image": "https://i.ytimg.com/vi/t-UgoLo-oV8/hqdefault.jpg",
     "source": "VICE News",
     "publishedAt": "2026-05-14T16:01:33Z"
+  },
+  {
+    "id": "4d6604bd",
+    "type": "podcast",
+    "title": "prediksi kontak pertama dengan alien di 2026 #podcast #2025 #alien #ufo",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=XRHXKN7ZHNY",
+    "image": "https://i.ytimg.com/vi/XRHXKN7ZHNY/hqdefault.jpg",
+    "source": "Maulana Hilmi",
+    "publishedAt": "2026-05-14T00:07:44Z"
   }
 ]
