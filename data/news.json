@@ -1,5 +1,15 @@
 [
   {
+    "id": "567594ef",
+    "type": "news",
+    "title": "Chuck Schumer Is Getting Back on His UFO Bullshit",
+    "description": "His UAPDA co-sponsor, GOP Sen. Mike Rounds, says they will try to pass their disclosure legislation again this year",
+    "url": "https://www.jezebel.com/chuck-schumer-is-getting-back-on-his-ufo-bullshit",
+    "image": "https://img.pastemagazine.com/wp-content/suploads/2024/08/Reid-Schumer-UFOs-Theory.jpg",
+    "source": "Jezebel",
+    "publishedAt": "2026-06-28T10:00:59Z"
+  },
+  {
     "id": "3a0991df",
     "type": "news",
     "title": "America is right to investigate UAP claims, but that’s only the beginning",
@@ -28,16 +38,6 @@
     "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/white-house-seen-august-26-131452829.jpg?quality=75&strip=all&w=1200",
     "source": "New York Post",
     "publishedAt": "2026-06-20T12:40:54Z"
-  },
-  {
-    "id": "a375c3b6",
-    "type": "news",
-    "title": "Real Life UFO Experts Say Spielberg Captures Reality In ‘Disclosure Day’",
-    "description": "But the reviews for ‘Disclosure Day’ among the experts on UAPs—unidentified aerial phenomena—are decidedly mixed.",
-    "url": "https://www.vanityfair.com/story/disclosure-day-alien-experts-react",
-    "image": "https://media.vanityfair.com/photos/6a3306c935842b0fe4c8904e/16:9/w_1280,c_limit/VF0626-disclosure-day-01.jpg",
-    "source": "Vanity Fair",
-    "publishedAt": "2026-06-19T12:20:58Z"
   },
   {
     "id": "967fced3",
@@ -260,16 +260,6 @@
     "publishedAt": "2026-06-10T20:55:04Z"
   },
   {
-    "id": "953dc2eb",
-    "type": "news",
-    "title": "Trying to Wrap Your Head Around UFO 'Disclosure' Under President Trump",
-    "description": "The UFO files released so far are a nothingburger, but Trump has serious power to do more.",
-    "url": "https://www.jezebel.com/trying-to-understand-ufo-disclosure-under-president-trump",
-    "image": "https://img.pastemagazine.com/wp-content/suploads/2025/06/main-Trump-Rubio-Hegseth-Iran-Press-Conference.jpg",
-    "source": "Jezebel",
-    "publishedAt": "2026-06-02T16:08:51Z"
-  },
-  {
     "id": "7a309715",
     "type": "news",
     "title": "Scientists Just Updated the Rules for What Happens When We Find Aliens",
@@ -298,5 +288,15 @@
     "image": "https://spacedaily.com/wp-content/uploads/2026/06/When-the-SS-Great-Eastern-laid-the-first-working-transatlantic-telegraph-cable-in-1866-1.png",
     "source": "Space Daily",
     "publishedAt": "2026-06-08T12:00:03Z"
+  },
+  {
+    "id": "5af32444",
+    "type": "news",
+    "title": "A Brief-ish History of SETI. Part IX: What Have We Found?",
+    "description": "In our final installment in the series, we'll examine all the close calls, possible candidates, and instances in which extraterrestrial signals could not be ruled out",
+    "url": "https://www.universetoday.com/articles/a-brief-ish-history-of-seti-part-ix-what-have-we-found",
+    "image": "https://www.universetoday.com/article_images/ESO_-_The_Milky_Way_panorama_by_20260604_010902.jpg",
+    "source": "Universe Today",
+    "publishedAt": "2026-06-04T01:09:31Z"
   }
 ]
