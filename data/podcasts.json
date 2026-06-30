@@ -1,5 +1,65 @@
 [
   {
+    "id": "0d41daa3",
+    "type": "podcast",
+    "title": "Steven Spielberg Being Briefed on UFOs and Disclosure Day with Bryce Zabel",
+    "description": "Today, we're joined by Bryce Zabel—award-winning television writer, producer, and journalist, and one of the most respected ...",
+    "url": "https://www.youtube.com/watch?v=TNUS-0oV744",
+    "image": "https://i.ytimg.com/vi/TNUS-0oV744/hqdefault.jpg",
+    "source": "Rebelliously Curious with Chrissy Newton ",
+    "publishedAt": "2026-06-26T18:00:06Z"
+  },
+  {
+    "id": "2e5db4d0",
+    "type": "podcast",
+    "title": "When Jesse Asked Bryce About Ross on American Alchemy",
+    "description": "Near the end of this week's American Alchemy, host Jesse Michels asks Bryce Zabel about his final episode of Need to Know with ...",
+    "url": "https://www.youtube.com/watch?v=XS_h0Dcevdo",
+    "image": "https://i.ytimg.com/vi/XS_h0Dcevdo/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-06-23T05:15:41Z"
+  },
+  {
+    "id": "df90c462",
+    "type": "podcast",
+    "title": "#18 DISCLOSURE DAY (&quot;Listen.&quot;) — Sound, Light &amp; Frequency",
+    "description": "Steven Spielberg's Disclosure Day has arrived with massive expectations, strong early box office, and a wave of polarized ...",
+    "url": "https://www.youtube.com/watch?v=U04unJVpz8s",
+    "image": "https://i.ytimg.com/vi/U04unJVpz8s/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-06-19T01:54:46Z"
+  },
+  {
+    "id": "a824d4bb",
+    "type": "podcast",
+    "title": "Discussing who could be better than Lue Elizondo for the UAP Czar position - Psicoactivo Live #41",
+    "description": "On a pressing Psicoactivo, we are being hosted by Andy McGrillen from That UFO Podcast to have a discussion about Ross ...",
+    "url": "https://www.youtube.com/watch?v=HsyLxbOs5zo",
+    "image": "https://i.ytimg.com/vi/HsyLxbOs5zo/hqdefault.jpg",
+    "source": "Psicoactivo Podcast",
+    "publishedAt": "2026-06-29T20:51:03Z"
+  },
+  {
+    "id": "310fa45c",
+    "type": "podcast",
+    "title": "008: UFOs and UAP in the UK - Andy McGrillen",
+    "description": "DEAD HAND RADIO is a podcast about the Cold War. It's history and the effects it had on our culture, technology and the future of ...",
+    "url": "https://www.youtube.com/watch?v=q29PJKmF1Og",
+    "image": "https://i.ytimg.com/vi/q29PJKmF1Og/hqdefault.jpg",
+    "source": "Andrew Hall Studio",
+    "publishedAt": "2026-06-18T05:50:07Z"
+  },
+  {
+    "id": "fa25c4e4",
+    "type": "podcast",
+    "title": "Andy McGrillen on a possible Trump Executive Order &amp; Catastrophic Disclosure - Psicoactivo Live #31",
+    "description": "On a fresh Psicoactivo Live, we have Andy McGrillen from That UFO Podcast joining us to discuss the latest on Trump's rumored ...",
+    "url": "https://www.youtube.com/watch?v=EdE88JyREdw",
+    "image": "https://i.ytimg.com/vi/EdE88JyREdw/hqdefault.jpg",
+    "source": "Psicoactivo Podcast",
+    "publishedAt": "2026-05-25T20:15:49Z"
+  },
+  {
     "id": "2a838c5e",
     "type": "podcast",
     "title": "This UAP Conference Could Change Everything (w/ Rich Hoffman of @scientificcoalitionforuaps)",
@@ -30,24 +90,34 @@
     "publishedAt": "2026-06-24T14:00:05Z"
   },
   {
-    "id": "a4727c28",
+    "id": "2669403b",
     "type": "podcast",
-    "title": "A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups",
-    "description": "Payne Lindsey is an investigative filmmaker and podcaster known for hosting hit the true crime series including “Up and ...",
-    "url": "https://www.youtube.com/watch?v=bmJ2Eg9YDK4",
-    "image": "https://i.ytimg.com/vi/bmJ2Eg9YDK4/hqdefault.jpg",
-    "source": "IRONCLAD",
-    "publishedAt": "2026-06-03T21:30:06Z"
+    "title": "Ep. 2319 Clyde Lewis: Clyde on F2B!",
+    "description": "Tonight, Tuesday on FADE to BLACK: Is the greatest UFO psy-op really coming from governments—or from religious fear ...",
+    "url": "https://www.youtube.com/watch?v=CUnoufRiMrk",
+    "image": "https://i.ytimg.com/vi/CUnoufRiMrk/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-06-17T04:09:58Z"
   },
   {
-    "id": "d554f94d",
+    "id": "63d9d66c",
     "type": "podcast",
-    "title": "UFO podcast seeing success for parent company Tenderfoot TV",
-    "description": "Media company Tenderfoot TV is seeing success with the launch of \"High Strange,\" a podcast that focuses on UFOs. Tenderfoot ...",
-    "url": "https://www.youtube.com/watch?v=hup3qWCAgRQ",
-    "image": "https://i.ytimg.com/vi/hup3qWCAgRQ/hqdefault.jpg",
-    "source": "CBS News",
-    "publishedAt": "2023-05-15T15:31:21Z"
+    "title": "Ep. 2314 Dean Alioto: The Experiencers: Full Disclosure",
+    "description": "Tonight, Monday on FADE to BLACK: Filmmaker Dean Alioto—creator of the cult classic The McPherson Tape—returns with The ...",
+    "url": "https://www.youtube.com/watch?v=2iDgFjkRbGI",
+    "image": "https://i.ytimg.com/vi/2iDgFjkRbGI/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-06-09T04:08:35Z"
+  },
+  {
+    "id": "f3ca78ad",
+    "type": "podcast",
+    "title": "Ep. 2312 Bill and Jaci Kousoulas: Our Paranormal World",
+    "description": "Tonight, Wednesday on FADE to BLACK: Bill and Jaci explore bridging tragedy and transcending darkness through the lens of ...",
+    "url": "https://www.youtube.com/watch?v=xVE2gQOhnVM",
+    "image": "https://i.ytimg.com/vi/xVE2gQOhnVM/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-05-21T04:11:47Z"
   },
   {
     "id": "65f4e198",
@@ -88,5 +158,35 @@
     "image": "https://i.ytimg.com/vi/VE_j8Zxsv80/hqdefault.jpg",
     "source": "Tom Vernon UAP",
     "publishedAt": "2026-05-05T00:49:51Z"
+  },
+  {
+    "id": "692c66de",
+    "type": "podcast",
+    "title": "Kehidupan Luar Angkasa Akan Terungkap? #astronacci #alien #podcast #viral #teorikonspirasi",
+    "description": "Pada tahun 2015, ilmuwan utama NASA, Ellen Stofan, pernah memprediksi bahwa manusia kemungkinan akan menemukan ...",
+    "url": "https://www.youtube.com/watch?v=60w_dbBY2N0",
+    "image": "https://i.ytimg.com/vi/60w_dbBY2N0/hqdefault.jpg",
+    "source": "NPDclips",
+    "publishedAt": "2026-05-15T00:28:19Z"
+  },
+  {
+    "id": "44f1a5cd",
+    "type": "podcast",
+    "title": "UFO Disclosure Has Started w/ Jeremy Corbell on Sleeping Dog | Shane Smith Has Questions",
+    "description": "After the latest U.S. government release of UAP/UFO files, filmmaker and investigative journalist Jeremy Corbell returns to Shane ...",
+    "url": "https://www.youtube.com/watch?v=t-UgoLo-oV8",
+    "image": "https://i.ytimg.com/vi/t-UgoLo-oV8/hqdefault.jpg",
+    "source": "VICE News",
+    "publishedAt": "2026-05-14T16:01:33Z"
+  },
+  {
+    "id": "4d6604bd",
+    "type": "podcast",
+    "title": "prediksi kontak pertama dengan alien di 2026 #podcast #2025 #alien #ufo",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=XRHXKN7ZHNY",
+    "image": "https://i.ytimg.com/vi/XRHXKN7ZHNY/hqdefault.jpg",
+    "source": "Maulana Hilmi",
+    "publishedAt": "2026-05-14T00:07:44Z"
   }
 ]

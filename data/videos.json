@@ -30,6 +30,16 @@
     "publishedAt": "2026-06-25T16:00:06Z"
   },
   {
+    "id": "0549a796",
+    "type": "video",
+    "title": "Ross Coulthart calls out Lue&#39;s involvement in the UFO Legacy Program | UFO News Update",
+    "description": "In tonight's unscripted episode Thomas , Mike and the call-in panel discuss the US Government's move towards UFO Disclosure.",
+    "url": "https://www.youtube.com/watch?v=g7d_Kskz_iQ",
+    "image": "https://i.ytimg.com/vi/g7d_Kskz_iQ/hqdefault.jpg",
+    "source": "thomas fessler",
+    "publishedAt": "2026-06-30T03:37:16Z"
+  },
+  {
     "id": "9a27d075",
     "type": "video",
     "title": "UFO whistleblower responds to Ross Coulthart’s ‘cover-up’ claims | CUOMO",
@@ -48,16 +58,6 @@
     "image": "https://i.ytimg.com/vi/KzQEIbhDngA/hqdefault.jpg",
     "source": "Down To Earth With Kristian Harloff (UAP NEWS)",
     "publishedAt": "2026-06-29T19:45:32Z"
-  },
-  {
-    "id": "a71ae2c8",
-    "type": "video",
-    "title": "UAP Gerb Live - the State of Disclosure, Hanging with Ross Coulthart, Current Events &amp; QnA",
-    "description": "Live discussing the current state of disclosure, my weekend with Ross Coulthart and the UAPDF event, current events and QnA.",
-    "url": "https://www.youtube.com/watch?v=VNR78kiTjgQ",
-    "image": "https://i.ytimg.com/vi/VNR78kiTjgQ/hqdefault.jpg",
-    "source": "UAP Gerb",
-    "publishedAt": "2026-06-29T00:13:48Z"
   },
   {
     "id": "98842ee1",
@@ -208,5 +208,35 @@
     "image": "https://i.ytimg.com/vi/jhXNaZIN4F4/hqdefault.jpg",
     "source": "NewsNation",
     "publishedAt": "2025-11-21T02:28:26Z"
+  },
+  {
+    "id": "6a06ccf7",
+    "type": "video",
+    "title": "CONGRESS CAUGHT IN MASSIVE UFO FLIP",
+    "description": "Cristina Gomez reviews the latest UFO / UAP news and covers Anna Paulina Luna's surprising public endorsement of AARO ...",
+    "url": "https://www.youtube.com/watch?v=7Jc9q9u6SBQ",
+    "image": "https://i.ytimg.com/vi/7Jc9q9u6SBQ/hqdefault.jpg",
+    "source": "Cristina Gomez",
+    "publishedAt": "2026-05-16T21:29:36Z"
+  },
+  {
+    "id": "739b0d28",
+    "type": "video",
+    "title": "Cristina Gomez | A Future When We Know We Are Not Alone",
+    "description": "Anomacon #uap #aliens Summary: Cristina Gomez will shortly graduate from University and has been asking questions of her ...",
+    "url": "https://www.youtube.com/watch?v=4m9_URZzjLM",
+    "image": "https://i.ytimg.com/vi/4m9_URZzjLM/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2024-07-10T13:00:07Z"
+  },
+  {
+    "id": "df322ef7",
+    "type": "video",
+    "title": "Ep. 1779 Cristina Gomez:  Bigfoot!",
+    "description": "Cristina Gomez is a video content creator and podcaster who brings a young and fresh perspective to the UFO and Paranormal ...",
+    "url": "https://www.youtube.com/watch?v=_8I-p0Ihdmk",
+    "image": "https://i.ytimg.com/vi/_8I-p0Ihdmk/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2023-03-17T04:15:18Z"
   }
 ]
