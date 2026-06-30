@@ -120,6 +120,16 @@
     "publishedAt": "2026-06-13T19:30:09Z"
   },
   {
+    "id": "ce554879",
+    "type": "video",
+    "title": "The Hidden War Files: Inside the Disclosure Project",
+    "description": "Watch the full interview for free at ...",
+    "url": "https://www.youtube.com/watch?v=3ov3KX9sta8",
+    "image": "https://i.ytimg.com/vi/3ov3KX9sta8/hqdefault.jpg",
+    "source": "London Real",
+    "publishedAt": "2026-06-30T11:00:05Z"
+  },
+  {
     "id": "6e251479",
     "type": "video",
     "title": "**SPECIAL GLOBAL ANNOUNCEMENT**",
@@ -138,16 +148,6 @@
     "image": "https://i.ytimg.com/vi/JtGQsPphM_U/hqdefault.jpg",
     "source": "MindVoice Production",
     "publishedAt": "2026-06-29T07:53:19Z"
-  },
-  {
-    "id": "ee7436e9",
-    "type": "video",
-    "title": "Dr. Greer Gives the U.S. Government 60 Days to Respond",
-    "description": "Dr. Steven Greer has issued a 60-day deadline to the U.S. government. In a four-page letter sent to President Trump, senior ...",
-    "url": "https://www.youtube.com/watch?v=xUuDRUYYbEg",
-    "image": "https://i.ytimg.com/vi/xUuDRUYYbEg/hqdefault.jpg",
-    "source": "Hallucination Hippies",
-    "publishedAt": "2026-06-28T19:31:14Z"
   },
   {
     "id": "4be4f80e",
@@ -220,6 +220,16 @@
     "publishedAt": "2026-05-16T21:29:36Z"
   },
   {
+    "id": "739b0d28",
+    "type": "video",
+    "title": "Cristina Gomez | A Future When We Know We Are Not Alone",
+    "description": "Anomacon #uap #aliens Summary: Cristina Gomez will shortly graduate from University and has been asking questions of her ...",
+    "url": "https://www.youtube.com/watch?v=4m9_URZzjLM",
+    "image": "https://i.ytimg.com/vi/4m9_URZzjLM/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2024-07-10T13:00:07Z"
+  },
+  {
     "id": "df322ef7",
     "type": "video",
     "title": "Ep. 1779 Cristina Gomez:  Bigfoot!",
@@ -228,15 +238,5 @@
     "image": "https://i.ytimg.com/vi/_8I-p0Ihdmk/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2023-03-17T04:15:18Z"
-  },
-  {
-    "id": "ca0ac5d3",
-    "type": "video",
-    "title": "Ep. 1692 Cristina Gomez: Discovers Everything",
-    "description": "Tonight, Tuesday on FADE to BLACK: Crisitna Gomez joins us to talk about her life of discovering our world. Cristina Gomez is a ...",
-    "url": "https://www.youtube.com/watch?v=qp-IJ8pOLK0",
-    "image": "https://i.ytimg.com/vi/qp-IJ8pOLK0/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2022-09-21T05:10:46Z"
   }
 ]

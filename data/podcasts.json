@@ -10,16 +10,6 @@
     "publishedAt": "2026-06-26T18:00:06Z"
   },
   {
-    "id": "2e5db4d0",
-    "type": "podcast",
-    "title": "When Jesse Asked Bryce About Ross on American Alchemy",
-    "description": "Near the end of this week's American Alchemy, host Jesse Michels asks Bryce Zabel about his final episode of Need to Know with ...",
-    "url": "https://www.youtube.com/watch?v=XS_h0Dcevdo",
-    "image": "https://i.ytimg.com/vi/XS_h0Dcevdo/hqdefault.jpg",
-    "source": "Stellar Productions",
-    "publishedAt": "2026-06-23T05:15:41Z"
-  },
-  {
     "id": "df90c462",
     "type": "podcast",
     "title": "#18 DISCLOSURE DAY (&quot;Listen.&quot;) — Sound, Light &amp; Frequency",
@@ -28,6 +18,16 @@
     "image": "https://i.ytimg.com/vi/U04unJVpz8s/hqdefault.jpg",
     "source": "Stellar Productions",
     "publishedAt": "2026-06-19T01:54:46Z"
+  },
+  {
+    "id": "4146dab7",
+    "type": "podcast",
+    "title": "#73 UFO Disclosure Plot Twist — Need To Know — May 2026",
+    "description": "In this special Need to Know episode, Bryce Zabel, Richard Dolan, and producer Tyler Stevens react in real time to the Trump ...",
+    "url": "https://www.youtube.com/watch?v=8C1pgdKUuoQ",
+    "image": "https://i.ytimg.com/vi/8C1pgdKUuoQ/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-05-10T22:05:40Z"
   },
   {
     "id": "a824d4bb",
