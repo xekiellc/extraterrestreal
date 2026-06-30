@@ -30,6 +30,16 @@
     "publishedAt": "2026-06-25T16:00:06Z"
   },
   {
+    "id": "a3cef265",
+    "type": "video",
+    "title": "Ross Coulthart Accusa Lue Elizondo: 10 Anni di Bugie!",
+    "description": "In questo video esplosivo, Patrick analizza le scioccanti accuse lanciate da Ross Coulthart contro Lue Elizondo. L'ex insider del ...",
+    "url": "https://www.youtube.com/watch?v=N46XEPEOIjU",
+    "image": "https://i.ytimg.com/vi/N46XEPEOIjU/hqdefault.jpg",
+    "source": "Vetted: Il Canale UFO",
+    "publishedAt": "2026-06-30T08:00:37Z"
+  },
+  {
     "id": "0549a796",
     "type": "video",
     "title": "Ross Coulthart calls out Lue&#39;s involvement in the UFO Legacy Program | UFO News Update",
@@ -48,16 +58,6 @@
     "image": "https://i.ytimg.com/vi/00Q1VrnDjow/hqdefault.jpg",
     "source": "NewsNation",
     "publishedAt": "2026-06-30T02:27:25Z"
-  },
-  {
-    "id": "3f1ae577",
-    "type": "video",
-    "title": "Ross Coulthart Accuses Elizondo of Legacy UAP Program Role. Should he have the UFO tzar spot?",
-    "description": "Ross Coulthart calls out Lue Elizondo about his past roles and what he has been involved with. Will Lue step forard with real ...",
-    "url": "https://www.youtube.com/watch?v=KzQEIbhDngA",
-    "image": "https://i.ytimg.com/vi/KzQEIbhDngA/hqdefault.jpg",
-    "source": "Down To Earth With Kristian Harloff (UAP NEWS)",
-    "publishedAt": "2026-06-29T19:45:32Z"
   },
   {
     "id": "98842ee1",
@@ -220,16 +220,6 @@
     "publishedAt": "2026-05-16T21:29:36Z"
   },
   {
-    "id": "739b0d28",
-    "type": "video",
-    "title": "Cristina Gomez | A Future When We Know We Are Not Alone",
-    "description": "Anomacon #uap #aliens Summary: Cristina Gomez will shortly graduate from University and has been asking questions of her ...",
-    "url": "https://www.youtube.com/watch?v=4m9_URZzjLM",
-    "image": "https://i.ytimg.com/vi/4m9_URZzjLM/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2024-07-10T13:00:07Z"
-  },
-  {
     "id": "df322ef7",
     "type": "video",
     "title": "Ep. 1779 Cristina Gomez:  Bigfoot!",
@@ -238,5 +228,15 @@
     "image": "https://i.ytimg.com/vi/_8I-p0Ihdmk/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2023-03-17T04:15:18Z"
+  },
+  {
+    "id": "ca0ac5d3",
+    "type": "video",
+    "title": "Ep. 1692 Cristina Gomez: Discovers Everything",
+    "description": "Tonight, Tuesday on FADE to BLACK: Crisitna Gomez joins us to talk about her life of discovering our world. Cristina Gomez is a ...",
+    "url": "https://www.youtube.com/watch?v=qp-IJ8pOLK0",
+    "image": "https://i.ytimg.com/vi/qp-IJ8pOLK0/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2022-09-21T05:10:46Z"
   }
 ]
