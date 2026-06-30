@@ -40,6 +40,26 @@
     "publishedAt": "2026-06-20T13:54:35Z"
   },
   {
+    "id": "7e0a8410",
+    "type": "news",
+    "title": "On Christianity and Aliens (cont’d.)",
+    "description": "God created you and God redeemed you and you are beloved by God. Can you imagine this is true for anyone other than you? Can you accept that this might be true for anyone other than you?",
+    "url": "https://www.patheos.com/blogs/slacktivist/2026/06/29/on-christianity-and-aliens-contd/",
+    "image": "https://wp-media.patheos.com/blogs/sites/52/2026/06/Still.jpg",
+    "source": "Patheos",
+    "publishedAt": "2026-06-29T20:11:55Z"
+  },
+  {
+    "id": "14a9b49e",
+    "type": "news",
+    "title": "5 Most Important Sci-fi TV Shows of the 1990s (With a Combined 806 Episodes)",
+    "description": "Image Courtesy of Fox The 1990s were a transitional period for both the television industry and the broader science fiction genre. Throughout the previous decade, mainstream sci-fi television had largely been dominated b…",
+    "url": "http://comicbook.com/tv-shows/list/5-most-important-sci-fi-tv-shows-of-the-1990s-with-a-combined-806-episodes/",
+    "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/03/X-Files-Humbug.jpg?resize=2000,1125",
+    "source": "ComicBook.com",
+    "publishedAt": "2026-06-29T18:30:00Z"
+  },
+  {
     "id": "52ff0e09",
     "type": "news",
     "title": "Catholic nun issues chilling warning about aliens amid religious conflict",
@@ -58,26 +78,6 @@
     "image": "https://www.fxguide.com/wp-content/uploads/2026/06/fxg-featured-Disclosure.jpg",
     "source": "Fxguide.com",
     "publishedAt": "2026-06-29T15:16:23Z"
-  },
-  {
-    "id": "967fced3",
-    "type": "news",
-    "title": "I saw unreleased UFO files at a secret meeting in the Tennessee mountains. We prayed after seeing what these 'humanoid beings' did... the world is not prepared",
-    "description": "A Christian pastor with knowledge of America's alien disclosure rollout is revealing the dark secrets behind the plan, and shocking evidence yet to be released.",
-    "url": "https://www.dailymail.com/sciencetech/article-15920379/ufo-files-tennessee-mountains-aliens.html",
-    "image": "https://i.dailymail.com/1s/2026/06/26/17/109626461-0-image-m-67_1782491525440.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-06-26T21:04:09Z"
-  },
-  {
-    "id": "8342075c",
-    "type": "news",
-    "title": "I Noticed The Word ‘Alien’ Is Never Used In Disclosure Day, And There Is A Reason Why",
-    "description": "Did you notice this?",
-    "url": "https://www.cinemablend.com/movies/i-noticed-disclosure-day-never-says-alien-reason-why-david-koepp",
-    "image": "https://cdn.mos.cms.futurecdn.net/TU8kzB6qz8ZxNqTz7KiDL3-2000-80.jpg",
-    "source": "CinemaBlend",
-    "publishedAt": "2026-06-26T20:09:51Z"
   },
   {
     "id": "7ba713bb",
@@ -118,6 +118,16 @@
     "image": "https://i.dailymail.com/1s/2026/06/11/18/109287597-0-image-m-19_1781198654407.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-06-13T14:15:06Z"
+  },
+  {
+    "id": "967fced3",
+    "type": "news",
+    "title": "I saw unreleased UFO files at a secret meeting in the Tennessee mountains. We prayed after seeing what these 'humanoid beings' did... the world is not prepared",
+    "description": "A Christian pastor with knowledge of America's alien disclosure rollout is revealing the dark secrets behind the plan, and shocking evidence yet to be released.",
+    "url": "https://www.dailymail.com/sciencetech/article-15920379/ufo-files-tennessee-mountains-aliens.html",
+    "image": "https://i.dailymail.com/1s/2026/06/26/17/109626461-0-image-m-67_1782491525440.jpg",
+    "source": "Dailymail.com",
+    "publishedAt": "2026-06-26T21:04:09Z"
   },
   {
     "id": "85878c97",
@@ -288,15 +298,5 @@
     "image": "https://spacedaily.com/wp-content/uploads/2026/06/When-the-SS-Great-Eastern-laid-the-first-working-transatlantic-telegraph-cable-in-1866-1.png",
     "source": "Space Daily",
     "publishedAt": "2026-06-08T12:00:03Z"
-  },
-  {
-    "id": "5af32444",
-    "type": "news",
-    "title": "A Brief-ish History of SETI. Part IX: What Have We Found?",
-    "description": "In our final installment in the series, we'll examine all the close calls, possible candidates, and instances in which extraterrestrial signals could not be ruled out",
-    "url": "https://www.universetoday.com/articles/a-brief-ish-history-of-seti-part-ix-what-have-we-found",
-    "image": "https://www.universetoday.com/article_images/ESO_-_The_Milky_Way_panorama_by_20260604_010902.jpg",
-    "source": "Universe Today",
-    "publishedAt": "2026-06-04T01:09:31Z"
   }
 ]
