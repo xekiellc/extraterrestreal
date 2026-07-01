@@ -40,6 +40,16 @@
     "publishedAt": "2026-06-20T13:54:35Z"
   },
   {
+    "id": "77563915",
+    "type": "news",
+    "title": "Inside the First Major UFO Sighting in American History",
+    "description": "In June 1947, Kenneth Arnold saw something strange in the sky. What he saw sparked a national UFO craze—but it was far from the first time people have reported seeing inexplicable lights in the sky.",
+    "url": "https://www.mentalfloss.com/culture/weird/kenneth-arnold-ufo-sighting",
+    "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1000,h_562/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01kwahtxpsymcss41w1e.jpg",
+    "source": "Mental Floss",
+    "publishedAt": "2026-06-30T16:00:03Z"
+  },
+  {
     "id": "029f507e",
     "type": "news",
     "title": "It became too easy to shout ‘aliens’, so SETI changed its rules",
@@ -68,16 +78,6 @@
     "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/03/X-Files-Humbug.jpg?resize=2000,1125",
     "source": "ComicBook.com",
     "publishedAt": "2026-06-29T18:30:00Z"
-  },
-  {
-    "id": "52ff0e09",
-    "type": "news",
-    "title": "Catholic nun issues chilling warning about aliens amid religious conflict",
-    "description": "A Catholic nun is sounding the alarm over the growing fascination with aliens, warning that alleged encounters could have spiritual implications and may play a role in a coming religious conflict.",
-    "url": "https://www.dailymail.com/sciencetech/article-15938683/catholic-nun-aliens-spiritual-warning.html",
-    "image": "https://i.dailymail.com/1s/2026/06/29/16/109672883-0-image-m-25_1782746853400.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-06-29T15:40:19Z"
   },
   {
     "id": "7211a211",
@@ -208,16 +208,6 @@
     "image": "https://i.dailymail.com/1s/2026/06/23/14/109540179-0-image-m-17_1782222817539.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-06-23T15:24:36Z"
-  },
-  {
-    "id": "c178d28d",
-    "type": "news",
-    "title": "EXCLUSIVE: Pentagon Files Reveal Dogfights With UFOs — And Experts Warn Shocking Revelations Are Just Tip of the Alien Invasion Iceberg",
-    "description": "Pentagon files detail UFO dogfights as experts warn alien invasion concerns may be growing.",
-    "url": "https://radaronline.com/p/pentagon-files-ufo-dogfights-alien-invasion-fears/",
-    "image": "https://media.radaronline.com/brand-img/MDObiApYx/1200x628/pentagon-files-ufo-dogfights-alien-invasion-fears-1781080968559.jpg",
-    "source": "Radaronline.com",
-    "publishedAt": "2026-06-13T11:00:00Z"
   },
   {
     "id": "27eba83b",
