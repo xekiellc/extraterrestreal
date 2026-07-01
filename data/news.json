@@ -240,16 +240,6 @@
     "publishedAt": "2026-06-10T09:35:00Z"
   },
   {
-    "id": "d7d75766",
-    "type": "news",
-    "title": "Show HN: Simple news aggregator with source bias meters",
-    "description": "Article URL: https://unbiasthenews.com Comments URL: https://news.ycombinator.com/item?id=48327194 Points: 2 # Comments: 0",
-    "url": "https://unbiasthenews.com",
-    "image": "",
-    "source": "Unbiasthenews.com",
-    "publishedAt": "2026-05-29T18:21:24Z"
-  },
-  {
     "id": "514c2c47",
     "type": "news",
     "title": "Vulnerability Summary for the Week of June 15, 2026",
