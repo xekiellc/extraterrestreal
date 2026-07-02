@@ -60,6 +60,16 @@
     "publishedAt": "2026-05-22T20:26:09Z"
   },
   {
+    "id": "31f381b4",
+    "type": "podcast",
+    "title": "UFOS and the Occult with Mitch Horowitz and Sarah Lyons",
+    "description": "Occult #Witchcraft #UFOs Ryan welcomes acclaimed occult historian Mitch Horowitz and author and occultist Sarah Lyons for a ...",
+    "url": "https://www.youtube.com/watch?v=9RzdWl1mkIc",
+    "image": "https://i.ytimg.com/vi/9RzdWl1mkIc/hqdefault_live.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-07-02T03:33:04Z"
+  },
+  {
     "id": "2a838c5e",
     "type": "podcast",
     "title": "This UAP Conference Could Change Everything (w/ Rich Hoffman of @scientificcoalitionforuaps)",
@@ -78,16 +88,6 @@
     "image": "https://i.ytimg.com/vi/6joNN_pAres/hqdefault_live.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-06-28T21:31:57Z"
-  },
-  {
-    "id": "cac749ed",
-    "type": "podcast",
-    "title": "The Crate in the Desert: A Military UFO Encounter That Still Defies Explanation (SITS CLASSIC)",
-    "description": "In this edition of Somewhere in the Skies Classics, we revisit one of the most mysterious military encounters ever featured on the ...",
-    "url": "https://www.youtube.com/watch?v=9QTp7A3Y_k4",
-    "image": "https://i.ytimg.com/vi/9QTp7A3Y_k4/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-06-24T14:00:05Z"
   },
   {
     "id": "2669403b",
@@ -120,6 +120,26 @@
     "publishedAt": "2026-05-21T04:11:47Z"
   },
   {
+    "id": "a4727c28",
+    "type": "podcast",
+    "title": "A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups",
+    "description": "Payne Lindsey is an investigative filmmaker and podcaster known for hosting hit the true crime series including “Up and ...",
+    "url": "https://www.youtube.com/watch?v=bmJ2Eg9YDK4",
+    "image": "https://i.ytimg.com/vi/bmJ2Eg9YDK4/hqdefault.jpg",
+    "source": "IRONCLAD",
+    "publishedAt": "2026-06-03T21:30:06Z"
+  },
+  {
+    "id": "d554f94d",
+    "type": "podcast",
+    "title": "UFO podcast seeing success for parent company Tenderfoot TV",
+    "description": "Media company Tenderfoot TV is seeing success with the launch of \"High Strange,\" a podcast that focuses on UFOs. Tenderfoot ...",
+    "url": "https://www.youtube.com/watch?v=hup3qWCAgRQ",
+    "image": "https://i.ytimg.com/vi/hup3qWCAgRQ/hqdefault.jpg",
+    "source": "CBS News",
+    "publishedAt": "2023-05-15T15:31:21Z"
+  },
+  {
     "id": "65f4e198",
     "type": "podcast",
     "title": "The UAP Reality - Daz Smith and Joe Murgia Discuss High Strangeness",
@@ -128,6 +148,16 @@
     "image": "https://i.ytimg.com/vi/p-UVj6mWLWw/hqdefault.jpg",
     "source": "Down The Rabbit Hole",
     "publishedAt": "2022-07-08T11:45:07Z"
+  },
+  {
+    "id": "47806f57",
+    "type": "podcast",
+    "title": "Contact Confidential - Vinnie Adams",
+    "description": "Vinnie Adams from Youtube's Disclosure Team joins contact confidential to share a personal encounter and his perspectives on ...",
+    "url": "https://www.youtube.com/watch?v=SynMIjXALYc",
+    "image": "https://i.ytimg.com/vi/SynMIjXALYc/hqdefault.jpg",
+    "source": "TOOWi Arts",
+    "publishedAt": "2026-06-23T20:42:25Z"
   },
   {
     "id": "74e3ef82",
@@ -150,16 +180,6 @@
     "publishedAt": "2026-05-05T00:54:00Z"
   },
   {
-    "id": "59acc3fa",
-    "type": "podcast",
-    "title": "The stigma behind telling the truth about UFOs with Vinnie Adams from the Disclosure Team",
-    "description": "clip from our interview where we discuss Vinnies take on the evolution of the UFO phenomenon. #tomvernonuap #disclosureteam ...",
-    "url": "https://www.youtube.com/watch?v=VE_j8Zxsv80",
-    "image": "https://i.ytimg.com/vi/VE_j8Zxsv80/hqdefault.jpg",
-    "source": "Tom Vernon UAP",
-    "publishedAt": "2026-05-05T00:49:51Z"
-  },
-  {
     "id": "46b80a76",
     "type": "podcast",
     "title": "The Age of Disclosure: Who Actually Controls the UAP Secrets? | w/ Dan Farah | SSHQ",
@@ -178,15 +198,5 @@
     "image": "https://i.ytimg.com/vi/60w_dbBY2N0/hqdefault.jpg",
     "source": "NPDclips",
     "publishedAt": "2026-05-15T00:28:19Z"
-  },
-  {
-    "id": "44f1a5cd",
-    "type": "podcast",
-    "title": "UFO Disclosure Has Started w/ Jeremy Corbell on Sleeping Dog | Shane Smith Has Questions",
-    "description": "After the latest U.S. government release of UAP/UFO files, filmmaker and investigative journalist Jeremy Corbell returns to Shane ...",
-    "url": "https://www.youtube.com/watch?v=t-UgoLo-oV8",
-    "image": "https://i.ytimg.com/vi/t-UgoLo-oV8/hqdefault.jpg",
-    "source": "VICE News",
-    "publishedAt": "2026-05-14T16:01:33Z"
   }
 ]
