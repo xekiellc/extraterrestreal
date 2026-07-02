@@ -40,6 +40,16 @@
     "publishedAt": "2026-06-20T13:54:35Z"
   },
   {
+    "id": "19e2dc55",
+    "type": "news",
+    "title": "Steven Spielberg’s Aliens",
+    "description": "Stephen Kearse Disclosure Day has plenty of UFOs and extraterrestrial species but very little of the human insights found in the filmmaker’s past work. The post Steven Spielberg’s Aliens appeared first on The Nation.",
+    "url": "https://www.thenation.com/article/culture/steven-spielbergs-disclosure-day/",
+    "image": "https://www.thenation.com/wp-content/uploads/2026/07/Disclosure_Day.jpg",
+    "source": "Thenation.com",
+    "publishedAt": "2026-07-01T09:00:00Z"
+  },
+  {
     "id": "51693ac4",
     "type": "news",
     "title": "Tim Burchett, UFO whistleblower recount ominous government warnings after demanding UFO transparency",
@@ -58,16 +68,6 @@
     "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1000,h_562/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01kwahtxpsymcss41w1e.jpg",
     "source": "Mental Floss",
     "publishedAt": "2026-06-30T16:00:03Z"
-  },
-  {
-    "id": "029f507e",
-    "type": "news",
-    "title": "It became too easy to shout ‘aliens’, so SETI changed its rules",
-    "description": "For the first time in more than 15 years, the International Academy of Astronautics (IAA) Search for Extraterrestrial Intelligence (SETI) committee has significantly revised the protocols governing how scientists “evalua…",
-    "url": "https://refractor.io/space/too-easy-to-shout-aliens-seti-changed-rules/",
-    "image": "https://assets.newatlas.com/dims4/default/d78f271/2147483647/strip/true/crop/2000x1050+0+237/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe3%2Fbc%2Fa261df2b4fca8b9b3332a1b26d68%2Fpink-alien-desert.jpg&rf.image_optimisation=0",
-    "source": "Refractor.io",
-    "publishedAt": "2026-06-30T04:06:36Z"
   },
   {
     "id": "7211a211",
@@ -238,6 +238,16 @@
     "image": "https://compote.slate.com/images/0ed4577f-c416-4d43-a289-bc3362ea8d1b.png?crop=3000%2C2000%2Cx0%2Cy0&width=1560",
     "source": "Slate Magazine",
     "publishedAt": "2026-06-10T20:55:04Z"
+  },
+  {
+    "id": "029f507e",
+    "type": "news",
+    "title": "It became too easy to shout ‘aliens’, so SETI changed its rules",
+    "description": "For the first time in more than 15 years, the International Academy of Astronautics (IAA) Search for Extraterrestrial Intelligence (SETI) committee has significantly revised the protocols governing how scientists “evalua…",
+    "url": "https://refractor.io/space/too-easy-to-shout-aliens-seti-changed-rules/",
+    "image": "https://assets.newatlas.com/dims4/default/d78f271/2147483647/strip/true/crop/2000x1050+0+237/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe3%2Fbc%2Fa261df2b4fca8b9b3332a1b26d68%2Fpink-alien-desert.jpg&rf.image_optimisation=0",
+    "source": "Refractor.io",
+    "publishedAt": "2026-06-30T04:06:36Z"
   },
   {
     "id": "7a309715",
