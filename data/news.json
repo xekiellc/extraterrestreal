@@ -1,5 +1,15 @@
 [
   {
+    "id": "d8da3bbc",
+    "type": "news",
+    "title": "The 10 Weirdest Objects People Mistook for UFOs",
+    "description": "From insects to the moon, people have mistaken very Earthly phenomena for UFOs many times.",
+    "url": "https://www.mentalfloss.com/culture/weird/weirdest-objects-people-mistook-for-ufos",
+    "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_1065,w_2884,h_1622/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01kwcvesrr3rmt6kv083.jpg",
+    "source": "Mental Floss",
+    "publishedAt": "2026-07-02T16:00:00Z"
+  },
+  {
     "id": "cb0b03da",
     "type": "news",
     "title": "Ross Coulthart Accuses Lue Elizondo of Being a Front Man for the UFO Coverup",
@@ -28,16 +38,6 @@
     "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/UFO2.jpg",
     "source": "Fox News",
     "publishedAt": "2026-06-24T09:00:49Z"
-  },
-  {
-    "id": "c84dee37",
-    "type": "news",
-    "title": "If 'Disclosure Day' Comes, How Can We Trust Evidence of UFOs?",
-    "description": "Steven Spielberg's new blockbuster coincides with real-world disclosures about the government's investigation of unidentified phenomena. But there's no proof of aliens yet.",
-    "url": "https://www.cnet.com/culture/disclosure-day-how-will-we-trust-evidence-ufo/",
-    "image": "https://www.cnet.com/a/img/resize/68cce9bb6f9dc0f7648b106c7af2700ee1f825cf/hub/2020/01/14/69d63409-f100-46fd-9a5e-92ada7ef3324/gettyimages-1148109735.jpg?auto=webp&fit=crop&height=675&width=1200",
-    "source": "CNET",
-    "publishedAt": "2026-06-20T13:54:35Z"
   },
   {
     "id": "4d60ab4a",
