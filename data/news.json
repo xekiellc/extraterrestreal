@@ -40,6 +40,16 @@
     "publishedAt": "2026-06-20T13:54:35Z"
   },
   {
+    "id": "b28dcd4a",
+    "type": "news",
+    "title": "The 5 Types of Aliens People Most Frequently Say They See",
+    "description": "From the Greys to the Nordics, these aliens appear frequently across abduction stories and science fiction tales.",
+    "url": "https://www.mentalfloss.com/culture/weird/major-types-of-aliens",
+    "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_450,w_2056,h_1156/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01kwfk8g841rhpv1rmvq.jpg",
+    "source": "Mental Floss",
+    "publishedAt": "2026-07-02T00:00:01Z"
+  },
+  {
     "id": "19e2dc55",
     "type": "news",
     "title": "Steven Spielberg’s Aliens",
@@ -58,16 +68,6 @@
     "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/burhcett-elizondo-1.png",
     "source": "Fox News",
     "publishedAt": "2026-06-30T21:41:29Z"
-  },
-  {
-    "id": "77563915",
-    "type": "news",
-    "title": "Inside the First Major UFO Sighting in American History",
-    "description": "In June 1947, Kenneth Arnold saw something strange in the sky. What he saw sparked a national UFO craze—but it was far from the first time people have reported seeing inexplicable lights in the sky.",
-    "url": "https://www.mentalfloss.com/culture/weird/kenneth-arnold-ufo-sighting",
-    "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1000,h_562/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01kwahtxpsymcss41w1e.jpg",
-    "source": "Mental Floss",
-    "publishedAt": "2026-06-30T16:00:03Z"
   },
   {
     "id": "7211a211",
@@ -168,6 +168,16 @@
     "image": "https://i.dailymail.com/1s/2026/06/15/14/109361449-0-image-m-40_1781528595097.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-06-15T14:15:53Z"
+  },
+  {
+    "id": "77563915",
+    "type": "news",
+    "title": "Inside the First Major UFO Sighting in American History",
+    "description": "In June 1947, Kenneth Arnold saw something strange in the sky. What he saw sparked a national UFO craze—but it was far from the first time people have reported seeing inexplicable lights in the sky.",
+    "url": "https://www.mentalfloss.com/culture/weird/kenneth-arnold-ufo-sighting",
+    "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1000,h_562/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01kwahtxpsymcss41w1e.jpg",
+    "source": "Mental Floss",
+    "publishedAt": "2026-06-30T16:00:03Z"
   },
   {
     "id": "36202574",
