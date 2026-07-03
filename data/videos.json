@@ -20,14 +20,14 @@
     "publishedAt": "2026-06-25T16:28:19Z"
   },
   {
-    "id": "8e5c159d",
+    "id": "a3be2f2c",
     "type": "video",
-    "title": "UFO Disclosure: We Are Not Alone in the Universe | Jeremy Corbell",
-    "description": "For more than 75 years, the subject of UFOs — now formally known as UAP (Unidentified Anomalous Phenomena) — has been ...",
-    "url": "https://www.youtube.com/watch?v=udNrE3XLXGA",
-    "image": "https://i.ytimg.com/vi/udNrE3XLXGA/hqdefault.jpg",
+    "title": "Declassified UFO Footage with Investigative Journalist Jeremy Corbell",
+    "description": "Investigative journalist @JeremyCorbell analyzes recently declassified UFO footage with GSP. 0:55 - FaceTime call with ...",
+    "url": "https://www.youtube.com/watch?v=fEc5qzMS40A",
+    "image": "https://i.ytimg.com/vi/fEc5qzMS40A/hqdefault.jpg",
     "source": "GSP Podcast",
-    "publishedAt": "2026-06-25T16:00:06Z"
+    "publishedAt": "2026-06-23T16:00:06Z"
   },
   {
     "id": "6fb6a5f0",
@@ -90,6 +90,16 @@
     "publishedAt": "2026-06-25T21:06:53Z"
   },
   {
+    "id": "3b75ca03",
+    "type": "video",
+    "title": "The Disclosure Forum - What It REALLY Revealed",
+    "description": "I spent a good portion of the day watching the recent Disclosure Forum in Washington, D.C. If you were expecting dramatic new ...",
+    "url": "https://www.youtube.com/watch?v=OexB_7a4ZAA",
+    "image": "https://i.ytimg.com/vi/OexB_7a4ZAA/hqdefault.jpg",
+    "source": "Richard Dolan Intelligent Disclosure ",
+    "publishedAt": "2026-06-26T23:22:10Z"
+  },
+  {
     "id": "866ad3cd",
     "type": "video",
     "title": "Beyond Disclosure: The Abduction Mystery",
@@ -98,16 +108,6 @@
     "image": "https://i.ytimg.com/vi/VHNi44gp_Ic/hqdefault.jpg",
     "source": "Richard Dolan Intelligent Disclosure ",
     "publishedAt": "2026-06-19T23:00:13Z"
-  },
-  {
-    "id": "918f3b16",
-    "type": "video",
-    "title": "Richard Dolan: They&#39;re Watching Us | The UFO Files, Disclosure &amp; Alien Behaviour",
-    "description": "Richard Dolan returns to That UFO Podcast for one of the most in-depth conversations we've ever had. Over nearly three hours, ...",
-    "url": "https://www.youtube.com/watch?v=H6trXDmLN5A",
-    "image": "https://i.ytimg.com/vi/H6trXDmLN5A/hqdefault.jpg",
-    "source": "That UFO Podcast",
-    "publishedAt": "2026-06-17T17:00:12Z"
   },
   {
     "id": "4c2305a6",
@@ -120,6 +120,16 @@
     "publishedAt": "2026-07-02T20:12:39Z"
   },
   {
+    "id": "e79fbd95",
+    "type": "video",
+    "title": "Unacknowledged by Steven M. Greer | Is It the Most Influential Disclosure Book?",
+    "description": "Welcome to The UFO Book Library — where we review the most important UFO books ever written, including collecting tips, ...",
+    "url": "https://www.youtube.com/watch?v=YdzNUAwEJFM",
+    "image": "https://i.ytimg.com/vi/YdzNUAwEJFM/hqdefault.jpg",
+    "source": "The UFO Book Library",
+    "publishedAt": "2026-07-02T17:00:06Z"
+  },
+  {
     "id": "13a47565",
     "type": "video",
     "title": "Dr. Steven Greer’s 60-Day UFO Deadline",
@@ -128,16 +138,6 @@
     "image": "https://i.ytimg.com/vi/frXxwXddd2Y/hqdefault.jpg",
     "source": "The State Files",
     "publishedAt": "2026-07-01T20:59:07Z"
-  },
-  {
-    "id": "afb3426d",
-    "type": "video",
-    "title": "What Happened When A Hellfire Missile Hit A UFO Sphere | Dr. Steven Greer",
-    "description": "In this extended Q&A Dr. Steven Greer addresses the Margina (1996) incident in Brazil, eyewitness testimony from Mount Shasta, ...",
-    "url": "https://www.youtube.com/watch?v=5moWR3LKAsI",
-    "image": "https://i.ytimg.com/vi/5moWR3LKAsI/hqdefault.jpg",
-    "source": "Best of Dr Steven Greer",
-    "publishedAt": "2026-07-01T16:00:37Z"
   },
   {
     "id": "4be4f80e",
@@ -210,16 +210,6 @@
     "publishedAt": "2026-05-16T21:29:36Z"
   },
   {
-    "id": "739b0d28",
-    "type": "video",
-    "title": "Cristina Gomez | A Future When We Know We Are Not Alone",
-    "description": "Anomacon #uap #aliens Summary: Cristina Gomez will shortly graduate from University and has been asking questions of her ...",
-    "url": "https://www.youtube.com/watch?v=4m9_URZzjLM",
-    "image": "https://i.ytimg.com/vi/4m9_URZzjLM/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2024-07-10T13:00:07Z"
-  },
-  {
     "id": "df322ef7",
     "type": "video",
     "title": "Ep. 1779 Cristina Gomez:  Bigfoot!",
@@ -230,13 +220,23 @@
     "publishedAt": "2023-03-17T04:15:18Z"
   },
   {
-    "id": "923140a2",
+    "id": "43ddc57a",
     "type": "video",
-    "title": "Mysterious Deaths | Air Force Officer&#39;s Testimony Unveiled",
-    "description": "David Grusch talks about the mysterious deaths of UAP whistleblowers. Check out the David Grusch Interview: ...",
-    "url": "https://www.youtube.com/watch?v=eOAVCVNWbqU",
-    "image": "https://i.ytimg.com/vi/eOAVCVNWbqU/hqdefault.jpg",
-    "source": "ETU ",
-    "publishedAt": "2026-06-25T00:00:05Z"
+    "title": "2022 WRAP UP - And review of Missing 411 The UFO Connection",
+    "description": "SHIFTING THE PARADIGM PLAYLIST - https://www.youtube.com/playlist?list=PLneWjPNXc1RwPk7mA_1fMCzLrG0s3j2wT A ...",
+    "url": "https://www.youtube.com/watch?v=FLcuq9p5akY",
+    "image": "https://i.ytimg.com/vi/FLcuq9p5akY/hqdefault.jpg",
+    "source": "Cristina Gomez",
+    "publishedAt": "2022-12-28T03:47:10Z"
+  },
+  {
+    "id": "8e5c159d",
+    "type": "video",
+    "title": "UFO Disclosure: We Are Not Alone in the Universe | Jeremy Corbell",
+    "description": "For more than 75 years, the subject of UFOs — now formally known as UAP (Unidentified Anomalous Phenomena) — has been ...",
+    "url": "https://www.youtube.com/watch?v=udNrE3XLXGA",
+    "image": "https://i.ytimg.com/vi/udNrE3XLXGA/hqdefault.jpg",
+    "source": "GSP Podcast",
+    "publishedAt": "2026-06-25T16:00:06Z"
   }
 ]

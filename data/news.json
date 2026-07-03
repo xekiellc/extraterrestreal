@@ -40,6 +40,26 @@
     "publishedAt": "2026-06-20T13:54:35Z"
   },
   {
+    "id": "4d60ab4a",
+    "type": "news",
+    "title": "Are MAGA and MAHA Heading for Divorce?",
+    "description": "Robert F. Kennedy Jr. promised ambitious plans to make Americans healthier. But insiders say as soon as he was named health secretary, the problems between the coalitions began",
+    "url": "http://www.rollingstone.com/politics/politics-features/maha-maga-alliance-fracture-robert-kennedy-jr-1235582070/",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2026/06/MAHA-vs-MAGA.jpg?w=1600&h=900&crop=1",
+    "source": "Rolling Stone",
+    "publishedAt": "2026-07-02T12:00:00Z"
+  },
+  {
+    "id": "71fd2599",
+    "type": "news",
+    "title": "The White House goes all in on aliens with new UAP Science Advisory Council",
+    "description": "This new group, which is led by Harvard professor Avi Loeb, aims to advise the Trump administration and the U.S. intelligence community, as well as to publish its findings in peer-reviewed journals",
+    "url": "https://www.scientificamerican.com/article/the-white-house-goes-all-in-on-aliens-with-new-uap-science-advisory-council/",
+    "image": "https://static.scientificamerican.com/dam/asset/f1a4ed3c-3394-4ef4-a89f-64dd067147b7/UAP.jpg?m=1782937379.696&w=1200",
+    "source": "Scientific American",
+    "publishedAt": "2026-07-02T11:30:00Z"
+  },
+  {
     "id": "f26330af",
     "type": "news",
     "title": "Constructions, Concoctions, Conjurations: A Reading List on the Curious World of Conlangs",
@@ -58,26 +78,6 @@
     "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_450,w_2056,h_1156/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01kwfk8g841rhpv1rmvq.jpg",
     "source": "Mental Floss",
     "publishedAt": "2026-07-02T00:00:01Z"
-  },
-  {
-    "id": "19e2dc55",
-    "type": "news",
-    "title": "Steven Spielberg’s Aliens",
-    "description": "Stephen Kearse Disclosure Day has plenty of UFOs and extraterrestrial species but very little of the human insights found in the filmmaker’s past work. The post Steven Spielberg’s Aliens appeared first on The Nation.",
-    "url": "https://www.thenation.com/article/culture/steven-spielbergs-disclosure-day/",
-    "image": "https://www.thenation.com/wp-content/uploads/2026/07/Disclosure_Day.jpg",
-    "source": "Thenation.com",
-    "publishedAt": "2026-07-01T09:00:00Z"
-  },
-  {
-    "id": "51693ac4",
-    "type": "news",
-    "title": "Tim Burchett, UFO whistleblower recount ominous government warnings after demanding UFO transparency",
-    "description": "Rep. Tim Burchett alleges the U.S. government transfers classified UFO documents to private companies to avoid FOIA requests and block disclosure.",
-    "url": "https://www.foxnews.com/media/tim-burchett-ufo-whistleblower-recount-ominous-government-warnings-after-demanding-ufo-transparency",
-    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/burhcett-elizondo-1.png",
-    "source": "Fox News",
-    "publishedAt": "2026-06-30T21:41:29Z"
   },
   {
     "id": "7211a211",
@@ -168,16 +168,6 @@
     "image": "https://brobible.com/wp-content/uploads/2026/06/ufo-orb.jpg",
     "source": "BroBible",
     "publishedAt": "2026-06-17T14:29:31Z"
-  },
-  {
-    "id": "85b9f448",
-    "type": "news",
-    "title": "Glowing 'mother orb' spotted launching swarms of mystery objects near secret US site, new Pentagon files reveal",
-    "description": "The latest batch of UFO files from the Trump administration included a report from federal agents who saw a 'mother orb' launching clusters of smaller mysterious objects.",
-    "url": "https://www.dailymail.com/sciencetech/article-15900975/mother-orb-ufo-cheyenne-mountain-colorado.html",
-    "image": "https://i.dailymail.com/1s/2026/06/15/14/109361449-0-image-m-40_1781528595097.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-06-15T14:15:53Z"
   },
   {
     "id": "77563915",
