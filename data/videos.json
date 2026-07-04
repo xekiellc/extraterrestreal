@@ -170,14 +170,14 @@
     "publishedAt": "2026-05-28T20:00:31Z"
   },
   {
-    "id": "045e7847",
+    "id": "fa4bc5eb",
     "type": "video",
-    "title": "‘Time for President Trump to tell the world’ about UAP and UFOs: Investigative journalist",
-    "description": "On Friday's “Finnerty,” investigative journalist Jeremy Corbell weighed in on the second batch of government UFO files released.",
-    "url": "https://www.youtube.com/watch?v=pP-p_R7LffY",
-    "image": "https://i.ytimg.com/vi/pP-p_R7LffY/hqdefault.jpg",
-    "source": "Newsmax",
-    "publishedAt": "2026-05-23T02:15:11Z"
+    "title": "New UFO videos: Deep analysis with Ross Coulthart | Reality Check",
+    "description": "The Pentagon has begun releasing the so-called \"UFO files,\" which contain never-before-seen documents, photos and videos ...",
+    "url": "https://www.youtube.com/watch?v=r_xevi3rSQI",
+    "image": "https://i.ytimg.com/vi/r_xevi3rSQI/hqdefault.jpg",
+    "source": "NewsNation",
+    "publishedAt": "2026-05-09T03:21:31Z"
   },
   {
     "id": "33bfecb8",
@@ -220,16 +220,6 @@
     "publishedAt": "2026-05-16T21:29:36Z"
   },
   {
-    "id": "739b0d28",
-    "type": "video",
-    "title": "Cristina Gomez | A Future When We Know We Are Not Alone",
-    "description": "Anomacon #uap #aliens Summary: Cristina Gomez will shortly graduate from University and has been asking questions of her ...",
-    "url": "https://www.youtube.com/watch?v=4m9_URZzjLM",
-    "image": "https://i.ytimg.com/vi/4m9_URZzjLM/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2024-07-10T13:00:07Z"
-  },
-  {
     "id": "df322ef7",
     "type": "video",
     "title": "Ep. 1779 Cristina Gomez:  Bigfoot!",
@@ -238,5 +228,15 @@
     "image": "https://i.ytimg.com/vi/_8I-p0Ihdmk/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2023-03-17T04:15:18Z"
+  },
+  {
+    "id": "43ddc57a",
+    "type": "video",
+    "title": "2022 WRAP UP - And review of Missing 411 The UFO Connection",
+    "description": "SHIFTING THE PARADIGM PLAYLIST - https://www.youtube.com/playlist?list=PLneWjPNXc1RwPk7mA_1fMCzLrG0s3j2wT A ...",
+    "url": "https://www.youtube.com/watch?v=FLcuq9p5akY",
+    "image": "https://i.ytimg.com/vi/FLcuq9p5akY/hqdefault.jpg",
+    "source": "Cristina Gomez",
+    "publishedAt": "2022-12-28T03:47:10Z"
   }
 ]
