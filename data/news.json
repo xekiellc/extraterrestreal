@@ -40,6 +40,16 @@
     "publishedAt": "2026-06-24T09:00:49Z"
   },
   {
+    "id": "e89f39ed",
+    "type": "news",
+    "title": "6 Years Before Game Of Thrones, Peter Dinklage Starred In A Sci-Fi Series That Was Canceled Too Soon",
+    "description": "Many recognize Peter Dinklage for his role as Tyrion Lannister in Game of Thrones, but he also starred in this forgotten early 2000s sci-fi series.",
+    "url": "https://screenrant.com/threshold-peter-dinklage-sci-fi-series-canceled-too-soon/",
+    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/game-of-thrones_2eidxo-1.jpg?w=1600&h=900&fit=crop",
+    "source": "Screen Rant",
+    "publishedAt": "2026-07-03T15:13:21Z"
+  },
+  {
     "id": "d948aa37",
     "type": "news",
     "title": "Independence Day Turns 30: Revisiting Its Weird, United, American World",
@@ -68,16 +78,6 @@
     "image": "https://static.scientificamerican.com/dam/asset/f1a4ed3c-3394-4ef4-a89f-64dd067147b7/UAP.jpg?m=1782937379.696&w=1200",
     "source": "Scientific American",
     "publishedAt": "2026-07-02T11:30:00Z"
-  },
-  {
-    "id": "f26330af",
-    "type": "news",
-    "title": "Constructions, Concoctions, Conjurations: A Reading List on the Curious World of Conlangs",
-    "description": "Making stuff up is harder, stranger, and occasionally more dangerous than it looks. Seven stories that explore the world of constructed languages.",
-    "url": "http://longreads.com/2026/07/02/conlangs-reading-list/",
-    "image": "https://i0.wp.com/longreads.com/wp-content/uploads/2026/06/ConlangsB.jpg?fit=2400%2C1400&quality=89&ssl=1",
-    "source": "Longreads.com",
-    "publishedAt": "2026-07-02T10:00:00Z"
   },
   {
     "id": "7211a211",
@@ -230,6 +230,16 @@
     "publishedAt": "2026-06-10T09:35:00Z"
   },
   {
+    "id": "7d80723a",
+    "type": "news",
+    "title": "Man Vanishes After Mysterious Experiments With Quantum Physics",
+    "description": "He \"specifically\" worked on quantum physics that investigated \"being in two places at once.\" The post Man Vanishes After Mysterious Experiments With Quantum Physics appeared first on Futurism.",
+    "url": "https://futurism.com/future-society/man-vanishes-experiments-quantum-physics",
+    "image": "https://futurism.com/wp-content/uploads/2026/07/man-vanishes-experiments-quantum-physics.jpg?quality=85&w=1200",
+    "source": "Futurism",
+    "publishedAt": "2026-07-03T16:02:00Z"
+  },
+  {
     "id": "514c2c47",
     "type": "news",
     "title": "Vulnerability Summary for the Week of June 15, 2026",
@@ -238,16 +248,6 @@
     "image": "",
     "source": "Cisa.gov",
     "publishedAt": "2026-06-22T11:36:49Z"
-  },
-  {
-    "id": "b595876f",
-    "type": "news",
-    "title": "UFO Believers Are Losing Their Minds Over Steven Spielberg’s New Movie. I Understand Why.",
-    "description": "Disclosure Day makes it clear Spielberg is deep in the weeds of today’s debates about alleged alien encounters. But it’s really about something deeper.",
-    "url": "https://slate.com/culture/2026/06/disclosure-day-steven-spielberg-aliens-movie-et.html",
-    "image": "https://compote.slate.com/images/0ed4577f-c416-4d43-a289-bc3362ea8d1b.png?crop=3000%2C2000%2Cx0%2Cy0&width=1560",
-    "source": "Slate Magazine",
-    "publishedAt": "2026-06-10T20:55:04Z"
   },
   {
     "id": "029f507e",
