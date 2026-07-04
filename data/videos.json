@@ -1,5 +1,15 @@
 [
   {
+    "id": "fcbe24fc",
+    "type": "video",
+    "title": "UAP Whistleblower Matt Brown &quot;We live in The Matrix&quot;",
+    "description": "\"We live in the matrix, it's just much more boring than the movie.\" That's UAP whistleblower Matthew Brown on WEAPONIZED with ...",
+    "url": "https://www.youtube.com/watch?v=GRWlDhaPNBs",
+    "image": "https://i.ytimg.com/vi/GRWlDhaPNBs/hqdefault.jpg",
+    "source": "🍻BrewFOs🛸",
+    "publishedAt": "2026-07-04T20:14:21Z"
+  },
+  {
     "id": "e2b0e5d7",
     "type": "video",
     "title": "The Document That Says Residents Are Being Manipulated by Aliens | George Knapp Coast to Coast AM",
@@ -18,16 +28,6 @@
     "image": "https://i.ytimg.com/vi/GGogLriOn7M/hqdefault.jpg",
     "source": "WEAPONIZED Podcast Clips",
     "publishedAt": "2026-06-25T16:28:19Z"
-  },
-  {
-    "id": "8e5c159d",
-    "type": "video",
-    "title": "UFO Disclosure: We Are Not Alone in the Universe | Jeremy Corbell",
-    "description": "For more than 75 years, the subject of UFOs — now formally known as UAP (Unidentified Anomalous Phenomena) — has been ...",
-    "url": "https://www.youtube.com/watch?v=udNrE3XLXGA",
-    "image": "https://i.ytimg.com/vi/udNrE3XLXGA/hqdefault.jpg",
-    "source": "GSP Podcast",
-    "publishedAt": "2026-06-25T16:00:06Z"
   },
   {
     "id": "b1329b2d",
@@ -120,6 +120,16 @@
     "publishedAt": "2026-06-26T23:22:10Z"
   },
   {
+    "id": "5921ead8",
+    "type": "video",
+    "title": "A Warning: Manufactured Fear Could Start Wars | Dr. Steven Greer",
+    "description": "Dr. Steven Greer reveals the uncomfortable truth: some of the phenomena long attributed to extraterrestrial beings have been ...",
+    "url": "https://www.youtube.com/watch?v=1N07G7AvR-I",
+    "image": "https://i.ytimg.com/vi/1N07G7AvR-I/hqdefault.jpg",
+    "source": "Best of Dr Steven Greer",
+    "publishedAt": "2026-07-04T16:00:25Z"
+  },
+  {
     "id": "4c2305a6",
     "type": "video",
     "title": "Dr. Steven Greer’s 60-Day UFO Deadline",
@@ -138,16 +148,6 @@
     "image": "https://i.ytimg.com/vi/YdzNUAwEJFM/hqdefault.jpg",
     "source": "The UFO Book Library",
     "publishedAt": "2026-07-02T17:00:06Z"
-  },
-  {
-    "id": "13a47565",
-    "type": "video",
-    "title": "Dr. Steven Greer’s 60-Day UFO Deadline",
-    "description": "Dr. Steven Greer says Washington has until August 29, 2026, to respond to his disclosure notice — or The Disclosure Project may ...",
-    "url": "https://www.youtube.com/watch?v=frXxwXddd2Y",
-    "image": "https://i.ytimg.com/vi/frXxwXddd2Y/hqdefault.jpg",
-    "source": "The State Files",
-    "publishedAt": "2026-07-01T20:59:07Z"
   },
   {
     "id": "4be4f80e",
@@ -230,13 +230,13 @@
     "publishedAt": "2023-03-17T04:15:18Z"
   },
   {
-    "id": "67ad9975",
+    "id": "43ddc57a",
     "type": "video",
-    "title": "Paradigm Shifts - Bald and Bonkers Show - Episode 4.1",
-    "description": "Paradigm Shifts Bald and Bonkers Show - Episode 4.1 Original Air Date: October 3rd, 2022 The Bald and Bonkers Boys are ...",
-    "url": "https://www.youtube.com/watch?v=dm4z-IYYq50",
-    "image": "https://i.ytimg.com/vi/dm4z-IYYq50/hqdefault.jpg",
-    "source": "FrandsenFiles - a Bald and Bonkers Network Channel",
-    "publishedAt": "2022-10-07T11:14:48Z"
+    "title": "2022 WRAP UP - And review of Missing 411 The UFO Connection",
+    "description": "SHIFTING THE PARADIGM PLAYLIST - https://www.youtube.com/playlist?list=PLneWjPNXc1RwPk7mA_1fMCzLrG0s3j2wT A ...",
+    "url": "https://www.youtube.com/watch?v=FLcuq9p5akY",
+    "image": "https://i.ytimg.com/vi/FLcuq9p5akY/hqdefault.jpg",
+    "source": "Cristina Gomez",
+    "publishedAt": "2022-12-28T03:47:10Z"
   }
 ]

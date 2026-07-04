@@ -30,6 +30,16 @@
     "publishedAt": "2026-06-19T01:54:46Z"
   },
   {
+    "id": "a824d4bb",
+    "type": "podcast",
+    "title": "Discussing who could be better than Lue Elizondo for the UAP Czar position - Psicoactivo Live #41",
+    "description": "On a pressing Psicoactivo, we are being hosted by Andy McGrillen from That UFO Podcast to have a discussion about Ross ...",
+    "url": "https://www.youtube.com/watch?v=HsyLxbOs5zo",
+    "image": "https://i.ytimg.com/vi/HsyLxbOs5zo/hqdefault.jpg",
+    "source": "Psicoactivo Podcast",
+    "publishedAt": "2026-06-29T20:51:03Z"
+  },
+  {
     "id": "310fa45c",
     "type": "podcast",
     "title": "008: UFOs and UAP in the UK - Andy McGrillen",
@@ -48,16 +58,6 @@
     "image": "https://i.ytimg.com/vi/EdE88JyREdw/hqdefault.jpg",
     "source": "Psicoactivo Podcast",
     "publishedAt": "2026-05-25T20:15:49Z"
-  },
-  {
-    "id": "070d1f55",
-    "type": "podcast",
-    "title": "Doomer Friday: Thomas Jane &amp; Andy McGrillen on the UFO Files &amp; Alien Species - Psicoactivo Live #30",
-    "description": "On a timely Psicoactivo, we go through whatever the latest UFO Files drop contains. We also discuss psionics & alien species with ...",
-    "url": "https://www.youtube.com/watch?v=PzHdga4xFrc",
-    "image": "https://i.ytimg.com/vi/PzHdga4xFrc/hqdefault.jpg",
-    "source": "Psicoactivo Podcast",
-    "publishedAt": "2026-05-22T20:26:09Z"
   },
   {
     "id": "54f38c42",
@@ -120,26 +120,6 @@
     "publishedAt": "2026-05-21T04:11:47Z"
   },
   {
-    "id": "a4727c28",
-    "type": "podcast",
-    "title": "A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups",
-    "description": "Payne Lindsey is an investigative filmmaker and podcaster known for hosting hit the true crime series including “Up and ...",
-    "url": "https://www.youtube.com/watch?v=bmJ2Eg9YDK4",
-    "image": "https://i.ytimg.com/vi/bmJ2Eg9YDK4/hqdefault.jpg",
-    "source": "IRONCLAD",
-    "publishedAt": "2026-06-03T21:30:06Z"
-  },
-  {
-    "id": "d554f94d",
-    "type": "podcast",
-    "title": "UFO podcast seeing success for parent company Tenderfoot TV",
-    "description": "Media company Tenderfoot TV is seeing success with the launch of \"High Strange,\" a podcast that focuses on UFOs. Tenderfoot ...",
-    "url": "https://www.youtube.com/watch?v=hup3qWCAgRQ",
-    "image": "https://i.ytimg.com/vi/hup3qWCAgRQ/hqdefault.jpg",
-    "source": "CBS News",
-    "publishedAt": "2023-05-15T15:31:21Z"
-  },
-  {
     "id": "65f4e198",
     "type": "podcast",
     "title": "The UAP Reality - Daz Smith and Joe Murgia Discuss High Strangeness",
@@ -190,13 +170,23 @@
     "publishedAt": "2026-06-18T18:46:34Z"
   },
   {
-    "id": "692c66de",
+    "id": "44f1a5cd",
     "type": "podcast",
-    "title": "Kehidupan Luar Angkasa Akan Terungkap? #astronacci #alien #podcast #viral #teorikonspirasi",
-    "description": "Pada tahun 2015, ilmuwan utama NASA, Ellen Stofan, pernah memprediksi bahwa manusia kemungkinan akan menemukan ...",
-    "url": "https://www.youtube.com/watch?v=60w_dbBY2N0",
-    "image": "https://i.ytimg.com/vi/60w_dbBY2N0/hqdefault.jpg",
-    "source": "NPDclips",
-    "publishedAt": "2026-05-15T00:28:19Z"
+    "title": "UFO Disclosure Has Started w/ Jeremy Corbell on Sleeping Dog | Shane Smith Has Questions",
+    "description": "After the latest U.S. government release of UAP/UFO files, filmmaker and investigative journalist Jeremy Corbell returns to Shane ...",
+    "url": "https://www.youtube.com/watch?v=t-UgoLo-oV8",
+    "image": "https://i.ytimg.com/vi/t-UgoLo-oV8/hqdefault.jpg",
+    "source": "VICE News",
+    "publishedAt": "2026-05-14T16:01:33Z"
+  },
+  {
+    "id": "867d1717",
+    "type": "podcast",
+    "title": "The REAL Reason Trump is Rushing to Disclose UFO Files | Dan Farah",
+    "description": "Watch every episode ad-free & uncensored on Patreon: https://patreon.com/dannyjones With news of Trump releasing UFO Files, ...",
+    "url": "https://www.youtube.com/watch?v=UpFqkpiOAMs",
+    "image": "https://i.ytimg.com/vi/UpFqkpiOAMs/hqdefault.jpg",
+    "source": "Danny Jones",
+    "publishedAt": "2026-05-04T17:00:48Z"
   }
 ]
