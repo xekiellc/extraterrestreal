@@ -30,6 +30,26 @@
     "publishedAt": "2026-06-25T16:00:06Z"
   },
   {
+    "id": "b1329b2d",
+    "type": "video",
+    "title": "#75 Is the Tic Tac Really Lockheed Martin Technology? - Need to Know - July 2026",
+    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan revisit one of the most debated claims in modern ufology: Ross ...",
+    "url": "https://www.youtube.com/watch?v=A7t5jd2FDJ4",
+    "image": "https://i.ytimg.com/vi/A7t5jd2FDJ4/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-07-04T01:00:06Z"
+  },
+  {
+    "id": "a3a722e2",
+    "type": "video",
+    "title": "Ross Coulthart Questions Lou Elizondo... His Response Changes Everything",
+    "description": "In this video, we break down the latest controversy surrounding UFO disclosure as Lou Elizondo responds to comments made by ...",
+    "url": "https://www.youtube.com/watch?v=U7hYTLojbtg",
+    "image": "https://i.ytimg.com/vi/U7hYTLojbtg/hqdefault.jpg",
+    "source": "I AM GHOST TV",
+    "publishedAt": "2026-07-03T21:55:59Z"
+  },
+  {
     "id": "d9a99985",
     "type": "video",
     "title": "Doomer Friday: Gerb &amp; Ross Coulthart against the Controlled UFO Disclosure  - Psicoactivo Live #42",
@@ -38,26 +58,6 @@
     "image": "https://i.ytimg.com/vi/YIAeJ28C_K0/hqdefault.jpg",
     "source": "Psicoactivo Podcast",
     "publishedAt": "2026-07-03T20:22:18Z"
-  },
-  {
-    "id": "6fb6a5f0",
-    "type": "video",
-    "title": "Richard Dolan Cuts Through the UFO Disclosure Drama",
-    "description": "In this video I take a careful look at the recent controversy surrounding Ross Coulthart's claims about Luis Elizondo and the idea of ...",
-    "url": "https://www.youtube.com/watch?v=Kv_LIfPRo0A",
-    "image": "https://i.ytimg.com/vi/Kv_LIfPRo0A/hqdefault.jpg",
-    "source": "Richard Dolan Intelligent Disclosure ",
-    "publishedAt": "2026-07-02T23:00:03Z"
-  },
-  {
-    "id": "392f2474",
-    "type": "video",
-    "title": "Ross Coulthart breaks silence on Lue Elizondo backlash: &#39;I was surprised&#39; | Reality Check",
-    "description": "In this episode of \"Reality Check,\" Ross Coulthart and Meagan Medick tackle the fallout from Coulthart's recent comments about ...",
-    "url": "https://www.youtube.com/watch?v=oWnRAIDUeo4",
-    "image": "https://i.ytimg.com/vi/oWnRAIDUeo4/hqdefault.jpg",
-    "source": "NewsNation",
-    "publishedAt": "2026-07-01T22:00:06Z"
   },
   {
     "id": "793059c0",
@@ -90,6 +90,26 @@
     "publishedAt": "2026-06-28T11:37:44Z"
   },
   {
+    "id": "72c62a4b",
+    "type": "video",
+    "title": "The 1950 Farmington UFO Armada Incident",
+    "description": "In this episode, we explore one of the most astonishing and little-known UFO events in American history, the 1950 Farmington ...",
+    "url": "https://www.youtube.com/watch?v=vAhFyejjKfs",
+    "image": "https://i.ytimg.com/vi/vAhFyejjKfs/hqdefault.jpg",
+    "source": "The Arkin's Hearth",
+    "publishedAt": "2026-07-03T21:48:54Z"
+  },
+  {
+    "id": "6fb6a5f0",
+    "type": "video",
+    "title": "Richard Dolan Cuts Through the UFO Disclosure Drama",
+    "description": "In this video I take a careful look at the recent controversy surrounding Ross Coulthart's claims about Luis Elizondo and the idea of ...",
+    "url": "https://www.youtube.com/watch?v=Kv_LIfPRo0A",
+    "image": "https://i.ytimg.com/vi/Kv_LIfPRo0A/hqdefault.jpg",
+    "source": "Richard Dolan Intelligent Disclosure ",
+    "publishedAt": "2026-07-02T23:00:03Z"
+  },
+  {
     "id": "3b75ca03",
     "type": "video",
     "title": "The Disclosure Forum - What It REALLY Revealed",
@@ -98,16 +118,6 @@
     "image": "https://i.ytimg.com/vi/OexB_7a4ZAA/hqdefault.jpg",
     "source": "Richard Dolan Intelligent Disclosure ",
     "publishedAt": "2026-06-26T23:22:10Z"
-  },
-  {
-    "id": "866ad3cd",
-    "type": "video",
-    "title": "Beyond Disclosure: The Abduction Mystery",
-    "description": "The Experiencers: Full Disclosure Amazon: https://shorturl.at/9gPU0 Apple TV: ...",
-    "url": "https://www.youtube.com/watch?v=VHNi44gp_Ic",
-    "image": "https://i.ytimg.com/vi/VHNi44gp_Ic/hqdefault.jpg",
-    "source": "Richard Dolan Intelligent Disclosure ",
-    "publishedAt": "2026-06-19T23:00:13Z"
   },
   {
     "id": "4c2305a6",
@@ -160,14 +170,14 @@
     "publishedAt": "2026-05-28T20:00:31Z"
   },
   {
-    "id": "fa4bc5eb",
+    "id": "045e7847",
     "type": "video",
-    "title": "New UFO videos: Deep analysis with Ross Coulthart | Reality Check",
-    "description": "The Pentagon has begun releasing the so-called \"UFO files,\" which contain never-before-seen documents, photos and videos ...",
-    "url": "https://www.youtube.com/watch?v=r_xevi3rSQI",
-    "image": "https://i.ytimg.com/vi/r_xevi3rSQI/hqdefault.jpg",
-    "source": "NewsNation",
-    "publishedAt": "2026-05-09T03:21:31Z"
+    "title": "‘Time for President Trump to tell the world’ about UAP and UFOs: Investigative journalist",
+    "description": "On Friday's “Finnerty,” investigative journalist Jeremy Corbell weighed in on the second batch of government UFO files released.",
+    "url": "https://www.youtube.com/watch?v=pP-p_R7LffY",
+    "image": "https://i.ytimg.com/vi/pP-p_R7LffY/hqdefault.jpg",
+    "source": "Newsmax",
+    "publishedAt": "2026-05-23T02:15:11Z"
   },
   {
     "id": "33bfecb8",
@@ -228,15 +238,5 @@
     "image": "https://i.ytimg.com/vi/_8I-p0Ihdmk/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2023-03-17T04:15:18Z"
-  },
-  {
-    "id": "923140a2",
-    "type": "video",
-    "title": "Mysterious Deaths | Air Force Officer&#39;s Testimony Unveiled",
-    "description": "David Grusch talks about the mysterious deaths of UAP whistleblowers. Check out the David Grusch Interview: ...",
-    "url": "https://www.youtube.com/watch?v=eOAVCVNWbqU",
-    "image": "https://i.ytimg.com/vi/eOAVCVNWbqU/hqdefault.jpg",
-    "source": "ETU ",
-    "publishedAt": "2026-06-25T00:00:05Z"
   }
 ]
