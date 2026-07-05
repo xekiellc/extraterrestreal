@@ -1,5 +1,15 @@
 [
   {
+    "id": "53323926",
+    "type": "news",
+    "title": "Trump UFO advisors accuse private corporations of operating alien craft-retrieval programs",
+    "description": "Lawmakers and Trump UFO advisors are naming the private corporations who allegedly operate crash retrieval programs and are attempting to drag them into the Trump administration's alien disclosure push.",
+    "url": "https://nypost.com/2026/07/04/us-news/trump-ufo-advisors-accuse-private-corporations-of-operating-alien-craft-retrieval-programs/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/declassified-image-shows-ufo-flight-132392925.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-07-04T13:00:00Z"
+  },
+  {
     "id": "d8da3bbc",
     "type": "news",
     "title": "The 10 Weirdest Objects People Mistook for UFOs",
@@ -30,14 +40,14 @@
     "publishedAt": "2026-06-28T10:00:59Z"
   },
   {
-    "id": "3a0991df",
+    "id": "2e611ba9",
     "type": "news",
-    "title": "America is right to investigate UAP claims, but that’s only the beginning",
-    "description": "A Pentagon strategist with 46 years of national security experience argues that disciplined inquiry, not public certainty, is key to the UAP debate.",
-    "url": "https://www.foxnews.com/opinion/america-right-investigate-uap-claims-thats-beginning",
-    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/UFO2.jpg",
-    "source": "Fox News",
-    "publishedAt": "2026-06-24T09:00:49Z"
+    "title": "This 4th of July, We Rank the Best Video Game Politicians of All Time",
+    "description": "From ex-presidents in power armor to thinly veiled stand-ins for real-world suits, I rank 12 of the most unhinged public servants in video games, just in time for America's 250th birthday bash. Video games are no strange…",
+    "url": "https://uk.pcmag.com/games/166006/this-4th-of-july-we-rank-the-best-video-game-politicians-of-all-time",
+    "image": "https://sm.pcmag.com/t/pcmag_uk/news/t/this-4th-o/this-4th-of-july-we-rank-the-best-video-game-politicians-of_xs4p.1200.jpg",
+    "source": "PCMag.com",
+    "publishedAt": "2026-07-04T12:33:25Z"
   },
   {
     "id": "e89f39ed",
@@ -68,16 +78,6 @@
     "image": "https://www.rollingstone.com/wp-content/uploads/2026/06/MAHA-vs-MAGA.jpg?w=1600&h=900&crop=1",
     "source": "Rolling Stone",
     "publishedAt": "2026-07-02T12:00:00Z"
-  },
-  {
-    "id": "71fd2599",
-    "type": "news",
-    "title": "The White House goes all in on aliens with new UAP Science Advisory Council",
-    "description": "This new group, which is led by Harvard professor Avi Loeb, aims to advise the Trump administration and the U.S. intelligence community, as well as to publish its findings in peer-reviewed journals",
-    "url": "https://www.scientificamerican.com/article/the-white-house-goes-all-in-on-aliens-with-new-uap-science-advisory-council/",
-    "image": "https://static.scientificamerican.com/dam/asset/f1a4ed3c-3394-4ef4-a89f-64dd067147b7/UAP.jpg?m=1782937379.696&w=1200",
-    "source": "Scientific American",
-    "publishedAt": "2026-07-02T11:30:00Z"
   },
   {
     "id": "7211a211",
@@ -140,6 +140,16 @@
     "publishedAt": "2026-06-25T13:15:20Z"
   },
   {
+    "id": "3a0991df",
+    "type": "news",
+    "title": "America is right to investigate UAP claims, but that’s only the beginning",
+    "description": "A Pentagon strategist with 46 years of national security experience argues that disciplined inquiry, not public certainty, is key to the UAP debate.",
+    "url": "https://www.foxnews.com/opinion/america-right-investigate-uap-claims-thats-beginning",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/UFO2.jpg",
+    "source": "Fox News",
+    "publishedAt": "2026-06-24T09:00:49Z"
+  },
+  {
     "id": "a0f3b44f",
     "type": "news",
     "title": "The UFO files the government won't ever release: I've read them all. They fear a full-blown national crisis and destruction of religious faith... but it's time for the REAL disclosure day. Here's what you deserve to know",
@@ -148,6 +158,16 @@
     "image": "https://i.dailymail.com/1s/2026/06/10/21/109210757-0-image-m-73_1781121818329.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-06-12T23:32:33Z"
+  },
+  {
+    "id": "71fd2599",
+    "type": "news",
+    "title": "The White House goes all in on aliens with new UAP Science Advisory Council",
+    "description": "This new group, which is led by Harvard professor Avi Loeb, aims to advise the Trump administration and the U.S. intelligence community, as well as to publish its findings in peer-reviewed journals",
+    "url": "https://www.scientificamerican.com/article/the-white-house-goes-all-in-on-aliens-with-new-uap-science-advisory-council/",
+    "image": "https://static.scientificamerican.com/dam/asset/f1a4ed3c-3394-4ef4-a89f-64dd067147b7/UAP.jpg?m=1782937379.696&w=1200",
+    "source": "Scientific American",
+    "publishedAt": "2026-07-02T11:30:00Z"
   },
   {
     "id": "1b7fffd3",
@@ -278,15 +298,5 @@
     "image": "https://images.theconversation.com/files/739467/original/file-20260602-57-enb7mo.jpg?ixlib=rb-4.1.0&rect=49%2C243%2C1673%2C836&q=45&auto=format&w=1356&h=668&fit=crop",
     "source": "The Conversation Africa",
     "publishedAt": "2026-06-08T12:02:07Z"
-  },
-  {
-    "id": "f9f9c6a4",
-    "type": "news",
-    "title": "In 1977, a radio telescope in Ohio called Big Ear picked up a 72-second signal so strong and so cleanly from the direction of Sagittarius that the astronomer on duty circled it in red ink and wrote ‘Wow!’ in the margin, and nearly fifty years later nobody has ever heard it again.",
-    "description": "On August 15, 1977, Ohio's Big Ear telescope recorded a 72-second narrowband signal from Sagittarius so strong its discoverer circled it and wrote 'Wow!' in red ink. Despite decades of searches and a recent Arecibo re-an…",
-    "url": "https://spacedaily.com/sd-in-1977-a-radio-telescope-in-ohio-called-big-ear-picked-up-a-72-second-signal-so-strong-and-so-cleanly-from-the-direction-of-sagittarius-that-the-astronomer-on-duty-circled-it-in-red-ink-and-wrote/",
-    "image": "https://spacedaily.com/wp-content/uploads/2026/06/When-the-SS-Great-Eastern-laid-the-first-working-transatlantic-telegraph-cable-in-1866-1.png",
-    "source": "Space Daily",
-    "publishedAt": "2026-06-08T12:00:03Z"
   }
 ]
