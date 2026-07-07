@@ -90,16 +90,6 @@
     "publishedAt": "2026-06-28T11:37:44Z"
   },
   {
-    "id": "72c62a4b",
-    "type": "video",
-    "title": "The 1950 Farmington UFO Armada Incident",
-    "description": "In this episode, we explore one of the most astonishing and little-known UFO events in American history, the 1950 Farmington ...",
-    "url": "https://www.youtube.com/watch?v=vAhFyejjKfs",
-    "image": "https://i.ytimg.com/vi/vAhFyejjKfs/hqdefault.jpg",
-    "source": "The Arkin's Hearth",
-    "publishedAt": "2026-07-03T21:48:54Z"
-  },
-  {
     "id": "6fb6a5f0",
     "type": "video",
     "title": "Richard Dolan Cuts Through the UFO Disclosure Drama",
@@ -118,6 +108,26 @@
     "image": "https://i.ytimg.com/vi/mJ4reirVp5I/hqdefault.jpg",
     "source": "Richard Dolan Intelligent Disclosure ",
     "publishedAt": "2026-06-30T21:25:52Z"
+  },
+  {
+    "id": "3b75ca03",
+    "type": "video",
+    "title": "The Disclosure Forum - What It REALLY Revealed",
+    "description": "I spent a good portion of the day watching the recent Disclosure Forum in Washington, D.C. If you were expecting dramatic new ...",
+    "url": "https://www.youtube.com/watch?v=OexB_7a4ZAA",
+    "image": "https://i.ytimg.com/vi/OexB_7a4ZAA/hqdefault.jpg",
+    "source": "Richard Dolan Intelligent Disclosure ",
+    "publishedAt": "2026-06-26T23:22:10Z"
+  },
+  {
+    "id": "20bb51bb",
+    "type": "video",
+    "title": "Alien Disclosure In Crisis! Free Humanity Today!! -Tinfoil Canadian 47",
+    "description": "The fight for the truth has reached a boiling point. On June 29th, Dr. Steven Greer issued a critical call to action, exposing a ...",
+    "url": "https://www.youtube.com/watch?v=oFT3ki2fPsQ",
+    "image": "https://i.ytimg.com/vi/oFT3ki2fPsQ/hqdefault.jpg",
+    "source": "Tinfoil Canadian",
+    "publishedAt": "2026-07-05T16:19:07Z"
   },
   {
     "id": "c3b19324",
@@ -140,16 +150,6 @@
     "publishedAt": "2026-07-04T16:00:25Z"
   },
   {
-    "id": "4c2305a6",
-    "type": "video",
-    "title": "Dr. Steven Greer’s 60-Day UFO Deadline",
-    "description": "Dr. Steven Greer says Washington has until August 29, 2026, to respond to his disclosure notice — or The Disclosure Project may ...",
-    "url": "https://www.youtube.com/watch?v=YATpIVPXinM",
-    "image": "https://i.ytimg.com/vi/YATpIVPXinM/hqdefault.jpg",
-    "source": "The State Files",
-    "publishedAt": "2026-07-02T20:12:39Z"
-  },
-  {
     "id": "4be4f80e",
     "type": "video",
     "title": "Special Access Required  - the Secrecy of UFO Crash Retrieval Programs [VOL.2]",
@@ -160,16 +160,6 @@
     "publishedAt": "2026-06-19T20:15:36Z"
   },
   {
-    "id": "023fd830",
-    "type": "video",
-    "title": "UFO Reverse Engineering, Crash Retrievals, and the Pentagon’s New Files | UAP Gerb",
-    "description": "John Michael Godier is joined by @UAPGerb to discuss the Pentagon's latest UAP document and video releases, including ...",
-    "url": "https://www.youtube.com/watch?v=ecEY2xNFzPw",
-    "image": "https://i.ytimg.com/vi/ecEY2xNFzPw/hqdefault.jpg",
-    "source": "Event Horizon",
-    "publishedAt": "2026-05-28T20:00:31Z"
-  },
-  {
     "id": "fa4bc5eb",
     "type": "video",
     "title": "New UFO videos: Deep analysis with Ross Coulthart | Reality Check",
@@ -178,6 +168,16 @@
     "image": "https://i.ytimg.com/vi/r_xevi3rSQI/hqdefault.jpg",
     "source": "NewsNation",
     "publishedAt": "2026-05-09T03:21:31Z"
+  },
+  {
+    "id": "8c2deb44",
+    "type": "video",
+    "title": "Northrop Grumman &amp; TRW - UFO Reverse Engineering, Material Exploitation, &amp; Legacy Programs [Vol.2]",
+    "description": "An exploration into Northrop Grumman and its 2002 crown jewel acquisition, TRW, and UFO Legacy Program Activities. As one of ...",
+    "url": "https://www.youtube.com/watch?v=0kLSp0lH-JQ",
+    "image": "https://i.ytimg.com/vi/0kLSp0lH-JQ/hqdefault.jpg",
+    "source": "UAP Gerb",
+    "publishedAt": "2026-03-20T20:33:17Z"
   },
   {
     "id": "33bfecb8",
