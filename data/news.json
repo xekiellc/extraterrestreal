@@ -40,6 +40,16 @@
     "publishedAt": "2026-06-28T10:00:59Z"
   },
   {
+    "id": "42a06667",
+    "type": "news",
+    "title": "Scientists want to quarantine alien life on the Moon before it reaches Earth",
+    "description": "Scientists are calling for a lunar quarantine facility where samples from Mars, the Moon, and beyond would be examined before being brought to Earth. They warn that even a tiny alien microorganism could have unpredictabl…",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260623083144.htm",
+    "image": "https://www.sciencedaily.com/images/1920/moon-earth-rising.webp",
+    "source": "Science Daily",
+    "publishedAt": "2026-07-06T14:39:56Z"
+  },
+  {
     "id": "a312aef8",
     "type": "news",
     "title": "NASA accused of erasing UFOs from photographs before public release",
@@ -68,16 +78,6 @@
     "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/game-of-thrones_2eidxo-1.jpg?w=1600&h=900&fit=crop",
     "source": "Screen Rant",
     "publishedAt": "2026-07-03T15:13:21Z"
-  },
-  {
-    "id": "d948aa37",
-    "type": "news",
-    "title": "Independence Day Turns 30: Revisiting Its Weird, United, American World",
-    "description": "Thirty years later, the biggest blockbuster of 1996 offers an unexpected window into its era. Independence Day Turns 30: Revisiting Its Weird, United, American World Dominick Suzanne-Mayer",
-    "url": "https://consequence.net/2026/07/independence-day-movie-anniversary-america/",
-    "image": "https://consequence.net/wp-content/uploads/2016/06/independence-day-movie-30th-anniversary.jpg",
-    "source": "Consequence.net",
-    "publishedAt": "2026-07-03T12:25:42Z"
   },
   {
     "id": "7211a211",
