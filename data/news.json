@@ -40,6 +40,16 @@
     "publishedAt": "2026-06-28T10:00:59Z"
   },
   {
+    "id": "c59b340a",
+    "type": "news",
+    "title": "It became too easy to shout ‘aliens’, so SETI changed its rules",
+    "description": "For the first time in more than 15 years, the International Academy of Astronautics (IAA) Search for Extraterrestrial Intelligence (SETI) committee has significantly revised the protocols governing how scientists “evalua…",
+    "url": "https://newatlas.com/space/too-easy-to-shout-aliens-seti-changed-rules/",
+    "image": "https://assets.newatlas.com/dims4/default/d78f271/2147483647/strip/true/crop/2000x1050+0+237/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe3%2Fbc%2Fa261df2b4fca8b9b3332a1b26d68%2Fpink-alien-desert.jpg&na.image_optimisation=0",
+    "source": "New Atlas",
+    "publishedAt": "2026-07-07T09:43:16Z"
+  },
+  {
     "id": "42a06667",
     "type": "news",
     "title": "Scientists want to quarantine alien life on the Moon before it reaches Earth",
@@ -68,16 +78,6 @@
     "image": "https://sm.pcmag.com/t/pcmag_uk/news/t/this-4th-o/this-4th-of-july-we-rank-the-best-video-game-politicians-of_xs4p.1200.jpg",
     "source": "PCMag.com",
     "publishedAt": "2026-07-04T12:33:25Z"
-  },
-  {
-    "id": "e89f39ed",
-    "type": "news",
-    "title": "6 Years Before Game Of Thrones, Peter Dinklage Starred In A Sci-Fi Series That Was Canceled Too Soon",
-    "description": "Many recognize Peter Dinklage for his role as Tyrion Lannister in Game of Thrones, but he also starred in this forgotten early 2000s sci-fi series.",
-    "url": "https://screenrant.com/threshold-peter-dinklage-sci-fi-series-canceled-too-soon/",
-    "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2026/06/game-of-thrones_2eidxo-1.jpg?w=1600&h=900&fit=crop",
-    "source": "Screen Rant",
-    "publishedAt": "2026-07-03T15:13:21Z"
   },
   {
     "id": "7211a211",
