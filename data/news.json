@@ -40,6 +40,16 @@
     "publishedAt": "2026-06-28T10:00:59Z"
   },
   {
+    "id": "f5eef35c",
+    "type": "news",
+    "title": "Steven Spielberg's TAKEN Already Told a Better Version of the Story DISCLOSURE DAY Wanted to Tell",
+    "description": "When Steven Spielberg announced Disclosure Day, many fans immediately saw it as another entry in the filmmaker's long-running fascination with extraterrestrial life. After all, this is the director who gave us Close Enco…",
+    "url": "https://geektyrant.com/news/why-steven-spielbergs-taken-may-have-already-told-a-better-version-of-the-story-disclosure-day-wants-to-tell",
+    "image": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6a2aebc4d65693763e9d09b2/1783533531787/Why+Steven+Spielberg%27s+TAKEN+May+Have+Already+Told+a+Better+Version+of+the+Story+DISCLOSURE+DAY+Wants+to+Tell.jpg?format=1500w",
+    "source": "GeekTyrant",
+    "publishedAt": "2026-07-08T17:58:00Z"
+  },
+  {
     "id": "4432d059",
     "type": "news",
     "title": "Lue Elizondo Claims NASA Has Photos of Alien Monoliths on the Moon",
@@ -68,16 +78,6 @@
     "image": "https://i.dailymail.com/1s/2026/07/06/19/109835917-0-image-m-11_1783361388919.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-07-07T23:14:34Z"
-  },
-  {
-    "id": "c59b340a",
-    "type": "news",
-    "title": "It became too easy to shout ‘aliens’, so SETI changed its rules",
-    "description": "For the first time in more than 15 years, the International Academy of Astronautics (IAA) Search for Extraterrestrial Intelligence (SETI) committee has significantly revised the protocols governing how scientists “evalua…",
-    "url": "https://newatlas.com/space/too-easy-to-shout-aliens-seti-changed-rules/",
-    "image": "https://assets.newatlas.com/dims4/default/d78f271/2147483647/strip/true/crop/2000x1050+0+237/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe3%2Fbc%2Fa261df2b4fca8b9b3332a1b26d68%2Fpink-alien-desert.jpg&na.image_optimisation=0",
-    "source": "New Atlas",
-    "publishedAt": "2026-07-07T09:43:16Z"
   },
   {
     "id": "7211a211",
@@ -280,6 +280,16 @@
     "publishedAt": "2026-06-22T11:36:49Z"
   },
   {
+    "id": "c59b340a",
+    "type": "news",
+    "title": "It became too easy to shout ‘aliens’, so SETI changed its rules",
+    "description": "For the first time in more than 15 years, the International Academy of Astronautics (IAA) Search for Extraterrestrial Intelligence (SETI) committee has significantly revised the protocols governing how scientists “evalua…",
+    "url": "https://newatlas.com/space/too-easy-to-shout-aliens-seti-changed-rules/",
+    "image": "https://assets.newatlas.com/dims4/default/d78f271/2147483647/strip/true/crop/2000x1050+0+237/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe3%2Fbc%2Fa261df2b4fca8b9b3332a1b26d68%2Fpink-alien-desert.jpg&na.image_optimisation=0",
+    "source": "New Atlas",
+    "publishedAt": "2026-07-07T09:43:16Z"
+  },
+  {
     "id": "029f507e",
     "type": "news",
     "title": "It became too easy to shout ‘aliens’, so SETI changed its rules",
@@ -288,15 +298,5 @@
     "image": "https://assets.newatlas.com/dims4/default/d78f271/2147483647/strip/true/crop/2000x1050+0+237/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe3%2Fbc%2Fa261df2b4fca8b9b3332a1b26d68%2Fpink-alien-desert.jpg&rf.image_optimisation=0",
     "source": "Refractor.io",
     "publishedAt": "2026-06-30T04:06:36Z"
-  },
-  {
-    "id": "7a309715",
-    "type": "news",
-    "title": "Scientists Just Updated the Rules for What Happens When We Find Aliens",
-    "description": "New SETI protocols outline how scientists should verify, share, and respond to potential evidence of alien intelligence in the modern information age.",
-    "url": "https://gizmodo.com/scientists-just-updated-the-rules-for-what-happens-when-we-find-aliens-2000769422",
-    "image": "https://gizmodo.com/app/uploads/2026/06/SETI-Radar-Search-Dish-1200x675.jpg",
-    "source": "Gizmodo.com",
-    "publishedAt": "2026-06-09T14:25:04Z"
   }
 ]
