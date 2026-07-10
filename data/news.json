@@ -40,6 +40,26 @@
     "publishedAt": "2026-06-28T10:00:59Z"
   },
   {
+    "id": "b0a4d8f7",
+    "type": "news",
+    "title": "NASA reveals it has captured UFO imagery as space agency chief admits 'there's life everywhere'",
+    "description": "NASA's chief administrator confirmed that the space agency has taken images of objects which can only be described as UFOs. Jared Isaacman, who took the helm in December, said real imagery captured from space could not b…",
+    "url": "https://freerepublic.com/focus/f-chat/4387333/posts",
+    "image": "",
+    "source": "Freerepublic.com",
+    "publishedAt": "2026-07-09T20:26:13Z"
+  },
+  {
+    "id": "e92486ff",
+    "type": "news",
+    "title": "NASA director: We have images of unexplained objects but have no evidence of UFOs",
+    "description": "Jarrett Isaacman discusses unexplained images from space and believes that humanity may discover extraterrestrial life within the next few decades The post NASA director: We have images of unexplained objects but have no…",
+    "url": "https://en.protothema.gr/2026/07/09/nasa-director-we-have-images-of-unexplained-objects-but-have-no-evidence-of-ufos/",
+    "image": "https://en.protothema.gr/wp-content/uploads/2026/07/maketa-nasa-eksogiinoi-1.jpg-1.jpg",
+    "source": "Protothema.gr",
+    "publishedAt": "2026-07-09T19:44:34Z"
+  },
+  {
     "id": "434eaaba",
     "type": "news",
     "title": "NASA reveals it has captured UFO imagery as space agency chief admits 'there's life everywhere'",
@@ -58,26 +78,6 @@
     "image": "https://storage.ghost.io/c/36/db/36db2d53-b96a-4b7f-9ea6-1e48a1d7715e/content/images/size/w1200/2026/07/ufos.png",
     "source": "Skeptic.com",
     "publishedAt": "2026-07-09T13:12:20Z"
-  },
-  {
-    "id": "a0b596bc",
-    "type": "news",
-    "title": "Report finds errors in White House “Alien Arrest” tracker",
-    "description": "The Ohio Immigrant Alliance found that data on the White House's \"Aliens\" site is \"inaccurate and unreliable.\"",
-    "url": "https://www.salon.com/2026/07/08/report-finds-errors-in-white-house-alien-arrest-tracker/",
-    "image": "https://www.salon.com/app/uploads/2026/04/GettyImages-2197149990.jpg",
-    "source": "Salon",
-    "publishedAt": "2026-07-08T22:02:07Z"
-  },
-  {
-    "id": "95dd9d03",
-    "type": "news",
-    "title": "How to find alien technology",
-    "description": "I wanted to know how astronomers actually go looking for life in space.",
-    "url": "https://www.nextgov.com/modernization/2026/07/how-find-alien-technology/414661/",
-    "image": "https://cdn.nextgov.com/media/img/cd/2026/07/08/GettyImages_144070787-1/open-graph.jpg",
-    "source": "Nextgov",
-    "publishedAt": "2026-07-08T21:30:00Z"
   },
   {
     "id": "7211a211",
@@ -120,6 +120,16 @@
     "publishedAt": "2026-06-16T10:00:24Z"
   },
   {
+    "id": "c7fae716",
+    "type": "news",
+    "title": "I'm a priest and the Bible gives us proof of what UFOs really are... here's what Jesus told us",
+    "description": "A priest has identified several Bible passages he believes hold the key to understanding UFOs.",
+    "url": "https://www.dailymail.com/sciencetech/article-15966195/priest-bible-ufo-proof-jesus.html",
+    "image": "https://i.dailymail.com/1s/2026/07/09/20/108475693-0-image-m-31_1783623616337.jpg",
+    "source": "Dailymail.com",
+    "publishedAt": "2026-07-09T19:01:55Z"
+  },
+  {
     "id": "967fced3",
     "type": "news",
     "title": "I saw unreleased UFO files at a secret meeting in the Tennessee mountains. We prayed after seeing what these 'humanoid beings' did... the world is not prepared",
@@ -148,16 +158,6 @@
     "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/UFO2.jpg",
     "source": "Fox News",
     "publishedAt": "2026-06-24T09:00:49Z"
-  },
-  {
-    "id": "a0f3b44f",
-    "type": "news",
-    "title": "The UFO files the government won't ever release: I've read them all. They fear a full-blown national crisis and destruction of religious faith... but it's time for the REAL disclosure day. Here's what you deserve to know",
-    "description": "One of the biggest names in the UFO disclosure movement says a pivotal moment may be approaching.",
-    "url": "https://www.dailymail.com/sciencetech/article-15883727/ufo-files-government-secrets-corbell-grusch.html",
-    "image": "https://i.dailymail.com/1s/2026/06/10/21/109210757-0-image-m-73_1781121818329.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-06-12T23:32:33Z"
   },
   {
     "id": "71fd2599",
@@ -230,6 +230,16 @@
     "publishedAt": "2026-06-23T15:24:36Z"
   },
   {
+    "id": "a0f3b44f",
+    "type": "news",
+    "title": "The UFO files the government won't ever release: I've read them all. They fear a full-blown national crisis and destruction of religious faith... but it's time for the REAL disclosure day. Here's what you deserve to know",
+    "description": "One of the biggest names in the UFO disclosure movement says a pivotal moment may be approaching.",
+    "url": "https://www.dailymail.com/sciencetech/article-15883727/ufo-files-government-secrets-corbell-grusch.html",
+    "image": "https://i.dailymail.com/1s/2026/06/10/21/109210757-0-image-m-73_1781121818329.jpg",
+    "source": "Dailymail.com",
+    "publishedAt": "2026-06-12T23:32:33Z"
+  },
+  {
     "id": "27eba83b",
     "type": "news",
     "title": "'Disclosure Day': For Steven Spielberg, aliens are not just fiction",
@@ -288,15 +298,5 @@
     "image": "https://assets.newatlas.com/dims4/default/d78f271/2147483647/strip/true/crop/2000x1050+0+237/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe3%2Fbc%2Fa261df2b4fca8b9b3332a1b26d68%2Fpink-alien-desert.jpg&na.image_optimisation=0",
     "source": "New Atlas",
     "publishedAt": "2026-07-07T09:43:16Z"
-  },
-  {
-    "id": "029f507e",
-    "type": "news",
-    "title": "It became too easy to shout ‘aliens’, so SETI changed its rules",
-    "description": "For the first time in more than 15 years, the International Academy of Astronautics (IAA) Search for Extraterrestrial Intelligence (SETI) committee has significantly revised the protocols governing how scientists “evalua…",
-    "url": "https://refractor.io/space/too-easy-to-shout-aliens-seti-changed-rules/",
-    "image": "https://assets.newatlas.com/dims4/default/d78f271/2147483647/strip/true/crop/2000x1050+0+237/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe3%2Fbc%2Fa261df2b4fca8b9b3332a1b26d68%2Fpink-alien-desert.jpg&rf.image_optimisation=0",
-    "source": "Refractor.io",
-    "publishedAt": "2026-06-30T04:06:36Z"
   }
 ]
