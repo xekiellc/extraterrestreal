@@ -40,6 +40,16 @@
     "publishedAt": "2026-06-28T10:00:59Z"
   },
   {
+    "id": "434eaaba",
+    "type": "news",
+    "title": "NASA reveals it has captured UFO imagery as space agency chief admits 'there's life everywhere'",
+    "description": "The new head of NASA confirmed that images which cannot be explained have been taken, and revealed plans to 'invade' other worlds throughout the cosmos.",
+    "url": "https://www.dailymail.com/sciencetech/article-15965359/nasa-chief-jared-isaacman-ufo-images.html",
+    "image": "https://i.dailymail.com/1s/2026/07/09/16/108468281-0-image-m-24_1783609730349.jpg",
+    "source": "Dailymail.com",
+    "publishedAt": "2026-07-09T15:33:53Z"
+  },
+  {
     "id": "5c5e8dd1",
     "type": "news",
     "title": "Mysteries, Meteors, and Foo Fighters",
@@ -68,16 +78,6 @@
     "image": "https://cdn.nextgov.com/media/img/cd/2026/07/08/GettyImages_144070787-1/open-graph.jpg",
     "source": "Nextgov",
     "publishedAt": "2026-07-08T21:30:00Z"
-  },
-  {
-    "id": "f5eef35c",
-    "type": "news",
-    "title": "Steven Spielberg's TAKEN Already Told a Better Version of the Story DISCLOSURE DAY Wanted to Tell",
-    "description": "When Steven Spielberg announced Disclosure Day, many fans immediately saw it as another entry in the filmmaker's long-running fascination with extraterrestrial life. After all, this is the director who gave us Close Enco…",
-    "url": "https://geektyrant.com/news/why-steven-spielbergs-taken-may-have-already-told-a-better-version-of-the-story-disclosure-day-wants-to-tell",
-    "image": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6a2aebc4d65693763e9d09b2/1783533531787/Why+Steven+Spielberg%27s+TAKEN+May+Have+Already+Told+a+Better+Version+of+the+Story+DISCLOSURE+DAY+Wants+to+Tell.jpg?format=1500w",
-    "source": "GeekTyrant",
-    "publishedAt": "2026-07-08T17:58:00Z"
   },
   {
     "id": "7211a211",
