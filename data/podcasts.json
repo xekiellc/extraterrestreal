@@ -1,5 +1,35 @@
 [
   {
+    "id": "b1329b2d",
+    "type": "podcast",
+    "title": "#75 Is the Tic Tac Really Lockheed Martin Technology? — Need to Know — July 2026",
+    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan revisit one of the most debated claims in modern ufology: Ross ...",
+    "url": "https://www.youtube.com/watch?v=A7t5jd2FDJ4",
+    "image": "https://i.ytimg.com/vi/A7t5jd2FDJ4/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-07-04T01:00:06Z"
+  },
+  {
+    "id": "2e5db4d0",
+    "type": "podcast",
+    "title": "When Jesse Asked Bryce About Ross on American Alchemy",
+    "description": "Near the end of this week's American Alchemy, host Jesse Michels asks Bryce Zabel about his final episode of Need to Know with ...",
+    "url": "https://www.youtube.com/watch?v=XS_h0Dcevdo",
+    "image": "https://i.ytimg.com/vi/XS_h0Dcevdo/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-06-23T05:15:41Z"
+  },
+  {
+    "id": "df90c462",
+    "type": "podcast",
+    "title": "#18 DISCLOSURE DAY  — Sound, Light &amp; Frequency",
+    "description": "Steven Spielberg's Disclosure Day has arrived with massive expectations, strong early box office, and a wave of polarized ...",
+    "url": "https://www.youtube.com/watch?v=U04unJVpz8s",
+    "image": "https://i.ytimg.com/vi/U04unJVpz8s/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-06-19T01:54:46Z"
+  },
+  {
     "id": "bc73da2d",
     "type": "podcast",
     "title": "Dr. Eric Davis explains why speaking about 4 Alien Species is not classified - Psicoactivo Live #43",
@@ -120,6 +150,36 @@
     "publishedAt": "2022-07-08T11:45:07Z"
   },
   {
+    "id": "74e3ef82",
+    "type": "podcast",
+    "title": "Disclosure Team&#39;s Vinnie Adams&#39;s favorite UFO theories &amp; Disclosure Day Spoilers - Psicoactivo #1048",
+    "description": "On a timely Psicoactivo, we have Disclosure Team's Vinnie Adams to talk about his journey as a UFO researcher, the most ...",
+    "url": "https://www.youtube.com/watch?v=FlvYU5QsGxs",
+    "image": "https://i.ytimg.com/vi/FlvYU5QsGxs/hqdefault.jpg",
+    "source": "Psicoactivo Podcast",
+    "publishedAt": "2026-06-12T16:00:07Z"
+  },
+  {
+    "id": "e1e077dd",
+    "type": "podcast",
+    "title": "Why do UFOs appear differently around the world? With Vinnie Adams from the Disclosure team",
+    "description": "clip from an interview with Vinnie from the disclosure team. #tomvernonuap #interview #usa #uk #ufo #uap #disclosureteam.",
+    "url": "https://www.youtube.com/watch?v=l3IhsfkCCCI",
+    "image": "https://i.ytimg.com/vi/l3IhsfkCCCI/hqdefault.jpg",
+    "source": "Tom Vernon UAP",
+    "publishedAt": "2026-05-05T00:54:00Z"
+  },
+  {
+    "id": "59acc3fa",
+    "type": "podcast",
+    "title": "The stigma behind telling the truth about UFOs with Vinnie Adams from the Disclosure Team",
+    "description": "clip from our interview where we discuss Vinnies take on the evolution of the UFO phenomenon. #tomvernonuap #disclosureteam ...",
+    "url": "https://www.youtube.com/watch?v=VE_j8Zxsv80",
+    "image": "https://i.ytimg.com/vi/VE_j8Zxsv80/hqdefault.jpg",
+    "source": "Tom Vernon UAP",
+    "publishedAt": "2026-05-05T00:49:51Z"
+  },
+  {
     "id": "46b80a76",
     "type": "podcast",
     "title": "The Age of Disclosure: Who Actually Controls the UAP Secrets? | w/ Dan Farah | SSHQ",
@@ -138,15 +198,5 @@
     "image": "https://i.ytimg.com/vi/60w_dbBY2N0/hqdefault.jpg",
     "source": "NPDclips",
     "publishedAt": "2026-05-15T00:28:19Z"
-  },
-  {
-    "id": "44f1a5cd",
-    "type": "podcast",
-    "title": "UFO Disclosure Has Started w/ Jeremy Corbell on Sleeping Dog | Shane Smith Has Questions",
-    "description": "After the latest U.S. government release of UAP/UFO files, filmmaker and investigative journalist Jeremy Corbell returns to Shane ...",
-    "url": "https://www.youtube.com/watch?v=t-UgoLo-oV8",
-    "image": "https://i.ytimg.com/vi/t-UgoLo-oV8/hqdefault.jpg",
-    "source": "VICE News",
-    "publishedAt": "2026-05-14T16:01:33Z"
   }
 ]
