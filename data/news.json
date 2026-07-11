@@ -160,6 +160,16 @@
     "publishedAt": "2026-06-24T09:00:49Z"
   },
   {
+    "id": "23e862f8",
+    "type": "news",
+    "title": "New Trump UFO file dump includes military footage of mysterious star-shaped object",
+    "description": "Newly declassified infrared videos from military sensors show unidentified objects over the Yellow Sea and near the Pantex nuclear weapons facility.",
+    "url": "https://www.foxnews.com/politics/trump-ufo-file-dump-includes-military-footage-mysterious-star-shaped-object",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/morgan-ufo-1.gif",
+    "source": "Fox News",
+    "publishedAt": "2026-07-10T19:12:05Z"
+  },
+  {
     "id": "71fd2599",
     "type": "news",
     "title": "The White House goes all in on aliens with new UAP Science Advisory Council",
@@ -178,16 +188,6 @@
     "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/what-are-ufos-1.jpg",
     "source": "Naturalnews.com",
     "publishedAt": "2026-06-18T06:00:00Z"
-  },
-  {
-    "id": "83f8a397",
-    "type": "news",
-    "title": "White House Forms Advisory Council To Study UFO Orbs And Other Military Sightings",
-    "description": "The White House has formed a new Science Advisory Council led by astrophysicist Avi Loeb to study UFO orbs and other military sightings. “Over the past week, I was tasked by the above organizations to create a research t…",
-    "url": "https://brobible.com/sports/article/white-house-advisory-council-ufo-orbs-military-sightings/",
-    "image": "https://brobible.com/wp-content/uploads/2026/06/ufo-orb.jpg",
-    "source": "BroBible",
-    "publishedAt": "2026-06-17T14:29:31Z"
   },
   {
     "id": "77563915",
