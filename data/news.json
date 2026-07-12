@@ -1,5 +1,15 @@
 [
   {
+    "id": "6b6217ea",
+    "type": "news",
+    "title": "White House UFO insider: I'm finally exposing the government's high-definition satellite footage of 'alien tech'... you are only getting a fraction of the story",
+    "description": "An investigative journalist who has helped bring secret UFO footage to the public has shared what he has learned from insiders about what the government isn't sharing.",
+    "url": "https://www.dailymail.com/sciencetech/article-15968979/white-house-ufo-satellite-footage-alien-technology.html",
+    "image": "https://i.dailymail.com/1s/2026/07/11/18/109935531-0-The_Trump_administration_released_a_fourth_batch_of_UFO_files_on-a-85_1783792013511.jpg",
+    "source": "Dailymail.com",
+    "publishedAt": "2026-07-11T17:47:44Z"
+  },
+  {
     "id": "ffd2e418",
     "type": "news",
     "title": "Harvard astronomer tapped to lead White House UFO council says US government 'baffled by what they are seeing'",
@@ -30,14 +40,14 @@
     "publishedAt": "2026-07-02T16:00:00Z"
   },
   {
-    "id": "cb0b03da",
+    "id": "9f776465",
     "type": "news",
-    "title": "Ross Coulthart Accuses Lue Elizondo of Being a Front Man for the UFO Coverup",
-    "description": "In his NewsNation Reality Check show, Ross Coulthart accused Lue Elizondo of being a part of the conspiracy to suppress the truth about UFOs. Coulthart alleged, without evidence, that sources in the UFO crash retrieval l…",
-    "url": "https://www.jasoncolavito.com/blog/ross-coulthart-accuses-lue-elizondo-of-being-a-front-man-for-the-ufo-coverup",
-    "image": "http://www.jasoncolavito.com/uploads/3/7/5/9/3759274/blog-square_orig.jpg",
-    "source": "Jasoncolavito.com",
-    "publishedAt": "2026-06-29T01:17:12Z"
+    "title": "Ex-Pentagon UFO honcho claims photos show monolith-like structures on moon",
+    "description": "Former Pentagon UFO investigator Luis Elizondo claims the US government possesses unreleased photographs showing what appear to be giant monolith-like structures on the moon -- and the images may go public soon",
+    "url": "https://nypost.com/2026/07/11/us-news/ex-pentagon-ufo-prober-claims-photos-show-structures-on-lunar-surface/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/crop-39948207_e3ec9e.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-07-11T17:00:37Z"
   },
   {
     "id": "6f241573",
@@ -48,26 +58,6 @@
     "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/Trump-UFO-Release.jpg?quality=75&strip=all&w=1200",
     "source": "New York Post",
     "publishedAt": "2026-07-10T15:47:27Z"
-  },
-  {
-    "id": "6939b867",
-    "type": "news",
-    "title": "NASA chief confirms agency has unexplained UFO imagery; 'we don't know what it is'",
-    "description": "Jared Isaacman says NASA has captured imagery of unknown objects it cannot explain, as Trump pushes broader UAP declassification efforts forward.",
-    "url": "https://www.foxnews.com/us/nasa-chief-confirms-agency-unexplained-ufo-imagery-dont-know-what-it-is",
-    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Jared-Isaacman-nasa-001.jpg",
-    "source": "Fox News",
-    "publishedAt": "2026-07-09T21:34:33Z"
-  },
-  {
-    "id": "b0a4d8f7",
-    "type": "news",
-    "title": "NASA reveals it has captured UFO imagery as space agency chief admits 'there's life everywhere'",
-    "description": "NASA's chief administrator confirmed that the space agency has taken images of objects which can only be described as UFOs. Jared Isaacman, who took the helm in December, said real imagery captured from space could not b…",
-    "url": "https://freerepublic.com/focus/f-chat/4387333/posts",
-    "image": "",
-    "source": "Freerepublic.com",
-    "publishedAt": "2026-07-09T20:26:13Z"
   },
   {
     "id": "7211a211",
@@ -138,16 +128,6 @@
     "image": "https://i.dailymail.com/1s/2026/06/24/23/106811189-0-image-m-62_1782340171620.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-06-25T13:15:20Z"
-  },
-  {
-    "id": "3a0991df",
-    "type": "news",
-    "title": "America is right to investigate UAP claims, but that’s only the beginning",
-    "description": "A Pentagon strategist with 46 years of national security experience argues that disciplined inquiry, not public certainty, is key to the UAP debate.",
-    "url": "https://www.foxnews.com/opinion/america-right-investigate-uap-claims-thats-beginning",
-    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/UFO2.jpg",
-    "source": "Fox News",
-    "publishedAt": "2026-06-24T09:00:49Z"
   },
   {
     "id": "16c6bd4f",
@@ -268,16 +248,6 @@
     "image": "https://futurism.com/wp-content/uploads/2026/07/man-vanishes-experiments-quantum-physics.jpg?quality=85&w=1200",
     "source": "Futurism",
     "publishedAt": "2026-07-03T16:02:00Z"
-  },
-  {
-    "id": "514c2c47",
-    "type": "news",
-    "title": "Vulnerability Summary for the Week of June 15, 2026",
-    "description": "High Vulnerabilities PrimaryVendor -- Product Description Published CVSS Score Source Info 10Web--Form Maker by 10Web Unauthenticated SQL Injection in Form Maker by 10Web…",
-    "url": "https://www.cisa.gov/news-events/bulletins/sb26-173",
-    "image": "",
-    "source": "Cisa.gov",
-    "publishedAt": "2026-06-22T11:36:49Z"
   },
   {
     "id": "c59b340a",
