@@ -1,15 +1,5 @@
 [
   {
-    "id": "e91da742",
-    "type": "video",
-    "title": "The Most Thought-Provoking Thing Matthew Brown Said",
-    "description": "You are not free.” - Independence Day got me thinking about something Matthew Brown said during his interview on Weaponized ...",
-    "url": "https://www.youtube.com/watch?v=Nw2R7n1TK8U",
-    "image": "https://i.ytimg.com/vi/Nw2R7n1TK8U/hqdefault.jpg",
-    "source": "Hallucination Hippies",
-    "publishedAt": "2026-07-05T20:31:34Z"
-  },
-  {
     "id": "fcbe24fc",
     "type": "video",
     "title": "UAP Whistleblower Matt Brown &quot;We live in The Matrix&quot;",
@@ -28,6 +18,16 @@
     "image": "https://i.ytimg.com/vi/gCHc6rfJf3c/hqdefault.jpg",
     "source": "Coast To Coast AM Shorts",
     "publishedAt": "2026-06-28T16:00:06Z"
+  },
+  {
+    "id": "7f47fc26",
+    "type": "video",
+    "title": "Whitley Strieber’s Darkest UFO Theory: “People Are Being Taken, Mutilated”",
+    "description": "WATCH THE FULL EPISODE HERE https://www.youtube.com/watch?v=YiNznVZ5ciY&t=4349s MERCH ...",
+    "url": "https://www.youtube.com/watch?v=GGogLriOn7M",
+    "image": "https://i.ytimg.com/vi/GGogLriOn7M/hqdefault.jpg",
+    "source": "WEAPONIZED Podcast Clips",
+    "publishedAt": "2026-06-25T16:28:19Z"
   },
   {
     "id": "9e237323",
@@ -62,7 +62,7 @@
   {
     "id": "a5dfc1c2",
     "type": "video",
-    "title": "I Debated The President&#39;s New UFO Advisor (It Got Ugly...)",
+    "title": "I Debated UFOs With America’s Top Skeptic (It Got Ugly...)",
     "description": "Our American Alchemist this week is Michael Shermer. Check out Michael's book Truth: What It Is, How to Find It, and Why It Still ...",
     "url": "https://www.youtube.com/watch?v=8Rr_nE65KkI",
     "image": "https://i.ytimg.com/vi/8Rr_nE65KkI/hqdefault.jpg",
@@ -140,14 +140,14 @@
     "publishedAt": "2026-07-10T04:27:18Z"
   },
   {
-    "id": "84e7355c",
+    "id": "d3095a95",
     "type": "video",
-    "title": "Steven Greer: Az Ember, Aki Szerint Már Rég Tudjuk Az Igazságot",
-    "description": "Steven Greer neve évtizedek óta megkerülhetetlen az UFO-kutatás világában. Egykori sürgősségi orvosból lett a Disclosure ...",
-    "url": "https://www.youtube.com/watch?v=dKjTjb6Uoe4",
-    "image": "https://i.ytimg.com/vi/dKjTjb6Uoe4/hqdefault.jpg",
-    "source": "MAGYARFARKAS",
-    "publishedAt": "2026-07-07T22:00:16Z"
+    "title": "Are Boomers Planning an Alien Invasion?",
+    "description": "Disclaimer: This video explores symbolic and historical theories in a speculative way. It does not promote or assert literal claims.",
+    "url": "https://www.youtube.com/watch?v=k6IbNsWABOs",
+    "image": "https://i.ytimg.com/vi/k6IbNsWABOs/hqdefault.jpg",
+    "source": "The Simulated Leviathan",
+    "publishedAt": "2026-07-09T11:37:49Z"
   },
   {
     "id": "4be4f80e",
@@ -220,6 +220,16 @@
     "publishedAt": "2026-05-16T21:29:36Z"
   },
   {
+    "id": "739b0d28",
+    "type": "video",
+    "title": "Cristina Gomez | A Future When We Know We Are Not Alone",
+    "description": "Anomacon #uap #aliens Summary: Cristina Gomez will shortly graduate from University and has been asking questions of her ...",
+    "url": "https://www.youtube.com/watch?v=4m9_URZzjLM",
+    "image": "https://i.ytimg.com/vi/4m9_URZzjLM/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2024-07-10T13:00:07Z"
+  },
+  {
     "id": "df322ef7",
     "type": "video",
     "title": "Ep. 1779 Cristina Gomez:  Bigfoot!",
@@ -228,15 +238,5 @@
     "image": "https://i.ytimg.com/vi/_8I-p0Ihdmk/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2023-03-17T04:15:18Z"
-  },
-  {
-    "id": "43ddc57a",
-    "type": "video",
-    "title": "2022 WRAP UP - And review of Missing 411 The UFO Connection",
-    "description": "SHIFTING THE PARADIGM PLAYLIST - https://www.youtube.com/playlist?list=PLneWjPNXc1RwPk7mA_1fMCzLrG0s3j2wT A ...",
-    "url": "https://www.youtube.com/watch?v=FLcuq9p5akY",
-    "image": "https://i.ytimg.com/vi/FLcuq9p5akY/hqdefault.jpg",
-    "source": "Cristina Gomez",
-    "publishedAt": "2022-12-28T03:47:10Z"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "id": "ffd2e418",
+    "type": "news",
+    "title": "Harvard astronomer tapped to lead White House UFO council says US government 'baffled by what they are seeing'",
+    "description": "Avi Loeb's scientific advisory council has requested over 50 Pentagon videos and documents related to UAP sightings under a new transparency push.",
+    "url": "https://www.foxnews.com/politics/harvard-astronomer-tapped-lead-white-house-ufo-council-says-us-government-baffled-what-they-are-seeing",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/avi-loeb.png",
+    "source": "Fox News",
+    "publishedAt": "2026-07-11T16:44:17Z"
+  },
+  {
     "id": "53323926",
     "type": "news",
     "title": "Trump UFO advisors accuse private corporations of operating alien craft-retrieval programs",
@@ -30,16 +40,6 @@
     "publishedAt": "2026-06-29T01:17:12Z"
   },
   {
-    "id": "567594ef",
-    "type": "news",
-    "title": "Chuck Schumer Is Getting Back on His UFO Bullshit",
-    "description": "His UAPDA co-sponsor, GOP Sen. Mike Rounds, says they will try to pass their disclosure legislation again this year",
-    "url": "https://www.jezebel.com/chuck-schumer-is-getting-back-on-his-ufo-bullshit",
-    "image": "https://img.pastemagazine.com/wp-content/suploads/2024/08/Reid-Schumer-UFOs-Theory.jpg",
-    "source": "Jezebel",
-    "publishedAt": "2026-06-28T10:00:59Z"
-  },
-  {
     "id": "6f241573",
     "type": "news",
     "title": "Haunting video of six-pointed object in latest Trump UFO file dump — as proof of alien life remains elusive",
@@ -68,16 +68,6 @@
     "image": "",
     "source": "Freerepublic.com",
     "publishedAt": "2026-07-09T20:26:13Z"
-  },
-  {
-    "id": "e92486ff",
-    "type": "news",
-    "title": "NASA director: We have images of unexplained objects but have no evidence of UFOs",
-    "description": "Jarrett Isaacman discusses unexplained images from space and believes that humanity may discover extraterrestrial life within the next few decades The post NASA director: We have images of unexplained objects but have no…",
-    "url": "https://en.protothema.gr/2026/07/09/nasa-director-we-have-images-of-unexplained-objects-but-have-no-evidence-of-ufos/",
-    "image": "https://en.protothema.gr/wp-content/uploads/2026/07/maketa-nasa-eksogiinoi-1.jpg-1.jpg",
-    "source": "Protothema.gr",
-    "publishedAt": "2026-07-09T19:44:34Z"
   },
   {
     "id": "7211a211",
@@ -248,6 +238,16 @@
     "image": "https://i.dailymail.com/1s/2026/06/10/21/109210757-0-image-m-73_1781121818329.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-06-12T23:32:33Z"
+  },
+  {
+    "id": "567594ef",
+    "type": "news",
+    "title": "Chuck Schumer Is Getting Back on His UFO Bullshit",
+    "description": "His UAPDA co-sponsor, GOP Sen. Mike Rounds, says they will try to pass their disclosure legislation again this year",
+    "url": "https://www.jezebel.com/chuck-schumer-is-getting-back-on-his-ufo-bullshit",
+    "image": "https://img.pastemagazine.com/wp-content/suploads/2024/08/Reid-Schumer-UFOs-Theory.jpg",
+    "source": "Jezebel",
+    "publishedAt": "2026-06-28T10:00:59Z"
   },
   {
     "id": "d539322e",
