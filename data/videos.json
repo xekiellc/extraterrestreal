@@ -1,15 +1,5 @@
 [
   {
-    "id": "e91da742",
-    "type": "video",
-    "title": "The Most Thought-Provoking Thing Matthew Brown Said",
-    "description": "You are not free.” - Independence Day got me thinking about something Matthew Brown said during his interview on Weaponized ...",
-    "url": "https://www.youtube.com/watch?v=Nw2R7n1TK8U",
-    "image": "https://i.ytimg.com/vi/Nw2R7n1TK8U/hqdefault.jpg",
-    "source": "Hallucination Hippies",
-    "publishedAt": "2026-07-05T20:31:34Z"
-  },
-  {
     "id": "fcbe24fc",
     "type": "video",
     "title": "UAP Whistleblower Matt Brown &quot;We live in The Matrix&quot;",
@@ -28,6 +18,16 @@
     "image": "https://i.ytimg.com/vi/gCHc6rfJf3c/hqdefault.jpg",
     "source": "Coast To Coast AM Shorts",
     "publishedAt": "2026-06-28T16:00:06Z"
+  },
+  {
+    "id": "7f47fc26",
+    "type": "video",
+    "title": "Whitley Strieber’s Darkest UFO Theory: “People Are Being Taken, Mutilated”",
+    "description": "WATCH THE FULL EPISODE HERE https://www.youtube.com/watch?v=YiNznVZ5ciY&t=4349s MERCH ...",
+    "url": "https://www.youtube.com/watch?v=GGogLriOn7M",
+    "image": "https://i.ytimg.com/vi/GGogLriOn7M/hqdefault.jpg",
+    "source": "WEAPONIZED Podcast Clips",
+    "publishedAt": "2026-06-25T16:28:19Z"
   },
   {
     "id": "e10547ce",
@@ -130,6 +130,16 @@
     "publishedAt": "2026-07-13T15:00:08Z"
   },
   {
+    "id": "dc20ab3a",
+    "type": "video",
+    "title": "URGENT! Aliens Prevented Nuclear Armageddon | Dr. Steven Greer",
+    "description": "What if the biggest UFO secret was never about a crash—but about what happened afterward? In this compelling interview, Dr.",
+    "url": "https://www.youtube.com/watch?v=KOOlkLdecxU",
+    "image": "https://i.ytimg.com/vi/KOOlkLdecxU/hqdefault.jpg",
+    "source": "Best of Awaken Zone",
+    "publishedAt": "2026-07-13T13:45:29Z"
+  },
+  {
     "id": "f4e50198",
     "type": "video",
     "title": "Why Presidents Don&#39;t Know the UFO Truth | Dr. Steven Greer",
@@ -138,16 +148,6 @@
     "image": "https://i.ytimg.com/vi/Z27OxYofzls/hqdefault.jpg",
     "source": "Best of Dr Steven Greer",
     "publishedAt": "2026-07-10T15:00:24Z"
-  },
-  {
-    "id": "8ba4ec1b",
-    "type": "video",
-    "title": "UFO (UAP) / ET DISCLOSURE - Steven Greer’s CE5: Explaining the UFO phenomena.",
-    "description": "For those who want to know more/ become acquainted with the UFO/ CE5 phenomena, here is an overview of Steven's own ...",
-    "url": "https://www.youtube.com/watch?v=WG7N5xqf8WQ",
-    "image": "https://i.ytimg.com/vi/WG7N5xqf8WQ/hqdefault.jpg",
-    "source": "Peter Tackaert",
-    "publishedAt": "2026-07-10T04:27:18Z"
   },
   {
     "id": "4be4f80e",
@@ -220,14 +220,14 @@
     "publishedAt": "2026-05-16T21:29:36Z"
   },
   {
-    "id": "78b6ecc5",
+    "id": "739b0d28",
     "type": "video",
-    "title": "UFOs - They Lost Time",
-    "description": "A Weekly Livestream Show with a focus on recounting cases and stories of the Strange and Unexplained, Mysterious Events, ...",
-    "url": "https://www.youtube.com/watch?v=A63HsIEHCpI",
-    "image": "https://i.ytimg.com/vi/A63HsIEHCpI/hqdefault.jpg",
-    "source": "Cristina Gomez",
-    "publishedAt": "2023-08-15T22:35:51Z"
+    "title": "Cristina Gomez | A Future When We Know We Are Not Alone",
+    "description": "Anomacon #uap #aliens Summary: Cristina Gomez will shortly graduate from University and has been asking questions of her ...",
+    "url": "https://www.youtube.com/watch?v=4m9_URZzjLM",
+    "image": "https://i.ytimg.com/vi/4m9_URZzjLM/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2024-07-10T13:00:07Z"
   },
   {
     "id": "df322ef7",

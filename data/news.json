@@ -1,5 +1,15 @@
 [
   {
+    "id": "502fe7cb",
+    "type": "news",
+    "title": "Pentagon UFO Files Detail Mystery Object Near Texas Nuclear Plant",
+    "description": "The Pentagon released previously classified files detailing an unidentified object observed near a Texas nuclear facility, officials said. The object was tracked on radar and witnessed by multiple plant security personne…",
+    "url": "https://www.naturalnews.com/2026-07-13-pentagon-ufo-files-detail-mystery-object-texas.html",
+    "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/ufo-pentagon-classified-files-2679-original.jpg",
+    "source": "Naturalnews.com",
+    "publishedAt": "2026-07-13T06:00:00Z"
+  },
+  {
     "id": "6b6217ea",
     "type": "news",
     "title": "White House UFO insider: I'm finally exposing the government's high-definition satellite footage of 'alien tech'... you are only getting a fraction of the story",
@@ -28,16 +38,6 @@
     "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/declassified-image-shows-ufo-flight-132392925.jpg?quality=75&strip=all&w=1200",
     "source": "New York Post",
     "publishedAt": "2026-07-04T13:00:00Z"
-  },
-  {
-    "id": "d8da3bbc",
-    "type": "news",
-    "title": "The 10 Weirdest Objects People Mistook for UFOs",
-    "description": "From insects to the moon, people have mistaken very Earthly phenomena for UFOs many times.",
-    "url": "https://www.mentalfloss.com/culture/weird/weirdest-objects-people-mistook-for-ufos",
-    "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_1065,w_2884,h_1622/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/mentalfloss/01kwcvesrr3rmt6kv083.jpg",
-    "source": "Mental Floss",
-    "publishedAt": "2026-07-02T16:00:00Z"
   },
   {
     "id": "9f776465",
@@ -158,16 +158,6 @@
     "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/morgan-ufo-1.gif",
     "source": "Fox News",
     "publishedAt": "2026-07-10T19:12:05Z"
-  },
-  {
-    "id": "71fd2599",
-    "type": "news",
-    "title": "The White House goes all in on aliens with new UAP Science Advisory Council",
-    "description": "This new group, which is led by Harvard professor Avi Loeb, aims to advise the Trump administration and the U.S. intelligence community, as well as to publish its findings in peer-reviewed journals",
-    "url": "https://www.scientificamerican.com/article/the-white-house-goes-all-in-on-aliens-with-new-uap-science-advisory-council/",
-    "image": "https://static.scientificamerican.com/dam/asset/f1a4ed3c-3394-4ef4-a89f-64dd067147b7/UAP.jpg?m=1782937379.696&w=1200",
-    "source": "Scientific American",
-    "publishedAt": "2026-07-02T11:30:00Z"
   },
   {
     "id": "77563915",
