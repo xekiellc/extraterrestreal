@@ -40,6 +40,26 @@
     "publishedAt": "2026-07-04T13:00:00Z"
   },
   {
+    "id": "880207cc",
+    "type": "news",
+    "title": "They Knew Too Much",
+    "description": "With Close Encounters of the Third Kind Steven Spielberg promised an encounter and delivered one. Disclosure Day announces a precisely scheduled disclosure but at the last moment, just as a world-changing message is abou…",
+    "url": "https://www.nybooks.com/online/2026/07/14/they-knew-too-much-disclosure-day/",
+    "image": "https://www.nybooks.com/wp-content/uploads/2026/07/OBrien202607_5.jpeg",
+    "source": "The New York Review of Books",
+    "publishedAt": "2026-07-14T15:20:45Z"
+  },
+  {
+    "id": "ac24dd5f",
+    "type": "news",
+    "title": "Do We Think of UFOs as Crafts [sic] or Beings, and Why Does It Matter?",
+    "description": "There is a pretty pervasive and consistent assumption in our long history of UFO sightings: that the unidentified objects some of us see in the night sky are vehicles or crafts inside of which are what we're really inter…",
+    "url": "https://freerepublic.com/focus/f-chat/4387913/posts",
+    "image": "",
+    "source": "Freerepublic.com",
+    "publishedAt": "2026-07-14T15:19:58Z"
+  },
+  {
     "id": "9f776465",
     "type": "news",
     "title": "Ex-Pentagon UFO honcho claims photos show monolith-like structures on moon",
@@ -48,16 +68,6 @@
     "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/crop-39948207_e3ec9e.jpg?quality=75&strip=all&w=1200",
     "source": "New York Post",
     "publishedAt": "2026-07-11T17:00:37Z"
-  },
-  {
-    "id": "6f241573",
-    "type": "news",
-    "title": "Haunting video of six-pointed object in latest Trump UFO file dump — as proof of alien life remains elusive",
-    "description": "The Pentagon released its fourth batch of UFO files Friday following President Trump's declassification order earlier this year.",
-    "url": "https://nypost.com/2026/07/10/us-news/haunting-video-of-six-pointed-object-in-latest-trump-ufo-file-dump-as-proof-of-alien-life-remains-elusive/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/Trump-UFO-Release.jpg?quality=75&strip=all&w=1200",
-    "source": "New York Post",
-    "publishedAt": "2026-07-10T15:47:27Z"
   },
   {
     "id": "7211a211",
