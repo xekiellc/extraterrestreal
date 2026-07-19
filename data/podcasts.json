@@ -1,5 +1,65 @@
 [
   {
+    "id": "b1329b2d",
+    "type": "podcast",
+    "title": "#75 Is the Tic Tac Really Lockheed Martin Technology? — Need to Know — July 2026",
+    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan revisit one of the most debated claims in modern ufology: Ross ...",
+    "url": "https://www.youtube.com/watch?v=A7t5jd2FDJ4",
+    "image": "https://i.ytimg.com/vi/A7t5jd2FDJ4/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-07-04T01:00:06Z"
+  },
+  {
+    "id": "392f2474",
+    "type": "podcast",
+    "title": "Ross Coulthart breaks silence on Lue Elizondo backlash: &#39;I was surprised&#39; | Reality Check",
+    "description": "In this episode of \"Reality Check,\" Ross Coulthart and Meagan Medick tackle the fallout from Coulthart's recent comments about ...",
+    "url": "https://www.youtube.com/watch?v=oWnRAIDUeo4",
+    "image": "https://i.ytimg.com/vi/oWnRAIDUeo4/hqdefault.jpg",
+    "source": "NewsNation",
+    "publishedAt": "2026-07-01T22:00:06Z"
+  },
+  {
+    "id": "2e5db4d0",
+    "type": "podcast",
+    "title": "When Jesse Asked Bryce About Ross on American Alchemy",
+    "description": "Near the end of this week's American Alchemy, host Jesse Michels asks Bryce Zabel about his final episode of Need to Know with ...",
+    "url": "https://www.youtube.com/watch?v=XS_h0Dcevdo",
+    "image": "https://i.ytimg.com/vi/XS_h0Dcevdo/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-06-23T05:15:41Z"
+  },
+  {
+    "id": "bc73da2d",
+    "type": "podcast",
+    "title": "Dr. Eric Davis explains why speaking about 4 Alien Species is not classified - Psicoactivo Live #43",
+    "description": "On a fresh Psicoactivo Live, we have Andy McGrillen from That UFO Podcast on deck to discuss the latest from the interview Dr.",
+    "url": "https://www.youtube.com/watch?v=BS4pORXC53E",
+    "image": "https://i.ytimg.com/vi/BS4pORXC53E/hqdefault.jpg",
+    "source": "Psicoactivo Podcast",
+    "publishedAt": "2026-07-06T21:19:20Z"
+  },
+  {
+    "id": "a824d4bb",
+    "type": "podcast",
+    "title": "Discussing who could be better than Lue Elizondo for the UAP Czar position - Psicoactivo Live #41",
+    "description": "On a pressing Psicoactivo, we are being hosted by Andy McGrillen from That UFO Podcast to have a discussion about Ross ...",
+    "url": "https://www.youtube.com/watch?v=HsyLxbOs5zo",
+    "image": "https://i.ytimg.com/vi/HsyLxbOs5zo/hqdefault.jpg",
+    "source": "Psicoactivo Podcast",
+    "publishedAt": "2026-06-29T20:51:03Z"
+  },
+  {
+    "id": "d380bb56",
+    "type": "podcast",
+    "title": "What Happens to People After UFO Disclosure?",
+    "description": "Most UFO conversations focus on evidence, secret programmes, whistleblowers, crash retrievals, files and government secrecy.",
+    "url": "https://www.youtube.com/watch?v=cl2ook2wnl8",
+    "image": "https://i.ytimg.com/vi/cl2ook2wnl8/hqdefault.jpg",
+    "source": "That UFO Podcast",
+    "publishedAt": "2026-06-24T17:00:18Z"
+  },
+  {
     "id": "63166958",
     "type": "podcast",
     "title": "Behind the Camera of UFO History with Paul Kimball",
