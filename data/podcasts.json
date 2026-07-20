@@ -60,6 +60,16 @@
     "publishedAt": "2026-06-24T17:00:18Z"
   },
   {
+    "id": "f5b02c5f",
+    "type": "podcast",
+    "title": "U.S. Government is LURING UFOs, Catholics Prepare for DISCLOSURE, Bigfoot Corpse FOUND,",
+    "description": "LIVE #UAP #SomewhereintheSkies Ryan and Suzanne RETURN for Somewhere in the Skies LIVE! They break down the latest ...",
+    "url": "https://www.youtube.com/watch?v=ifs8Bq0H2gk",
+    "image": "https://i.ytimg.com/vi/ifs8Bq0H2gk/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-07-20T09:41:45Z"
+  },
+  {
     "id": "63166958",
     "type": "podcast",
     "title": "Behind the Camera of UFO History with Paul Kimball",
@@ -78,16 +88,6 @@
     "image": "https://i.ytimg.com/vi/6joNN_pAres/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-07-15T17:00:06Z"
-  },
-  {
-    "id": "898204e7",
-    "type": "podcast",
-    "title": "I Was There: Working at AREA 51 and SKINWALKER RANCH (w/ Christopher Bartel)",
-    "description": "area51 #skinwalker #skinwalkerranch We're joined by U.S. Air Force veteran Christopher Bartel, a former employee of both Area ...",
-    "url": "https://www.youtube.com/watch?v=tGZxIbBEFCg",
-    "image": "https://i.ytimg.com/vi/tGZxIbBEFCg/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-07-13T14:00:06Z"
   },
   {
     "id": "e33ef3ef",
@@ -168,5 +168,35 @@
     "image": "https://i.ytimg.com/vi/l3IhsfkCCCI/hqdefault.jpg",
     "source": "Tom Vernon UAP",
     "publishedAt": "2026-05-05T00:54:00Z"
+  },
+  {
+    "id": "7b1955c9",
+    "type": "podcast",
+    "title": "UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic",
+    "description": "Is there life beyond Planet Earth? In this UFOs: Investigating the Unknown Mega Episode from National Geographic, explore the ...",
+    "url": "https://www.youtube.com/watch?v=dDxYZyMEmUU",
+    "image": "https://i.ytimg.com/vi/dDxYZyMEmUU/hqdefault.jpg",
+    "source": "National Geographic",
+    "publishedAt": "2026-06-27T13:00:25Z"
+  },
+  {
+    "id": "46b80a76",
+    "type": "podcast",
+    "title": "The Age of Disclosure: Who Actually Controls the UAP Secrets? | w/ Dan Farah | SSHQ",
+    "description": "Who actually controls the biggest secret in modern history? For decades, UFOs were treated as conspiracy theories, fringe ...",
+    "url": "https://www.youtube.com/watch?v=MWM5AtR3n9o",
+    "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
+    "source": "VICE News",
+    "publishedAt": "2026-06-18T18:46:34Z"
+  },
+  {
+    "id": "692c66de",
+    "type": "podcast",
+    "title": "Kehidupan Luar Angkasa Akan Terungkap? #astronacci #alien #podcast #viral #teorikonspirasi",
+    "description": "Pada tahun 2015, ilmuwan utama NASA, Ellen Stofan, pernah memprediksi bahwa manusia kemungkinan akan menemukan ...",
+    "url": "https://www.youtube.com/watch?v=60w_dbBY2N0",
+    "image": "https://i.ytimg.com/vi/60w_dbBY2N0/hqdefault.jpg",
+    "source": "NPDclips",
+    "publishedAt": "2026-05-15T00:28:19Z"
   }
 ]
