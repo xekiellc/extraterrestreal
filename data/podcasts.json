@@ -60,6 +60,16 @@
     "publishedAt": "2026-06-24T17:00:18Z"
   },
   {
+    "id": "63166958",
+    "type": "podcast",
+    "title": "Paul Kimball: Behind the Camera of UFO History",
+    "description": "documentary #uap #podcast Every time Ryan heads to Nova Scotia, it has become a tradition to sit down with filmmaker, author, ...",
+    "url": "https://www.youtube.com/watch?v=VZplDswL27c",
+    "image": "https://i.ytimg.com/vi/VZplDswL27c/hqdefault_live.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-07-20T14:00:06Z"
+  },
+  {
     "id": "f5b02c5f",
     "type": "podcast",
     "title": "U.S. Government is LURING UFOs, Catholics Prepare for DISCLOSURE, Bigfoot Corpse FOUND,",
@@ -67,17 +77,7 @@
     "url": "https://www.youtube.com/watch?v=ifs8Bq0H2gk",
     "image": "https://i.ytimg.com/vi/ifs8Bq0H2gk/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-07-20T09:41:45Z"
-  },
-  {
-    "id": "63166958",
-    "type": "podcast",
-    "title": "Behind the Camera of UFO History with Paul Kimball",
-    "description": "documentary #uap #podcast Every time Ryan heads to Nova Scotia, it has become a tradition to sit down with filmmaker, author, ...",
-    "url": "https://www.youtube.com/watch?v=VZplDswL27c",
-    "image": "https://i.ytimg.com/vi/VZplDswL27c/hqdefault_live.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-07-19T05:00:23Z"
+    "publishedAt": "2026-07-19T16:39:07Z"
   },
   {
     "id": "7331e43a",
@@ -128,6 +128,16 @@
     "image": "https://i.ytimg.com/vi/bmJ2Eg9YDK4/hqdefault.jpg",
     "source": "IRONCLAD",
     "publishedAt": "2026-06-03T21:30:06Z"
+  },
+  {
+    "id": "bd562728",
+    "type": "podcast",
+    "title": "Alien Encounters With The Real Life X-Files Agent - Nick Pope - DEBRIEFED ep. 34",
+    "description": "Subscribe to Artlist (get 2 Months For Free): https://bit.ly/Area52Artlist NEW MERCH! : https://www.area52.shop Patreon Exclusive ...",
+    "url": "https://www.youtube.com/watch?v=B6WFLOIkyho",
+    "image": "https://i.ytimg.com/vi/B6WFLOIkyho/hqdefault.jpg",
+    "source": "Area52",
+    "publishedAt": "2025-04-18T16:00:12Z"
   },
   {
     "id": "65f4e198",
@@ -188,15 +198,5 @@
     "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
     "source": "VICE News",
     "publishedAt": "2026-06-18T18:46:34Z"
-  },
-  {
-    "id": "692c66de",
-    "type": "podcast",
-    "title": "Kehidupan Luar Angkasa Akan Terungkap? #astronacci #alien #podcast #viral #teorikonspirasi",
-    "description": "Pada tahun 2015, ilmuwan utama NASA, Ellen Stofan, pernah memprediksi bahwa manusia kemungkinan akan menemukan ...",
-    "url": "https://www.youtube.com/watch?v=60w_dbBY2N0",
-    "image": "https://i.ytimg.com/vi/60w_dbBY2N0/hqdefault.jpg",
-    "source": "NPDclips",
-    "publishedAt": "2026-05-15T00:28:19Z"
   }
 ]
