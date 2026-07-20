@@ -70,34 +70,24 @@
     "publishedAt": "2026-07-14T18:08:02Z"
   },
   {
-    "id": "2892e585",
+    "id": "a5dfc1c2",
     "type": "video",
-    "title": "The Godfather of UFO Research Reveals His Final Case!",
-    "description": "Main episode with Jacque Valle: https://youtu.be/fyX8V1XXmQM?si=ftibxYusddy_JJKn Grab Your Alchemy Merchandise!",
-    "url": "https://www.youtube.com/watch?v=0bixTgBBfeU",
-    "image": "https://i.ytimg.com/vi/0bixTgBBfeU/hqdefault.jpg",
+    "title": "I Debated UFOs With America’s Top Skeptic (It Got Ugly...)",
+    "description": "Our American Alchemist this week is Michael Shermer. Check out Michael's book Truth: What It Is, How to Find It, and Why It Still ...",
+    "url": "https://www.youtube.com/watch?v=8Rr_nE65KkI",
+    "image": "https://i.ytimg.com/vi/8Rr_nE65KkI/hqdefault.jpg",
+    "source": "Jesse Michels",
+    "publishedAt": "2026-07-09T20:40:07Z"
+  },
+  {
+    "id": "b7242d40",
+    "type": "video",
+    "title": "Why Intelligence Officers Are Briefing America&#39;s Churches!",
+    "description": "Main episode with Congressman Eric Burlison: https://youtu.be/A2-y_HasHEw?si=4mqbFLfIZVhkF29x Grab Your Alchemy ...",
+    "url": "https://www.youtube.com/watch?v=g9gk8h-ayG0",
+    "image": "https://i.ytimg.com/vi/g9gk8h-ayG0/hqdefault.jpg",
     "source": "Jesse Michels Clips",
-    "publishedAt": "2026-07-11T18:31:30Z"
-  },
-  {
-    "id": "626b537a",
-    "type": "video",
-    "title": "Dr Steven Greer, Buzz Aldrin, and Michael Shermer on American Alchemy #UFO #news",
-    "description": "Dr Steven Greer, Buzz Aldrin, and Michael Shermer on American Alchemy #UFO #News Dr Steven Greer via Interstellar ...",
-    "url": "https://www.youtube.com/watch?v=iL3IX4NW8P4",
-    "image": "https://i.ytimg.com/vi/iL3IX4NW8P4/hqdefault.jpg",
-    "source": "The Tempest Universe Podcast",
-    "publishedAt": "2026-07-10T13:08:06Z"
-  },
-  {
-    "id": "0107e8e6",
-    "type": "video",
-    "title": "What If We Have More in Common with Aliens Than We Think? | Richard Dolan Intelligent Disclosure",
-    "description": "For many years, I've focused on the ways an advanced non-human civilization might differ from our own. In this video, I'd like to ...",
-    "url": "https://www.youtube.com/watch?v=_i-v6px--g0",
-    "image": "https://i.ytimg.com/vi/_i-v6px--g0/hqdefault.jpg",
-    "source": "Richard Dolan Intelligent Disclosure ",
-    "publishedAt": "2026-07-17T22:40:41Z"
+    "publishedAt": "2026-07-08T18:11:03Z"
   },
   {
     "id": "d7a35822",
@@ -118,6 +108,16 @@
     "image": "https://i.ytimg.com/vi/Kv_LIfPRo0A/hqdefault.jpg",
     "source": "Richard Dolan Intelligent Disclosure ",
     "publishedAt": "2026-07-02T23:00:03Z"
+  },
+  {
+    "id": "03dda37d",
+    "type": "video",
+    "title": "The Franklin D Roosevelt UFO: Why the Military Kept This Secret (From the Archives)",
+    "description": "In this members-only archival analysis, Richard Dolan examines the documented events involving the crew of the USS Franklin D.",
+    "url": "https://www.youtube.com/watch?v=mJ4reirVp5I",
+    "image": "https://i.ytimg.com/vi/mJ4reirVp5I/hqdefault.jpg",
+    "source": "Richard Dolan Intelligent Disclosure ",
+    "publishedAt": "2026-06-30T21:25:52Z"
   },
   {
     "id": "97baa6b3",
@@ -150,6 +150,16 @@
     "publishedAt": "2026-07-16T06:51:33Z"
   },
   {
+    "id": "1fdf554e",
+    "type": "video",
+    "title": "Mysterious Whistleblower Drops Massive UFO Bombshell",
+    "description": "Check out our NEW Vetted Merch Store: https://vettedmerch.store Check out Vetted's Documentary PSIONICS at ...",
+    "url": "https://www.youtube.com/watch?v=vC9-SLP-7_o",
+    "image": "https://i.ytimg.com/vi/vC9-SLP-7_o/hqdefault.jpg",
+    "source": "VETTED",
+    "publishedAt": "2026-07-18T13:00:26Z"
+  },
+  {
     "id": "4be4f80e",
     "type": "video",
     "title": "Special Access Required  - the Secrecy of UFO Crash Retrieval Programs [VOL.2]",
@@ -168,16 +178,6 @@
     "image": "https://i.ytimg.com/vi/ecEY2xNFzPw/hqdefault.jpg",
     "source": "Event Horizon",
     "publishedAt": "2026-05-28T20:00:31Z"
-  },
-  {
-    "id": "fa4bc5eb",
-    "type": "video",
-    "title": "New UFO videos: Deep analysis with Ross Coulthart | Reality Check",
-    "description": "The Pentagon has begun releasing the so-called \"UFO files,\" which contain never-before-seen documents, photos and videos ...",
-    "url": "https://www.youtube.com/watch?v=r_xevi3rSQI",
-    "image": "https://i.ytimg.com/vi/r_xevi3rSQI/hqdefault.jpg",
-    "source": "NewsNation",
-    "publishedAt": "2026-05-09T03:21:31Z"
   },
   {
     "id": "33bfecb8",
