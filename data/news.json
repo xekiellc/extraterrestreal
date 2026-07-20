@@ -40,6 +40,16 @@
     "publishedAt": "2026-07-11T16:44:17Z"
   },
   {
+    "id": "a85661b0",
+    "type": "news",
+    "title": "Famed UFO insider issues chilling claim about the next phase of disclosure: 'A new chapter for humanity'",
+    "description": "A longtime UFO insider says the recent release of government files is only the beginning of a much larger reckoning",
+    "url": "https://www.dailymail.com/sciencetech/article-15913631/steven-greer-ufo-disclosure-warnings.html",
+    "image": "https://i.dailymail.com/1s/2026/06/23/20/108477631-0-Newly_released_FBI_files_have_revealed_an_alleged_message_from_o-a-53_1782242094058.jpg",
+    "source": "Dailymail.com",
+    "publishedAt": "2026-07-19T15:26:53Z"
+  },
+  {
     "id": "4931b163",
     "type": "news",
     "title": "I’m a Harvard astrophysicist. Here’s why the government asked me to lead a council on UFOs and national security",
@@ -58,16 +68,6 @@
     "image": "https://assetstorev1-prd-cdn.unity3d.com/key-image/13630e3c-ae4c-417b-a7c5-fba611376d71.jpg?v=1",
     "source": "Unity.com",
     "publishedAt": "2026-07-17T13:40:13Z"
-  },
-  {
-    "id": "6e58e8f3",
-    "type": "news",
-    "title": "The Harvard astrophysicist best known for arguing that ʻOumuamua might have been alien technology has now been chosen to lead a new US government science council investigating unidentified anomalous phenomena — the unexplained objects most people still call UFOs",
-    "description": "Harvard astrophysicist Avi Loeb, whose suggestion that the interstellar visitor ʻOumuamua could have been artificial made him one of astronomy’s most recognisable and disputed public figures, has been selected to chair a…",
-    "url": "https://spacedaily.com/t-avi-loeb-lead-us-uap-science-advisory-council/",
-    "image": "https://spacedaily.com/wp-content/uploads/2026/07/oumuamua-artist-concept-nasa-1024x576.jpg",
-    "source": "Space Daily",
-    "publishedAt": "2026-07-15T02:30:03Z"
   },
   {
     "id": "7211a211",
@@ -128,6 +128,16 @@
     "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134720777.jpg?quality=75&strip=all&w=1200",
     "source": "New York Post",
     "publishedAt": "2026-07-18T17:13:20Z"
+  },
+  {
+    "id": "6e58e8f3",
+    "type": "news",
+    "title": "The Harvard astrophysicist best known for arguing that ʻOumuamua might have been alien technology has now been chosen to lead a new US government science council investigating unidentified anomalous phenomena — the unexplained objects most people still call UFOs",
+    "description": "Harvard astrophysicist Avi Loeb, whose suggestion that the interstellar visitor ʻOumuamua could have been artificial made him one of astronomy’s most recognisable and disputed public figures, has been selected to chair a…",
+    "url": "https://spacedaily.com/t-avi-loeb-lead-us-uap-science-advisory-council/",
+    "image": "https://spacedaily.com/wp-content/uploads/2026/07/oumuamua-artist-concept-nasa-1024x576.jpg",
+    "source": "Space Daily",
+    "publishedAt": "2026-07-15T02:30:03Z"
   },
   {
     "id": "16c6bd4f",
