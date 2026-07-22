@@ -90,6 +90,36 @@
     "publishedAt": "2026-07-15T17:00:06Z"
   },
   {
+    "id": "b08afb38",
+    "type": "podcast",
+    "title": "Ep. 2327 Leela Hutchison: Contact in Chihuahuan",
+    "description": "Tonight, Tuesday on FADE to BLACK: Leela Hutchison discusses her new book, Contact in the Chihuahuan Desert, sharing over ...",
+    "url": "https://www.youtube.com/watch?v=RIsWyoJKAHo",
+    "image": "https://i.ytimg.com/vi/RIsWyoJKAHo/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-07-22T04:06:13Z"
+  },
+  {
+    "id": "e33ef3ef",
+    "type": "podcast",
+    "title": "Ep. 2323 Melissa Tittl: New Film: Illusion",
+    "description": "Tonight, Tuesday on FADE to BLACK: Investigative journalist and filmmaker Melissa Tittl explores how belief is formed, inherited, ...",
+    "url": "https://www.youtube.com/watch?v=FQ4XhiRPvPk",
+    "image": "https://i.ytimg.com/vi/FQ4XhiRPvPk/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-07-15T04:05:52Z"
+  },
+  {
+    "id": "2669403b",
+    "type": "podcast",
+    "title": "Ep. 2319 Clyde Lewis: Clyde on F2B!",
+    "description": "Tonight, Tuesday on FADE to BLACK: Is the greatest UFO psy-op really coming from governments—or from religious fear ...",
+    "url": "https://www.youtube.com/watch?v=CUnoufRiMrk",
+    "image": "https://i.ytimg.com/vi/CUnoufRiMrk/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-06-17T04:09:58Z"
+  },
+  {
     "id": "a4727c28",
     "type": "podcast",
     "title": "A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups",
@@ -168,15 +198,5 @@
     "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
     "source": "VICE News",
     "publishedAt": "2026-06-18T18:46:34Z"
-  },
-  {
-    "id": "692c66de",
-    "type": "podcast",
-    "title": "Kehidupan Luar Angkasa Akan Terungkap? #astronacci #alien #podcast #viral #teorikonspirasi",
-    "description": "Pada tahun 2015, ilmuwan utama NASA, Ellen Stofan, pernah memprediksi bahwa manusia kemungkinan akan menemukan ...",
-    "url": "https://www.youtube.com/watch?v=60w_dbBY2N0",
-    "image": "https://i.ytimg.com/vi/60w_dbBY2N0/hqdefault.jpg",
-    "source": "NPDclips",
-    "publishedAt": "2026-05-15T00:28:19Z"
   }
 ]
