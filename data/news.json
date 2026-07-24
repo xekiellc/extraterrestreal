@@ -40,6 +40,16 @@
     "publishedAt": "2026-07-13T06:00:00Z"
   },
   {
+    "id": "4c6b49f3",
+    "type": "news",
+    "title": "‘Disclosure Day’ Ending Explained: What Does “Listen” Mean?",
+    "description": "What does it mean if aliens are real?",
+    "url": "https://decider.com/2026/07/23/disclosure-day-ending-explained/",
+    "image": "https://decider.com/wp-content/uploads/2026/07/Disclosure-Day.jpg?quality=75&strip=all&w=1200",
+    "source": "Decider",
+    "publishedAt": "2026-07-23T19:51:35Z"
+  },
+  {
     "id": "b8a15d8a",
     "type": "news",
     "title": "Lego brings The X-Files to life with 1,478-piece set including Mulder and Scully minifigs",
@@ -68,16 +78,6 @@
     "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/07/The-Arrival.jpg?resize=2000,1125",
     "source": "ComicBook.com",
     "publishedAt": "2026-07-22T00:30:00Z"
-  },
-  {
-    "id": "a85661b0",
-    "type": "news",
-    "title": "Famed UFO insider issues chilling claim about the next phase of disclosure: 'A new chapter for humanity'",
-    "description": "A longtime UFO insider says the recent release of government files is only the beginning of a much larger reckoning",
-    "url": "https://www.dailymail.com/sciencetech/article-15913631/steven-greer-ufo-disclosure-warnings.html",
-    "image": "https://i.dailymail.com/1s/2026/06/23/20/108477631-0-Newly_released_FBI_files_have_revealed_an_alleged_message_from_o-a-53_1782242094058.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-07-19T15:26:53Z"
   },
   {
     "id": "7211a211",
