@@ -1,5 +1,15 @@
 [
   {
+    "id": "b105f3e5",
+    "type": "news",
+    "title": "‘There Has Been A Massive Cover Up’ When It Comes To UFO Disclosure By The US Government, Claims Dr. Phil",
+    "description": "Dr. Phil McGraw read the Pentagon’s recently released UFO files before the public and claims that after doing so, he believes there has been a huge cover-up by the United States government. Why was Dr. Phil given access …",
+    "url": "https://brobible.com/culture/article/massive-cover-up-ufo-disclosure-government-dr-phil/",
+    "image": "https://brobible.com/wp-content/uploads/2026/07/Unidentified-Flying-Object-UFOs.jpg",
+    "source": "BroBible",
+    "publishedAt": "2026-07-23T14:14:45Z"
+  },
+  {
     "id": "a1da5780",
     "type": "news",
     "title": "Long-hidden UFO information at center of Trump push to free former officials",
@@ -30,14 +40,14 @@
     "publishedAt": "2026-07-13T06:00:00Z"
   },
   {
-    "id": "6b6217ea",
+    "id": "b8a15d8a",
     "type": "news",
-    "title": "White House UFO insider: I'm finally exposing the government's high-definition satellite footage of 'alien tech'... you are only getting a fraction of the story",
-    "description": "An investigative journalist who has helped bring secret UFO footage to the public has shared what he has learned from insiders about what the government isn't sharing.",
-    "url": "https://www.dailymail.com/sciencetech/article-15968979/white-house-ufo-satellite-footage-alien-technology.html",
-    "image": "https://i.dailymail.com/1s/2026/07/11/18/109935531-0-The_Trump_administration_released_a_fourth_batch_of_UFO_files_on-a-85_1783792013511.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-07-11T17:47:44Z"
+    "title": "Lego brings The X-Files to life with 1,478-piece set including Mulder and Scully minifigs",
+    "description": "Lego went all out with its reveal, teaming up with actress Gillian Anderson to create a cinematic promo. Anderson portrayed Special Agent Dana Scully opposite David Duchovny as Fox Mulder in the series, which ran for nin…",
+    "url": "https://www.techspot.com/news/113219-lego-brings-x-files-life-1478-piece-set.html",
+    "image": "https://www.techspot.com/images2/news/bigimage/2026/07/2026-07-23-image-22.jpg",
+    "source": "TechSpot",
+    "publishedAt": "2026-07-23T16:27:00Z"
   },
   {
     "id": "f28f466a",
@@ -70,16 +80,6 @@
     "publishedAt": "2026-07-19T15:26:53Z"
   },
   {
-    "id": "4931b163",
-    "type": "news",
-    "title": "I’m a Harvard astrophysicist. Here’s why the government asked me to lead a council on UFOs and national security",
-    "description": "The truth is out there, and so are our enemies.",
-    "url": "https://nypost.com/2026/07/19/opinion/why-im-leading-a-council-on-ufos-and-national-security/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/newspress-collage-ensrlnp6m-1784218819415.jpg?quality=75&strip=all&1784204445&w=1200",
-    "source": "New York Post",
-    "publishedAt": "2026-07-19T14:00:00Z"
-  },
-  {
     "id": "7211a211",
     "type": "news",
     "title": "UAP whistleblower Luis Elizondo details congressional staffer's warning of a plot to 'eliminate' him",
@@ -88,6 +88,16 @@
     "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/luis-elizondo-hang-out-with-sean-hannity.jpg",
     "source": "Fox News",
     "publishedAt": "2026-06-30T14:39:53Z"
+  },
+  {
+    "id": "6b6217ea",
+    "type": "news",
+    "title": "White House UFO insider: I'm finally exposing the government's high-definition satellite footage of 'alien tech'... you are only getting a fraction of the story",
+    "description": "An investigative journalist who has helped bring secret UFO footage to the public has shared what he has learned from insiders about what the government isn't sharing.",
+    "url": "https://www.dailymail.com/sciencetech/article-15968979/white-house-ufo-satellite-footage-alien-technology.html",
+    "image": "https://i.dailymail.com/1s/2026/07/11/18/109935531-0-The_Trump_administration_released_a_fourth_batch_of_UFO_files_on-a-85_1783792013511.jpg",
+    "source": "Dailymail.com",
+    "publishedAt": "2026-07-11T17:47:44Z"
   },
   {
     "id": "c7fae716",

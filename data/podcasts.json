@@ -120,26 +120,6 @@
     "publishedAt": "2026-07-15T04:05:52Z"
   },
   {
-    "id": "a4727c28",
-    "type": "podcast",
-    "title": "A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups",
-    "description": "Payne Lindsey is an investigative filmmaker and podcaster known for hosting hit the true crime series including “Up and ...",
-    "url": "https://www.youtube.com/watch?v=bmJ2Eg9YDK4",
-    "image": "https://i.ytimg.com/vi/bmJ2Eg9YDK4/hqdefault.jpg",
-    "source": "IRONCLAD",
-    "publishedAt": "2026-06-03T21:30:06Z"
-  },
-  {
-    "id": "d554f94d",
-    "type": "podcast",
-    "title": "UFO podcast seeing success for parent company Tenderfoot TV",
-    "description": "Media company Tenderfoot TV is seeing success with the launch of \"High Strange,\" a podcast that focuses on UFOs. Tenderfoot ...",
-    "url": "https://www.youtube.com/watch?v=hup3qWCAgRQ",
-    "image": "https://i.ytimg.com/vi/hup3qWCAgRQ/hqdefault.jpg",
-    "source": "CBS News",
-    "publishedAt": "2023-05-15T15:31:21Z"
-  },
-  {
     "id": "65f4e198",
     "type": "podcast",
     "title": "The UAP Reality - Daz Smith and Joe Murgia Discuss High Strangeness",
@@ -198,5 +178,15 @@
     "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
     "source": "VICE News",
     "publishedAt": "2026-06-18T18:46:34Z"
+  },
+  {
+    "id": "692c66de",
+    "type": "podcast",
+    "title": "Kehidupan Luar Angkasa Akan Terungkap? #astronacci #alien #podcast #viral #teorikonspirasi",
+    "description": "Pada tahun 2015, ilmuwan utama NASA, Ellen Stofan, pernah memprediksi bahwa manusia kemungkinan akan menemukan ...",
+    "url": "https://www.youtube.com/watch?v=60w_dbBY2N0",
+    "image": "https://i.ytimg.com/vi/60w_dbBY2N0/hqdefault.jpg",
+    "source": "NPDclips",
+    "publishedAt": "2026-05-15T00:28:19Z"
   }
 ]
