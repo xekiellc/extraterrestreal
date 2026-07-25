@@ -1,15 +1,5 @@
 [
   {
-    "id": "8e0863b1",
-    "type": "podcast",
-    "title": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
-    "description": "On July 15, Sound, Light & Frequency co-host Bryce Zabel joined former Deputy Assistant Secretary of Defense for Intelligence ...",
-    "url": "https://www.youtube.com/watch?v=QscaracBciE",
-    "image": "https://i.ytimg.com/vi/QscaracBciE/hqdefault.jpg",
-    "source": "Stellar Productions",
-    "publishedAt": "2026-07-18T21:47:56Z"
-  },
-  {
     "id": "b1329b2d",
     "type": "podcast",
     "title": "#75 Is the Tic Tac Really Lockheed Martin Technology? — Need to Know — July 2026",
@@ -28,6 +18,16 @@
     "image": "https://i.ytimg.com/vi/oWnRAIDUeo4/hqdefault.jpg",
     "source": "NewsNation",
     "publishedAt": "2026-07-01T22:00:06Z"
+  },
+  {
+    "id": "2e5db4d0",
+    "type": "podcast",
+    "title": "When Jesse Asked Bryce About Ross on American Alchemy",
+    "description": "Near the end of this week's American Alchemy, host Jesse Michels asks Bryce Zabel about his final episode of Need to Know with ...",
+    "url": "https://www.youtube.com/watch?v=XS_h0Dcevdo",
+    "image": "https://i.ytimg.com/vi/XS_h0Dcevdo/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-06-23T05:15:41Z"
   },
   {
     "id": "d629f34e",
