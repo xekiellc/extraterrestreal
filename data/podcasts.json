@@ -1,5 +1,15 @@
 [
   {
+    "id": "8e0863b1",
+    "type": "podcast",
+    "title": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
+    "description": "On July 15, Sound, Light & Frequency co-host Bryce Zabel joined former Deputy Assistant Secretary of Defense for Intelligence ...",
+    "url": "https://www.youtube.com/watch?v=QscaracBciE",
+    "image": "https://i.ytimg.com/vi/QscaracBciE/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-07-18T21:47:56Z"
+  },
+  {
     "id": "b1329b2d",
     "type": "podcast",
     "title": "#75 Is the Tic Tac Really Lockheed Martin Technology? — Need to Know — July 2026",
@@ -18,16 +28,6 @@
     "image": "https://i.ytimg.com/vi/oWnRAIDUeo4/hqdefault.jpg",
     "source": "NewsNation",
     "publishedAt": "2026-07-01T22:00:06Z"
-  },
-  {
-    "id": "2e5db4d0",
-    "type": "podcast",
-    "title": "When Jesse Asked Bryce About Ross on American Alchemy",
-    "description": "Near the end of this week's American Alchemy, host Jesse Michels asks Bryce Zabel about his final episode of Need to Know with ...",
-    "url": "https://www.youtube.com/watch?v=XS_h0Dcevdo",
-    "image": "https://i.ytimg.com/vi/XS_h0Dcevdo/hqdefault.jpg",
-    "source": "Stellar Productions",
-    "publishedAt": "2026-06-23T05:15:41Z"
   },
   {
     "id": "d629f34e",
@@ -90,16 +90,6 @@
     "publishedAt": "2026-07-20T09:41:45Z"
   },
   {
-    "id": "afe8fe81",
-    "type": "podcast",
-    "title": "Ep  2327 Leela Hutchison Contact in Chihuahuan Desert   FADE TO BLACK Radio 1080p, h264",
-    "description": "Deep dive discussion into my latest book: Contact in the Chihuahuan Desert with Jimmy Church. Latest UFO/UAP files released ...",
-    "url": "https://www.youtube.com/watch?v=D602ho42eco",
-    "image": "https://i.ytimg.com/vi/D602ho42eco/hqdefault.jpg",
-    "source": "Leela Hutchison G.G.",
-    "publishedAt": "2026-07-22T16:11:39Z"
-  },
-  {
     "id": "b08afb38",
     "type": "podcast",
     "title": "Ep. 2327 Leela Hutchison: Contact in Chihuahuan",
@@ -120,14 +110,44 @@
     "publishedAt": "2026-07-15T04:05:52Z"
   },
   {
-    "id": "65f4e198",
+    "id": "2669403b",
     "type": "podcast",
-    "title": "The UAP Reality - Daz Smith and Joe Murgia Discuss High Strangeness",
-    "description": "This is a July 7, 2022 discussion with Joe Murgia. Joe is a prominent and cutting-edge UAP researcher with a very informative ...",
-    "url": "https://www.youtube.com/watch?v=p-UVj6mWLWw",
-    "image": "https://i.ytimg.com/vi/p-UVj6mWLWw/hqdefault.jpg",
-    "source": "Down The Rabbit Hole",
-    "publishedAt": "2022-07-08T11:45:07Z"
+    "title": "Ep. 2319 Clyde Lewis: Clyde on F2B!",
+    "description": "Tonight, Tuesday on FADE to BLACK: Is the greatest UFO psy-op really coming from governments—or from religious fear ...",
+    "url": "https://www.youtube.com/watch?v=CUnoufRiMrk",
+    "image": "https://i.ytimg.com/vi/CUnoufRiMrk/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-06-17T04:09:58Z"
+  },
+  {
+    "id": "a4727c28",
+    "type": "podcast",
+    "title": "A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups",
+    "description": "Payne Lindsey is an investigative filmmaker and podcaster known for hosting hit the true crime series including “Up and ...",
+    "url": "https://www.youtube.com/watch?v=bmJ2Eg9YDK4",
+    "image": "https://i.ytimg.com/vi/bmJ2Eg9YDK4/hqdefault.jpg",
+    "source": "IRONCLAD",
+    "publishedAt": "2026-06-03T21:30:06Z"
+  },
+  {
+    "id": "d554f94d",
+    "type": "podcast",
+    "title": "UFO podcast seeing success for parent company Tenderfoot TV",
+    "description": "Media company Tenderfoot TV is seeing success with the launch of \"High Strange,\" a podcast that focuses on UFOs. Tenderfoot ...",
+    "url": "https://www.youtube.com/watch?v=hup3qWCAgRQ",
+    "image": "https://i.ytimg.com/vi/hup3qWCAgRQ/hqdefault.jpg",
+    "source": "CBS News",
+    "publishedAt": "2023-05-15T15:31:21Z"
+  },
+  {
+    "id": "6cc36c11",
+    "type": "podcast",
+    "title": "Contact | High Strange",
+    "description": "The Search for Extra Terrestrial Intelligence can be dated all the way back to the late 1800s, but people have been asking if we ...",
+    "url": "https://www.youtube.com/watch?v=1R1-5GMnsJI",
+    "image": "https://i.ytimg.com/vi/1R1-5GMnsJI/hqdefault.jpg",
+    "source": "HSM Podcast",
+    "publishedAt": "2023-04-21T01:24:37Z"
   },
   {
     "id": "47806f57",
@@ -178,15 +198,5 @@
     "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
     "source": "VICE News",
     "publishedAt": "2026-06-18T18:46:34Z"
-  },
-  {
-    "id": "692c66de",
-    "type": "podcast",
-    "title": "Kehidupan Luar Angkasa Akan Terungkap? #astronacci #alien #podcast #viral #teorikonspirasi",
-    "description": "Pada tahun 2015, ilmuwan utama NASA, Ellen Stofan, pernah memprediksi bahwa manusia kemungkinan akan menemukan ...",
-    "url": "https://www.youtube.com/watch?v=60w_dbBY2N0",
-    "image": "https://i.ytimg.com/vi/60w_dbBY2N0/hqdefault.jpg",
-    "source": "NPDclips",
-    "publishedAt": "2026-05-15T00:28:19Z"
   }
 ]
