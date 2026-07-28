@@ -100,16 +100,6 @@
     "publishedAt": "2026-07-24T17:00:35Z"
   },
   {
-    "id": "0107e8e6",
-    "type": "video",
-    "title": "What If We Have More in Common with Aliens Than We Think? | Richard Dolan Intelligent Disclosure",
-    "description": "For many years, I've focused on the ways an advanced non-human civilization might differ from our own. In this video, I'd like to ...",
-    "url": "https://www.youtube.com/watch?v=_i-v6px--g0",
-    "image": "https://i.ytimg.com/vi/_i-v6px--g0/hqdefault.jpg",
-    "source": "Richard Dolan Intelligent Disclosure ",
-    "publishedAt": "2026-07-17T22:40:41Z"
-  },
-  {
     "id": "ba246aaa",
     "type": "video",
     "title": "The UFO Pioneer Almost Nobody Talks About",
@@ -118,6 +108,26 @@
     "image": "https://i.ytimg.com/vi/TQJfIuJVstk/hqdefault.jpg",
     "source": "Richard Dolan Intelligent Disclosure ",
     "publishedAt": "2026-07-16T20:00:08Z"
+  },
+  {
+    "id": "f424e8aa",
+    "type": "video",
+    "title": "Who&#39;s the Greatest UFO Researcher of All Time?",
+    "description": "Stanton Friedman. Jacques Vallée. J. Allen Hynek. James McDonald. Leonard Stringfield. Bryce and I ran through the candidates ...",
+    "url": "https://www.youtube.com/watch?v=eO9Lj51vbLM",
+    "image": "https://i.ytimg.com/vi/eO9Lj51vbLM/hqdefault.jpg",
+    "source": "Richard Dolan Intelligent Disclosure ",
+    "publishedAt": "2026-07-12T16:45:28Z"
+  },
+  {
+    "id": "b7c111ec",
+    "type": "video",
+    "title": "Alien Interview That Stumped National Geographic and Medical Experts | Dr. Steven Greer",
+    "description": "This investigation follows the most scrutinized alien interview film of the 1990s — a tan being, black foam from its mouth, ...",
+    "url": "https://www.youtube.com/watch?v=IL8cEBUUa3I",
+    "image": "https://i.ytimg.com/vi/IL8cEBUUa3I/hqdefault.jpg",
+    "source": "Best of Dr Steven Greer",
+    "publishedAt": "2026-07-28T13:00:10Z"
   },
   {
     "id": "c28d43fc",
@@ -138,16 +148,6 @@
     "image": "https://i.ytimg.com/vi/nSEHlSWRLIM/hqdefault.jpg",
     "source": "London Real",
     "publishedAt": "2026-07-26T23:00:06Z"
-  },
-  {
-    "id": "029c4730",
-    "type": "video",
-    "title": "Greer Claims a Hidden UFO Network Operates Above Governments",
-    "description": "Did presidents really lose control of the UFO question? Dr. Steven Greer says yes — and takes the claim much further, tying ...",
-    "url": "https://www.youtube.com/watch?v=OR2IXZrhlps",
-    "image": "https://i.ytimg.com/vi/OR2IXZrhlps/hqdefault.jpg",
-    "source": "Dr. Steven Greer Disclosure",
-    "publishedAt": "2026-07-26T01:00:07Z"
   },
   {
     "id": "35d753a1",
@@ -220,14 +220,14 @@
     "publishedAt": "2026-05-16T21:29:36Z"
   },
   {
-    "id": "78b6ecc5",
+    "id": "739b0d28",
     "type": "video",
-    "title": "UFOs - They Lost Time",
-    "description": "A Weekly Livestream Show with a focus on recounting cases and stories of the Strange and Unexplained, Mysterious Events, ...",
-    "url": "https://www.youtube.com/watch?v=A63HsIEHCpI",
-    "image": "https://i.ytimg.com/vi/A63HsIEHCpI/hqdefault.jpg",
-    "source": "Cristina Gomez",
-    "publishedAt": "2023-08-15T22:35:51Z"
+    "title": "Cristina Gomez | A Future When We Know We Are Not Alone",
+    "description": "Anomacon #uap #aliens Summary: Cristina Gomez will shortly graduate from University and has been asking questions of her ...",
+    "url": "https://www.youtube.com/watch?v=4m9_URZzjLM",
+    "image": "https://i.ytimg.com/vi/4m9_URZzjLM/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2024-07-10T13:00:07Z"
   },
   {
     "id": "df322ef7",
