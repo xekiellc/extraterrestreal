@@ -90,6 +90,16 @@
     "publishedAt": "2026-07-27T14:00:21Z"
   },
   {
+    "id": "16b666ed",
+    "type": "podcast",
+    "title": "Ep. 2332 Marc D&#39;Antonio: UFO Propulsion",
+    "description": "Tonight, Wednesday on FADE to BLACK: Astronomer and imaging expert Marc D'Antonio joins us for a fascinating conversation ...",
+    "url": "https://www.youtube.com/watch?v=BWeRchoZJGQ",
+    "image": "https://i.ytimg.com/vi/BWeRchoZJGQ/hqdefault_live.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-07-29T18:37:21Z"
+  },
+  {
     "id": "b08afb38",
     "type": "podcast",
     "title": "Ep. 2327 Leela Hutchison: Contact in Chihuahuan",
@@ -110,16 +120,6 @@
     "publishedAt": "2026-07-15T04:05:52Z"
   },
   {
-    "id": "2669403b",
-    "type": "podcast",
-    "title": "Ep. 2319 Clyde Lewis: Clyde on F2B!",
-    "description": "Tonight, Tuesday on FADE to BLACK: Is the greatest UFO psy-op really coming from governments—or from religious fear ...",
-    "url": "https://www.youtube.com/watch?v=CUnoufRiMrk",
-    "image": "https://i.ytimg.com/vi/CUnoufRiMrk/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-06-17T04:09:58Z"
-  },
-  {
     "id": "a4727c28",
     "type": "podcast",
     "title": "A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups",
@@ -130,16 +130,6 @@
     "publishedAt": "2026-06-03T21:30:06Z"
   },
   {
-    "id": "bd562728",
-    "type": "podcast",
-    "title": "Alien Encounters With The Real Life X-Files Agent - Nick Pope - DEBRIEFED ep. 34",
-    "description": "Subscribe to Artlist (get 2 Months For Free): https://bit.ly/Area52Artlist NEW MERCH! : https://www.area52.shop Patreon Exclusive ...",
-    "url": "https://www.youtube.com/watch?v=B6WFLOIkyho",
-    "image": "https://i.ytimg.com/vi/B6WFLOIkyho/hqdefault.jpg",
-    "source": "Area52",
-    "publishedAt": "2025-04-18T16:00:12Z"
-  },
-  {
     "id": "d554f94d",
     "type": "podcast",
     "title": "UFO podcast seeing success for parent company Tenderfoot TV",
@@ -148,6 +138,16 @@
     "image": "https://i.ytimg.com/vi/hup3qWCAgRQ/hqdefault.jpg",
     "source": "CBS News",
     "publishedAt": "2023-05-15T15:31:21Z"
+  },
+  {
+    "id": "e527e5c9",
+    "type": "podcast",
+    "title": "High Strange Official Trailer | High Strange Podcast",
+    "description": "Investigative podcast host, Payne Lindsey, aims to separate fact from fiction when it comes to the strange happenings way up high ...",
+    "url": "https://www.youtube.com/watch?v=Vv6W3c_oHfk",
+    "image": "https://i.ytimg.com/vi/Vv6W3c_oHfk/hqdefault.jpg",
+    "source": "HSM Podcast",
+    "publishedAt": "2023-03-27T15:05:58Z"
   },
   {
     "id": "b1db30fd",
