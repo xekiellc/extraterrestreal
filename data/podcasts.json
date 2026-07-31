@@ -1,5 +1,35 @@
 [
   {
+    "id": "b911b025",
+    "type": "podcast",
+    "title": "You NEED TO KNOW   These people sell fake alien stories! Lue Elizondo, Bryce Zabel, Ross Coulthart!",
+    "description": "You NEED TO KNOW These people sell fake alien stories! Lue Elizondo, Bryce Zabel, Ross Coulthart! Music by Karl Casey ...",
+    "url": "https://www.youtube.com/watch?v=YOMDe2Ev6Sg",
+    "image": "https://i.ytimg.com/vi/YOMDe2Ev6Sg/hqdefault.jpg",
+    "source": "Truthseekers",
+    "publishedAt": "2026-07-24T23:00:06Z"
+  },
+  {
+    "id": "8e0863b1",
+    "type": "podcast",
+    "title": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
+    "description": "On July 15, Sound, Light & Frequency co-host Bryce Zabel joined former Deputy Assistant Secretary of Defense for Intelligence ...",
+    "url": "https://www.youtube.com/watch?v=QscaracBciE",
+    "image": "https://i.ytimg.com/vi/QscaracBciE/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-07-18T21:47:56Z"
+  },
+  {
+    "id": "b1329b2d",
+    "type": "podcast",
+    "title": "#75 Is the Tic Tac Really Lockheed Martin Technology? — Need to Know — July 2026",
+    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan revisit one of the most debated claims in modern ufology: Ross ...",
+    "url": "https://www.youtube.com/watch?v=A7t5jd2FDJ4",
+    "image": "https://i.ytimg.com/vi/A7t5jd2FDJ4/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-07-04T01:00:06Z"
+  },
+  {
     "id": "a884dcec",
     "type": "podcast",
     "title": "Alien Bases Beneath Antarctica? Brad Olsen on Byrd, Highjump &amp; Hollow Earth",
@@ -28,6 +58,36 @@
     "image": "https://i.ytimg.com/vi/BS4pORXC53E/hqdefault.jpg",
     "source": "Psicoactivo Podcast",
     "publishedAt": "2026-07-06T21:19:20Z"
+  },
+  {
+    "id": "6b450317",
+    "type": "podcast",
+    "title": "Did President Eisenhower Meet Aliens?",
+    "description": "president #eisenhower #aliens In this Somewhere in the Skies classic, we revisit one of ufology's most enduring mysteries: the ...",
+    "url": "https://www.youtube.com/watch?v=JEervi_m1T0",
+    "image": "https://i.ytimg.com/vi/JEervi_m1T0/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-07-29T14:00:06Z"
+  },
+  {
+    "id": "60684f03",
+    "type": "podcast",
+    "title": "Return to the Alien Highway with Heather Taddy &amp; Chuck Zukowski",
+    "description": "Podcast #Alien #tv Former law enforcement officer Chuck Zukowski has spent more than three decades investigating some of ...",
+    "url": "https://www.youtube.com/watch?v=Ls_khgxkdBQ",
+    "image": "https://i.ytimg.com/vi/Ls_khgxkdBQ/hqdefault_live.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-07-28T18:07:53Z"
+  },
+  {
+    "id": "afa538f6",
+    "type": "podcast",
+    "title": "Thomas Jane: Hollywood, UFOs, and Advanced Alien Visitors",
+    "description": "actor #uap #hollywood Ryan welcomes acclaimed actor, director, and author Thomas Jane. Best known for The Punisher, The ...",
+    "url": "https://www.youtube.com/watch?v=5850KPoR4WY",
+    "image": "https://i.ytimg.com/vi/5850KPoR4WY/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-07-27T14:00:21Z"
   },
   {
     "id": "16b666ed",
@@ -138,15 +198,5 @@
     "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
     "source": "VICE News",
     "publishedAt": "2026-06-18T18:46:34Z"
-  },
-  {
-    "id": "d26fdaa8",
-    "type": "podcast",
-    "title": "UFO Mysteries That Defy Explanation | Unidentified: Inside America&#39;s UFO Investigation",
-    "description": "From shocking military encounters to mysterious triangle-shaped craft and unexplained sightings over remote regions, revisit ...",
-    "url": "https://www.youtube.com/watch?v=Mww3arniyt0",
-    "image": "https://i.ytimg.com/vi/Mww3arniyt0/hqdefault.jpg",
-    "source": "HISTORY",
-    "publishedAt": "2026-05-15T18:00:35Z"
   }
 ]
