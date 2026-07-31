@@ -60,16 +60,6 @@
     "publishedAt": "2026-07-06T21:19:20Z"
   },
   {
-    "id": "24d7c966",
-    "type": "podcast",
-    "title": "Invasion on Chesnut Ridge with Seth Breedlove (SITS CLASSIC)",
-    "description": "pennsylvania #uap #bigfoot Somewhere in the Skies Classics returns with one of our favorite conversations, revisiting an ...",
-    "url": "https://www.youtube.com/watch?v=ayE0pJMkPZQ",
-    "image": "https://i.ytimg.com/vi/ayE0pJMkPZQ/hqdefault_live.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-07-30T15:32:50Z"
-  },
-  {
     "id": "6b450317",
     "type": "podcast",
     "title": "Did President Eisenhower Meet Aliens?",
@@ -88,6 +78,16 @@
     "image": "https://i.ytimg.com/vi/Ls_khgxkdBQ/hqdefault_live.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-07-28T18:07:53Z"
+  },
+  {
+    "id": "afa538f6",
+    "type": "podcast",
+    "title": "Thomas Jane: Hollywood, UFOs, and Advanced Alien Visitors",
+    "description": "actor #uap #hollywood Ryan welcomes acclaimed actor, director, and author Thomas Jane. Best known for The Punisher, The ...",
+    "url": "https://www.youtube.com/watch?v=5850KPoR4WY",
+    "image": "https://i.ytimg.com/vi/5850KPoR4WY/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-07-27T14:00:21Z"
   },
   {
     "id": "16b666ed",
