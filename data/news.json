@@ -108,5 +108,75 @@
     "image": "https://i.dailymail.com/1s/2026/07/09/20/108475693-0-image-m-31_1783623616337.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-07-09T19:01:55Z"
+  },
+  {
+    "id": "0301049c",
+    "type": "news",
+    "title": "Trump UFO advisors have explanations for glowing orbs — except for one recent encounter",
+    "description": "Trump administration science advisors are offering conventional explanations for some of the sightings of mysterious orbs of light reported in the Trump UFO files — but insist one incredible encounter is completely inexp…",
+    "url": "https://nypost.com/2026/07/18/us-news/trump-ufo-advisors-propose-new-explanations-for-glowing-orbs/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134720777.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-07-18T17:13:20Z"
+  },
+  {
+    "id": "6e58e8f3",
+    "type": "news",
+    "title": "The Harvard astrophysicist best known for arguing that ʻOumuamua might have been alien technology has now been chosen to lead a new US government science council investigating unidentified anomalous phenomena — the unexplained objects most people still call UFOs",
+    "description": "Harvard astrophysicist Avi Loeb, whose suggestion that the interstellar visitor ʻOumuamua could have been artificial made him one of astronomy’s most recognisable and disputed public figures, has been selected to chair a…",
+    "url": "https://spacedaily.com/t-avi-loeb-lead-us-uap-science-advisory-council/",
+    "image": "https://spacedaily.com/wp-content/uploads/2026/07/oumuamua-artist-concept-nasa-1024x576.jpg",
+    "source": "Space Daily",
+    "publishedAt": "2026-07-15T02:30:03Z"
+  },
+  {
+    "id": "502fe7cb",
+    "type": "news",
+    "title": "Pentagon UFO Files Detail Mystery Object Near Texas Nuclear Plant",
+    "description": "The Pentagon released previously classified files detailing an unidentified object observed near a Texas nuclear facility, officials said. The object was tracked on radar and witnessed by multiple plant security personne…",
+    "url": "https://www.naturalnews.com/2026-07-13-pentagon-ufo-files-detail-mystery-object-texas.html",
+    "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/ufo-pentagon-classified-files-2679-original.jpg",
+    "source": "Naturalnews.com",
+    "publishedAt": "2026-07-13T06:00:00Z"
+  },
+  {
+    "id": "16c6bd4f",
+    "type": "news",
+    "title": "NEW: Pentagon Releases 4th Tranche of UFO Files – Military Personnel Describe UFO as “Unlike Anything I Had Seen” in 28 years of Service (VIDEOS)",
+    "description": "ALL VIDEOS AT LINK............ Screenshot from Pentagon UFO Files The Pentagon released a fourth batch of files on Unidentified Anomalous Phenomena (UAP) on Friday, with 40 new declassified files. President Trump previou…",
+    "url": "https://freerepublic.com/focus/f-chat/4387557/posts",
+    "image": "",
+    "source": "Freerepublic.com",
+    "publishedAt": "2026-07-11T12:38:05Z"
+  },
+  {
+    "id": "b06fbb53",
+    "type": "news",
+    "title": "Vulnerability Summary for the Week of July 20, 2026",
+    "description": "High Vulnerabilities PrimaryVendor -- Product Description Published CVSS Score Source Info @fastify/static--@fastify/static @fastify/static up to and including version 10…",
+    "url": "https://www.cisa.gov/news-events/bulletins/sb26-208",
+    "image": "",
+    "source": "Cisa.gov",
+    "publishedAt": "2026-07-27T11:11:58Z"
+  },
+  {
+    "id": "4ae0c0bb",
+    "type": "news",
+    "title": "Vulnerability Summary for the Week of July 6, 2026",
+    "description": "High Vulnerabilities PrimaryVendor -- Product Description Published CVSS Score Source Info 1Panel-dev--MaxKB MaxKB is an open-source AI assistant for enterprise. Prior to…",
+    "url": "https://www.cisa.gov/news-events/bulletins/sb26-194",
+    "image": "",
+    "source": "Cisa.gov",
+    "publishedAt": "2026-07-13T11:08:26Z"
+  },
+  {
+    "id": "c59b340a",
+    "type": "news",
+    "title": "It became too easy to shout ‘aliens’, so SETI changed its rules",
+    "description": "For the first time in more than 15 years, the International Academy of Astronautics (IAA) Search for Extraterrestrial Intelligence (SETI) committee has significantly revised the protocols governing how scientists “evalua…",
+    "url": "https://newatlas.com/space/too-easy-to-shout-aliens-seti-changed-rules/",
+    "image": "https://assets.newatlas.com/dims4/default/d78f271/2147483647/strip/true/crop/2000x1050+0+237/resize/1200x630!/quality/85/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fe3%2Fbc%2Fa261df2b4fca8b9b3332a1b26d68%2Fpink-alien-desert.jpg&na.image_optimisation=0",
+    "source": "New Atlas",
+    "publishedAt": "2026-07-07T09:43:16Z"
   }
 ]
