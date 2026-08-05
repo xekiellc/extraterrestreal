@@ -120,66 +120,6 @@
     "publishedAt": "2026-07-22T16:11:39Z"
   },
   {
-    "id": "bd562728",
-    "type": "podcast",
-    "title": "Alien Encounters With The Real Life X-Files Agent - Nick Pope - DEBRIEFED ep. 34",
-    "description": "Subscribe to Artlist (get 2 Months For Free): https://bit.ly/Area52Artlist NEW MERCH! : https://www.area52.shop Patreon Exclusive ...",
-    "url": "https://www.youtube.com/watch?v=B6WFLOIkyho",
-    "image": "https://i.ytimg.com/vi/B6WFLOIkyho/hqdefault.jpg",
-    "source": "Area52",
-    "publishedAt": "2025-04-18T16:00:12Z"
-  },
-  {
-    "id": "01b0bb93",
-    "type": "podcast",
-    "title": "The Alien King Talks Aliens &amp; Ghosts | Haunted With Payne Lindsey",
-    "description": "Put your tinfoil hats on, friends. Payne Lindsey, the Alien King, has graced our presence to talk all things alien and a little bit of ...",
-    "url": "https://www.youtube.com/watch?v=X8G6v3sntUU",
-    "image": "https://i.ytimg.com/vi/X8G6v3sntUU/hqdefault.jpg",
-    "source": "Two Girls One Ghost",
-    "publishedAt": "2023-05-23T21:00:12Z"
-  },
-  {
-    "id": "6cc36c11",
-    "type": "podcast",
-    "title": "Contact | High Strange",
-    "description": "The Search for Extra Terrestrial Intelligence can be dated all the way back to the late 1800s, but people have been asking if we ...",
-    "url": "https://www.youtube.com/watch?v=1R1-5GMnsJI",
-    "image": "https://i.ytimg.com/vi/1R1-5GMnsJI/hqdefault.jpg",
-    "source": "HSM Podcast",
-    "publishedAt": "2023-04-21T01:24:37Z"
-  },
-  {
-    "id": "86480c61",
-    "type": "podcast",
-    "title": "The Dan Burisch Tapes: Disclosure Team Reacts",
-    "description": "Dan Burisch says he lead a team of biologists as part of an ultra secret program to study a living non-human being at S4.",
-    "url": "https://www.youtube.com/watch?v=4_emXhrdD1w",
-    "image": "https://i.ytimg.com/vi/4_emXhrdD1w/hqdefault.jpg",
-    "source": "NIGHT SHIFT",
-    "publishedAt": "2026-07-24T20:19:28Z"
-  },
-  {
-    "id": "b1db30fd",
-    "type": "podcast",
-    "title": "NIght Shift x Disclosure Team - Clint Weldon",
-    "description": "I'm joined by Clint Weldon, host of the Night Shift podcast, for a relaxed conversation covering all things UFOs and UAP.",
-    "url": "https://www.youtube.com/watch?v=ihVtuX8qML8",
-    "image": "https://i.ytimg.com/vi/ihVtuX8qML8/hqdefault.jpg",
-    "source": "Disclosure Team",
-    "publishedAt": "2026-07-22T08:32:11Z"
-  },
-  {
-    "id": "47806f57",
-    "type": "podcast",
-    "title": "Contact Confidential - Vinnie Adams",
-    "description": "Vinnie Adams from Youtube's Disclosure Team joins contact confidential to share a personal encounter and his perspectives on ...",
-    "url": "https://www.youtube.com/watch?v=SynMIjXALYc",
-    "image": "https://i.ytimg.com/vi/SynMIjXALYc/hqdefault.jpg",
-    "source": "TOOWi Arts",
-    "publishedAt": "2026-06-23T20:42:25Z"
-  },
-  {
     "id": "7b1955c9",
     "type": "podcast",
     "title": "UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic",
@@ -198,5 +138,15 @@
     "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
     "source": "VICE News",
     "publishedAt": "2026-06-18T18:46:34Z"
+  },
+  {
+    "id": "d26fdaa8",
+    "type": "podcast",
+    "title": "UFO Mysteries That Defy Explanation | Unidentified: Inside America&#39;s UFO Investigation",
+    "description": "From shocking military encounters to mysterious triangle-shaped craft and unexplained sightings over remote regions, revisit ...",
+    "url": "https://www.youtube.com/watch?v=Mww3arniyt0",
+    "image": "https://i.ytimg.com/vi/Mww3arniyt0/hqdefault.jpg",
+    "source": "HISTORY",
+    "publishedAt": "2026-05-15T18:00:35Z"
   }
 ]
