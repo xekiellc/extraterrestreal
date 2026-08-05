@@ -30,6 +30,16 @@
     "publishedAt": "2026-07-15T15:53:54Z"
   },
   {
+    "id": "2cd98914",
+    "type": "video",
+    "title": "Lue Elizondo przyznaje: kto kontroluje narrację UFO",
+    "description": "Patrick omawia zupełnie nowe wypowiedzi Lue Elizondo na temat UAP Gerb i Rossa Coultharta — oraz to, co mówią one o tym, ...",
+    "url": "https://www.youtube.com/watch?v=t2pT7LujQhg",
+    "image": "https://i.ytimg.com/vi/t2pT7LujQhg/hqdefault.jpg",
+    "source": "Vetted: Kanał UFO",
+    "publishedAt": "2026-08-05T14:17:12Z"
+  },
+  {
     "id": "f255afa9",
     "type": "video",
     "title": "Lue Elizondo confessa: chi controlla la narrativa UFO",
@@ -48,16 +58,6 @@
     "image": "https://i.ytimg.com/vi/F2NfXgv8x1E/hqdefault.jpg",
     "source": "NewsNation",
     "publishedAt": "2026-08-04T21:00:22Z"
-  },
-  {
-    "id": "bf329cf9",
-    "type": "video",
-    "title": "General McCasland and UFO secrecy claims &amp; what the latest disclosure debate reveals | Backscroll",
-    "description": "This NewsNation compilation examines new questions surrounding UAP investigations and alleged government knowledge.",
-    "url": "https://www.youtube.com/watch?v=Dp5djLQXDuw",
-    "image": "https://i.ytimg.com/vi/Dp5djLQXDuw/hqdefault.jpg",
-    "source": "NewsNation",
-    "publishedAt": "2026-08-04T18:00:28Z"
   },
   {
     "id": "3f24c9dd",
@@ -210,14 +210,14 @@
     "publishedAt": "2026-05-16T21:29:36Z"
   },
   {
-    "id": "78b6ecc5",
+    "id": "739b0d28",
     "type": "video",
-    "title": "UFOs - They Lost Time",
-    "description": "A Weekly Livestream Show with a focus on recounting cases and stories of the Strange and Unexplained, Mysterious Events, ...",
-    "url": "https://www.youtube.com/watch?v=A63HsIEHCpI",
-    "image": "https://i.ytimg.com/vi/A63HsIEHCpI/hqdefault.jpg",
-    "source": "Cristina Gomez",
-    "publishedAt": "2023-08-15T22:35:51Z"
+    "title": "Cristina Gomez | A Future When We Know We Are Not Alone",
+    "description": "Anomacon #uap #aliens Summary: Cristina Gomez will shortly graduate from University and has been asking questions of her ...",
+    "url": "https://www.youtube.com/watch?v=4m9_URZzjLM",
+    "image": "https://i.ytimg.com/vi/4m9_URZzjLM/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2024-07-10T13:00:07Z"
   },
   {
     "id": "df322ef7",
