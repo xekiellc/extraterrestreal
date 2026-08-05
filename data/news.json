@@ -1,5 +1,15 @@
 [
   {
+    "id": "1961fb01",
+    "type": "news",
+    "title": "Britain's military says it has stopped researching UFOs and has 'no plans' to start again",
+    "description": "A Scots UFO enthusiast has claimed the UK government is hiding the truth about a string of unexplained sightings in the nation's skies that has fascinated paranormal buffs for decades.",
+    "url": "https://www.dailymail.com/news/article-16028555/Britains-military-says-stopped-researching-UFOs-no-plans-start-again.html",
+    "image": "https://i.dailymail.com/1s/2026/08/04/19/110438075-0-image-a-21_1785868809612.jpg",
+    "source": "Dailymail.com",
+    "publishedAt": "2026-08-04T19:40:43Z"
+  },
+  {
     "id": "1a33fc3f",
     "type": "news",
     "title": "Chris Sharp Claims Trump Is Preparing to Announce Aliens Pilot UFOs",
@@ -30,14 +40,14 @@
     "publishedAt": "2026-08-02T16:52:01Z"
   },
   {
-    "id": "93ff1d7b",
+    "id": "2b863160",
     "type": "news",
-    "title": "The Man Who Inspired Steven Spielberg’s UFO Obsession",
-    "description": "This article appears in the new issue of DEN OF GEEK magazine. Find out how you can subscribe to get the full physical copy right here! What if I told you that one man might be (technically) responsible for the existence…",
-    "url": "http://www.denofgeek.com/movies/the-man-who-inspired-steven-spielberg-ufo-obsession/",
-    "image": "https://www.denofgeek.com/wp-content/uploads/2026/07/J-Hynek-Den-of-Geek-Magazine.jpg?fit=1200%2C675",
-    "source": "Den of Geek US",
-    "publishedAt": "2026-07-27T13:00:00Z"
+    "title": "The Best Sci-Fi Movies of 2026 (So Far)",
+    "description": "Looking for the best sci-fi movies of 2026? See our picks for the year’s top space adventures, alien thrillers, time-travel stories, and more.",
+    "url": "https://www.esquire.com/entertainment/movies/a73346958/best-sci-fi-movies-of-2026/",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/ce7adffe-b7b2-4e7a-8616-ee0be1a6a2b3.png?crop=0.814xw:0.827xh;0.081xw,0.088xh&resize=1200:*",
+    "source": "esquire.com",
+    "publishedAt": "2026-08-04T20:01:06Z"
   },
   {
     "id": "5080a96e",
@@ -68,16 +78,6 @@
     "image": "",
     "source": "Wikipedia.org",
     "publishedAt": "2026-08-01T19:10:11Z"
-  },
-  {
-    "id": "b9690ee8",
-    "type": "news",
-    "title": "5 Forgotten Sci-Fi Shows From The '90s That You Have To Watch",
-    "description": "When it comes to sci-fi shows from the '90s, fans tend to think about The X-Files, Deep Space Nine, and Stargate SG-1, but real ones know the deep cuts.",
-    "url": "https://www.bgr.com/2226619/forgotten-sci-fi-tv-shows-90s-have-to-watch/",
-    "image": "https://www.bgr.com/img/gallery/5-forgotten-sci-fi-shows-from-the-90s-that-you-have-to-watch/l-intro-1785357864.jpg",
-    "source": "BGR",
-    "publishedAt": "2026-07-30T18:17:00Z"
   },
   {
     "id": "a1da5780",
