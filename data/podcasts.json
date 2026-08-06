@@ -60,16 +60,6 @@
     "publishedAt": "2026-07-06T21:19:20Z"
   },
   {
-    "id": "1b16f95a",
-    "type": "podcast",
-    "title": "Elizondo Will Leave UFOlogy Forever, Robert Bigelow Briefs Trump on UFOs, Diana Pasulka on Rogan",
-    "description": "LIVE #UAP #SomewhereintheSkies Ryan and Suzanne break down the latest UFO news, including: - The accusations between ...",
-    "url": "https://www.youtube.com/watch?v=a5fQoa_p_0U",
-    "image": "https://i.ytimg.com/vi/a5fQoa_p_0U/hqdefault_live.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-08-05T20:29:14Z"
-  },
-  {
     "id": "24d7c966",
     "type": "podcast",
     "title": "Invasion on Chesnut Ridge with Seth Breedlove (SITS CLASSIC)",
@@ -88,6 +78,16 @@
     "image": "https://i.ytimg.com/vi/aHFvPoimqDI/hqdefault_live.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-08-04T22:05:00Z"
+  },
+  {
+    "id": "60684f03",
+    "type": "podcast",
+    "title": "Return to the Alien Highway with Heather Taddy &amp; Chuck Zukowski",
+    "description": "Podcast #Alien #tv Former law enforcement officer Chuck Zukowski has spent more than three decades investigating some of ...",
+    "url": "https://www.youtube.com/watch?v=Ls_khgxkdBQ",
+    "image": "https://i.ytimg.com/vi/Ls_khgxkdBQ/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-08-03T14:00:06Z"
   },
   {
     "id": "e09fc0c1",
@@ -110,14 +110,14 @@
     "publishedAt": "2026-07-30T04:08:38Z"
   },
   {
-    "id": "b08afb38",
+    "id": "afe8fe81",
     "type": "podcast",
-    "title": "Ep. 2327 Leela Hutchison: Contact in Chihuahuan",
-    "description": "Tonight, Tuesday on FADE to BLACK: Leela Hutchison discusses her new book, Contact in the Chihuahuan Desert, sharing over ...",
-    "url": "https://www.youtube.com/watch?v=RIsWyoJKAHo",
-    "image": "https://i.ytimg.com/vi/RIsWyoJKAHo/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-07-22T04:06:13Z"
+    "title": "Ep  2327 Leela Hutchison Contact in Chihuahuan Desert   FADE TO BLACK Radio 1080p, h264",
+    "description": "Deep dive discussion into my latest book: Contact in the Chihuahuan Desert with Jimmy Church. Latest UFO/UAP files released ...",
+    "url": "https://www.youtube.com/watch?v=D602ho42eco",
+    "image": "https://i.ytimg.com/vi/D602ho42eco/hqdefault.jpg",
+    "source": "Leela Hutchison G.G.",
+    "publishedAt": "2026-07-22T16:11:39Z"
   },
   {
     "id": "bd562728",

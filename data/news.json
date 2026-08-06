@@ -40,6 +40,16 @@
     "publishedAt": "2026-08-02T16:52:01Z"
   },
   {
+    "id": "651ed432",
+    "type": "news",
+    "title": "‘They walk among us.’ The White House’s Aliens page and the dehumanisation of undocumented migrants",
+    "description": "The White House’s controversial Aliens.gov portal dehumanises undocumented non-US citizens by blurring the boundaries between the term “illegal aliens”, or unauthorised residents, and extraterrestrials.",
+    "url": "https://theconversation.com/they-walk-among-us-the-white-houses-aliens-page-and-the-dehumanisation-of-undocumented-migrants-288967",
+    "image": "https://images.theconversation.com/files/751683/original/file-20260728-57-nelv8.png?ixlib=rb-4.1.1&rect=0%2C59%2C992%2C496&q=45&auto=format&w=1356&h=668&fit=crop",
+    "source": "The Conversation Africa",
+    "publishedAt": "2026-08-05T13:08:54Z"
+  },
+  {
     "id": "2b863160",
     "type": "news",
     "title": "The Best Sci-Fi Movies of 2026 (So Far)",
@@ -68,16 +78,6 @@
     "image": "https://www.thewrap.com/wp-content/uploads/2026/07/Every-Spider-Man-Movie-Supervillain-Mysterio-The-Spot-Doctor-Octopus.jpg",
     "source": "TheWrap",
     "publishedAt": "2026-08-01T19:25:19Z"
-  },
-  {
-    "id": "0d14dafe",
-    "type": "news",
-    "title": "Fermi Paradox",
-    "description": "Article URL: https://en.wikipedia.org/wiki/Fermi_paradox Comments URL: https://news.ycombinator.com/item?id=49137419 Points: 6 # Comments: 1",
-    "url": "https://en.wikipedia.org/wiki/Fermi_paradox",
-    "image": "",
-    "source": "Wikipedia.org",
-    "publishedAt": "2026-08-01T19:10:11Z"
   },
   {
     "id": "a1da5780",
