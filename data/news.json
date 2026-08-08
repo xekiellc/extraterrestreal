@@ -1,5 +1,25 @@
 [
   {
+    "id": "c87e1eb2",
+    "type": "news",
+    "title": "Watch: Pentagon releases fresh UFO videos in new document dump",
+    "description": "The fifth batch of files released on 7 August include 41 documents, images and videos related to Unidentified Anomalous Phenomena (UAP).",
+    "url": "https://www.bbc.co.uk/news/videos/ce34k5ypwygo",
+    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ac7c/live/828ebd10-9269-11f1-b2ab-0dd01740f9f6.jpg",
+    "source": "BBC News",
+    "publishedAt": "2026-08-07T14:21:11Z"
+  },
+  {
+    "id": "09fb442d",
+    "type": "news",
+    "title": "Ex-Pentagon employee described seeing ‘translucent triangle’ fly overhead in 2023 UFO sighting",
+    "description": "A former Pentagon employee and his wife saw a strange, triangle-shaped aircraft fly over their Colorado home late one night in October 2023, according to a startling account included in the fifth batch of UFO files relea…",
+    "url": "https://nypost.com/2026/08/07/us-news/ex-pentagon-employee-described-seeing-translucent-triangle-fly-overhead-in-2023-ufo-sighting/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/ufo-files-dump-translucent-triangle-flying-comp.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-08-07T12:57:14Z"
+  },
+  {
     "id": "7743916e",
     "type": "news",
     "title": "Ukrainian Astronomers Report Observing Unidentified Objects Near Moon",
@@ -20,24 +40,14 @@
     "publishedAt": "2026-08-04T19:40:43Z"
   },
   {
-    "id": "1a33fc3f",
+    "id": "b410b53d",
     "type": "news",
-    "title": "Chris Sharp Claims Trump Is Preparing to Announce Aliens Pilot UFOs",
-    "description": "Yesterday, Harvard astronomer Avi Loeb, the head of Donald Trump’s unpaid UAP Scientific Advisory Council, posted a video claiming that the existence of UFO NDAs implies the reality of space alien UFOs: “The question ‘wh…",
-    "url": "https://www.jasoncolavito.com/blog/chris-sharp-claims-trump-is-preparing-to-announce-aliens-pilot-ufos",
-    "image": "http://www.jasoncolavito.com/uploads/3/7/5/9/3759274/blog-square_orig.jpg",
-    "source": "Jasoncolavito.com",
-    "publishedAt": "2026-08-04T17:09:16Z"
-  },
-  {
-    "id": "eb7dbc9d",
-    "type": "news",
-    "title": "Splinter: About Hillary Clinton, Tom DeLonge and UFO Disclosure",
-    "description": "This lore has broken containment from UFO world, so let's unpack it.",
-    "url": "https://www.jezebel.com/about-hillary-clinton-and-ufo-disclosure",
-    "image": "https://img.pastemagazine.com/wp-content/juploads/2026/08/Hillary-Clinton-John-Podesta-Neera-Tanden-main.jpg",
-    "source": "Jezebel",
-    "publishedAt": "2026-08-03T15:46:37Z"
+    "title": "The ‘Sugar’ Season 2 Finale Dropped Yet Another Huge Twist",
+    "description": "Colin Farrell’s sci-fi private eye series will have tons more to dig into if it returns for a third season.",
+    "url": "https://gizmodo.com/the-sugar-season-2-finale-dropped-yet-another-huge-twist-2000794439",
+    "image": "https://gizmodo.com/app/uploads/2026/08/Sugar_finale-1200x675.jpg",
+    "source": "Gizmodo.com",
+    "publishedAt": "2026-08-07T14:00:54Z"
   },
   {
     "id": "bae81b4b",
@@ -70,14 +80,14 @@
     "publishedAt": "2026-08-05T13:08:54Z"
   },
   {
-    "id": "2b863160",
+    "id": "eb7dbc9d",
     "type": "news",
-    "title": "The Best Sci-Fi Movies of 2026 (So Far)",
-    "description": "Looking for the best sci-fi movies of 2026? See our picks for the year’s top space adventures, alien thrillers, time-travel stories, and more.",
-    "url": "https://www.esquire.com/entertainment/movies/a73346958/best-sci-fi-movies-of-2026/",
-    "image": "https://hips.hearstapps.com/hmg-prod/images/ce7adffe-b7b2-4e7a-8616-ee0be1a6a2b3.png?crop=0.814xw:0.827xh;0.081xw,0.088xh&resize=1200:*",
-    "source": "esquire.com",
-    "publishedAt": "2026-08-04T20:01:06Z"
+    "title": "Splinter: About Hillary Clinton, Tom DeLonge and UFO Disclosure",
+    "description": "This lore has broken containment from UFO world, so let's unpack it.",
+    "url": "https://www.jezebel.com/about-hillary-clinton-and-ufo-disclosure",
+    "image": "https://img.pastemagazine.com/wp-content/juploads/2026/08/Hillary-Clinton-John-Podesta-Neera-Tanden-main.jpg",
+    "source": "Jezebel",
+    "publishedAt": "2026-08-03T15:46:37Z"
   },
   {
     "id": "a1da5780",
