@@ -100,6 +100,16 @@
     "publishedAt": "2026-08-07T04:09:20Z"
   },
   {
+    "id": "e09fc0c1",
+    "type": "podcast",
+    "title": "Ep. 2334 Emily Harrison: The Akashic Records",
+    "description": "Tonight, Monday on FADE to BLACK: Emily Harrison joins us to explore the connection between consciousness, UFO contact, ...",
+    "url": "https://www.youtube.com/watch?v=M5llKlTA4ok",
+    "image": "https://i.ytimg.com/vi/M5llKlTA4ok/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-08-04T04:16:10Z"
+  },
+  {
     "id": "16b666ed",
     "type": "podcast",
     "title": "Ep. 2332 Marc D&#39;Antonio: UFO Propulsion",
@@ -108,16 +118,6 @@
     "image": "https://i.ytimg.com/vi/BWeRchoZJGQ/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2026-07-30T04:08:38Z"
-  },
-  {
-    "id": "afe8fe81",
-    "type": "podcast",
-    "title": "Ep  2327 Leela Hutchison Contact in Chihuahuan Desert   FADE TO BLACK Radio 1080p, h264",
-    "description": "Deep dive discussion into my latest book: Contact in the Chihuahuan Desert with Jimmy Church. Latest UFO/UAP files released ...",
-    "url": "https://www.youtube.com/watch?v=D602ho42eco",
-    "image": "https://i.ytimg.com/vi/D602ho42eco/hqdefault.jpg",
-    "source": "Leela Hutchison G.G.",
-    "publishedAt": "2026-07-22T16:11:39Z"
   },
   {
     "id": "65f4e198",
@@ -180,13 +180,13 @@
     "publishedAt": "2026-06-18T18:46:34Z"
   },
   {
-    "id": "d26fdaa8",
+    "id": "a9ee6abd",
     "type": "podcast",
-    "title": "UFO Mysteries That Defy Explanation | Unidentified: Inside America&#39;s UFO Investigation",
-    "description": "From shocking military encounters to mysterious triangle-shaped craft and unexplained sightings over remote regions, revisit ...",
-    "url": "https://www.youtube.com/watch?v=Mww3arniyt0",
-    "image": "https://i.ytimg.com/vi/Mww3arniyt0/hqdefault.jpg",
-    "source": "HISTORY",
-    "publishedAt": "2026-05-15T18:00:35Z"
+    "title": "This Claim About Alien Experiments Is Breaking People’s Brains",
+    "description": "A former Pentagon insider raises explosive questions about alleged hybridization programs and whether humans could be taken ...",
+    "url": "https://www.youtube.com/watch?v=azSHtA2AEas",
+    "image": "https://i.ytimg.com/vi/azSHtA2AEas/hqdefault.jpg",
+    "source": "Jillian Michaels",
+    "publishedAt": "2026-05-18T18:00:22Z"
   }
 ]
