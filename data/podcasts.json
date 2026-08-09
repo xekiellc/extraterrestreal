@@ -30,16 +30,6 @@
     "publishedAt": "2026-07-18T21:47:56Z"
   },
   {
-    "id": "fe802afc",
-    "type": "podcast",
-    "title": "A UFO Landed “By Arrangement” in Russia, Says UK Barrister",
-    "description": "Could the existence of UFOs and UAP be proven in court beyond reasonable doubt? Jonathan Caplan KC, one of the UK's most ...",
-    "url": "https://www.youtube.com/watch?v=mVXGolH9V9I",
-    "image": "https://i.ytimg.com/vi/mVXGolH9V9I/hqdefault.jpg",
-    "source": "That UFO Podcast",
-    "publishedAt": "2026-07-29T17:00:19Z"
-  },
-  {
     "id": "a884dcec",
     "type": "podcast",
     "title": "Alien Bases Beneath Antarctica? Brad Olsen on Byrd, Highjump &amp; Hollow Earth",
@@ -60,6 +50,16 @@
     "publishedAt": "2026-07-16T17:00:14Z"
   },
   {
+    "id": "bc73da2d",
+    "type": "podcast",
+    "title": "Dr. Eric Davis explains why speaking about 4 Alien Species is not classified - Psicoactivo Live #43",
+    "description": "On a fresh Psicoactivo Live, we have Andy McGrillen from That UFO Podcast on deck to discuss the latest from the interview Dr.",
+    "url": "https://www.youtube.com/watch?v=BS4pORXC53E",
+    "image": "https://i.ytimg.com/vi/BS4pORXC53E/hqdefault.jpg",
+    "source": "Psicoactivo Podcast",
+    "publishedAt": "2026-07-06T21:19:20Z"
+  },
+  {
     "id": "5ead2b48",
     "type": "podcast",
     "title": "Pentagon Release of 16 New UFO Videos",
@@ -70,16 +70,6 @@
     "publishedAt": "2026-08-07T22:45:06Z"
   },
   {
-    "id": "24d7c966",
-    "type": "podcast",
-    "title": "Invasion on Chesnut Ridge with Seth Breedlove (SITS CLASSIC)",
-    "description": "pennsylvania #uap #bigfoot Somewhere in the Skies Classics returns with one of our favorite conversations, revisiting an ...",
-    "url": "https://www.youtube.com/watch?v=ayE0pJMkPZQ",
-    "image": "https://i.ytimg.com/vi/ayE0pJMkPZQ/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-08-05T14:00:06Z"
-  },
-  {
     "id": "991a18a8",
     "type": "podcast",
     "title": "James Fox: UFO Retrieval Programs, Non-Human Intelligence &amp; The Program (SITS CLASSIC)",
@@ -88,6 +78,16 @@
     "image": "https://i.ytimg.com/vi/aHFvPoimqDI/hqdefault_live.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-08-04T22:05:00Z"
+  },
+  {
+    "id": "60684f03",
+    "type": "podcast",
+    "title": "Return to the Alien Highway with Heather Taddy &amp; Chuck Zukowski",
+    "description": "Podcast #Alien #tv Former law enforcement officer Chuck Zukowski has spent more than three decades investigating some of ...",
+    "url": "https://www.youtube.com/watch?v=Ls_khgxkdBQ",
+    "image": "https://i.ytimg.com/vi/Ls_khgxkdBQ/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-08-03T14:00:06Z"
   },
   {
     "id": "f821afc7",
