@@ -130,16 +130,6 @@
     "publishedAt": "2026-08-07T15:15:06Z"
   },
   {
-    "id": "7f2812e6",
-    "type": "video",
-    "title": "Gli UFO ESISTONO. La dichiarazione SHOCK di Clifford Stone",
-    "description": "La clamorosa rivelazione fatta dal sergente Clifford Stone, militare dell'esercito degli Stati Uniti, fatta a Washington nel 2001, ...",
-    "url": "https://www.youtube.com/watch?v=Iirq2Vg_tZY",
-    "image": "https://i.ytimg.com/vi/Iirq2Vg_tZY/hqdefault.jpg",
-    "source": "Enigmi & Misteri",
-    "publishedAt": "2026-08-06T08:51:00Z"
-  },
-  {
     "id": "e0af0a9f",
     "type": "video",
     "title": "STEVEN GREER Under Fire: Spirit Answers Alien | UFO Disclosure",
@@ -148,6 +138,16 @@
     "image": "https://i.ytimg.com/vi/8FenXBMN2lM/hqdefault.jpg",
     "source": "Ask the Spirit Guides",
     "publishedAt": "2026-08-03T00:00:06Z"
+  },
+  {
+    "id": "0d0cd58b",
+    "type": "video",
+    "title": "Project Blue Book Was a Cover-Up — Dr. Steven Greer Explains Why",
+    "description": "Dr. Steven Greer delivers an unvarnished briefing on the current UFO disclosure landscape, exposing how partial or false ...",
+    "url": "https://www.youtube.com/watch?v=AM0Gc6f4lfM",
+    "image": "https://i.ytimg.com/vi/AM0Gc6f4lfM/hqdefault.jpg",
+    "source": "Best of Dr Steven Greer",
+    "publishedAt": "2026-07-31T16:00:09Z"
   },
   {
     "id": "0f3a67a7",
