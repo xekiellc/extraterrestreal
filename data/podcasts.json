@@ -65,9 +65,9 @@
     "title": "Witness Accounts: Volume 41",
     "description": "alien #storytime #storytelling In Witness Accounts: Volume 41, we hear seven extraordinary firsthand encounters with the ...",
     "url": "https://www.youtube.com/watch?v=gofyw1tS6Pg",
-    "image": "https://i.ytimg.com/vi/gofyw1tS6Pg/hqdefault_live.jpg",
+    "image": "https://i.ytimg.com/vi/gofyw1tS6Pg/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-08-09T15:08:21Z"
+    "publishedAt": "2026-08-10T14:00:06Z"
   },
   {
     "id": "5ead2b48",
@@ -118,6 +118,26 @@
     "image": "https://i.ytimg.com/vi/BWeRchoZJGQ/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2026-07-30T04:08:38Z"
+  },
+  {
+    "id": "bd562728",
+    "type": "podcast",
+    "title": "Alien Encounters With The Real Life X-Files Agent - Nick Pope - DEBRIEFED ep. 34",
+    "description": "Subscribe to Artlist (get 2 Months For Free): https://bit.ly/Area52Artlist NEW MERCH! : https://www.area52.shop Patreon Exclusive ...",
+    "url": "https://www.youtube.com/watch?v=B6WFLOIkyho",
+    "image": "https://i.ytimg.com/vi/B6WFLOIkyho/hqdefault.jpg",
+    "source": "Area52",
+    "publishedAt": "2025-04-18T16:00:12Z"
+  },
+  {
+    "id": "6cc36c11",
+    "type": "podcast",
+    "title": "Contact | High Strange",
+    "description": "The Search for Extra Terrestrial Intelligence can be dated all the way back to the late 1800s, but people have been asking if we ...",
+    "url": "https://www.youtube.com/watch?v=1R1-5GMnsJI",
+    "image": "https://i.ytimg.com/vi/1R1-5GMnsJI/hqdefault.jpg",
+    "source": "HSM Podcast",
+    "publishedAt": "2023-04-21T01:24:37Z"
   },
   {
     "id": "65f4e198",
@@ -178,15 +198,5 @@
     "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
     "source": "VICE News",
     "publishedAt": "2026-06-18T18:46:34Z"
-  },
-  {
-    "id": "d26fdaa8",
-    "type": "podcast",
-    "title": "UFO Mysteries That Defy Explanation | Unidentified: Inside America&#39;s UFO Investigation",
-    "description": "From shocking military encounters to mysterious triangle-shaped craft and unexplained sightings over remote regions, revisit ...",
-    "url": "https://www.youtube.com/watch?v=Mww3arniyt0",
-    "image": "https://i.ytimg.com/vi/Mww3arniyt0/hqdefault.jpg",
-    "source": "HISTORY",
-    "publishedAt": "2026-05-15T18:00:35Z"
   }
 ]
