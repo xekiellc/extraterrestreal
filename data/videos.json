@@ -40,16 +40,6 @@
     "publishedAt": "2026-08-09T18:35:28Z"
   },
   {
-    "id": "2cd98914",
-    "type": "video",
-    "title": "Lue Elizondo przyznaje: kto kontroluje narrację UFO",
-    "description": "Patrick omawia zupełnie nowe wypowiedzi Lue Elizondo na temat UAP Gerb i Rossa Coultharta — oraz to, co mówią one o tym, ...",
-    "url": "https://www.youtube.com/watch?v=t2pT7LujQhg",
-    "image": "https://i.ytimg.com/vi/t2pT7LujQhg/hqdefault.jpg",
-    "source": "Vetted: Kanał UFO",
-    "publishedAt": "2026-08-05T14:17:12Z"
-  },
-  {
     "id": "524588ee",
     "type": "video",
     "title": "Inside &#39;Kona Blue,&#39; the alleged Lockheed-to-DHS UFO transfer | Reality Check",
@@ -58,6 +48,16 @@
     "image": "https://i.ytimg.com/vi/F2NfXgv8x1E/hqdefault.jpg",
     "source": "NewsNation",
     "publishedAt": "2026-08-04T21:00:22Z"
+  },
+  {
+    "id": "bf329cf9",
+    "type": "video",
+    "title": "General McCasland and UFO secrecy claims &amp; what the latest disclosure debate reveals | Backscroll",
+    "description": "This NewsNation compilation examines new questions surrounding UAP investigations and alleged government knowledge.",
+    "url": "https://www.youtube.com/watch?v=Dp5djLQXDuw",
+    "image": "https://i.ytimg.com/vi/Dp5djLQXDuw/hqdefault.jpg",
+    "source": "NewsNation",
+    "publishedAt": "2026-08-04T18:00:28Z"
   },
   {
     "id": "b7b140af",
@@ -80,14 +80,14 @@
     "publishedAt": "2026-08-05T19:31:05Z"
   },
   {
-    "id": "fb152c6a",
+    "id": "e3d67eb8",
     "type": "video",
-    "title": "&quot;There&#39;s A UFO Under the Ranch!&quot; - Skinwalker Owner Breaks Silence",
-    "description": "Our American Alchemist this week is Brandon Fugal, Owner of Skinwalker Ranch. You can support American Alchemy by signing ...",
-    "url": "https://www.youtube.com/watch?v=uYyXpx7ADJQ",
-    "image": "https://i.ytimg.com/vi/uYyXpx7ADJQ/hqdefault.jpg",
+    "title": "Buzz Aldrin’s Strange UFO Encounters During the Apollo 11 Missions…",
+    "description": "",
+    "url": "https://www.youtube.com/watch?v=ZTdAgjP-6QI",
+    "image": "https://i.ytimg.com/vi/ZTdAgjP-6QI/hqdefault.jpg",
     "source": "Jesse Michels",
-    "publishedAt": "2026-07-26T17:00:32Z"
+    "publishedAt": "2026-07-23T15:42:37Z"
   },
   {
     "id": "316c72b5",

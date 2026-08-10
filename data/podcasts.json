@@ -30,6 +30,16 @@
     "publishedAt": "2026-07-18T21:47:56Z"
   },
   {
+    "id": "fe802afc",
+    "type": "podcast",
+    "title": "A UFO Landed “By Arrangement” in Russia, Says UK Barrister",
+    "description": "Could the existence of UFOs and UAP be proven in court beyond reasonable doubt? Jonathan Caplan KC, one of the UK's most ...",
+    "url": "https://www.youtube.com/watch?v=mVXGolH9V9I",
+    "image": "https://i.ytimg.com/vi/mVXGolH9V9I/hqdefault.jpg",
+    "source": "That UFO Podcast",
+    "publishedAt": "2026-07-29T17:00:19Z"
+  },
+  {
     "id": "a884dcec",
     "type": "podcast",
     "title": "Alien Bases Beneath Antarctica? Brad Olsen on Byrd, Highjump &amp; Hollow Earth",
@@ -48,16 +58,6 @@
     "image": "https://i.ytimg.com/vi/wjIgsNxbtXc/hqdefault.jpg",
     "source": "That UFO Podcast",
     "publishedAt": "2026-07-16T17:00:14Z"
-  },
-  {
-    "id": "bc73da2d",
-    "type": "podcast",
-    "title": "Dr. Eric Davis explains why speaking about 4 Alien Species is not classified - Psicoactivo Live #43",
-    "description": "On a fresh Psicoactivo Live, we have Andy McGrillen from That UFO Podcast on deck to discuss the latest from the interview Dr.",
-    "url": "https://www.youtube.com/watch?v=BS4pORXC53E",
-    "image": "https://i.ytimg.com/vi/BS4pORXC53E/hqdefault.jpg",
-    "source": "Psicoactivo Podcast",
-    "publishedAt": "2026-07-06T21:19:20Z"
   },
   {
     "id": "78fcd5bb",
@@ -120,6 +120,26 @@
     "publishedAt": "2026-07-30T04:08:38Z"
   },
   {
+    "id": "bd562728",
+    "type": "podcast",
+    "title": "Alien Encounters With The Real Life X-Files Agent - Nick Pope - DEBRIEFED ep. 34",
+    "description": "Subscribe to Artlist (get 2 Months For Free): https://bit.ly/Area52Artlist NEW MERCH! : https://www.area52.shop Patreon Exclusive ...",
+    "url": "https://www.youtube.com/watch?v=B6WFLOIkyho",
+    "image": "https://i.ytimg.com/vi/B6WFLOIkyho/hqdefault.jpg",
+    "source": "Area52",
+    "publishedAt": "2025-04-18T16:00:12Z"
+  },
+  {
+    "id": "6cc36c11",
+    "type": "podcast",
+    "title": "Contact | High Strange",
+    "description": "The Search for Extra Terrestrial Intelligence can be dated all the way back to the late 1800s, but people have been asking if we ...",
+    "url": "https://www.youtube.com/watch?v=1R1-5GMnsJI",
+    "image": "https://i.ytimg.com/vi/1R1-5GMnsJI/hqdefault.jpg",
+    "source": "HSM Podcast",
+    "publishedAt": "2023-04-21T01:24:37Z"
+  },
+  {
     "id": "65f4e198",
     "type": "podcast",
     "title": "The UAP Reality - Daz Smith and Joe Murgia Discuss High Strangeness",
@@ -178,15 +198,5 @@
     "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
     "source": "VICE News",
     "publishedAt": "2026-06-18T18:46:34Z"
-  },
-  {
-    "id": "a9ee6abd",
-    "type": "podcast",
-    "title": "This Claim About Alien Experiments Is Breaking People’s Brains",
-    "description": "A former Pentagon insider raises explosive questions about alleged hybridization programs and whether humans could be taken ...",
-    "url": "https://www.youtube.com/watch?v=azSHtA2AEas",
-    "image": "https://i.ytimg.com/vi/azSHtA2AEas/hqdefault.jpg",
-    "source": "Jillian Michaels",
-    "publishedAt": "2026-05-18T18:00:22Z"
   }
 ]
