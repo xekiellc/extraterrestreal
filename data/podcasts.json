@@ -70,16 +70,6 @@
     "publishedAt": "2026-08-10T14:00:06Z"
   },
   {
-    "id": "5ead2b48",
-    "type": "podcast",
-    "title": "Pentagon Release of 16 New UFO Videos",
-    "description": "uap #pentagon The Defense Department and P.U.R.S.U.E Initiative released a fifth batch of UFO files. These are all of the videos ...",
-    "url": "https://www.youtube.com/watch?v=vnzmqDpEIQM",
-    "image": "https://i.ytimg.com/vi/vnzmqDpEIQM/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-08-07T22:45:06Z"
-  },
-  {
     "id": "24d7c966",
     "type": "podcast",
     "title": "Invasion on Chesnut Ridge with Seth Breedlove (SITS CLASSIC)",
@@ -88,6 +78,16 @@
     "image": "https://i.ytimg.com/vi/ayE0pJMkPZQ/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-08-05T14:00:06Z"
+  },
+  {
+    "id": "991a18a8",
+    "type": "podcast",
+    "title": "James Fox: UFO Retrieval Programs, Non-Human Intelligence &amp; The Program (SITS CLASSIC)",
+    "description": "UAP #congress #jamesfox In this Somewhere in the Skies Classics episode, Filmmaker, James Fox discusses the years of ...",
+    "url": "https://www.youtube.com/watch?v=aHFvPoimqDI",
+    "image": "https://i.ytimg.com/vi/aHFvPoimqDI/hqdefault_live.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-08-04T22:05:00Z"
   },
   {
     "id": "f821afc7",
