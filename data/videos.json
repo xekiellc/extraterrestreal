@@ -90,16 +90,6 @@
     "publishedAt": "2026-07-26T17:00:32Z"
   },
   {
-    "id": "316c72b5",
-    "type": "video",
-    "title": "UAP Tranche 5: If You Think There’s Nothing Here, Look Again",
-    "description": "The fifth White House UAP release contains far more than many people seem to realize. In this deep dive, I examine some ...",
-    "url": "https://www.youtube.com/watch?v=JYkgr0FjIGU",
-    "image": "https://i.ytimg.com/vi/JYkgr0FjIGU/hqdefault.jpg",
-    "source": "Richard Dolan Intelligent Disclosure ",
-    "publishedAt": "2026-08-08T14:47:50Z"
-  },
-  {
     "id": "f821afc7",
     "type": "video",
     "title": "Richard Dolan: UFO/UAP and Whistleblower Breaking News",
@@ -118,6 +108,16 @@
     "image": "https://i.ytimg.com/vi/1w9SLXu4_No/hqdefault.jpg",
     "source": "Stellar Productions",
     "publishedAt": "2026-08-01T13:52:00Z"
+  },
+  {
+    "id": "39b60756",
+    "type": "video",
+    "title": "Alien Agendas by Richard Dolan  | Once We Accept Their Presence, The Question Is, What Do They Want?",
+    "description": "In this episode of The UFO Book Library, we review Alien Agendas by Richard Dolan — a serious modern UFO book that goes ...",
+    "url": "https://www.youtube.com/watch?v=PsHT_-VGIfc",
+    "image": "https://i.ytimg.com/vi/PsHT_-VGIfc/hqdefault.jpg",
+    "source": "The UFO Book Library",
+    "publishedAt": "2026-07-24T17:00:35Z"
   },
   {
     "id": "90b23fb5",
@@ -230,13 +230,13 @@
     "publishedAt": "2023-03-17T04:15:18Z"
   },
   {
-    "id": "55e91cda",
+    "id": "5073b9cd",
     "type": "video",
-    "title": "He Swore Under Oath the Government Hides UFOs",
-    "description": "David Grusch, a former Air Force intelligence officer, testified to the US Congress under oath that the government has recovered ...",
-    "url": "https://www.youtube.com/watch?v=tCqoao9rGCs",
-    "image": "https://i.ytimg.com/vi/tCqoao9rGCs/hqdefault.jpg",
-    "source": "Mindwired",
-    "publishedAt": "2026-08-05T13:30:30Z"
+    "title": "Il whistleblower UFO Dylan Borland rompe il silenzio: &quot;So per certo che NON era di fattura umana&quot;",
+    "description": "Patrick analizza la nuovissima e rarissima intervista del whistleblower UFO Dylan Borland ad American Alchemy, una ...",
+    "url": "https://www.youtube.com/watch?v=br6GFzueZLU",
+    "image": "https://i.ytimg.com/vi/br6GFzueZLU/hqdefault.jpg",
+    "source": "Vetted: Il Canale UFO",
+    "publishedAt": "2026-08-10T11:00:06Z"
   }
 ]
