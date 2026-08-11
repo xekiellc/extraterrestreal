@@ -30,16 +30,6 @@
     "publishedAt": "2026-08-07T18:04:33Z"
   },
   {
-    "id": "c87e1eb2",
-    "type": "news",
-    "title": "Watch: Pentagon releases fresh UFO videos in new document dump",
-    "description": "The fifth batch of files released on 7 August include 41 documents, images and videos related to Unidentified Anomalous Phenomena (UAP).",
-    "url": "https://www.bbc.co.uk/news/videos/ce34k5ypwygo",
-    "image": "https://ichef.bbci.co.uk/news/1024/branded_news/ac7c/live/828ebd10-9269-11f1-b2ab-0dd01740f9f6.jpg",
-    "source": "BBC News",
-    "publishedAt": "2026-08-07T14:21:11Z"
-  },
-  {
     "id": "2568ef70",
     "type": "news",
     "title": "Germany logs record rise in UFO sightings – watchdog",
@@ -58,16 +48,6 @@
     "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/08/img_6671-1200x630.jpg",
     "source": "Thegatewaypundit.com",
     "publishedAt": "2026-08-08T13:45:59Z"
-  },
-  {
-    "id": "89021dbd",
-    "type": "news",
-    "title": "UFO Research Alien Investigation Secret Laboratory Sci Fi Icons Pack by Neprosto Assets",
-    "description": "A collection of aliens, UFOs, classified files, radar systems, research equipment, spacesuits, robots, artifacts, energy devices, weapons, and secret technology for sci-fi investigation games.File Format: Prefabs + PNGIc…",
-    "url": "https://assetstore.unity.com/packages/2d/ufo-research-alien-investigation-secret-laboratory-sci-fi-icons--398660",
-    "image": "https://assetstorev1-prd-cdn.unity3d.com/key-image/2ef967cc-b3cf-4845-a8bd-fc2015f72318.jpg?v=1",
-    "source": "Unity.com",
-    "publishedAt": "2026-08-08T01:34:10Z"
   },
   {
     "id": "8c9caa44",
@@ -120,13 +100,53 @@
     "publishedAt": "2026-07-11T17:47:44Z"
   },
   {
-    "id": "c7fae716",
+    "id": "7ab89ce9",
     "type": "news",
-    "title": "I'm a priest and the Bible gives us proof of what UFOs really are... here's what Jesus told us",
-    "description": "A priest has identified several Bible passages he believes hold the key to understanding UFOs.",
-    "url": "https://www.dailymail.com/sciencetech/article-15966195/priest-bible-ufo-proof-jesus.html",
-    "image": "https://i.dailymail.com/1s/2026/07/09/20/108475693-0-image-m-31_1783623616337.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-07-09T19:01:55Z"
+    "title": "Video shows US military tracking what appears to be mysterious object flying over Middle East in 2025",
+    "description": "The U.S. Department of War on Friday released video of what appears to be an unidentified flying object moving through the air last year in the Middle East.",
+    "url": "https://www.foxnews.com/politics/video-shows-us-military-tracking-what-appears-mysterious-object-flying-over-middle-east-2025",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/uap-screenshot-2025.jpg",
+    "source": "Fox News",
+    "publishedAt": "2026-08-07T17:26:18Z"
+  },
+  {
+    "id": "0301049c",
+    "type": "news",
+    "title": "Trump UFO advisors have explanations for glowing orbs — except for one recent encounter",
+    "description": "Trump administration science advisors are offering conventional explanations for some of the sightings of mysterious orbs of light reported in the Trump UFO files — but insist one incredible encounter is completely inexp…",
+    "url": "https://nypost.com/2026/07/18/us-news/trump-ufo-advisors-propose-new-explanations-for-glowing-orbs/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134720777.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-07-18T17:13:20Z"
+  },
+  {
+    "id": "6e58e8f3",
+    "type": "news",
+    "title": "The Harvard astrophysicist best known for arguing that ʻOumuamua might have been alien technology has now been chosen to lead a new US government science council investigating unidentified anomalous phenomena — the unexplained objects most people still call UFOs",
+    "description": "Harvard astrophysicist Avi Loeb, whose suggestion that the interstellar visitor ʻOumuamua could have been artificial made him one of astronomy’s most recognisable and disputed public figures, has been selected to chair a…",
+    "url": "https://spacedaily.com/t-avi-loeb-lead-us-uap-science-advisory-council/",
+    "image": "https://spacedaily.com/wp-content/uploads/2026/07/oumuamua-artist-concept-nasa-1024x576.jpg",
+    "source": "Space Daily",
+    "publishedAt": "2026-07-15T02:30:03Z"
+  },
+  {
+    "id": "27e3b7d0",
+    "type": "news",
+    "title": "U-2 spy planes flew so far above anything 1950s commercial pilots had ever seen that sunlight on their wings triggered a wave of UFO reports — and the CIA let the world believe in aliens rather than admit it was watching from above",
+    "description": "The U-2's greatest weapon wasn't stealth or speed—it was altitude so extreme that the public mistook its glint for extraterrestrials, and the CIA never corrected the record. The post U-2 spy planes flew so far above anyt…",
+    "url": "https://spacedaily.com/d-u-2-spy-planes-flew-so-far-above-anything-1950s-commercial-pilots-had-ever-seen-that-sunlight-on-their-wings-triggered-a-wave-of-ufo-reports-and-the-cia-let-the-world-believe-in-aliens-rathe/",
+    "image": "https://spacedaily.com/wp-content/uploads/2026/08/Posts-1600840-2026-08-04T185244.928.png",
+    "source": "Space Daily",
+    "publishedAt": "2026-08-04T14:15:51Z"
+  },
+  {
+    "id": "b06fbb53",
+    "type": "news",
+    "title": "Vulnerability Summary for the Week of July 20, 2026",
+    "description": "High Vulnerabilities PrimaryVendor -- Product Description Published CVSS Score Source Info @fastify/static--@fastify/static @fastify/static up to and including version 10…",
+    "url": "https://www.cisa.gov/news-events/bulletins/sb26-208",
+    "image": "",
+    "source": "Cisa.gov",
+    "publishedAt": "2026-07-27T11:11:58Z"
   }
 ]
