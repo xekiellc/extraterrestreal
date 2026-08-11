@@ -1,5 +1,15 @@
 [
   {
+    "id": "642c5a7b",
+    "type": "news",
+    "title": "Are UFOs inspiring a new religion?",
+    "description": "People around the world are gathering in wilderness settings with the intention to initiate contact with UFOs using various techniques.",
+    "url": "https://theconversation.com/are-ufos-inspiring-a-new-religion-287467",
+    "image": "https://images.theconversation.com/files/753084/original/file-20260810-50-wd35mf.jpg?ixlib=rb-4.1.1&rect=0%2C1014%2C3631%2C1815&q=45&auto=format&w=1356&h=668&fit=crop",
+    "source": "The Conversation Africa",
+    "publishedAt": "2026-08-10T12:42:03Z"
+  },
+  {
     "id": "e6979538",
     "type": "news",
     "title": "Trump Administration Releases Fifth Batch of UFO Files, Including New Videos and Reports",
@@ -30,14 +40,14 @@
     "publishedAt": "2026-08-07T14:21:11Z"
   },
   {
-    "id": "09fb442d",
+    "id": "2568ef70",
     "type": "news",
-    "title": "Ex-Pentagon employee described seeing ‘translucent triangle’ fly overhead in 2023 UFO sighting",
-    "description": "A former Pentagon employee and his wife saw a strange, triangle-shaped aircraft fly over their Colorado home late one night in October 2023, according to a startling account included in the fifth batch of UFO files relea…",
-    "url": "https://nypost.com/2026/08/07/us-news/ex-pentagon-employee-described-seeing-translucent-triangle-fly-overhead-in-2023-ufo-sighting/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/ufo-files-dump-translucent-triangle-flying-comp.jpg?quality=75&strip=all&w=1200",
-    "source": "New York Post",
-    "publishedAt": "2026-08-07T12:57:14Z"
+    "title": "Germany logs record rise in UFO sightings – watchdog",
+    "description": "Germany has seen a spike in UFO reports as the Pentagon continues to release declassified files on presumed alien-linked phenomena Read Full Article at RT.com",
+    "url": "https://www.rt.com/news/644056-germany-ufo-sightings-pentagon/",
+    "image": "https://mf.b37mrtl.ru/files/2026.08/article/6a79b18285f5402c0202e4d9.png",
+    "source": "RT",
+    "publishedAt": "2026-08-10T11:31:44Z"
   },
   {
     "id": "ceb681fc",
@@ -58,26 +68,6 @@
     "image": "https://assetstorev1-prd-cdn.unity3d.com/key-image/2ef967cc-b3cf-4845-a8bd-fc2015f72318.jpg?v=1",
     "source": "Unity.com",
     "publishedAt": "2026-08-08T01:34:10Z"
-  },
-  {
-    "id": "04e34940",
-    "type": "news",
-    "title": "I attended a secret UFO meeting preparing Christians for 'the truth' and saw shape-shifting beings. Trump's files hide a clue to where these 'aliens' come from",
-    "description": "The man who claims he brought pastors from around the US to a secret UFO disclosure meeting has revealed what he says are missed clues in the latest declassified files.",
-    "url": "https://www.dailymail.com/sciencetech/article-16016803/ufo-secret-christian-meeting-tennessee-merkel.html",
-    "image": "https://i.dailymail.com/1s/2026/08/07/21/105177983-0-The_Pentagon_began_releasing_the_first_files_related_to_UFO_enco-a-23_1786133906673.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-08-07T20:19:29Z"
-  },
-  {
-    "id": "72d9832e",
-    "type": "news",
-    "title": "Latest Pentagon UFO files release includes video of mysterious ‘cold orbs’",
-    "description": "This new cache of material includes footage of a U.S. military plane’s infrared display recorded during an exercise over the Gulf of Oman in 2021",
-    "url": "https://www.scientificamerican.com/article/latest-pentagon-ufo-files-release-includes-video-of-mysterious-cold-orbs/",
-    "image": "https://static.scientificamerican.com/dam/asset/54cf22af-2dd3-4053-8eca-4789667a0e54/DOW-UAP-PR117-Unresolved-UAP-Report-GulfofOman-2021-mp4-fallback.jpg?m=1786136804.377&w=1200",
-    "source": "Scientific American",
-    "publishedAt": "2026-08-07T20:15:00Z"
   },
   {
     "id": "8c9caa44",
@@ -110,6 +100,16 @@
     "publishedAt": "2026-07-21T15:43:07Z"
   },
   {
+    "id": "04e34940",
+    "type": "news",
+    "title": "I attended a secret UFO meeting preparing Christians for 'the truth' and saw shape-shifting beings. Trump's files hide a clue to where these 'aliens' come from",
+    "description": "The man who claims he brought pastors from around the US to a secret UFO disclosure meeting has revealed what he says are missed clues in the latest declassified files.",
+    "url": "https://www.dailymail.com/sciencetech/article-16016803/ufo-secret-christian-meeting-tennessee-merkel.html",
+    "image": "https://i.dailymail.com/1s/2026/08/07/21/105177983-0-The_Pentagon_began_releasing_the_first_files_related_to_UFO_enco-a-23_1786133906673.jpg",
+    "source": "Dailymail.com",
+    "publishedAt": "2026-08-07T20:19:29Z"
+  },
+  {
     "id": "6b6217ea",
     "type": "news",
     "title": "White House UFO insider: I'm finally exposing the government's high-definition satellite footage of 'alien tech'... you are only getting a fraction of the story",
@@ -128,65 +128,5 @@
     "image": "https://i.dailymail.com/1s/2026/07/09/20/108475693-0-image-m-31_1783623616337.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-07-09T19:01:55Z"
-  },
-  {
-    "id": "7ab89ce9",
-    "type": "news",
-    "title": "Video shows US military tracking what appears to be mysterious object flying over Middle East in 2025",
-    "description": "The U.S. Department of War on Friday released video of what appears to be an unidentified flying object moving through the air last year in the Middle East.",
-    "url": "https://www.foxnews.com/politics/video-shows-us-military-tracking-what-appears-mysterious-object-flying-over-middle-east-2025",
-    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/uap-screenshot-2025.jpg",
-    "source": "Fox News",
-    "publishedAt": "2026-08-07T17:26:18Z"
-  },
-  {
-    "id": "0301049c",
-    "type": "news",
-    "title": "Trump UFO advisors have explanations for glowing orbs — except for one recent encounter",
-    "description": "Trump administration science advisors are offering conventional explanations for some of the sightings of mysterious orbs of light reported in the Trump UFO files — but insist one incredible encounter is completely inexp…",
-    "url": "https://nypost.com/2026/07/18/us-news/trump-ufo-advisors-propose-new-explanations-for-glowing-orbs/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134720777.jpg?quality=75&strip=all&w=1200",
-    "source": "New York Post",
-    "publishedAt": "2026-07-18T17:13:20Z"
-  },
-  {
-    "id": "6e58e8f3",
-    "type": "news",
-    "title": "The Harvard astrophysicist best known for arguing that ʻOumuamua might have been alien technology has now been chosen to lead a new US government science council investigating unidentified anomalous phenomena — the unexplained objects most people still call UFOs",
-    "description": "Harvard astrophysicist Avi Loeb, whose suggestion that the interstellar visitor ʻOumuamua could have been artificial made him one of astronomy’s most recognisable and disputed public figures, has been selected to chair a…",
-    "url": "https://spacedaily.com/t-avi-loeb-lead-us-uap-science-advisory-council/",
-    "image": "https://spacedaily.com/wp-content/uploads/2026/07/oumuamua-artist-concept-nasa-1024x576.jpg",
-    "source": "Space Daily",
-    "publishedAt": "2026-07-15T02:30:03Z"
-  },
-  {
-    "id": "27e3b7d0",
-    "type": "news",
-    "title": "U-2 spy planes flew so far above anything 1950s commercial pilots had ever seen that sunlight on their wings triggered a wave of UFO reports — and the CIA let the world believe in aliens rather than admit it was watching from above",
-    "description": "The U-2's greatest weapon wasn't stealth or speed—it was altitude so extreme that the public mistook its glint for extraterrestrials, and the CIA never corrected the record. The post U-2 spy planes flew so far above anyt…",
-    "url": "https://spacedaily.com/d-u-2-spy-planes-flew-so-far-above-anything-1950s-commercial-pilots-had-ever-seen-that-sunlight-on-their-wings-triggered-a-wave-of-ufo-reports-and-the-cia-let-the-world-believe-in-aliens-rathe/",
-    "image": "https://spacedaily.com/wp-content/uploads/2026/08/Posts-1600840-2026-08-04T185244.928.png",
-    "source": "Space Daily",
-    "publishedAt": "2026-08-04T14:15:51Z"
-  },
-  {
-    "id": "b06fbb53",
-    "type": "news",
-    "title": "Vulnerability Summary for the Week of July 20, 2026",
-    "description": "High Vulnerabilities PrimaryVendor -- Product Description Published CVSS Score Source Info @fastify/static--@fastify/static @fastify/static up to and including version 10…",
-    "url": "https://www.cisa.gov/news-events/bulletins/sb26-208",
-    "image": "",
-    "source": "Cisa.gov",
-    "publishedAt": "2026-07-27T11:11:58Z"
-  },
-  {
-    "id": "4ae0c0bb",
-    "type": "news",
-    "title": "Vulnerability Summary for the Week of July 6, 2026",
-    "description": "High Vulnerabilities PrimaryVendor -- Product Description Published CVSS Score Source Info 1Panel-dev--MaxKB MaxKB is an open-source AI assistant for enterprise. Prior to…",
-    "url": "https://www.cisa.gov/news-events/bulletins/sb26-194",
-    "image": "",
-    "source": "Cisa.gov",
-    "publishedAt": "2026-07-13T11:08:26Z"
   }
 ]
