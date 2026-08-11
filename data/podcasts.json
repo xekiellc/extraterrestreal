@@ -90,66 +90,6 @@
     "publishedAt": "2026-08-04T22:05:00Z"
   },
   {
-    "id": "f821afc7",
-    "type": "podcast",
-    "title": "Richard Dolan: UFO/UAP and Whistleblower Breaking News",
-    "description": "Ep. 2337 Tonight, Thursday on FADE to BLACK: Richard Dolan is back... and tonight we are going to discuss all of the latest ...",
-    "url": "https://www.youtube.com/watch?v=7gRh5EYbNrQ",
-    "image": "https://i.ytimg.com/vi/7gRh5EYbNrQ/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-08-07T04:09:20Z"
-  },
-  {
-    "id": "e09fc0c1",
-    "type": "podcast",
-    "title": "Ep. 2334 Emily Harrison: The Akashic Records",
-    "description": "Tonight, Monday on FADE to BLACK: Emily Harrison joins us to explore the connection between consciousness, UFO contact, ...",
-    "url": "https://www.youtube.com/watch?v=M5llKlTA4ok",
-    "image": "https://i.ytimg.com/vi/M5llKlTA4ok/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-08-04T04:16:10Z"
-  },
-  {
-    "id": "16b666ed",
-    "type": "podcast",
-    "title": "Ep. 2332 Marc D&#39;Antonio: UFO Propulsion",
-    "description": "Tonight, Wednesday on FADE to BLACK: Astronomer and imaging expert Marc D'Antonio joins us for a fascinating conversation ...",
-    "url": "https://www.youtube.com/watch?v=BWeRchoZJGQ",
-    "image": "https://i.ytimg.com/vi/BWeRchoZJGQ/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-07-30T04:08:38Z"
-  },
-  {
-    "id": "bd562728",
-    "type": "podcast",
-    "title": "Alien Encounters With The Real Life X-Files Agent - Nick Pope - DEBRIEFED ep. 34",
-    "description": "Subscribe to Artlist (get 2 Months For Free): https://bit.ly/Area52Artlist NEW MERCH! : https://www.area52.shop Patreon Exclusive ...",
-    "url": "https://www.youtube.com/watch?v=B6WFLOIkyho",
-    "image": "https://i.ytimg.com/vi/B6WFLOIkyho/hqdefault.jpg",
-    "source": "Area52",
-    "publishedAt": "2025-04-18T16:00:12Z"
-  },
-  {
-    "id": "6cc36c11",
-    "type": "podcast",
-    "title": "Contact | High Strange",
-    "description": "The Search for Extra Terrestrial Intelligence can be dated all the way back to the late 1800s, but people have been asking if we ...",
-    "url": "https://www.youtube.com/watch?v=1R1-5GMnsJI",
-    "image": "https://i.ytimg.com/vi/1R1-5GMnsJI/hqdefault.jpg",
-    "source": "HSM Podcast",
-    "publishedAt": "2023-04-21T01:24:37Z"
-  },
-  {
-    "id": "65f4e198",
-    "type": "podcast",
-    "title": "The UAP Reality - Daz Smith and Joe Murgia Discuss High Strangeness",
-    "description": "This is a July 7, 2022 discussion with Joe Murgia. Joe is a prominent and cutting-edge UAP researcher with a very informative ...",
-    "url": "https://www.youtube.com/watch?v=p-UVj6mWLWw",
-    "image": "https://i.ytimg.com/vi/p-UVj6mWLWw/hqdefault.jpg",
-    "source": "Down The Rabbit Hole",
-    "publishedAt": "2022-07-08T11:45:07Z"
-  },
-  {
     "id": "86480c61",
     "type": "podcast",
     "title": "The Dan Burisch Tapes: Disclosure Team Reacts",
@@ -198,5 +138,15 @@
     "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
     "source": "VICE News",
     "publishedAt": "2026-06-18T18:46:34Z"
+  },
+  {
+    "id": "d26fdaa8",
+    "type": "podcast",
+    "title": "UFO Mysteries That Defy Explanation | Unidentified: Inside America&#39;s UFO Investigation",
+    "description": "From shocking military encounters to mysterious triangle-shaped craft and unexplained sightings over remote regions, revisit ...",
+    "url": "https://www.youtube.com/watch?v=Mww3arniyt0",
+    "image": "https://i.ytimg.com/vi/Mww3arniyt0/hqdefault.jpg",
+    "source": "HISTORY",
+    "publishedAt": "2026-05-15T18:00:35Z"
   }
 ]
