@@ -1,5 +1,15 @@
 [
   {
+    "id": "67cdd744",
+    "type": "podcast",
+    "title": "#76 Whose Narrative Is It Anyway? — Need to Know — August 2026",
+    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan examine the recent Ross Coulthart–UAP Gerb interview and the ...",
+    "url": "https://www.youtube.com/watch?v=1w9SLXu4_No",
+    "image": "https://i.ytimg.com/vi/1w9SLXu4_No/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-08-01T13:52:00Z"
+  },
+  {
     "id": "b911b025",
     "type": "podcast",
     "title": "You NEED TO KNOW   These people sell fake alien stories! Lue Elizondo, Bryce Zabel, Ross Coulthart!",
@@ -18,16 +28,6 @@
     "image": "https://i.ytimg.com/vi/QscaracBciE/hqdefault.jpg",
     "source": "Stellar Productions",
     "publishedAt": "2026-07-18T21:47:56Z"
-  },
-  {
-    "id": "b1329b2d",
-    "type": "podcast",
-    "title": "#75 Is the Tic Tac Really Lockheed Martin Technology? — Need to Know — July 2026",
-    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan revisit one of the most debated claims in modern ufology: Ross ...",
-    "url": "https://www.youtube.com/watch?v=A7t5jd2FDJ4",
-    "image": "https://i.ytimg.com/vi/A7t5jd2FDJ4/hqdefault.jpg",
-    "source": "Stellar Productions",
-    "publishedAt": "2026-07-04T01:00:06Z"
   },
   {
     "id": "651ac94e",
@@ -150,36 +150,6 @@
     "publishedAt": "2022-07-08T11:45:07Z"
   },
   {
-    "id": "86480c61",
-    "type": "podcast",
-    "title": "The Dan Burisch Tapes: Disclosure Team Reacts",
-    "description": "Dan Burisch says he lead a team of biologists as part of an ultra secret program to study a living non-human being at S4.",
-    "url": "https://www.youtube.com/watch?v=4_emXhrdD1w",
-    "image": "https://i.ytimg.com/vi/4_emXhrdD1w/hqdefault.jpg",
-    "source": "NIGHT SHIFT",
-    "publishedAt": "2026-07-24T20:19:28Z"
-  },
-  {
-    "id": "b1db30fd",
-    "type": "podcast",
-    "title": "NIght Shift x Disclosure Team - Clint Weldon",
-    "description": "I'm joined by Clint Weldon, host of the Night Shift podcast, for a relaxed conversation covering all things UFOs and UAP.",
-    "url": "https://www.youtube.com/watch?v=ihVtuX8qML8",
-    "image": "https://i.ytimg.com/vi/ihVtuX8qML8/hqdefault.jpg",
-    "source": "Disclosure Team",
-    "publishedAt": "2026-07-22T08:32:11Z"
-  },
-  {
-    "id": "47806f57",
-    "type": "podcast",
-    "title": "Contact Confidential - Vinnie Adams",
-    "description": "Vinnie Adams from Youtube's Disclosure Team joins contact confidential to share a personal encounter and his perspectives on ...",
-    "url": "https://www.youtube.com/watch?v=SynMIjXALYc",
-    "image": "https://i.ytimg.com/vi/SynMIjXALYc/hqdefault.jpg",
-    "source": "TOOWi Arts",
-    "publishedAt": "2026-06-23T20:42:25Z"
-  },
-  {
     "id": "7b1955c9",
     "type": "podcast",
     "title": "UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic",
@@ -198,5 +168,15 @@
     "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
     "source": "VICE News",
     "publishedAt": "2026-06-18T18:46:34Z"
+  },
+  {
+    "id": "d26fdaa8",
+    "type": "podcast",
+    "title": "UFO Mysteries That Defy Explanation | Unidentified: Inside America&#39;s UFO Investigation",
+    "description": "From shocking military encounters to mysterious triangle-shaped craft and unexplained sightings over remote regions, revisit ...",
+    "url": "https://www.youtube.com/watch?v=Mww3arniyt0",
+    "image": "https://i.ytimg.com/vi/Mww3arniyt0/hqdefault.jpg",
+    "source": "HISTORY",
+    "publishedAt": "2026-05-15T18:00:35Z"
   }
 ]
