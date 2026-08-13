@@ -1,5 +1,15 @@
 [
   {
+    "id": "f569bba8",
+    "type": "news",
+    "title": "Marco Rubio addresses UAP government cover-up allegations, says Trump would give a speech if admin knew more",
+    "description": "Secretary of State Marco Rubio said Trump would hold a primetime address and would be showing UAP pictures and videos if the government had more information on the topic.",
+    "url": "https://www.foxnews.com/media/marco-rubio-addresses-uap-government-cover-up-allegations-says-trump-would-give-speech-admin-knew-more",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/marco-rubio-american-mining-industry-roundtable.jpg",
+    "source": "Fox News",
+    "publishedAt": "2026-08-12T20:00:51Z"
+  },
+  {
     "id": "642c5a7b",
     "type": "news",
     "title": "Are UFOs inspiring a new religion?",
@@ -20,16 +30,6 @@
     "publishedAt": "2026-08-10T06:00:00Z"
   },
   {
-    "id": "51c6ba95",
-    "type": "news",
-    "title": "Pentagon releases new UFO files: Reports describe 500-foot triangle, mysterious lights and alleged metal sphere with ‘human body’",
-    "description": "The Pentagon has unveiled new declassified files detailing unexplained aerial phenomena. These documents include pilot accounts of silent triangular objects and mysterious lights. One report describes a decades-old incid…",
-    "url": "https://economictimes.indiatimes.com/news/international/global-trends/pentagon-releases-new-ufo-files-reports-describe-500-foot-triangle-mysterious-lights-and-alleged-metal-sphere-with-human-body/articleshow/133039401.cms",
-    "image": "https://img.etimg.com/thumb/msid-133040415,width-1200,height-630,imgsize-5926,overlay-economictimes/articleshow.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-08-07T18:04:33Z"
-  },
-  {
     "id": "2568ef70",
     "type": "news",
     "title": "Germany logs record rise in UFO sightings – watchdog",
@@ -38,16 +38,6 @@
     "image": "https://mf.b37mrtl.ru/files/2026.08/article/6a79b18285f5402c0202e4d9.png",
     "source": "RT",
     "publishedAt": "2026-08-10T11:31:44Z"
-  },
-  {
-    "id": "ceb681fc",
-    "type": "news",
-    "title": "Pentagon Releases Declassified Footage of US Military Tracking UFO Over Middle East (VIDEO)",
-    "description": "The White House on Friday released footage of an unidentified flying object flying over the Middle East. The post Pentagon Releases Declassified Footage of US Military Tracking UFO Over Middle East (VIDEO) appeared first…",
-    "url": "https://www.thegatewaypundit.com/2026/08/pentagon-releases-declassified-footage-us-military-tracking-ufo/",
-    "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/08/img_6671-1200x630.jpg",
-    "source": "Thegatewaypundit.com",
-    "publishedAt": "2026-08-08T13:45:59Z"
   },
   {
     "id": "8c9caa44",
@@ -110,14 +100,14 @@
     "publishedAt": "2026-07-18T17:13:20Z"
   },
   {
-    "id": "6e58e8f3",
+    "id": "51c6ba95",
     "type": "news",
-    "title": "The Harvard astrophysicist best known for arguing that ʻOumuamua might have been alien technology has now been chosen to lead a new US government science council investigating unidentified anomalous phenomena — the unexplained objects most people still call UFOs",
-    "description": "Harvard astrophysicist Avi Loeb, whose suggestion that the interstellar visitor ʻOumuamua could have been artificial made him one of astronomy’s most recognisable and disputed public figures, has been selected to chair a…",
-    "url": "https://spacedaily.com/t-avi-loeb-lead-us-uap-science-advisory-council/",
-    "image": "https://spacedaily.com/wp-content/uploads/2026/07/oumuamua-artist-concept-nasa-1024x576.jpg",
-    "source": "Space Daily",
-    "publishedAt": "2026-07-15T02:30:03Z"
+    "title": "Pentagon releases new UFO files: Reports describe 500-foot triangle, mysterious lights and alleged metal sphere with ‘human body’",
+    "description": "The Pentagon has unveiled new declassified files detailing unexplained aerial phenomena. These documents include pilot accounts of silent triangular objects and mysterious lights. One report describes a decades-old incid…",
+    "url": "https://economictimes.indiatimes.com/news/international/global-trends/pentagon-releases-new-ufo-files-reports-describe-500-foot-triangle-mysterious-lights-and-alleged-metal-sphere-with-human-body/articleshow/133039401.cms",
+    "image": "https://img.etimg.com/thumb/msid-133040415,width-1200,height-630,imgsize-5926,overlay-economictimes/articleshow.jpg",
+    "source": "The Times of India",
+    "publishedAt": "2026-08-07T18:04:33Z"
   },
   {
     "id": "27e3b7d0",
