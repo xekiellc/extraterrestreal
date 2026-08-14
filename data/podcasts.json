@@ -70,16 +70,6 @@
     "publishedAt": "2026-08-12T14:00:06Z"
   },
   {
-    "id": "78fcd5bb",
-    "type": "podcast",
-    "title": "Witness Accounts: Volume 41",
-    "description": "alien #storytime #storytelling In Witness Accounts: Volume 41, we hear seven extraordinary firsthand encounters with the ...",
-    "url": "https://www.youtube.com/watch?v=gofyw1tS6Pg",
-    "image": "https://i.ytimg.com/vi/gofyw1tS6Pg/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-08-10T14:00:06Z"
-  },
-  {
     "id": "5ead2b48",
     "type": "podcast",
     "title": "Pentagon Release of 16 New UFO Videos",
@@ -88,6 +78,16 @@
     "image": "https://i.ytimg.com/vi/vnzmqDpEIQM/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-08-07T22:45:06Z"
+  },
+  {
+    "id": "24d7c966",
+    "type": "podcast",
+    "title": "Invasion on Chesnut Ridge with Seth Breedlove (SITS CLASSIC)",
+    "description": "pennsylvania #uap #bigfoot Somewhere in the Skies Classics returns with one of our favorite conversations, revisiting an ...",
+    "url": "https://www.youtube.com/watch?v=ayE0pJMkPZQ",
+    "image": "https://i.ytimg.com/vi/ayE0pJMkPZQ/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-08-05T14:00:06Z"
   },
   {
     "id": "f821afc7",
