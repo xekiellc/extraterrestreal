@@ -1,5 +1,35 @@
 [
   {
+    "id": "67cdd744",
+    "type": "podcast",
+    "title": "#76 Whose Narrative Is It Anyway? — Need to Know — August 2026",
+    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan examine the recent Ross Coulthart–UAP Gerb interview and the ...",
+    "url": "https://www.youtube.com/watch?v=1w9SLXu4_No",
+    "image": "https://i.ytimg.com/vi/1w9SLXu4_No/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-08-01T13:52:00Z"
+  },
+  {
+    "id": "b911b025",
+    "type": "podcast",
+    "title": "You NEED TO KNOW   These people sell fake alien stories! Lue Elizondo, Bryce Zabel, Ross Coulthart!",
+    "description": "You NEED TO KNOW These people sell fake alien stories! Lue Elizondo, Bryce Zabel, Ross Coulthart! Music by Karl Casey ...",
+    "url": "https://www.youtube.com/watch?v=YOMDe2Ev6Sg",
+    "image": "https://i.ytimg.com/vi/YOMDe2Ev6Sg/hqdefault.jpg",
+    "source": "Truthseekers",
+    "publishedAt": "2026-07-24T23:00:06Z"
+  },
+  {
+    "id": "8e0863b1",
+    "type": "podcast",
+    "title": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
+    "description": "On July 15, Sound, Light & Frequency co-host Bryce Zabel joined former Deputy Assistant Secretary of Defense for Intelligence ...",
+    "url": "https://www.youtube.com/watch?v=QscaracBciE",
+    "image": "https://i.ytimg.com/vi/QscaracBciE/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-07-18T21:47:56Z"
+  },
+  {
     "id": "a884dcec",
     "type": "podcast",
     "title": "Alien Bases Beneath Antarctica? Brad Olsen on Byrd, Highjump &amp; Hollow Earth",
@@ -168,15 +198,5 @@
     "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
     "source": "VICE News",
     "publishedAt": "2026-06-18T18:46:34Z"
-  },
-  {
-    "id": "d26fdaa8",
-    "type": "podcast",
-    "title": "UFO Mysteries That Defy Explanation | Unidentified: Inside America&#39;s UFO Investigation",
-    "description": "From shocking military encounters to mysterious triangle-shaped craft and unexplained sightings over remote regions, revisit ...",
-    "url": "https://www.youtube.com/watch?v=Mww3arniyt0",
-    "image": "https://i.ytimg.com/vi/Mww3arniyt0/hqdefault.jpg",
-    "source": "HISTORY",
-    "publishedAt": "2026-05-15T18:00:35Z"
   }
 ]
