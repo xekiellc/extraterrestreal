@@ -1,5 +1,15 @@
 [
   {
+    "id": "8c93b48e",
+    "type": "news",
+    "title": "Department of War investigating mysterious triangle UFO videos after Post report",
+    "description": "Following a Post report, the Department of War is investigating two withheld videos of a 100-foot triangle UFO over a Colorado military base.",
+    "url": "https://nypost.com/2026/08/15/us-news/department-of-war-investigating-triangle-ufo-videos-after-post-report-will-release/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/crop-40343385.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-08-16T00:09:15Z"
+  },
+  {
     "id": "d983e443",
     "type": "news",
     "title": "DR PHIL: There are crystal clear secret UFO videos the government's hidden in plain sight. And that's just the tip of the iceberg. What I've heard... and the terrifying reason for the cover-up may be more damaging than a PANDEMIC",
@@ -18,16 +28,6 @@
     "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/marco-rubio-american-mining-industry-roundtable.jpg",
     "source": "Fox News",
     "publishedAt": "2026-08-12T20:00:51Z"
-  },
-  {
-    "id": "642c5a7b",
-    "type": "news",
-    "title": "Are UFOs inspiring a new religion?",
-    "description": "People around the world are gathering in wilderness settings with the intention to initiate contact with UFOs using various techniques.",
-    "url": "https://theconversation.com/are-ufos-inspiring-a-new-religion-287467",
-    "image": "https://images.theconversation.com/files/753084/original/file-20260810-50-wd35mf.jpg?ixlib=rb-4.1.1&rect=0%2C1014%2C3631%2C1815&q=45&auto=format&w=1356&h=668&fit=crop",
-    "source": "The Conversation Africa",
-    "publishedAt": "2026-08-10T12:42:03Z"
   },
   {
     "id": "62669f4b",
@@ -118,6 +118,16 @@
     "image": "https://spacedaily.com/wp-content/uploads/2026/08/Posts-1600840-2026-08-04T185244.928.png",
     "source": "Space Daily",
     "publishedAt": "2026-08-04T14:15:51Z"
+  },
+  {
+    "id": "642c5a7b",
+    "type": "news",
+    "title": "Are UFOs inspiring a new religion?",
+    "description": "People around the world are gathering in wilderness settings with the intention to initiate contact with UFOs using various techniques.",
+    "url": "https://theconversation.com/are-ufos-inspiring-a-new-religion-287467",
+    "image": "https://images.theconversation.com/files/753084/original/file-20260810-50-wd35mf.jpg?ixlib=rb-4.1.1&rect=0%2C1014%2C3631%2C1815&q=45&auto=format&w=1356&h=668&fit=crop",
+    "source": "The Conversation Africa",
+    "publishedAt": "2026-08-10T12:42:03Z"
   },
   {
     "id": "b06fbb53",
