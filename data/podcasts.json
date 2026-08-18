@@ -10,16 +10,6 @@
     "publishedAt": "2026-08-09T12:00:06Z"
   },
   {
-    "id": "67cdd744",
-    "type": "podcast",
-    "title": "#76 Whose Narrative Is It Anyway? — Need to Know — August 2026",
-    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan examine the recent Ross Coulthart–UAP Gerb interview and the ...",
-    "url": "https://www.youtube.com/watch?v=1w9SLXu4_No",
-    "image": "https://i.ytimg.com/vi/1w9SLXu4_No/hqdefault.jpg",
-    "source": "Stellar Productions",
-    "publishedAt": "2026-08-01T13:52:00Z"
-  },
-  {
     "id": "b911b025",
     "type": "podcast",
     "title": "You NEED TO KNOW   These people sell fake alien stories! Lue Elizondo, Bryce Zabel, Ross Coulthart!",
@@ -28,6 +18,16 @@
     "image": "https://i.ytimg.com/vi/YOMDe2Ev6Sg/hqdefault.jpg",
     "source": "Truthseekers",
     "publishedAt": "2026-07-24T23:00:06Z"
+  },
+  {
+    "id": "8e0863b1",
+    "type": "podcast",
+    "title": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
+    "description": "On July 15, Sound, Light & Frequency co-host Bryce Zabel joined former Deputy Assistant Secretary of Defense for Intelligence ...",
+    "url": "https://www.youtube.com/watch?v=QscaracBciE",
+    "image": "https://i.ytimg.com/vi/QscaracBciE/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-07-18T21:47:56Z"
   },
   {
     "id": "651ac94e",
@@ -120,6 +120,16 @@
     "publishedAt": "2026-07-30T04:08:38Z"
   },
   {
+    "id": "a4727c28",
+    "type": "podcast",
+    "title": "A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups",
+    "description": "Payne Lindsey is an investigative filmmaker and podcaster known for hosting hit the true crime series including “Up and ...",
+    "url": "https://www.youtube.com/watch?v=bmJ2Eg9YDK4",
+    "image": "https://i.ytimg.com/vi/bmJ2Eg9YDK4/hqdefault.jpg",
+    "source": "IRONCLAD",
+    "publishedAt": "2026-06-03T21:30:06Z"
+  },
+  {
     "id": "bd562728",
     "type": "podcast",
     "title": "Alien Encounters With The Real Life X-Files Agent - Nick Pope - DEBRIEFED ep. 34",
@@ -138,16 +148,6 @@
     "image": "https://i.ytimg.com/vi/1R1-5GMnsJI/hqdefault.jpg",
     "source": "HSM Podcast",
     "publishedAt": "2023-04-21T01:24:37Z"
-  },
-  {
-    "id": "65f4e198",
-    "type": "podcast",
-    "title": "The UAP Reality - Daz Smith and Joe Murgia Discuss High Strangeness",
-    "description": "This is a July 7, 2022 discussion with Joe Murgia. Joe is a prominent and cutting-edge UAP researcher with a very informative ...",
-    "url": "https://www.youtube.com/watch?v=p-UVj6mWLWw",
-    "image": "https://i.ytimg.com/vi/p-UVj6mWLWw/hqdefault.jpg",
-    "source": "Down The Rabbit Hole",
-    "publishedAt": "2022-07-08T11:45:07Z"
   },
   {
     "id": "86480c61",
@@ -180,6 +180,16 @@
     "publishedAt": "2026-06-23T20:42:25Z"
   },
   {
+    "id": "c7b9d620",
+    "type": "podcast",
+    "title": "&quot;I Was Inside A UFO.&quot; | Area 51 Whistleblower Bob Lazar",
+    "description": "Bob Lazar says that between December 1988 and April 1989 he worked as a senior staff physicist at S4, a facility built into a ...",
+    "url": "https://www.youtube.com/watch?v=PHoU0wxVF9Q",
+    "image": "https://i.ytimg.com/vi/PHoU0wxVF9Q/hqdefault.jpg",
+    "source": "GSP Podcast",
+    "publishedAt": "2026-08-04T16:00:06Z"
+  },
+  {
     "id": "7b1955c9",
     "type": "podcast",
     "title": "UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic",
@@ -188,15 +198,5 @@
     "image": "https://i.ytimg.com/vi/dDxYZyMEmUU/hqdefault.jpg",
     "source": "National Geographic",
     "publishedAt": "2026-06-27T13:00:25Z"
-  },
-  {
-    "id": "46b80a76",
-    "type": "podcast",
-    "title": "The Age of Disclosure: Who Actually Controls the UAP Secrets? | w/ Dan Farah | SSHQ",
-    "description": "Who actually controls the biggest secret in modern history? For decades, UFOs were treated as conspiracy theories, fringe ...",
-    "url": "https://www.youtube.com/watch?v=MWM5AtR3n9o",
-    "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
-    "source": "VICE News",
-    "publishedAt": "2026-06-18T18:46:34Z"
   }
 ]
