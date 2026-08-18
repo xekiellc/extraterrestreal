@@ -180,6 +180,16 @@
     "publishedAt": "2026-07-23T13:00:06Z"
   },
   {
+    "id": "bf793ef1",
+    "type": "video",
+    "title": "Director of UFO documentary hopes film spurs ‘national conversation’ | CUOMO",
+    "description": "A documentary that releases Friday about UFOs, “The Age of Disclosure,” accuses the government of covering up efforts to ...",
+    "url": "https://www.youtube.com/watch?v=jhXNaZIN4F4",
+    "image": "https://i.ytimg.com/vi/jhXNaZIN4F4/hqdefault.jpg",
+    "source": "NewsNation",
+    "publishedAt": "2025-11-21T02:28:26Z"
+  },
+  {
     "id": "f5cc1c1f",
     "type": "video",
     "title": "#ElizabethVargas Reports on UAP@NewsNation",
@@ -200,16 +210,6 @@
     "publishedAt": "2025-10-23T18:00:32Z"
   },
   {
-    "id": "fba8de5e",
-    "type": "video",
-    "title": "NewsNation&#39;s Ross Coulthart on media coverage of the UFO/UAP phenomenon",
-    "description": "NewsNation journalist Ross Coulthart is stumped why 'the biggest story' in humanity's existence isn't getting covered in ...",
-    "url": "https://www.youtube.com/watch?v=FxkFnrAqJss",
-    "image": "https://i.ytimg.com/vi/FxkFnrAqJss/hqdefault.jpg",
-    "source": "Frontier Journalists' Network",
-    "publishedAt": "2025-04-14T11:45:59Z"
-  },
-  {
     "id": "6a06ccf7",
     "type": "video",
     "title": "CONGRESS CAUGHT IN MASSIVE UFO FLIP",
@@ -220,16 +220,6 @@
     "publishedAt": "2026-05-16T21:29:36Z"
   },
   {
-    "id": "739b0d28",
-    "type": "video",
-    "title": "Cristina Gomez | A Future When We Know We Are Not Alone",
-    "description": "Anomacon #uap #aliens Summary: Cristina Gomez will shortly graduate from University and has been asking questions of her ...",
-    "url": "https://www.youtube.com/watch?v=4m9_URZzjLM",
-    "image": "https://i.ytimg.com/vi/4m9_URZzjLM/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2024-07-10T13:00:07Z"
-  },
-  {
     "id": "df322ef7",
     "type": "video",
     "title": "Ep. 1779 Cristina Gomez:  Bigfoot!",
@@ -238,5 +228,15 @@
     "image": "https://i.ytimg.com/vi/_8I-p0Ihdmk/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2023-03-17T04:15:18Z"
+  },
+  {
+    "id": "43ddc57a",
+    "type": "video",
+    "title": "2022 WRAP UP - And review of Missing 411 The UFO Connection",
+    "description": "SHIFTING THE PARADIGM PLAYLIST - https://www.youtube.com/playlist?list=PLneWjPNXc1RwPk7mA_1fMCzLrG0s3j2wT A ...",
+    "url": "https://www.youtube.com/watch?v=FLcuq9p5akY",
+    "image": "https://i.ytimg.com/vi/FLcuq9p5akY/hqdefault.jpg",
+    "source": "Cristina Gomez",
+    "publishedAt": "2022-12-28T03:47:10Z"
   }
 ]
