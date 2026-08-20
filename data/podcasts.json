@@ -10,6 +10,16 @@
     "publishedAt": "2026-08-09T12:00:06Z"
   },
   {
+    "id": "67cdd744",
+    "type": "podcast",
+    "title": "#76 Whose Narrative Is It Anyway? — Need to Know — August 2026",
+    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan examine the recent Ross Coulthart–UAP Gerb interview and the ...",
+    "url": "https://www.youtube.com/watch?v=1w9SLXu4_No",
+    "image": "https://i.ytimg.com/vi/1w9SLXu4_No/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-08-01T13:52:00Z"
+  },
+  {
     "id": "b911b025",
     "type": "podcast",
     "title": "You NEED TO KNOW   These people sell fake alien stories! Lue Elizondo, Bryce Zabel, Ross Coulthart!",
@@ -18,16 +28,6 @@
     "image": "https://i.ytimg.com/vi/YOMDe2Ev6Sg/hqdefault.jpg",
     "source": "Truthseekers",
     "publishedAt": "2026-07-24T23:00:06Z"
-  },
-  {
-    "id": "8e0863b1",
-    "type": "podcast",
-    "title": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
-    "description": "On July 15, Sound, Light & Frequency co-host Bryce Zabel joined former Deputy Assistant Secretary of Defense for Intelligence ...",
-    "url": "https://www.youtube.com/watch?v=QscaracBciE",
-    "image": "https://i.ytimg.com/vi/QscaracBciE/hqdefault.jpg",
-    "source": "Stellar Productions",
-    "publishedAt": "2026-07-18T21:47:56Z"
   },
   {
     "id": "651ac94e",
@@ -120,26 +120,6 @@
     "publishedAt": "2026-07-30T04:08:38Z"
   },
   {
-    "id": "a4727c28",
-    "type": "podcast",
-    "title": "A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups",
-    "description": "Payne Lindsey is an investigative filmmaker and podcaster known for hosting hit the true crime series including “Up and ...",
-    "url": "https://www.youtube.com/watch?v=bmJ2Eg9YDK4",
-    "image": "https://i.ytimg.com/vi/bmJ2Eg9YDK4/hqdefault.jpg",
-    "source": "IRONCLAD",
-    "publishedAt": "2026-06-03T21:30:06Z"
-  },
-  {
-    "id": "bd562728",
-    "type": "podcast",
-    "title": "Alien Encounters With The Real Life X-Files Agent - Nick Pope - DEBRIEFED ep. 34",
-    "description": "Subscribe to Artlist (get 2 Months For Free): https://bit.ly/Area52Artlist NEW MERCH! : https://www.area52.shop Patreon Exclusive ...",
-    "url": "https://www.youtube.com/watch?v=B6WFLOIkyho",
-    "image": "https://i.ytimg.com/vi/B6WFLOIkyho/hqdefault.jpg",
-    "source": "Area52",
-    "publishedAt": "2025-04-18T16:00:12Z"
-  },
-  {
     "id": "65f4e198",
     "type": "podcast",
     "title": "The UAP Reality - Daz Smith and Joe Murgia Discuss High Strangeness",
@@ -178,25 +158,5 @@
     "image": "https://i.ytimg.com/vi/SynMIjXALYc/hqdefault.jpg",
     "source": "TOOWi Arts",
     "publishedAt": "2026-06-23T20:42:25Z"
-  },
-  {
-    "id": "c7b9d620",
-    "type": "podcast",
-    "title": "&quot;I Was Inside A UFO.&quot; | Area 51 Whistleblower Bob Lazar",
-    "description": "Bob Lazar says that between December 1988 and April 1989 he worked as a senior staff physicist at S4, a facility built into a ...",
-    "url": "https://www.youtube.com/watch?v=PHoU0wxVF9Q",
-    "image": "https://i.ytimg.com/vi/PHoU0wxVF9Q/hqdefault.jpg",
-    "source": "GSP Podcast",
-    "publishedAt": "2026-08-04T16:00:06Z"
-  },
-  {
-    "id": "7b1955c9",
-    "type": "podcast",
-    "title": "UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic",
-    "description": "Is there life beyond Planet Earth? In this UFOs: Investigating the Unknown Mega Episode from National Geographic, explore the ...",
-    "url": "https://www.youtube.com/watch?v=dDxYZyMEmUU",
-    "image": "https://i.ytimg.com/vi/dDxYZyMEmUU/hqdefault.jpg",
-    "source": "National Geographic",
-    "publishedAt": "2026-06-27T13:00:25Z"
   }
 ]
