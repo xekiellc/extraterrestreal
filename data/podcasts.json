@@ -90,6 +90,16 @@
     "publishedAt": "2026-08-12T14:00:06Z"
   },
   {
+    "id": "40b9f3c9",
+    "type": "podcast",
+    "title": "Ep 2341: Preston Dennett: Does ET Have Healing Powers?",
+    "description": "Tonight, Wednesday on FADE to BLACK: For more than 25 years, Preston Dennett has investigated extraordinary cases of people ...",
+    "url": "https://www.youtube.com/watch?v=wgcB_6fMtqA",
+    "image": "https://i.ytimg.com/vi/wgcB_6fMtqA/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-08-20T04:14:38Z"
+  },
+  {
     "id": "f821afc7",
     "type": "podcast",
     "title": "Richard Dolan: UFO/UAP and Whistleblower Breaking News",
@@ -110,14 +120,24 @@
     "publishedAt": "2026-08-04T04:16:10Z"
   },
   {
-    "id": "16b666ed",
+    "id": "a4727c28",
     "type": "podcast",
-    "title": "Ep. 2332 Marc D&#39;Antonio: UFO Propulsion",
-    "description": "Tonight, Wednesday on FADE to BLACK: Astronomer and imaging expert Marc D'Antonio joins us for a fascinating conversation ...",
-    "url": "https://www.youtube.com/watch?v=BWeRchoZJGQ",
-    "image": "https://i.ytimg.com/vi/BWeRchoZJGQ/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-07-30T04:08:38Z"
+    "title": "A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups",
+    "description": "Payne Lindsey is an investigative filmmaker and podcaster known for hosting hit the true crime series including “Up and ...",
+    "url": "https://www.youtube.com/watch?v=bmJ2Eg9YDK4",
+    "image": "https://i.ytimg.com/vi/bmJ2Eg9YDK4/hqdefault.jpg",
+    "source": "IRONCLAD",
+    "publishedAt": "2026-06-03T21:30:06Z"
+  },
+  {
+    "id": "bd562728",
+    "type": "podcast",
+    "title": "Alien Encounters With The Real Life X-Files Agent - Nick Pope - DEBRIEFED ep. 34",
+    "description": "Subscribe to Artlist (get 2 Months For Free): https://bit.ly/Area52Artlist NEW MERCH! : https://www.area52.shop Patreon Exclusive ...",
+    "url": "https://www.youtube.com/watch?v=B6WFLOIkyho",
+    "image": "https://i.ytimg.com/vi/B6WFLOIkyho/hqdefault.jpg",
+    "source": "Area52",
+    "publishedAt": "2025-04-18T16:00:12Z"
   },
   {
     "id": "65f4e198",
@@ -158,5 +178,25 @@
     "image": "https://i.ytimg.com/vi/SynMIjXALYc/hqdefault.jpg",
     "source": "TOOWi Arts",
     "publishedAt": "2026-06-23T20:42:25Z"
+  },
+  {
+    "id": "c7b9d620",
+    "type": "podcast",
+    "title": "&quot;I Was Inside A UFO.&quot; | Area 51 Whistleblower Bob Lazar",
+    "description": "Bob Lazar says that between December 1988 and April 1989 he worked as a senior staff physicist at S4, a facility built into a ...",
+    "url": "https://www.youtube.com/watch?v=PHoU0wxVF9Q",
+    "image": "https://i.ytimg.com/vi/PHoU0wxVF9Q/hqdefault.jpg",
+    "source": "GSP Podcast",
+    "publishedAt": "2026-08-04T16:00:06Z"
+  },
+  {
+    "id": "7b1955c9",
+    "type": "podcast",
+    "title": "UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic",
+    "description": "Is there life beyond Planet Earth? In this UFOs: Investigating the Unknown Mega Episode from National Geographic, explore the ...",
+    "url": "https://www.youtube.com/watch?v=dDxYZyMEmUU",
+    "image": "https://i.ytimg.com/vi/dDxYZyMEmUU/hqdefault.jpg",
+    "source": "National Geographic",
+    "publishedAt": "2026-06-27T13:00:25Z"
   }
 ]
