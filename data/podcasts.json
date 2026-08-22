@@ -60,6 +60,36 @@
     "publishedAt": "2026-07-25T17:00:21Z"
   },
   {
+    "id": "ffdec7c1",
+    "type": "podcast",
+    "title": "Stories from UFO Reddit: Volume 01",
+    "description": "Reddit #Live #Storytelling Ryan & Suzanne are launching a new series called \"Stories from UFO Reddit\" where they deep into the ...",
+    "url": "https://www.youtube.com/watch?v=0QZOi6SCPlE",
+    "image": "https://i.ytimg.com/vi/0QZOi6SCPlE/hqdefault_live.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-08-19T13:42:53Z"
+  },
+  {
+    "id": "994ad161",
+    "type": "podcast",
+    "title": "The Fatal Close Encounter of George Wheeler",
+    "description": "In 1976, police officer George Wheeler. reported encountering a massive UFO and being struck by a beam of light that knocked ...",
+    "url": "https://www.youtube.com/watch?v=6A0g1QyAyzg",
+    "image": "https://i.ytimg.com/vi/6A0g1QyAyzg/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-08-17T14:00:06Z"
+  },
+  {
+    "id": "991a18a8",
+    "type": "podcast",
+    "title": "James Fox: UFO Retrieval Programs, Non-Human Intelligence &amp; The Program (SITS CLASSIC)",
+    "description": "UAP #congress #jamesfox In this Somewhere in the Skies Classics episode, Filmmaker, James Fox discusses the years of ...",
+    "url": "https://www.youtube.com/watch?v=aHFvPoimqDI",
+    "image": "https://i.ytimg.com/vi/aHFvPoimqDI/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-08-12T14:00:06Z"
+  },
+  {
     "id": "537370c0",
     "type": "podcast",
     "title": "BMR  &quot;Special Edition&quot;   Jimmy Church ~ FADE TO BLACK  Radio",
@@ -148,5 +178,25 @@
     "image": "https://i.ytimg.com/vi/SynMIjXALYc/hqdefault.jpg",
     "source": "TOOWi Arts",
     "publishedAt": "2026-06-23T20:42:25Z"
+  },
+  {
+    "id": "c017c6cf",
+    "type": "podcast",
+    "title": "Jacques Vallée: The UFO Phenomenon Is Stranger Than We Think | Ep 776",
+    "description": "Legendary UFO researcher, scientist and author Jacques Vallée joins Martin Willis for a remarkable and deeply personal ...",
+    "url": "https://www.youtube.com/watch?v=hJA8j79wH94",
+    "image": "https://i.ytimg.com/vi/hJA8j79wH94/hqdefault.jpg",
+    "source": "Podcast UFO Live Shows",
+    "publishedAt": "2026-08-21T01:16:41Z"
+  },
+  {
+    "id": "c7b9d620",
+    "type": "podcast",
+    "title": "&quot;I Was Inside A UFO.&quot; | Area 51 Whistleblower Bob Lazar",
+    "description": "Bob Lazar says that between December 1988 and April 1989 he worked as a senior staff physicist at S4, a facility built into a ...",
+    "url": "https://www.youtube.com/watch?v=PHoU0wxVF9Q",
+    "image": "https://i.ytimg.com/vi/PHoU0wxVF9Q/hqdefault.jpg",
+    "source": "GSP Podcast",
+    "publishedAt": "2026-08-04T16:00:06Z"
   }
 ]
