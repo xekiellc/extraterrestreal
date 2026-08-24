@@ -40,6 +40,16 @@
     "publishedAt": "2026-08-14T23:59:22Z"
   },
   {
+    "id": "95661b8e",
+    "type": "news",
+    "title": "Ufology: Withering on the Vine",
+    "description": "Eighty years after Donald Keyhoe invented the government cover-up myth, ufology still hasn’t produced a single verified artifact. A sharp dissection of how folklore accretes while real history distills, and why the field…",
+    "url": "https://www.skeptic.com/article/ufo-disclosure-myth-explained/",
+    "image": "https://storage.ghost.io/c/36/db/36db2d53-b96a-4b7f-9ea6-1e48a1d7715e/content/images/size/w1200/2026/08/ufology-campfire-smoke-myth.webp",
+    "source": "Skeptic.com",
+    "publishedAt": "2026-08-22T20:29:35Z"
+  },
+  {
     "id": "cb83c70b",
     "type": "news",
     "title": "Survey Finds UFO News Coverage Driving Increase in Alien Beliefs",
@@ -120,16 +130,6 @@
     "publishedAt": "2026-08-15T08:30:00Z"
   },
   {
-    "id": "7ab89ce9",
-    "type": "news",
-    "title": "Video shows US military tracking what appears to be mysterious object flying over Middle East in 2025",
-    "description": "The U.S. Department of War on Friday released video of what appears to be an unidentified flying object moving through the air last year in the Middle East.",
-    "url": "https://www.foxnews.com/politics/video-shows-us-military-tracking-what-appears-mysterious-object-flying-over-middle-east-2025",
-    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/uap-screenshot-2025.jpg",
-    "source": "Fox News",
-    "publishedAt": "2026-08-07T17:26:18Z"
-  },
-  {
     "id": "51c6ba95",
     "type": "news",
     "title": "Pentagon releases new UFO files: Reports describe 500-foot triangle, mysterious lights and alleged metal sphere with ‘human body’",
@@ -158,15 +158,5 @@
     "image": "https://images.theconversation.com/files/753084/original/file-20260810-50-wd35mf.jpg?ixlib=rb-4.1.1&rect=0%2C1014%2C3631%2C1815&q=45&auto=format&w=1356&h=668&fit=crop",
     "source": "The Conversation Africa",
     "publishedAt": "2026-08-10T12:42:03Z"
-  },
-  {
-    "id": "b06fbb53",
-    "type": "news",
-    "title": "Vulnerability Summary for the Week of July 20, 2026",
-    "description": "High Vulnerabilities PrimaryVendor -- Product Description Published CVSS Score Source Info @fastify/static--@fastify/static @fastify/static up to and including version 10…",
-    "url": "https://www.cisa.gov/news-events/bulletins/sb26-208",
-    "image": "",
-    "source": "Cisa.gov",
-    "publishedAt": "2026-07-27T11:11:58Z"
   }
 ]
