@@ -10,6 +10,16 @@
     "publishedAt": "2026-08-09T12:00:06Z"
   },
   {
+    "id": "67cdd744",
+    "type": "podcast",
+    "title": "#76 Whose Narrative Is It Anyway? — Need to Know — August 2026",
+    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan examine the recent Ross Coulthart–UAP Gerb interview and the ...",
+    "url": "https://www.youtube.com/watch?v=1w9SLXu4_No",
+    "image": "https://i.ytimg.com/vi/1w9SLXu4_No/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-08-01T13:52:00Z"
+  },
+  {
     "id": "8e0863b1",
     "type": "podcast",
     "title": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
@@ -18,16 +28,6 @@
     "image": "https://i.ytimg.com/vi/QscaracBciE/hqdefault.jpg",
     "source": "Stellar Productions",
     "publishedAt": "2026-07-18T21:47:56Z"
-  },
-  {
-    "id": "b1329b2d",
-    "type": "podcast",
-    "title": "#75 Is the Tic Tac Really Lockheed Martin Technology? — Need to Know — July 2026",
-    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan revisit one of the most debated claims in modern ufology: Ross ...",
-    "url": "https://www.youtube.com/watch?v=A7t5jd2FDJ4",
-    "image": "https://i.ytimg.com/vi/A7t5jd2FDJ4/hqdefault.jpg",
-    "source": "Stellar Productions",
-    "publishedAt": "2026-07-04T01:00:06Z"
   },
   {
     "id": "de9e3e3c",
@@ -90,36 +90,6 @@
     "publishedAt": "2026-08-24T10:02:03Z"
   },
   {
-    "id": "fcb3bdfd",
-    "type": "podcast",
-    "title": "Ep 2343: Noe Torres: South Texas UFOs",
-    "description": "Tonight, Monday on FADE to BLACK: Author Noe Torres explores chilling UFO encounters from South Texas, featured in his new ...",
-    "url": "https://www.youtube.com/watch?v=LYEYjdbYW9I",
-    "image": "https://i.ytimg.com/vi/LYEYjdbYW9I/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-08-25T04:06:57Z"
-  },
-  {
-    "id": "537370c0",
-    "type": "podcast",
-    "title": "BMR  &quot;Special Edition&quot;   Jimmy Church ~ FADE TO BLACK  Radio",
-    "description": "Jimmy Church is a dynamic broadcaster, host, and leading voice in the world of the unexplained, consciousness, and the ...",
-    "url": "https://www.youtube.com/watch?v=RH81FdENA74",
-    "image": "https://i.ytimg.com/vi/RH81FdENA74/hqdefault.jpg",
-    "source": "Bigfoot Michigan Rob & Beyond",
-    "publishedAt": "2026-08-22T09:42:20Z"
-  },
-  {
-    "id": "40b9f3c9",
-    "type": "podcast",
-    "title": "Ep 2341: Preston Dennett: Does ET Have Healing Powers?",
-    "description": "Tonight, Wednesday on FADE to BLACK: For more than 25 years, Preston Dennett has investigated extraordinary cases of people ...",
-    "url": "https://www.youtube.com/watch?v=wgcB_6fMtqA",
-    "image": "https://i.ytimg.com/vi/wgcB_6fMtqA/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-08-20T04:14:38Z"
-  },
-  {
     "id": "a4727c28",
     "type": "podcast",
     "title": "A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups",
@@ -150,36 +120,6 @@
     "publishedAt": "2023-05-23T21:00:12Z"
   },
   {
-    "id": "86480c61",
-    "type": "podcast",
-    "title": "The Dan Burisch Tapes: Disclosure Team Reacts",
-    "description": "Dan Burisch says he lead a team of biologists as part of an ultra secret program to study a living non-human being at S4.",
-    "url": "https://www.youtube.com/watch?v=4_emXhrdD1w",
-    "image": "https://i.ytimg.com/vi/4_emXhrdD1w/hqdefault.jpg",
-    "source": "NIGHT SHIFT",
-    "publishedAt": "2026-07-24T20:19:28Z"
-  },
-  {
-    "id": "b1db30fd",
-    "type": "podcast",
-    "title": "NIght Shift x Disclosure Team - Clint Weldon",
-    "description": "I'm joined by Clint Weldon, host of the Night Shift podcast, for a relaxed conversation covering all things UFOs and UAP.",
-    "url": "https://www.youtube.com/watch?v=ihVtuX8qML8",
-    "image": "https://i.ytimg.com/vi/ihVtuX8qML8/hqdefault.jpg",
-    "source": "Disclosure Team",
-    "publishedAt": "2026-07-22T08:32:11Z"
-  },
-  {
-    "id": "47806f57",
-    "type": "podcast",
-    "title": "Contact Confidential - Vinnie Adams",
-    "description": "Vinnie Adams from Youtube's Disclosure Team joins contact confidential to share a personal encounter and his perspectives on ...",
-    "url": "https://www.youtube.com/watch?v=SynMIjXALYc",
-    "image": "https://i.ytimg.com/vi/SynMIjXALYc/hqdefault.jpg",
-    "source": "TOOWi Arts",
-    "publishedAt": "2026-06-23T20:42:25Z"
-  },
-  {
     "id": "c7b9d620",
     "type": "podcast",
     "title": "&quot;I Was Inside A UFO.&quot; | Area 51 Whistleblower Bob Lazar",
@@ -198,5 +138,15 @@
     "image": "https://i.ytimg.com/vi/dDxYZyMEmUU/hqdefault.jpg",
     "source": "National Geographic",
     "publishedAt": "2026-06-27T13:00:25Z"
+  },
+  {
+    "id": "46b80a76",
+    "type": "podcast",
+    "title": "The Age of Disclosure: Who Actually Controls the UAP Secrets? | w/ Dan Farah | SSHQ",
+    "description": "Who actually controls the biggest secret in modern history? For decades, UFOs were treated as conspiracy theories, fringe ...",
+    "url": "https://www.youtube.com/watch?v=MWM5AtR3n9o",
+    "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
+    "source": "VICE News",
+    "publishedAt": "2026-06-18T18:46:34Z"
   }
 ]
