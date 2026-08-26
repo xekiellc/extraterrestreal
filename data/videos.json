@@ -60,16 +60,6 @@
     "publishedAt": "2026-08-24T17:53:31Z"
   },
   {
-    "id": "5efe8e01",
-    "type": "video",
-    "title": "Navy Admiral Names the Top UFO Hotspots! (ft. Timothy Gallaudet)",
-    "description": "Main episode with Timothy Gallaudet: https://youtu.be/nRKNVFQBi38?si=3n0R6ZEcL3bkL7zr Grab Your Alchemy Merchandise!",
-    "url": "https://www.youtube.com/watch?v=7yMHYWL99Xs",
-    "image": "https://i.ytimg.com/vi/7yMHYWL99Xs/hqdefault.jpg",
-    "source": "Jesse Michels Clips",
-    "publishedAt": "2026-08-23T19:58:14Z"
-  },
-  {
     "id": "21a63972",
     "type": "video",
     "title": "Top Navy Admiral: “The Ocean is FULL OF UFOs!”",
@@ -88,6 +78,16 @@
     "image": "https://i.ytimg.com/vi/vFRX9dmbAh0/hqdefault.jpg",
     "source": "Skywatcher's Hub",
     "publishedAt": "2026-08-21T16:03:32Z"
+  },
+  {
+    "id": "7c176908",
+    "type": "video",
+    "title": "Jesse Michels &amp; Jeffrey Mishlove, The Higher Reality",
+    "description": "Jesse Michels is a filmmaker, investor, and creator who hosts the investigative video podcast American Alchemy. Formerly ...",
+    "url": "https://www.youtube.com/watch?v=7Zseb2ZK3Tw",
+    "image": "https://i.ytimg.com/vi/7Zseb2ZK3Tw/hqdefault.jpg",
+    "source": "The Higher Reality",
+    "publishedAt": "2026-08-19T20:00:24Z"
   },
   {
     "id": "316c72b5",
@@ -120,6 +120,26 @@
     "publishedAt": "2026-07-24T17:00:35Z"
   },
   {
+    "id": "34a1c5e2",
+    "type": "video",
+    "title": "Dr. Steven Greer Calls Out Classified UFO Projects | ⚠️",
+    "description": "Dr. Steven Greer reveals why decades of extreme UFO secrecy pose an ongoing threat to national security on the ...",
+    "url": "https://www.youtube.com/watch?v=GfQZwKYCH6c",
+    "image": "https://i.ytimg.com/vi/GfQZwKYCH6c/hqdefault.jpg",
+    "source": "Short Highlights",
+    "publishedAt": "2026-08-26T09:41:22Z"
+  },
+  {
+    "id": "005fd963",
+    "type": "video",
+    "title": "Why the Tic Tac UFO looks like US tech #ufo #technology #shorts",
+    "description": "Are the most famous UFOs actually man-made? Dr. Steven Greer reveals the shocking origins of the famous Navy \"Tic Tac\" UFO ...",
+    "url": "https://www.youtube.com/watch?v=4Pm_jVA7Zm0",
+    "image": "https://i.ytimg.com/vi/4Pm_jVA7Zm0/hqdefault.jpg",
+    "source": "Short Highlights",
+    "publishedAt": "2026-08-26T09:24:15Z"
+  },
+  {
     "id": "fc38a713",
     "type": "video",
     "title": "PROGRAMMI SEGRETI E UFO: cosa si nasconde dietro la divulgazione? | Intervista a Steven Greer",
@@ -128,26 +148,6 @@
     "image": "https://i.ytimg.com/vi/8cR-0vF_gYs/hqdefault_live.jpg",
     "source": "PierGiorgioCaria59",
     "publishedAt": "2026-08-25T15:23:22Z"
-  },
-  {
-    "id": "c5a9f06a",
-    "type": "video",
-    "title": "How We Create Our Own Contact | Dr. Steven Greer",
-    "description": "In 1992, at the International UFO Congress, Dr Steven Greer stood in front of a room of researchers and told them the fence-sitting ...",
-    "url": "https://www.youtube.com/watch?v=LruEua1BUF0",
-    "image": "https://i.ytimg.com/vi/LruEua1BUF0/hqdefault.jpg",
-    "source": "Best of Dr Steven Greer",
-    "publishedAt": "2026-08-24T16:00:24Z"
-  },
-  {
-    "id": "e5e61de0",
-    "type": "video",
-    "title": "The Dr. Steven Greer Podcast - Episode 23",
-    "description": "In this episode, Dr. Greer discusses how to navigate the post-disclosure world. Link to October CE5 event: ...",
-    "url": "https://www.youtube.com/watch?v=FmEnsuYrRy4",
-    "image": "https://i.ytimg.com/vi/FmEnsuYrRy4/hqdefault.jpg",
-    "source": "Dr. Steven Greer",
-    "publishedAt": "2026-08-24T14:07:52Z"
   },
   {
     "id": "0f3a67a7",
@@ -220,14 +220,14 @@
     "publishedAt": "2026-05-16T21:29:36Z"
   },
   {
-    "id": "78b6ecc5",
+    "id": "739b0d28",
     "type": "video",
-    "title": "UFOs - They Lost Time",
-    "description": "A Weekly Livestream Show with a focus on recounting cases and stories of the Strange and Unexplained, Mysterious Events, ...",
-    "url": "https://www.youtube.com/watch?v=A63HsIEHCpI",
-    "image": "https://i.ytimg.com/vi/A63HsIEHCpI/hqdefault.jpg",
-    "source": "Cristina Gomez",
-    "publishedAt": "2023-08-15T22:35:51Z"
+    "title": "Cristina Gomez | A Future When We Know We Are Not Alone",
+    "description": "Anomacon #uap #aliens Summary: Cristina Gomez will shortly graduate from University and has been asking questions of her ...",
+    "url": "https://www.youtube.com/watch?v=4m9_URZzjLM",
+    "image": "https://i.ytimg.com/vi/4m9_URZzjLM/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2024-07-10T13:00:07Z"
   },
   {
     "id": "ff24fe1c",
