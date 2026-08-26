@@ -10,16 +10,6 @@
     "publishedAt": "2026-08-09T12:00:06Z"
   },
   {
-    "id": "67cdd744",
-    "type": "podcast",
-    "title": "#76 Whose Narrative Is It Anyway? — Need to Know — August 2026",
-    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan examine the recent Ross Coulthart–UAP Gerb interview and the ...",
-    "url": "https://www.youtube.com/watch?v=1w9SLXu4_No",
-    "image": "https://i.ytimg.com/vi/1w9SLXu4_No/hqdefault.jpg",
-    "source": "Stellar Productions",
-    "publishedAt": "2026-08-01T13:52:00Z"
-  },
-  {
     "id": "8e0863b1",
     "type": "podcast",
     "title": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
@@ -28,6 +18,16 @@
     "image": "https://i.ytimg.com/vi/QscaracBciE/hqdefault.jpg",
     "source": "Stellar Productions",
     "publishedAt": "2026-07-18T21:47:56Z"
+  },
+  {
+    "id": "b1329b2d",
+    "type": "podcast",
+    "title": "#75 Is the Tic Tac Really Lockheed Martin Technology? — Need to Know — July 2026",
+    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan revisit one of the most debated claims in modern ufology: Ross ...",
+    "url": "https://www.youtube.com/watch?v=A7t5jd2FDJ4",
+    "image": "https://i.ytimg.com/vi/A7t5jd2FDJ4/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-07-04T01:00:06Z"
   },
   {
     "id": "de9e3e3c",
@@ -60,6 +60,16 @@
     "publishedAt": "2026-08-15T19:00:08Z"
   },
   {
+    "id": "bb8084b1",
+    "type": "podcast",
+    "title": "Henry Zebrowski: UFOs, Aliens, and the Last Podcast on the Left (SITS CLASSIC)",
+    "description": "It's a cosmic crossover with @LastPodcastOnTheLeft! Ryan revisits his conversation with actor, comedian, and podcaster Henry ...",
+    "url": "https://www.youtube.com/watch?v=chW44bXuG5o",
+    "image": "https://i.ytimg.com/vi/chW44bXuG5o/hqdefault_live.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-08-25T21:33:03Z"
+  },
+  {
     "id": "a884a795",
     "type": "podcast",
     "title": "Joshua Cutchin on UFOs, Paranormal Encounters &amp; The Inverted Path",
@@ -78,16 +88,6 @@
     "image": "https://i.ytimg.com/vi/0QZOi6SCPlE/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-08-24T10:02:03Z"
-  },
-  {
-    "id": "994ad161",
-    "type": "podcast",
-    "title": "The Fatal Close Encounter of George Wheeler",
-    "description": "In 1976, police officer George Wheeler. reported encountering a massive UFO and being struck by a beam of light that knocked ...",
-    "url": "https://www.youtube.com/watch?v=6A0g1QyAyzg",
-    "image": "https://i.ytimg.com/vi/6A0g1QyAyzg/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-08-17T14:00:06Z"
   },
   {
     "id": "fcb3bdfd",
