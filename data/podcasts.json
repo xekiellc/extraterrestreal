@@ -10,6 +10,16 @@
     "publishedAt": "2026-08-09T12:00:06Z"
   },
   {
+    "id": "67cdd744",
+    "type": "podcast",
+    "title": "#76 Whose Narrative Is It Anyway? — Need to Know — August 2026",
+    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan examine the recent Ross Coulthart–UAP Gerb interview and the ...",
+    "url": "https://www.youtube.com/watch?v=1w9SLXu4_No",
+    "image": "https://i.ytimg.com/vi/1w9SLXu4_No/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-08-01T13:52:00Z"
+  },
+  {
     "id": "8e0863b1",
     "type": "podcast",
     "title": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
@@ -18,16 +28,6 @@
     "image": "https://i.ytimg.com/vi/QscaracBciE/hqdefault.jpg",
     "source": "Stellar Productions",
     "publishedAt": "2026-07-18T21:47:56Z"
-  },
-  {
-    "id": "b1329b2d",
-    "type": "podcast",
-    "title": "#75 Is the Tic Tac Really Lockheed Martin Technology? — Need to Know — July 2026",
-    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan revisit one of the most debated claims in modern ufology: Ross ...",
-    "url": "https://www.youtube.com/watch?v=A7t5jd2FDJ4",
-    "image": "https://i.ytimg.com/vi/A7t5jd2FDJ4/hqdefault.jpg",
-    "source": "Stellar Productions",
-    "publishedAt": "2026-07-04T01:00:06Z"
   },
   {
     "id": "de9e3e3c",
@@ -60,24 +60,14 @@
     "publishedAt": "2026-08-15T19:00:08Z"
   },
   {
-    "id": "6035b1c3",
-    "type": "podcast",
-    "title": "The Night I Saw the Watchers | Stories from UFO Reddit",
-    "description": "Reddit #UAP #newjersey In this story from Reddit, a New Jersey man recalls a terrifying 2018 encounter involving strange orbs, ...",
-    "url": "https://www.youtube.com/watch?v=BCmLS22pOuA",
-    "image": "https://i.ytimg.com/vi/BCmLS22pOuA/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-08-27T18:00:06Z"
-  },
-  {
     "id": "237f45f5",
     "type": "podcast",
     "title": "The Night We Saw the UFO | Stories from UFO Reddit",
     "description": "Reddit #UAP #florida A 2012 Florida UFO sighting involving three witnesses, unexplained missing time, recurring sleep paralysis, ...",
     "url": "https://www.youtube.com/watch?v=ZvhHtNsAqJ8",
-    "image": "https://i.ytimg.com/vi/ZvhHtNsAqJ8/hqdefault_live.jpg",
+    "image": "https://i.ytimg.com/vi/ZvhHtNsAqJ8/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-08-27T17:29:54Z"
+    "publishedAt": "2026-08-27T21:00:06Z"
   },
   {
     "id": "781bca87",
@@ -85,9 +75,19 @@
     "title": "The Bell Shaped UFO and the Time That Vanished | Stories from UFO Reddit",
     "description": "Reddit #UAP #england An English witness describes bell-shaped and triangular UFOs, bizarre missing footage, a mysterious ...",
     "url": "https://www.youtube.com/watch?v=9ZIQh7Jg_7g",
-    "image": "https://i.ytimg.com/vi/9ZIQh7Jg_7g/hqdefault_live.jpg",
+    "image": "https://i.ytimg.com/vi/9ZIQh7Jg_7g/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-08-27T17:23:04Z"
+    "publishedAt": "2026-08-27T20:00:06Z"
+  },
+  {
+    "id": "f6913a18",
+    "type": "podcast",
+    "title": "The Triangular UFO and the Two Alien Beings Inside | Stories from UFO Reddit",
+    "description": "Reddit #UAP #england Jade recalls a terrifying 2017 encounter in Bedworth, England, where she and a friend witnessed a silent ...",
+    "url": "https://www.youtube.com/watch?v=VRgjsTe4MM0",
+    "image": "https://i.ytimg.com/vi/VRgjsTe4MM0/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-08-27T19:00:06Z"
   },
   {
     "id": "b57c6ea1",
