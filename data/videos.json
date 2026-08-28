@@ -60,16 +60,6 @@
     "publishedAt": "2026-08-24T23:09:38Z"
   },
   {
-    "id": "5efe8e01",
-    "type": "video",
-    "title": "Navy Admiral Names the Top UFO Hotspots! (ft. Timothy Gallaudet)",
-    "description": "Main episode with Timothy Gallaudet: https://youtu.be/nRKNVFQBi38?si=3n0R6ZEcL3bkL7zr Grab Your Alchemy Merchandise!",
-    "url": "https://www.youtube.com/watch?v=7yMHYWL99Xs",
-    "image": "https://i.ytimg.com/vi/7yMHYWL99Xs/hqdefault.jpg",
-    "source": "Jesse Michels Clips",
-    "publishedAt": "2026-08-23T19:58:14Z"
-  },
-  {
     "id": "21a63972",
     "type": "video",
     "title": "Top Navy Admiral: “The Ocean is FULL OF UFOs!”",
@@ -88,6 +78,16 @@
     "image": "https://i.ytimg.com/vi/vFRX9dmbAh0/hqdefault.jpg",
     "source": "Skywatcher's Hub",
     "publishedAt": "2026-08-21T16:03:32Z"
+  },
+  {
+    "id": "7c176908",
+    "type": "video",
+    "title": "Jesse Michels &amp; Jeffrey Mishlove, The Higher Reality",
+    "description": "Jesse Michels is a filmmaker, investor, and creator who hosts the investigative video podcast American Alchemy. Formerly ...",
+    "url": "https://www.youtube.com/watch?v=7Zseb2ZK3Tw",
+    "image": "https://i.ytimg.com/vi/7Zseb2ZK3Tw/hqdefault.jpg",
+    "source": "The Higher Reality",
+    "publishedAt": "2026-08-19T20:00:24Z"
   },
   {
     "id": "316c72b5",
@@ -220,14 +220,14 @@
     "publishedAt": "2026-05-16T21:29:36Z"
   },
   {
-    "id": "78b6ecc5",
+    "id": "739b0d28",
     "type": "video",
-    "title": "UFOs - They Lost Time",
-    "description": "A Weekly Livestream Show with a focus on recounting cases and stories of the Strange and Unexplained, Mysterious Events, ...",
-    "url": "https://www.youtube.com/watch?v=A63HsIEHCpI",
-    "image": "https://i.ytimg.com/vi/A63HsIEHCpI/hqdefault.jpg",
-    "source": "Cristina Gomez",
-    "publishedAt": "2023-08-15T22:35:51Z"
+    "title": "Cristina Gomez | A Future When We Know We Are Not Alone",
+    "description": "Anomacon #uap #aliens Summary: Cristina Gomez will shortly graduate from University and has been asking questions of her ...",
+    "url": "https://www.youtube.com/watch?v=4m9_URZzjLM",
+    "image": "https://i.ytimg.com/vi/4m9_URZzjLM/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2024-07-10T13:00:07Z"
   },
   {
     "id": "ff24fe1c",
