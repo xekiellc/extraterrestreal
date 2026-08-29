@@ -10,16 +10,6 @@
     "publishedAt": "2026-08-09T12:00:06Z"
   },
   {
-    "id": "67cdd744",
-    "type": "podcast",
-    "title": "#76 Whose Narrative Is It Anyway? — Need to Know — August 2026",
-    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan examine the recent Ross Coulthart–UAP Gerb interview and the ...",
-    "url": "https://www.youtube.com/watch?v=1w9SLXu4_No",
-    "image": "https://i.ytimg.com/vi/1w9SLXu4_No/hqdefault.jpg",
-    "source": "Stellar Productions",
-    "publishedAt": "2026-08-01T13:52:00Z"
-  },
-  {
     "id": "8e0863b1",
     "type": "podcast",
     "title": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
@@ -28,6 +18,16 @@
     "image": "https://i.ytimg.com/vi/QscaracBciE/hqdefault.jpg",
     "source": "Stellar Productions",
     "publishedAt": "2026-07-18T21:47:56Z"
+  },
+  {
+    "id": "b1329b2d",
+    "type": "podcast",
+    "title": "#75 Is the Tic Tac Really Lockheed Martin Technology? — Need to Know — July 2026",
+    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan revisit one of the most debated claims in modern ufology: Ross ...",
+    "url": "https://www.youtube.com/watch?v=A7t5jd2FDJ4",
+    "image": "https://i.ytimg.com/vi/A7t5jd2FDJ4/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-07-04T01:00:06Z"
   },
   {
     "id": "de9e3e3c",
@@ -100,6 +100,16 @@
     "publishedAt": "2026-08-28T04:10:17Z"
   },
   {
+    "id": "b57c6ea1",
+    "type": "podcast",
+    "title": "Ep 2344: Gretchen Cornwell: Oak Island’s Templar Cave: Royston",
+    "description": "Tonight, Tuesday on FADE to BLACK: Gretchen explores the mysteries of The Curse of Oak Island's Templar Cave: Royston, ...",
+    "url": "https://www.youtube.com/watch?v=mRN7HBAdiaU",
+    "image": "https://i.ytimg.com/vi/mRN7HBAdiaU/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-08-26T04:19:52Z"
+  },
+  {
     "id": "fcb3bdfd",
     "type": "podcast",
     "title": "Ep 2343: Noe Torres: South Texas UFOs",
@@ -110,14 +120,14 @@
     "publishedAt": "2026-08-25T04:06:57Z"
   },
   {
-    "id": "537370c0",
+    "id": "01b0bb93",
     "type": "podcast",
-    "title": "BMR  &quot;Special Edition&quot;   Jimmy Church ~ FADE TO BLACK  Radio",
-    "description": "Jimmy Church is a dynamic broadcaster, host, and leading voice in the world of the unexplained, consciousness, and the ...",
-    "url": "https://www.youtube.com/watch?v=RH81FdENA74",
-    "image": "https://i.ytimg.com/vi/RH81FdENA74/hqdefault.jpg",
-    "source": "Bigfoot Michigan Rob & Beyond",
-    "publishedAt": "2026-08-22T09:42:20Z"
+    "title": "The Alien King Talks Aliens &amp; Ghosts | Haunted With Payne Lindsey",
+    "description": "Put your tinfoil hats on, friends. Payne Lindsey, the Alien King, has graced our presence to talk all things alien and a little bit of ...",
+    "url": "https://www.youtube.com/watch?v=X8G6v3sntUU",
+    "image": "https://i.ytimg.com/vi/X8G6v3sntUU/hqdefault.jpg",
+    "source": "Two Girls One Ghost",
+    "publishedAt": "2023-05-23T21:00:12Z"
   },
   {
     "id": "65f4e198",
