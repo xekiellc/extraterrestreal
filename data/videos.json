@@ -60,6 +60,16 @@
     "publishedAt": "2026-08-24T23:09:38Z"
   },
   {
+    "id": "5b73e3b1",
+    "type": "video",
+    "title": "Joe Rogan Experience #2545 - Jesse Michels",
+    "description": "Jesse Michels is the creator and host of \"American Alchemy,\" a YouTube series exploring controversial topics in science and ...",
+    "url": "https://www.youtube.com/watch?v=33Fc_mLqY90",
+    "image": "https://i.ytimg.com/vi/33Fc_mLqY90/hqdefault.jpg",
+    "source": "PowerfulJRE",
+    "publishedAt": "2026-08-25T17:00:27Z"
+  },
+  {
     "id": "5efe8e01",
     "type": "video",
     "title": "Navy Admiral Names the Top UFO Hotspots! (ft. Timothy Gallaudet)",
@@ -78,16 +88,6 @@
     "image": "https://i.ytimg.com/vi/nRKNVFQBi38/hqdefault.jpg",
     "source": "Jesse Michels",
     "publishedAt": "2026-08-23T19:10:53Z"
-  },
-  {
-    "id": "ad3f2d3c",
-    "type": "video",
-    "title": "Congressman **Eric Burlison** joins Jesse Michels on **American Alchemy** for one of the wildest UAP",
-    "description": "Congressman **Eric Burlison** joins Jesse Michels on **American Alchemy** for one of the wildest UAP conversations yet.",
-    "url": "https://www.youtube.com/watch?v=vFRX9dmbAh0",
-    "image": "https://i.ytimg.com/vi/vFRX9dmbAh0/hqdefault.jpg",
-    "source": "Skywatcher's Hub",
-    "publishedAt": "2026-08-21T16:03:32Z"
   },
   {
     "id": "316c72b5",
@@ -140,14 +140,14 @@
     "publishedAt": "2026-08-27T16:00:32Z"
   },
   {
-    "id": "34a1c5e2",
+    "id": "005fd963",
     "type": "video",
-    "title": "Dr. Steven Greer Calls Out Classified UFO Projects | ⚠️",
-    "description": "Dr. Steven Greer reveals why decades of extreme UFO secrecy pose an ongoing threat to national security on the ...",
-    "url": "https://www.youtube.com/watch?v=GfQZwKYCH6c",
-    "image": "https://i.ytimg.com/vi/GfQZwKYCH6c/hqdefault.jpg",
+    "title": "Why the Tic Tac UFO looks like US tech #ufo #technology #shorts",
+    "description": "Are the most famous UFOs actually man-made? Dr. Steven Greer reveals the shocking origins of the famous Navy \"Tic Tac\" UFO ...",
+    "url": "https://www.youtube.com/watch?v=4Pm_jVA7Zm0",
+    "image": "https://i.ytimg.com/vi/4Pm_jVA7Zm0/hqdefault.jpg",
     "source": "Short Highlights",
-    "publishedAt": "2026-08-26T09:41:22Z"
+    "publishedAt": "2026-08-26T09:24:15Z"
   },
   {
     "id": "0f3a67a7",
@@ -180,63 +180,33 @@
     "publishedAt": "2026-07-23T13:00:06Z"
   },
   {
-    "id": "bf793ef1",
+    "id": "f3953413",
     "type": "video",
-    "title": "Director of UFO documentary hopes film spurs ‘national conversation’ | CUOMO",
-    "description": "A documentary that releases Friday about UFOs, “The Age of Disclosure,” accuses the government of covering up efforts to ...",
-    "url": "https://www.youtube.com/watch?v=jhXNaZIN4F4",
-    "image": "https://i.ytimg.com/vi/jhXNaZIN4F4/hqdefault.jpg",
-    "source": "NewsNation",
-    "publishedAt": "2025-11-21T02:28:26Z"
+    "title": "[LIVE]  UFO Whistleblower Lue Elizondo Interview -  Presidential UFO Disclosure - Disclosure Tonight",
+    "description": "8/18/2026 - Lue Elizondo Live Interview - Join Thomas, Mike and Daryl for an in depth interview discussing UFO Disclosure under ...",
+    "url": "https://www.youtube.com/watch?v=qhh_RsvGpJ8",
+    "image": "https://i.ytimg.com/vi/qhh_RsvGpJ8/hqdefault.jpg",
+    "source": "Disclosure Tonight with Thomas Fessler",
+    "publishedAt": "2026-08-20T03:31:55Z"
   },
   {
-    "id": "f5cc1c1f",
+    "id": "266c11e7",
     "type": "video",
-    "title": "#ElizabethVargas Reports on UAP@NewsNation",
-    "description": "Explosive UAP Revelations: New Video Emerges from Congressional Hearing – Elizabeth Vargas Breaks It Down Dive into the ...",
-    "url": "https://www.youtube.com/watch?v=NkmEM_CfYM4",
-    "image": "https://i.ytimg.com/vi/NkmEM_CfYM4/hqdefault.jpg",
-    "source": "#Attikusspeaks #Truth ",
-    "publishedAt": "2025-10-31T00:00:06Z"
+    "title": "‘THESE THINGS ARE REAL’: UAP whistleblower on Pentagon UFO files",
+    "description": "UAP whistleblower Luis Elizondo discusses newly released U.S. government materials on unidentified aerial phenomena and ...",
+    "url": "https://www.youtube.com/watch?v=HrUE1esrSxU",
+    "image": "https://i.ytimg.com/vi/HrUE1esrSxU/hqdefault.jpg",
+    "source": "Fox News Clips",
+    "publishedAt": "2026-08-08T11:30:05Z"
   },
   {
-    "id": "4bd3d968",
+    "id": "d55b0b6f",
     "type": "video",
-    "title": "Caught on camera: Top 5 UFO sightings from New York to Iraq | Backscroll",
-    "description": "Mysterious aerial sightings continue to spark curiosity and debate. In this episode of Backscroll, we bring you five of the most ...",
-    "url": "https://www.youtube.com/watch?v=QT_6S8Ev0Og",
-    "image": "https://i.ytimg.com/vi/QT_6S8Ev0Og/hqdefault.jpg",
-    "source": "NewsNation",
-    "publishedAt": "2025-10-23T18:00:32Z"
-  },
-  {
-    "id": "6a06ccf7",
-    "type": "video",
-    "title": "CONGRESS CAUGHT IN MASSIVE UFO FLIP",
-    "description": "Cristina Gomez reviews the latest UFO / UAP news and covers Anna Paulina Luna's surprising public endorsement of AARO ...",
-    "url": "https://www.youtube.com/watch?v=7Jc9q9u6SBQ",
-    "image": "https://i.ytimg.com/vi/7Jc9q9u6SBQ/hqdefault.jpg",
-    "source": "Cristina Gomez",
-    "publishedAt": "2026-05-16T21:29:36Z"
-  },
-  {
-    "id": "78b6ecc5",
-    "type": "video",
-    "title": "UFOs - They Lost Time",
-    "description": "A Weekly Livestream Show with a focus on recounting cases and stories of the Strange and Unexplained, Mysterious Events, ...",
-    "url": "https://www.youtube.com/watch?v=A63HsIEHCpI",
-    "image": "https://i.ytimg.com/vi/A63HsIEHCpI/hqdefault.jpg",
-    "source": "Cristina Gomez",
-    "publishedAt": "2023-08-15T22:35:51Z"
-  },
-  {
-    "id": "ff24fe1c",
-    "type": "video",
-    "title": "JFree906 Podcast - Cristina Gomez joins us live for The Secret of Skinwalker Ranch S4 Ep 6 Recap",
-    "description": "Tonight Seth and I are joined by podcaster Cristina Gomez from Shifting the Paradigm to discuss The Secret of Skinwalker Ranch ...",
-    "url": "https://www.youtube.com/watch?v=n-FkWV4n8vo",
-    "image": "https://i.ytimg.com/vi/n-FkWV4n8vo/hqdefault.jpg",
-    "source": "JFree906 - The Freeman Files",
-    "publishedAt": "2023-05-27T13:36:33Z"
+    "title": "The Pentagon Insider Who Went Public",
+    "description": "Former intelligence officer Lue Elizondo became one of the central figures in the modern UAP disclosure movement after leaving ...",
+    "url": "https://www.youtube.com/watch?v=lFts7qJJps4",
+    "image": "https://i.ytimg.com/vi/lFts7qJJps4/hqdefault.jpg",
+    "source": "Alien Digestive",
+    "publishedAt": "2026-08-07T01:17:42Z"
   }
 ]
