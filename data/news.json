@@ -40,6 +40,26 @@
     "publishedAt": "2026-08-14T23:59:22Z"
   },
   {
+    "id": "c79183bf",
+    "type": "news",
+    "title": "A New Way of Seeing Alien Worlds",
+    "description": "The latest telescope launch will be a major step toward finding extraterrestrial life.",
+    "url": "https://www.theatlantic.com/science/2026/08/nasa-roman-telescope-alien-worlds/688426/",
+    "image": "https://cdn.theatlantic.com/thumbor/kmDlDZXkS7uzK8OR-WAR6cBXvvo=/0x85:3994x2165/1200x625/media/img/mt/2026/08/2026_08_28_The_Most_Beautiful_Part_of_NASAs_New_Telescope_Ross_Anderson/original.jpg",
+    "source": "The Atlantic",
+    "publishedAt": "2026-08-29T12:00:00Z"
+  },
+  {
+    "id": "725972c5",
+    "type": "news",
+    "title": "At 10, he solved complex math problems. Unlocked the atom's true power. But his 3-word question about aliens changed how scientists see the universe",
+    "description": "Enrico Fermi was a child maths prodigy who went on to become one of the most important physicists of the 20th century, helping advance nuclear research and playing a key role in the first controlled nuclear chain reactio…",
+    "url": "https://economictimes.indiatimes.com/magazines/panache/at-10-he-solved-complex-math-problems-unlocked-the-atoms-true-power-but-his-3-word-question-about-aliens-changed-how-scientists-see-the-universe/articleshow/133609159.cms",
+    "image": "https://img.etimg.com/thumb/msid-133609495,width-1200,height-630,imgsize-145821,overlay-etpanache/articleshow.jpg",
+    "source": "The Times of India",
+    "publishedAt": "2026-08-29T10:14:39Z"
+  },
+  {
     "id": "619acfa4",
     "type": "news",
     "title": "4 Cult Sci-Fi Movies from the ’70s That Actually Need a Remake Today",
@@ -58,26 +78,6 @@
     "image": "https://www.salon.com/app/uploads/2025/09/Chuck-Schumer-Hakeem-Jeffries-2219672159.jpg",
     "source": "Salon",
     "publishedAt": "2026-08-28T13:00:29Z"
-  },
-  {
-    "id": "016e5cc9",
-    "type": "news",
-    "title": "Joe Rogan stokes feud with JD Vance after vice president suggested aliens could be DEMONS",
-    "description": "Joe Rogan didn't hold back on the vice president after a guest brought up the pair's recent conversation about demons on the podcast on Tuesday.",
-    "url": "https://www.dailymail.com/media/article-16081467/joe-rogan-jd-vance-aliens-demons-claim-podcast.html",
-    "image": "https://i.dailymail.com/1s/2026/08/26/14/110862655-0-image-a-22_1787749412010.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-08-26T16:56:32Z"
-  },
-  {
-    "id": "146472a1",
-    "type": "news",
-    "title": "Americans Still Skeptical That UFOs Are Aliens",
-    "description": "Americans are more likely to attribute UFO sightings to human activity or natural phenomena than alien activity; 17% say they have seen a UFO.",
-    "url": "https://news.gallup.com/poll/713765/americans-skeptical-ufos-aliens.aspx",
-    "image": "https://imagekit.gallup.com/fusion/tr:n-emd_soc_meta_og/POLL/2e9bdc2c-9b3e-4f22-89a2-a8d562ab0b3d.jpg",
-    "source": "Gallup.com",
-    "publishedAt": "2026-08-26T03:00:00Z"
   },
   {
     "id": "95661b8e",
