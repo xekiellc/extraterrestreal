@@ -30,6 +30,16 @@
     "publishedAt": "2026-08-14T16:00:19Z"
   },
   {
+    "id": "9d536eb5",
+    "type": "video",
+    "title": "“Accidental Truth: NEXT - Beyond UFO Disclosure” Ross Coulthart",
+    "description": "The #1 UFO documentary release of the summer. See it now on Amazon, Apple, and Google play! Made #1 on iTunes 4.1 of 5 ...",
+    "url": "https://www.youtube.com/watch?v=U1zFtshbEJ4",
+    "image": "https://i.ytimg.com/vi/U1zFtshbEJ4/hqdefault.jpg",
+    "source": "IvolveTV",
+    "publishedAt": "2026-08-31T16:22:18Z"
+  },
+  {
     "id": "a5680bf1",
     "type": "video",
     "title": "UFOs, Roswell, Area 51 and the road to disclosure | Reality Check Rewind",
@@ -48,16 +58,6 @@
     "image": "https://i.ytimg.com/vi/vDiDDvRnDC4/hqdefault.jpg",
     "source": "Down To Earth With Kristian Harloff (UAP NEWS)",
     "publishedAt": "2026-08-25T23:35:10Z"
-  },
-  {
-    "id": "30f8d553",
-    "type": "video",
-    "title": "Dr. Garry Nolan Drops Bombshell UFO Statement",
-    "description": "Patrick discusses new comments from Ross Coulthart, Dr. Garry Nolan, Dr. Eric Davis and Jack Osbourne. Check out our NEW ...",
-    "url": "https://www.youtube.com/watch?v=shf-IkJQiB8",
-    "image": "https://i.ytimg.com/vi/shf-IkJQiB8/hqdefault.jpg",
-    "source": "VETTED",
-    "publishedAt": "2026-08-25T15:17:25Z"
   },
   {
     "id": "30f1ab4b",
@@ -120,16 +120,6 @@
     "publishedAt": "2026-07-24T17:00:35Z"
   },
   {
-    "id": "fc38a713",
-    "type": "video",
-    "title": "PROGRAMMI SEGRETI E UFO: cosa si nasconde dietro la divulgazione? | Intervista a Steven Greer",
-    "description": "Tipologia: Intervista 〰️ Data: 15/03/2026 ⭐️Titolo: PROGRAMMI SEGRETI E UFO: cosa si nasconde dietro la divulgazione?",
-    "url": "https://www.youtube.com/watch?v=8cR-0vF_gYs",
-    "image": "https://i.ytimg.com/vi/8cR-0vF_gYs/hqdefault.jpg",
-    "source": "PierGiorgioCaria59",
-    "publishedAt": "2026-08-28T19:00:06Z"
-  },
-  {
     "id": "332f86e5",
     "type": "video",
     "title": "Seven UFOs Answered An Invitation In Gulf Breeze | Steven Greer",
@@ -140,14 +130,24 @@
     "publishedAt": "2026-08-27T16:00:32Z"
   },
   {
-    "id": "34a1c5e2",
+    "id": "c5a9f06a",
     "type": "video",
-    "title": "Dr. Steven Greer Calls Out Classified UFO Projects | ⚠️",
-    "description": "Dr. Steven Greer reveals why decades of extreme UFO secrecy pose an ongoing threat to national security on the ...",
-    "url": "https://www.youtube.com/watch?v=GfQZwKYCH6c",
-    "image": "https://i.ytimg.com/vi/GfQZwKYCH6c/hqdefault.jpg",
-    "source": "Short Highlights",
-    "publishedAt": "2026-08-26T09:41:22Z"
+    "title": "How We Create Our Own Contact | Dr. Steven Greer",
+    "description": "In 1992, at the International UFO Congress, Dr Steven Greer stood in front of a room of researchers and told them the fence-sitting ...",
+    "url": "https://www.youtube.com/watch?v=LruEua1BUF0",
+    "image": "https://i.ytimg.com/vi/LruEua1BUF0/hqdefault.jpg",
+    "source": "Best of Dr Steven Greer",
+    "publishedAt": "2026-08-24T16:00:24Z"
+  },
+  {
+    "id": "e5e61de0",
+    "type": "video",
+    "title": "The Dr. Steven Greer Podcast - Episode 23",
+    "description": "In this episode, Dr. Greer discusses how to navigate the post-disclosure world. Link to October CE5 event: ...",
+    "url": "https://www.youtube.com/watch?v=FmEnsuYrRy4",
+    "image": "https://i.ytimg.com/vi/FmEnsuYrRy4/hqdefault.jpg",
+    "source": "Dr. Steven Greer",
+    "publishedAt": "2026-08-24T14:07:52Z"
   },
   {
     "id": "0f3a67a7",
