@@ -120,16 +120,6 @@
     "publishedAt": "2026-07-24T17:00:35Z"
   },
   {
-    "id": "300fe1ee",
-    "type": "video",
-    "title": "The UFO Field Has A Prejudice Problem | Dr. Steven Greer",
-    "description": "This is the talk where Dr Steven Greer lays out the philosophy underneath the CSETI protocols, and then turns it around on the ...",
-    "url": "https://www.youtube.com/watch?v=dIg6PW72MKU",
-    "image": "https://i.ytimg.com/vi/dIg6PW72MKU/hqdefault.jpg",
-    "source": "Best of Dr Steven Greer",
-    "publishedAt": "2026-08-30T16:00:24Z"
-  },
-  {
     "id": "fc38a713",
     "type": "video",
     "title": "PROGRAMMI SEGRETI E UFO: cosa si nasconde dietro la divulgazione? | Intervista a Steven Greer",
@@ -148,6 +138,16 @@
     "image": "https://i.ytimg.com/vi/BPOeRCrjDvQ/hqdefault.jpg",
     "source": "Best of Dr Steven Greer",
     "publishedAt": "2026-08-27T16:00:32Z"
+  },
+  {
+    "id": "34a1c5e2",
+    "type": "video",
+    "title": "Dr. Steven Greer Calls Out Classified UFO Projects | ⚠️",
+    "description": "Dr. Steven Greer reveals why decades of extreme UFO secrecy pose an ongoing threat to national security on the ...",
+    "url": "https://www.youtube.com/watch?v=GfQZwKYCH6c",
+    "image": "https://i.ytimg.com/vi/GfQZwKYCH6c/hqdefault.jpg",
+    "source": "Short Highlights",
+    "publishedAt": "2026-08-26T09:41:22Z"
   },
   {
     "id": "0f3a67a7",
@@ -220,14 +220,14 @@
     "publishedAt": "2026-05-16T21:29:36Z"
   },
   {
-    "id": "739b0d28",
+    "id": "78b6ecc5",
     "type": "video",
-    "title": "Cristina Gomez | A Future When We Know We Are Not Alone",
-    "description": "Anomacon #uap #aliens Summary: Cristina Gomez will shortly graduate from University and has been asking questions of her ...",
-    "url": "https://www.youtube.com/watch?v=4m9_URZzjLM",
-    "image": "https://i.ytimg.com/vi/4m9_URZzjLM/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2024-07-10T13:00:07Z"
+    "title": "UFOs - They Lost Time",
+    "description": "A Weekly Livestream Show with a focus on recounting cases and stories of the Strange and Unexplained, Mysterious Events, ...",
+    "url": "https://www.youtube.com/watch?v=A63HsIEHCpI",
+    "image": "https://i.ytimg.com/vi/A63HsIEHCpI/hqdefault.jpg",
+    "source": "Cristina Gomez",
+    "publishedAt": "2023-08-15T22:35:51Z"
   },
   {
     "id": "ff24fe1c",
