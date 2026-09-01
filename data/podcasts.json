@@ -10,16 +10,6 @@
     "publishedAt": "2026-08-09T12:00:06Z"
   },
   {
-    "id": "67cdd744",
-    "type": "podcast",
-    "title": "#76 Whose Narrative Is It Anyway? — Need to Know — August 2026",
-    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan examine the recent Ross Coulthart–UAP Gerb interview and the ...",
-    "url": "https://www.youtube.com/watch?v=1w9SLXu4_No",
-    "image": "https://i.ytimg.com/vi/1w9SLXu4_No/hqdefault.jpg",
-    "source": "Stellar Productions",
-    "publishedAt": "2026-08-01T13:52:00Z"
-  },
-  {
     "id": "8e0863b1",
     "type": "podcast",
     "title": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
@@ -28,6 +18,16 @@
     "image": "https://i.ytimg.com/vi/QscaracBciE/hqdefault.jpg",
     "source": "Stellar Productions",
     "publishedAt": "2026-07-18T21:47:56Z"
+  },
+  {
+    "id": "b1329b2d",
+    "type": "podcast",
+    "title": "#75 Is the Tic Tac Really Lockheed Martin Technology? — Need to Know — July 2026",
+    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan revisit one of the most debated claims in modern ufology: Ross ...",
+    "url": "https://www.youtube.com/watch?v=A7t5jd2FDJ4",
+    "image": "https://i.ytimg.com/vi/A7t5jd2FDJ4/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-07-04T01:00:06Z"
   },
   {
     "id": "de9e3e3c",
@@ -58,6 +58,36 @@
     "image": "https://i.ytimg.com/vi/xIB3ANZEXjE/hqdefault.jpg",
     "source": "That UFO Podcast",
     "publishedAt": "2026-08-15T19:00:08Z"
+  },
+  {
+    "id": "d2a62264",
+    "type": "podcast",
+    "title": "Australia&#39;s Strangest UFO Cases with Violeta M. Bagia",
+    "description": "Ryan sits down with Australian author and Somewhere in the Skies contributing writer, Violeta M. Bagia, for a deep dive into some ...",
+    "url": "https://www.youtube.com/watch?v=idG_3c0TqAo",
+    "image": "https://i.ytimg.com/vi/idG_3c0TqAo/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-08-31T14:00:06Z"
+  },
+  {
+    "id": "89da85c8",
+    "type": "podcast",
+    "title": "Bigelow &amp; Fugal UNITE, Trump’s Underwater ALIEN Claims, UK UFO Controversy, CLEAREST UFO Photo Ever?",
+    "description": "Live #UAP #SkinwalkerRanch Tonight on Somewhere in the Skies LIVE, Ryan and Suzanne break down the latest UFO and UAP ...",
+    "url": "https://www.youtube.com/watch?v=ERBlCT5GhAE",
+    "image": "https://i.ytimg.com/vi/ERBlCT5GhAE/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-08-31T10:08:19Z"
+  },
+  {
+    "id": "3903a5c6",
+    "type": "podcast",
+    "title": "THE GREYS: 4 Terrifying Alien Encounters from UFO Reddit",
+    "description": "Tonight on Somewhere in the Skies LIVE, Ryan and Suzanne return to the strangest corners of Reddit to explore four ...",
+    "url": "https://www.youtube.com/watch?v=LyMuAGJ89lo",
+    "image": "https://i.ytimg.com/vi/LyMuAGJ89lo/hqdefault_live.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-08-30T23:04:24Z"
   },
   {
     "id": "05d2037f",
@@ -108,6 +138,36 @@
     "image": "https://i.ytimg.com/vi/p-UVj6mWLWw/hqdefault.jpg",
     "source": "Down The Rabbit Hole",
     "publishedAt": "2022-07-08T11:45:07Z"
+  },
+  {
+    "id": "c296fd7a",
+    "type": "podcast",
+    "title": "The UFO Conversation - Chris Ramsay",
+    "description": "Chris is the host of the hugely popular YouTube channel 'Area 52\". He joins Vinnie to talk all things UFO/UAP!",
+    "url": "https://www.youtube.com/watch?v=fzXxeguFeGI",
+    "image": "https://i.ytimg.com/vi/fzXxeguFeGI/hqdefault.jpg",
+    "source": "Disclosure Team",
+    "publishedAt": "2026-07-30T08:39:47Z"
+  },
+  {
+    "id": "86480c61",
+    "type": "podcast",
+    "title": "The Dan Burisch Tapes: Disclosure Team Reacts",
+    "description": "Dan Burisch says he lead a team of biologists as part of an ultra secret program to study a living non-human being at S4.",
+    "url": "https://www.youtube.com/watch?v=4_emXhrdD1w",
+    "image": "https://i.ytimg.com/vi/4_emXhrdD1w/hqdefault.jpg",
+    "source": "NIGHT SHIFT",
+    "publishedAt": "2026-07-24T20:19:28Z"
+  },
+  {
+    "id": "b1db30fd",
+    "type": "podcast",
+    "title": "NIght Shift x Disclosure Team - Clint Weldon",
+    "description": "I'm joined by Clint Weldon, host of the Night Shift podcast, for a relaxed conversation covering all things UFOs and UAP.",
+    "url": "https://www.youtube.com/watch?v=ihVtuX8qML8",
+    "image": "https://i.ytimg.com/vi/ihVtuX8qML8/hqdefault.jpg",
+    "source": "Disclosure Team",
+    "publishedAt": "2026-07-22T08:32:11Z"
   },
   {
     "id": "c7b9d620",
