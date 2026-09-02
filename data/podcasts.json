@@ -10,16 +10,6 @@
     "publishedAt": "2026-08-09T12:00:06Z"
   },
   {
-    "id": "67cdd744",
-    "type": "podcast",
-    "title": "#76 Whose Narrative Is It Anyway? — Need to Know — August 2026",
-    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan examine the recent Ross Coulthart–UAP Gerb interview and the ...",
-    "url": "https://www.youtube.com/watch?v=1w9SLXu4_No",
-    "image": "https://i.ytimg.com/vi/1w9SLXu4_No/hqdefault.jpg",
-    "source": "Stellar Productions",
-    "publishedAt": "2026-08-01T13:52:00Z"
-  },
-  {
     "id": "8e0863b1",
     "type": "podcast",
     "title": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
@@ -28,6 +18,16 @@
     "image": "https://i.ytimg.com/vi/QscaracBciE/hqdefault.jpg",
     "source": "Stellar Productions",
     "publishedAt": "2026-07-18T21:47:56Z"
+  },
+  {
+    "id": "b1329b2d",
+    "type": "podcast",
+    "title": "#75 Is the Tic Tac Really Lockheed Martin Technology? — Need to Know — July 2026",
+    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan revisit one of the most debated claims in modern ufology: Ross ...",
+    "url": "https://www.youtube.com/watch?v=A7t5jd2FDJ4",
+    "image": "https://i.ytimg.com/vi/A7t5jd2FDJ4/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-07-04T01:00:06Z"
   },
   {
     "id": "de9e3e3c",
@@ -60,6 +60,16 @@
     "publishedAt": "2026-08-15T19:00:08Z"
   },
   {
+    "id": "9b117a4a",
+    "type": "podcast",
+    "title": "The Andreasson Abduction: Aliens, Religion &amp; the Paranormal (SITS CLASSIC)",
+    "description": "In this Somewhere in the Skies Classic, we revisit one of the most extraordinary and controversial alien abduction cases in UFO ...",
+    "url": "https://www.youtube.com/watch?v=B3uxfL5sdQ0",
+    "image": "https://i.ytimg.com/vi/B3uxfL5sdQ0/hqdefault_live.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-09-02T08:11:45Z"
+  },
+  {
     "id": "d2a62264",
     "type": "podcast",
     "title": "Australia&#39;s Strangest UFO Cases with Violeta M. Bagia",
@@ -80,14 +90,34 @@
     "publishedAt": "2026-08-31T10:08:19Z"
   },
   {
-    "id": "3903a5c6",
+    "id": "05d2037f",
     "type": "podcast",
-    "title": "THE GREYS: 4 Terrifying Alien Encounters from UFO Reddit",
-    "description": "Tonight on Somewhere in the Skies LIVE, Ryan and Suzanne return to the strangest corners of Reddit to explore four ...",
-    "url": "https://www.youtube.com/watch?v=LyMuAGJ89lo",
-    "image": "https://i.ytimg.com/vi/LyMuAGJ89lo/hqdefault_live.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-08-30T23:04:24Z"
+    "title": "Ep 2347: Tim Swartz: UFOs, Bigfoot... and Ghosts!",
+    "description": "Tonight, Monday on FADE to BLACK: Join us for a fascinating conversation with Tim R. Swartz, Emmy Award–winning television ...",
+    "url": "https://www.youtube.com/watch?v=JHopw77aUVg",
+    "image": "https://i.ytimg.com/vi/JHopw77aUVg/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-09-01T04:20:32Z"
+  },
+  {
+    "id": "f5e2ad85",
+    "type": "podcast",
+    "title": "Ep 2346: Dr. Jonathan Kendall: The Mystery of UFOs",
+    "description": "Tonight, Thursday on FADE to BLACK: Dr. Jonathan Kendall explores the mysteries of UFOs, consciousness, and high ...",
+    "url": "https://www.youtube.com/watch?v=jb7Q9V4tmUw",
+    "image": "https://i.ytimg.com/vi/jb7Q9V4tmUw/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-08-28T04:10:17Z"
+  },
+  {
+    "id": "b57c6ea1",
+    "type": "podcast",
+    "title": "Ep 2344: Gretchen Cornwell: Oak Island’s Templar Cave: Royston",
+    "description": "Tonight, Tuesday on FADE to BLACK: Gretchen explores the mysteries of The Curse of Oak Island's Templar Cave: Royston, ...",
+    "url": "https://www.youtube.com/watch?v=mRN7HBAdiaU",
+    "image": "https://i.ytimg.com/vi/mRN7HBAdiaU/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-08-26T04:19:52Z"
   },
   {
     "id": "bd562728",
@@ -168,15 +198,5 @@
     "image": "https://i.ytimg.com/vi/dDxYZyMEmUU/hqdefault.jpg",
     "source": "National Geographic",
     "publishedAt": "2026-06-27T13:00:25Z"
-  },
-  {
-    "id": "46b80a76",
-    "type": "podcast",
-    "title": "The Age of Disclosure: Who Actually Controls the UAP Secrets? | w/ Dan Farah | SSHQ",
-    "description": "Who actually controls the biggest secret in modern history? For decades, UFOs were treated as conspiracy theories, fringe ...",
-    "url": "https://www.youtube.com/watch?v=MWM5AtR3n9o",
-    "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
-    "source": "VICE News",
-    "publishedAt": "2026-06-18T18:46:34Z"
   }
 ]
