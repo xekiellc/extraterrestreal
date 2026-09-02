@@ -40,6 +40,16 @@
     "publishedAt": "2026-08-14T23:59:22Z"
   },
   {
+    "id": "b8a82313",
+    "type": "news",
+    "title": "A Genealogy of Freudenthal's Lincos",
+    "description": "This article is the first part of a two-part series, aiming to provide a short introduction to the intellectual history and genealogy of Hans Freudenthal’s Lingua Cosmica. This first part aim…",
+    "url": "https://www.shellsandpebbles.com/2026/01/19/a-genealogy-of-freudenthals-lincos-part-i-looking-up-from-the-ruins-of-babel/",
+    "image": "https://i0.wp.com/www.shellsandpebbles.com/wp-content/uploads/2026/01/The-Creed-header.png?fit=696%2C428&ssl=1",
+    "source": "Shellsandpebbles.com",
+    "publishedAt": "2026-08-31T23:43:26Z"
+  },
+  {
     "id": "daec4cde",
     "type": "news",
     "title": "How Silicon Valley Learned to Love Killer Robots",
@@ -68,16 +78,6 @@
     "image": "https://img.etimg.com/thumb/msid-133609495,width-1200,height-630,imgsize-145821,overlay-etpanache/articleshow.jpg",
     "source": "The Times of India",
     "publishedAt": "2026-08-29T10:14:39Z"
-  },
-  {
-    "id": "619acfa4",
-    "type": "news",
-    "title": "4 Cult Sci-Fi Movies from the ’70s That Actually Need a Remake Today",
-    "description": "United Artists Every decade has inspired its fair share of classic or iconic sci-fi movies, as well as those sci-fi movies that may not have been major successes upon release, but have stood the test of time as cult clas…",
-    "url": "http://comicbook.com/movies/list/4-cult-sci-fi-movies-from-the-70s-that-actually-need-a-remake-today/",
-    "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/08/Invasion-of-the-Body-Snatchers.jpg?w=1197",
-    "source": "ComicBook.com",
-    "publishedAt": "2026-08-28T22:00:00Z"
   },
   {
     "id": "95661b8e",
@@ -128,6 +128,16 @@
     "image": "https://i.dailymail.com/1s/2026/08/07/21/105177983-0-The_Pentagon_began_releasing_the_first_files_related_to_UFO_enco-a-23_1786133906673.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-08-07T20:19:29Z"
+  },
+  {
+    "id": "49a90133",
+    "type": "news",
+    "title": "After nearly 70 years of searching, humanity has found no confirmed evidence of extraterrestrial life—only potential biosignatures in a Martian rock, disputed chemistry 124 light-years away, and thousands of UAP reports that may have nothing to do with aliens at all. The answer, whatever it is, still arrives only in fragments.",
+    "description": "Mars, K2-18 b and decades of UAP reports offer intriguing fragments, but each remains separated from confirmed extraterrestrial life by a different evidentiary gap. The post After nearly 70 years of searching, humanity h…",
+    "url": "https://spacedaily.com/t-extraterrestrial-life-evidence-mars-k2-18b-uap-fragments/",
+    "image": "https://spacedaily.com/wp-content/uploads/2026/08/nasa-marsdaily-cheyava-falls-leopard-spots.png",
+    "source": "Space Daily",
+    "publishedAt": "2026-09-01T00:30:00Z"
   },
   {
     "id": "62669f4b",
