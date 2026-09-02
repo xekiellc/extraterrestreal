@@ -120,6 +120,26 @@
     "publishedAt": "2026-07-24T17:00:35Z"
   },
   {
+    "id": "b5a33242",
+    "type": "video",
+    "title": "Dr. Steven Greer Warns Of Interplanetary Conflict By Accident",
+    "description": "In 1995, at the International UFO Congress, Dr Steven Greer did something almost no researcher had done before: he read a ...",
+    "url": "https://www.youtube.com/watch?v=U1i76Nueym4",
+    "image": "https://i.ytimg.com/vi/U1i76Nueym4/hqdefault.jpg",
+    "source": "Best of Dr Steven Greer",
+    "publishedAt": "2026-09-02T16:00:29Z"
+  },
+  {
+    "id": "79f9ff73",
+    "type": "video",
+    "title": "Steven Greer  The Untold History of the Disclosure Project",
+    "description": "Steven Greer Disclosure Project All rights to published audio, video, graphic and text materials belong to their respective owners.",
+    "url": "https://www.youtube.com/watch?v=X3vEqg-rrqE",
+    "image": "https://i.ytimg.com/vi/X3vEqg-rrqE/hqdefault.jpg",
+    "source": "Krys",
+    "publishedAt": "2026-09-02T14:20:31Z"
+  },
+  {
     "id": "fc38a713",
     "type": "video",
     "title": "PROGRAMMI SEGRETI E UFO: cosa si nasconde dietro la divulgazione? | Intervista a Steven Greer",
@@ -128,26 +148,6 @@
     "image": "https://i.ytimg.com/vi/8cR-0vF_gYs/hqdefault.jpg",
     "source": "PierGiorgioCaria59",
     "publishedAt": "2026-08-28T19:00:06Z"
-  },
-  {
-    "id": "332f86e5",
-    "type": "video",
-    "title": "Seven UFOs Answered An Invitation In Gulf Breeze | Steven Greer",
-    "description": "In March 1992 Dr Steven Greer took a CSETI team to Gulf Breeze, Florida - already the most watched patch of sky in America ...",
-    "url": "https://www.youtube.com/watch?v=BPOeRCrjDvQ",
-    "image": "https://i.ytimg.com/vi/BPOeRCrjDvQ/hqdefault.jpg",
-    "source": "Best of Dr Steven Greer",
-    "publishedAt": "2026-08-27T16:00:32Z"
-  },
-  {
-    "id": "34a1c5e2",
-    "type": "video",
-    "title": "Dr. Steven Greer Calls Out Classified UFO Projects | ⚠️",
-    "description": "Dr. Steven Greer reveals why decades of extreme UFO secrecy pose an ongoing threat to national security on the ...",
-    "url": "https://www.youtube.com/watch?v=GfQZwKYCH6c",
-    "image": "https://i.ytimg.com/vi/GfQZwKYCH6c/hqdefault.jpg",
-    "source": "Short Highlights",
-    "publishedAt": "2026-08-26T09:41:22Z"
   },
   {
     "id": "f8c5ef93",
@@ -220,14 +220,14 @@
     "publishedAt": "2026-05-16T21:29:36Z"
   },
   {
-    "id": "739b0d28",
+    "id": "78b6ecc5",
     "type": "video",
-    "title": "Cristina Gomez | A Future When We Know We Are Not Alone",
-    "description": "Anomacon #uap #aliens Summary: Cristina Gomez will shortly graduate from University and has been asking questions of her ...",
-    "url": "https://www.youtube.com/watch?v=4m9_URZzjLM",
-    "image": "https://i.ytimg.com/vi/4m9_URZzjLM/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2024-07-10T13:00:07Z"
+    "title": "UFOs - They Lost Time",
+    "description": "A Weekly Livestream Show with a focus on recounting cases and stories of the Strange and Unexplained, Mysterious Events, ...",
+    "url": "https://www.youtube.com/watch?v=A63HsIEHCpI",
+    "image": "https://i.ytimg.com/vi/A63HsIEHCpI/hqdefault.jpg",
+    "source": "Cristina Gomez",
+    "publishedAt": "2023-08-15T22:35:51Z"
   },
   {
     "id": "ff24fe1c",
