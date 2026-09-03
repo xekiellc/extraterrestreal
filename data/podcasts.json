@@ -10,6 +10,16 @@
     "publishedAt": "2026-08-09T12:00:06Z"
   },
   {
+    "id": "67cdd744",
+    "type": "podcast",
+    "title": "#76 Whose Narrative Is It Anyway? — Need to Know — August 2026",
+    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan examine the recent Ross Coulthart–UAP Gerb interview and the ...",
+    "url": "https://www.youtube.com/watch?v=1w9SLXu4_No",
+    "image": "https://i.ytimg.com/vi/1w9SLXu4_No/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-08-01T13:52:00Z"
+  },
+  {
     "id": "8e0863b1",
     "type": "podcast",
     "title": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
@@ -18,16 +28,6 @@
     "image": "https://i.ytimg.com/vi/QscaracBciE/hqdefault.jpg",
     "source": "Stellar Productions",
     "publishedAt": "2026-07-18T21:47:56Z"
-  },
-  {
-    "id": "b1329b2d",
-    "type": "podcast",
-    "title": "#75 Is the Tic Tac Really Lockheed Martin Technology? — Need to Know — July 2026",
-    "description": "In this episode of Need to Know, Bryce Zabel and Richard Dolan revisit one of the most debated claims in modern ufology: Ross ...",
-    "url": "https://www.youtube.com/watch?v=A7t5jd2FDJ4",
-    "image": "https://i.ytimg.com/vi/A7t5jd2FDJ4/hqdefault.jpg",
-    "source": "Stellar Productions",
-    "publishedAt": "2026-07-04T01:00:06Z"
   },
   {
     "id": "de9e3e3c",
@@ -120,6 +120,66 @@
     "publishedAt": "2026-08-26T04:19:52Z"
   },
   {
+    "id": "a4727c28",
+    "type": "podcast",
+    "title": "A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups",
+    "description": "Payne Lindsey is an investigative filmmaker and podcaster known for hosting hit the true crime series including “Up and ...",
+    "url": "https://www.youtube.com/watch?v=bmJ2Eg9YDK4",
+    "image": "https://i.ytimg.com/vi/bmJ2Eg9YDK4/hqdefault.jpg",
+    "source": "IRONCLAD",
+    "publishedAt": "2026-06-03T21:30:06Z"
+  },
+  {
+    "id": "bd562728",
+    "type": "podcast",
+    "title": "Alien Encounters With The Real Life X-Files Agent - Nick Pope - DEBRIEFED ep. 34",
+    "description": "Subscribe to Artlist (get 2 Months For Free): https://bit.ly/Area52Artlist NEW MERCH! : https://www.area52.shop Patreon Exclusive ...",
+    "url": "https://www.youtube.com/watch?v=B6WFLOIkyho",
+    "image": "https://i.ytimg.com/vi/B6WFLOIkyho/hqdefault.jpg",
+    "source": "Area52",
+    "publishedAt": "2025-04-18T16:00:12Z"
+  },
+  {
+    "id": "01b0bb93",
+    "type": "podcast",
+    "title": "The Alien King Talks Aliens &amp; Ghosts | Haunted With Payne Lindsey",
+    "description": "Put your tinfoil hats on, friends. Payne Lindsey, the Alien King, has graced our presence to talk all things alien and a little bit of ...",
+    "url": "https://www.youtube.com/watch?v=X8G6v3sntUU",
+    "image": "https://i.ytimg.com/vi/X8G6v3sntUU/hqdefault.jpg",
+    "source": "Two Girls One Ghost",
+    "publishedAt": "2023-05-23T21:00:12Z"
+  },
+  {
+    "id": "c296fd7a",
+    "type": "podcast",
+    "title": "The UFO Conversation - Chris Ramsay",
+    "description": "Chris is the host of the hugely popular YouTube channel 'Area 52\". He joins Vinnie to talk all things UFO/UAP!",
+    "url": "https://www.youtube.com/watch?v=fzXxeguFeGI",
+    "image": "https://i.ytimg.com/vi/fzXxeguFeGI/hqdefault.jpg",
+    "source": "Disclosure Team",
+    "publishedAt": "2026-07-30T08:39:47Z"
+  },
+  {
+    "id": "86480c61",
+    "type": "podcast",
+    "title": "The Dan Burisch Tapes: Disclosure Team Reacts",
+    "description": "Dan Burisch says he lead a team of biologists as part of an ultra secret program to study a living non-human being at S4.",
+    "url": "https://www.youtube.com/watch?v=4_emXhrdD1w",
+    "image": "https://i.ytimg.com/vi/4_emXhrdD1w/hqdefault.jpg",
+    "source": "NIGHT SHIFT",
+    "publishedAt": "2026-07-24T20:19:28Z"
+  },
+  {
+    "id": "b1db30fd",
+    "type": "podcast",
+    "title": "NIght Shift x Disclosure Team - Clint Weldon",
+    "description": "I'm joined by Clint Weldon, host of the Night Shift podcast, for a relaxed conversation covering all things UFOs and UAP.",
+    "url": "https://www.youtube.com/watch?v=ihVtuX8qML8",
+    "image": "https://i.ytimg.com/vi/ihVtuX8qML8/hqdefault.jpg",
+    "source": "Disclosure Team",
+    "publishedAt": "2026-07-22T08:32:11Z"
+  },
+  {
     "id": "c7b9d620",
     "type": "podcast",
     "title": "&quot;I Was Inside A UFO.&quot; | Area 51 Whistleblower Bob Lazar",
@@ -138,15 +198,5 @@
     "image": "https://i.ytimg.com/vi/dDxYZyMEmUU/hqdefault.jpg",
     "source": "National Geographic",
     "publishedAt": "2026-06-27T13:00:25Z"
-  },
-  {
-    "id": "46b80a76",
-    "type": "podcast",
-    "title": "The Age of Disclosure: Who Actually Controls the UAP Secrets? | w/ Dan Farah | SSHQ",
-    "description": "Who actually controls the biggest secret in modern history? For decades, UFOs were treated as conspiracy theories, fringe ...",
-    "url": "https://www.youtube.com/watch?v=MWM5AtR3n9o",
-    "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
-    "source": "VICE News",
-    "publishedAt": "2026-06-18T18:46:34Z"
   }
 ]
