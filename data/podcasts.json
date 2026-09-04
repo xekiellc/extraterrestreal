@@ -40,6 +40,16 @@
     "publishedAt": "2026-08-24T21:34:33Z"
   },
   {
+    "id": "0dd0d147",
+    "type": "podcast",
+    "title": "Dr. Eric Davis e quase 40 anos entre os UAPs",
+    "description": "Dr. Eric Davis, em entrevista, compartilhou suas visões sobre o fenômeno OVNI (UAP) e inteligências não humanas (NHI), ...",
+    "url": "https://www.youtube.com/watch?v=4tTxElYfjrQ",
+    "image": "https://i.ytimg.com/vi/4tTxElYfjrQ/hqdefault.jpg",
+    "source": "Felipe Friedrich",
+    "publishedAt": "2026-08-24T12:00:21Z"
+  },
+  {
     "id": "de9e3e3c",
     "type": "podcast",
     "title": "Danny Sheehan: “They Have At Least 9 Recovered UFOs” | Golden Dome &amp; ET Contact",
@@ -48,16 +58,6 @@
     "image": "https://i.ytimg.com/vi/JSIGPUrZ-sI/hqdefault.jpg",
     "source": "That UFO Podcast",
     "publishedAt": "2026-08-20T19:00:24Z"
-  },
-  {
-    "id": "4f569730",
-    "type": "podcast",
-    "title": "David Grusch and the chances he shows RECEIPTS of his wild claims to Dr. Phil - Psicoactivo Live #53",
-    "description": "On a timely Psicoactivo Live, we have the Monday breakdown with Andy and That UFO Podcast about the recent UFO Disclosure ...",
-    "url": "https://www.youtube.com/watch?v=EHdYni6wLS4",
-    "image": "https://i.ytimg.com/vi/EHdYni6wLS4/hqdefault.jpg",
-    "source": "Psicoactivo Podcast",
-    "publishedAt": "2026-08-17T21:13:49Z"
   },
   {
     "id": "9b117a4a",
@@ -88,6 +88,66 @@
     "image": "https://i.ytimg.com/vi/ERBlCT5GhAE/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-08-31T10:08:19Z"
+  },
+  {
+    "id": "05d2037f",
+    "type": "podcast",
+    "title": "Ep 2347: Tim Swartz: UFOs, Bigfoot... and Ghosts!",
+    "description": "Tonight, Monday on FADE to BLACK: Join us for a fascinating conversation with Tim R. Swartz, Emmy Award–winning television ...",
+    "url": "https://www.youtube.com/watch?v=JHopw77aUVg",
+    "image": "https://i.ytimg.com/vi/JHopw77aUVg/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-09-01T04:20:32Z"
+  },
+  {
+    "id": "f5e2ad85",
+    "type": "podcast",
+    "title": "Ep 2346: Dr. Jonathan Kendall: The Mystery of UFOs",
+    "description": "Tonight, Thursday on FADE to BLACK: Dr. Jonathan Kendall explores the mysteries of UFOs, consciousness, and high ...",
+    "url": "https://www.youtube.com/watch?v=jb7Q9V4tmUw",
+    "image": "https://i.ytimg.com/vi/jb7Q9V4tmUw/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-08-28T04:10:17Z"
+  },
+  {
+    "id": "b57c6ea1",
+    "type": "podcast",
+    "title": "Ep 2344: Gretchen Cornwell: Oak Island’s Templar Cave: Royston",
+    "description": "Tonight, Tuesday on FADE to BLACK: Gretchen explores the mysteries of The Curse of Oak Island's Templar Cave: Royston, ...",
+    "url": "https://www.youtube.com/watch?v=mRN7HBAdiaU",
+    "image": "https://i.ytimg.com/vi/mRN7HBAdiaU/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-08-26T04:19:52Z"
+  },
+  {
+    "id": "a4727c28",
+    "type": "podcast",
+    "title": "A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups",
+    "description": "Payne Lindsey is an investigative filmmaker and podcaster known for hosting hit the true crime series including “Up and ...",
+    "url": "https://www.youtube.com/watch?v=bmJ2Eg9YDK4",
+    "image": "https://i.ytimg.com/vi/bmJ2Eg9YDK4/hqdefault.jpg",
+    "source": "IRONCLAD",
+    "publishedAt": "2026-06-03T21:30:06Z"
+  },
+  {
+    "id": "bd562728",
+    "type": "podcast",
+    "title": "Alien Encounters With The Real Life X-Files Agent - Nick Pope - DEBRIEFED ep. 34",
+    "description": "Subscribe to Artlist (get 2 Months For Free): https://bit.ly/Area52Artlist NEW MERCH! : https://www.area52.shop Patreon Exclusive ...",
+    "url": "https://www.youtube.com/watch?v=B6WFLOIkyho",
+    "image": "https://i.ytimg.com/vi/B6WFLOIkyho/hqdefault.jpg",
+    "source": "Area52",
+    "publishedAt": "2025-04-18T16:00:12Z"
+  },
+  {
+    "id": "01b0bb93",
+    "type": "podcast",
+    "title": "The Alien King Talks Aliens &amp; Ghosts | Haunted With Payne Lindsey",
+    "description": "Put your tinfoil hats on, friends. Payne Lindsey, the Alien King, has graced our presence to talk all things alien and a little bit of ...",
+    "url": "https://www.youtube.com/watch?v=X8G6v3sntUU",
+    "image": "https://i.ytimg.com/vi/X8G6v3sntUU/hqdefault.jpg",
+    "source": "Two Girls One Ghost",
+    "publishedAt": "2023-05-23T21:00:12Z"
   },
   {
     "id": "c296fd7a",
@@ -138,15 +198,5 @@
     "image": "https://i.ytimg.com/vi/dDxYZyMEmUU/hqdefault.jpg",
     "source": "National Geographic",
     "publishedAt": "2026-06-27T13:00:25Z"
-  },
-  {
-    "id": "46b80a76",
-    "type": "podcast",
-    "title": "The Age of Disclosure: Who Actually Controls the UAP Secrets? | w/ Dan Farah | SSHQ",
-    "description": "Who actually controls the biggest secret in modern history? For decades, UFOs were treated as conspiracy theories, fringe ...",
-    "url": "https://www.youtube.com/watch?v=MWM5AtR3n9o",
-    "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
-    "source": "VICE News",
-    "publishedAt": "2026-06-18T18:46:34Z"
   }
 ]
