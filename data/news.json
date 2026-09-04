@@ -40,6 +40,16 @@
     "publishedAt": "2026-08-14T23:59:22Z"
   },
   {
+    "id": "7e1f93ee",
+    "type": "news",
+    "title": "Data & Dames",
+    "description": "In Nathaniel Rich’s Cloudthief, a heist and a femme fatale plunge an ecojournalist into an all-too-real climate collapse.",
+    "url": "https://www.nybooks.com/articles/2026/09/24/data-and-dames-cloudthief-nathaniel-rich/",
+    "image": "https://www.nybooks.com/wp-content/uploads/2026/08/rich_nathaniel-092426-1200.jpg",
+    "source": "The New York Review of Books",
+    "publishedAt": "2026-09-03T12:00:00Z"
+  },
+  {
     "id": "a4ae77cd",
     "type": "news",
     "title": "Only Sharp-Eyed Trivia Fans Can Untangle These 18 UFO And Conspiracy Theories – Prove Yourself",
@@ -68,16 +78,6 @@
     "image": "https://cdn.theatlantic.com/thumbor/Y5ocvucQcTeLTHoHTZlHf4_VdEo=/0x43:2000x1085/1200x625/media/img/mt/2026/08/2026_08_26_fiction_mpg/original.jpg",
     "source": "The Atlantic",
     "publishedAt": "2026-08-31T12:00:00Z"
-  },
-  {
-    "id": "c79183bf",
-    "type": "news",
-    "title": "A New Way of Seeing Alien Worlds",
-    "description": "The latest telescope launch will be a major step toward finding extraterrestrial life.",
-    "url": "https://www.theatlantic.com/science/2026/08/nasa-roman-telescope-alien-worlds/688426/",
-    "image": "https://cdn.theatlantic.com/thumbor/kmDlDZXkS7uzK8OR-WAR6cBXvvo=/0x85:3994x2165/1200x625/media/img/mt/2026/08/2026_08_28_The_Most_Beautiful_Part_of_NASAs_New_Telescope_Ross_Anderson/original.jpg",
-    "source": "The Atlantic",
-    "publishedAt": "2026-08-29T12:00:00Z"
   },
   {
     "id": "95661b8e",
