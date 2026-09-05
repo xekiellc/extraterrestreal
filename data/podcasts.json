@@ -60,6 +60,16 @@
     "publishedAt": "2026-08-20T19:00:24Z"
   },
   {
+    "id": "4ff2a9ed",
+    "type": "podcast",
+    "title": "We Haven&#39;t Seen You in a While | Stories from UFO Reddit",
+    "description": "Reddit #UAP #Aliens At just five years old, a child wakes in the middle of the night to an unnaturally silent bedroom, an open ...",
+    "url": "https://www.youtube.com/watch?v=YIJ8OKXMIT0",
+    "image": "https://i.ytimg.com/vi/YIJ8OKXMIT0/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-09-05T16:00:06Z"
+  },
+  {
     "id": "10ac443b",
     "type": "podcast",
     "title": "FBI UFO Unit REVEALED, RECOVERED Alien Beings, Sandra Bullock&#39;s UFO &amp; AARO’s Secret DEAL",
@@ -68,16 +78,6 @@
     "image": "https://i.ytimg.com/vi/g22sSJOiOBk/hqdefault_live.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-09-05T07:44:17Z"
-  },
-  {
-    "id": "4ff2a9ed",
-    "type": "podcast",
-    "title": "We Haven&#39;t Seen You in a While | Stories from UFO Reddit",
-    "description": "Reddit #UAP #Aliens At just five years old, a child wakes in the middle of the night to an unnaturally silent bedroom, an open ...",
-    "url": "https://www.youtube.com/watch?v=YIJ8OKXMIT0",
-    "image": "https://i.ytimg.com/vi/YIJ8OKXMIT0/hqdefault_live.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-09-04T18:29:28Z"
   },
   {
     "id": "f6b27c37",
@@ -128,16 +128,6 @@
     "image": "https://i.ytimg.com/vi/B6WFLOIkyho/hqdefault.jpg",
     "source": "Area52",
     "publishedAt": "2025-04-18T16:00:12Z"
-  },
-  {
-    "id": "01b0bb93",
-    "type": "podcast",
-    "title": "The Alien King Talks Aliens &amp; Ghosts | Haunted With Payne Lindsey",
-    "description": "Put your tinfoil hats on, friends. Payne Lindsey, the Alien King, has graced our presence to talk all things alien and a little bit of ...",
-    "url": "https://www.youtube.com/watch?v=X8G6v3sntUU",
-    "image": "https://i.ytimg.com/vi/X8G6v3sntUU/hqdefault.jpg",
-    "source": "Two Girls One Ghost",
-    "publishedAt": "2023-05-23T21:00:12Z"
   },
   {
     "id": "65f4e198",
@@ -198,5 +188,15 @@
     "image": "https://i.ytimg.com/vi/dDxYZyMEmUU/hqdefault.jpg",
     "source": "National Geographic",
     "publishedAt": "2026-06-27T13:00:25Z"
+  },
+  {
+    "id": "46b80a76",
+    "type": "podcast",
+    "title": "The Age of Disclosure: Who Actually Controls the UAP Secrets? | w/ Dan Farah | SSHQ",
+    "description": "Who actually controls the biggest secret in modern history? For decades, UFOs were treated as conspiracy theories, fringe ...",
+    "url": "https://www.youtube.com/watch?v=MWM5AtR3n9o",
+    "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
+    "source": "VICE News",
+    "publishedAt": "2026-06-18T18:46:34Z"
   }
 ]
