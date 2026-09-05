@@ -190,16 +190,6 @@
     "publishedAt": "2026-06-21T18:00:02Z"
   },
   {
-    "id": "946149b6",
-    "type": "video",
-    "title": "UFO disclosure push and growing debate over government transparency | Backscroll",
-    "description": "This NewsNation compilation examines bipartisan efforts, whistleblower claims and skepticism surrounding UAP secrecy.",
-    "url": "https://www.youtube.com/watch?v=eNcCmk1rq2Q",
-    "image": "https://i.ytimg.com/vi/eNcCmk1rq2Q/hqdefault.jpg",
-    "source": "NewsNation",
-    "publishedAt": "2026-06-18T18:00:21Z"
-  },
-  {
     "id": "bf793ef1",
     "type": "video",
     "title": "Director of UFO documentary hopes film spurs ‘national conversation’ | CUOMO",
@@ -208,6 +198,16 @@
     "image": "https://i.ytimg.com/vi/jhXNaZIN4F4/hqdefault.jpg",
     "source": "NewsNation",
     "publishedAt": "2025-11-21T02:28:26Z"
+  },
+  {
+    "id": "f5cc1c1f",
+    "type": "video",
+    "title": "#ElizabethVargas Reports on UAP@NewsNation",
+    "description": "Explosive UAP Revelations: New Video Emerges from Congressional Hearing – Elizabeth Vargas Breaks It Down Dive into the ...",
+    "url": "https://www.youtube.com/watch?v=NkmEM_CfYM4",
+    "image": "https://i.ytimg.com/vi/NkmEM_CfYM4/hqdefault.jpg",
+    "source": "#Attikusspeaks #Truth ",
+    "publishedAt": "2025-10-31T00:00:06Z"
   },
   {
     "id": "6a06ccf7",
@@ -220,6 +220,16 @@
     "publishedAt": "2026-05-16T21:29:36Z"
   },
   {
+    "id": "78b6ecc5",
+    "type": "video",
+    "title": "UFOs - They Lost Time",
+    "description": "A Weekly Livestream Show with a focus on recounting cases and stories of the Strange and Unexplained, Mysterious Events, ...",
+    "url": "https://www.youtube.com/watch?v=A63HsIEHCpI",
+    "image": "https://i.ytimg.com/vi/A63HsIEHCpI/hqdefault.jpg",
+    "source": "Cristina Gomez",
+    "publishedAt": "2023-08-15T22:35:51Z"
+  },
+  {
     "id": "ff24fe1c",
     "type": "video",
     "title": "JFree906 Podcast - Cristina Gomez joins us live for The Secret of Skinwalker Ranch S4 Ep 6 Recap",
@@ -228,15 +238,5 @@
     "image": "https://i.ytimg.com/vi/n-FkWV4n8vo/hqdefault.jpg",
     "source": "JFree906 - The Freeman Files",
     "publishedAt": "2023-05-27T13:36:33Z"
-  },
-  {
-    "id": "df322ef7",
-    "type": "video",
-    "title": "Ep. 1779 Cristina Gomez:  Bigfoot!",
-    "description": "Cristina Gomez is a video content creator and podcaster who brings a young and fresh perspective to the UFO and Paranormal ...",
-    "url": "https://www.youtube.com/watch?v=_8I-p0Ihdmk",
-    "image": "https://i.ytimg.com/vi/_8I-p0Ihdmk/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2023-03-17T04:15:18Z"
   }
 ]

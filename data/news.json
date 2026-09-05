@@ -1,5 +1,15 @@
 [
   {
+    "id": "a81dda27",
+    "type": "news",
+    "title": "Dr. Phil says ‘the government has lied straight to our face,’ blasts Pentagon for allegedly ignoring legitimate UFO reports from the public",
+    "description": "Dr. Phil blasted the Pentagon for ignoring over 1,800 credible public UFO reports, accusing the government of deceiving the American people.",
+    "url": "https://nypost.com/2026/09/04/us-news/dr-phil-blasts-pentagon-for-ignoring-legitimate-ufo-reports-from-the-public/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/COMP-UFO.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-09-04T06:21:06Z"
+  },
+  {
     "id": "d152528a",
     "type": "news",
     "title": "Dr Phil rages over the giant lie the US government has told Americans for years: 'I don't trust them about this at all'",
@@ -28,16 +38,6 @@
     "image": "https://i.dailymail.com/1s/2026/08/18/16/110708019-0-image-m-24_1787067118998.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-08-18T15:34:59Z"
-  },
-  {
-    "id": "8c93b48e",
-    "type": "news",
-    "title": "Department of War investigating mysterious triangle UFO videos after Post report",
-    "description": "Following a Post report, the Department of War is investigating two withheld videos of a 100-foot triangle UFO over a Colorado military base.",
-    "url": "https://nypost.com/2026/08/15/us-news/department-of-war-investigating-triangle-ufo-videos-after-post-report-will-release/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/crop-40343385.jpg?quality=75&strip=all&w=1200",
-    "source": "New York Post",
-    "publishedAt": "2026-08-16T00:09:15Z"
   },
   {
     "id": "7e1f93ee",
@@ -100,16 +100,6 @@
     "publishedAt": "2026-08-08T15:36:19Z"
   },
   {
-    "id": "eb7dbc9d",
-    "type": "news",
-    "title": "Splinter: About Hillary Clinton, Tom DeLonge and UFO Disclosure",
-    "description": "This lore has broken containment from UFO world, so let's unpack it.",
-    "url": "https://www.jezebel.com/about-hillary-clinton-and-ufo-disclosure",
-    "image": "https://img.pastemagazine.com/wp-content/juploads/2026/08/Hillary-Clinton-John-Podesta-Neera-Tanden-main.jpg",
-    "source": "Jezebel",
-    "publishedAt": "2026-08-03T15:46:37Z"
-  },
-  {
     "id": "04e34940",
     "type": "news",
     "title": "I attended a secret UFO meeting preparing Christians for 'the truth' and saw shape-shifting beings. Trump's files hide a clue to where these 'aliens' come from",
@@ -118,5 +108,45 @@
     "image": "https://i.dailymail.com/1s/2026/08/07/21/105177983-0-The_Pentagon_began_releasing_the_first_files_related_to_UFO_enco-a-23_1786133906673.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-08-07T20:19:29Z"
+  },
+  {
+    "id": "49a90133",
+    "type": "news",
+    "title": "After nearly 70 years of searching, humanity has found no confirmed evidence of extraterrestrial life—only potential biosignatures in a Martian rock, disputed chemistry 124 light-years away, and thousands of UAP reports that may have nothing to do with aliens at all. The answer, whatever it is, still arrives only in fragments.",
+    "description": "Mars, K2-18 b and decades of UAP reports offer intriguing fragments, but each remains separated from confirmed extraterrestrial life by a different evidentiary gap. The post After nearly 70 years of searching, humanity h…",
+    "url": "https://spacedaily.com/t-extraterrestrial-life-evidence-mars-k2-18b-uap-fragments/",
+    "image": "https://spacedaily.com/wp-content/uploads/2026/08/nasa-marsdaily-cheyava-falls-leopard-spots.png",
+    "source": "Space Daily",
+    "publishedAt": "2026-09-01T00:30:00Z"
+  },
+  {
+    "id": "51c6ba95",
+    "type": "news",
+    "title": "Pentagon releases new UFO files: Reports describe 500-foot triangle, mysterious lights and alleged metal sphere with ‘human body’",
+    "description": "The Pentagon has unveiled new declassified files detailing unexplained aerial phenomena. These documents include pilot accounts of silent triangular objects and mysterious lights. One report describes a decades-old incid…",
+    "url": "https://economictimes.indiatimes.com/news/international/global-trends/pentagon-releases-new-ufo-files-reports-describe-500-foot-triangle-mysterious-lights-and-alleged-metal-sphere-with-human-body/articleshow/133039401.cms",
+    "image": "https://img.etimg.com/thumb/msid-133040415,width-1200,height-630,imgsize-5926,overlay-economictimes/articleshow.jpg",
+    "source": "The Times of India",
+    "publishedAt": "2026-08-07T18:04:33Z"
+  },
+  {
+    "id": "27e3b7d0",
+    "type": "news",
+    "title": "U-2 spy planes flew so far above anything 1950s commercial pilots had ever seen that sunlight on their wings triggered a wave of UFO reports — and the CIA let the world believe in aliens rather than admit it was watching from above",
+    "description": "The U-2's greatest weapon wasn't stealth or speed—it was altitude so extreme that the public mistook its glint for extraterrestrials, and the CIA never corrected the record. The post U-2 spy planes flew so far above anyt…",
+    "url": "https://spacedaily.com/d-u-2-spy-planes-flew-so-far-above-anything-1950s-commercial-pilots-had-ever-seen-that-sunlight-on-their-wings-triggered-a-wave-of-ufo-reports-and-the-cia-let-the-world-believe-in-aliens-rathe/",
+    "image": "https://spacedaily.com/wp-content/uploads/2026/08/Posts-1600840-2026-08-04T185244.928.png",
+    "source": "Space Daily",
+    "publishedAt": "2026-08-04T14:15:51Z"
+  },
+  {
+    "id": "642c5a7b",
+    "type": "news",
+    "title": "Are UFOs inspiring a new religion?",
+    "description": "People around the world are gathering in wilderness settings with the intention to initiate contact with UFOs using various techniques.",
+    "url": "https://theconversation.com/are-ufos-inspiring-a-new-religion-287467",
+    "image": "https://images.theconversation.com/files/753084/original/file-20260810-50-wd35mf.jpg?ixlib=rb-4.1.1&rect=0%2C1014%2C3631%2C1815&q=45&auto=format&w=1356&h=668&fit=crop",
+    "source": "The Conversation Africa",
+    "publishedAt": "2026-08-10T12:42:03Z"
   }
 ]
