@@ -60,16 +60,6 @@
     "publishedAt": "2026-08-20T19:00:24Z"
   },
   {
-    "id": "33b14d89",
-    "type": "podcast",
-    "title": "They Came Out of the Woods | Stories from UFO Reddit",
-    "description": "Reddit #UAP #Aliens A witness mysteriously finds themselves standing outside their home in the middle of a rainy night, only to ...",
-    "url": "https://www.youtube.com/watch?v=AQWbyJq3P2g",
-    "image": "https://i.ytimg.com/vi/AQWbyJq3P2g/hqdefault_live.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-09-04T18:28:41Z"
-  },
-  {
     "id": "4ff2a9ed",
     "type": "podcast",
     "title": "We Haven&#39;t Seen You in a While | Stories from UFO Reddit",
@@ -88,6 +78,16 @@
     "image": "https://i.ytimg.com/vi/wAdGdZ-GNFY/hqdefault_live.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-09-04T18:28:43Z"
+  },
+  {
+    "id": "3903a5c6",
+    "type": "podcast",
+    "title": "THE GREYS: 4 Terrifying Alien Encounters from UFO Reddit w/ @WhatItMeansToBeHuman",
+    "description": "Aliens #Live #Reddit REGISTER for the Whitley Strieber 4 Week Webinar Series: ...",
+    "url": "https://www.youtube.com/watch?v=LyMuAGJ89lo",
+    "image": "https://i.ytimg.com/vi/LyMuAGJ89lo/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-09-04T10:07:29Z"
   },
   {
     "id": "05d2037f",
