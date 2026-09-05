@@ -40,6 +40,16 @@
     "publishedAt": "2026-09-01T18:00:06Z"
   },
   {
+    "id": "87c770a6",
+    "type": "video",
+    "title": "Ross Coulthart: David Grusch’s latest appearance could change UAP disclosure | Reality Check Rewind",
+    "description": "Ross Coulthart reacts to David Grusch's appearance on the steps of the U.S. Capitol. Grusch discusses multiple forms of ...",
+    "url": "https://www.youtube.com/watch?v=HOSdZ8uZixg",
+    "image": "https://i.ytimg.com/vi/HOSdZ8uZixg/hqdefault.jpg",
+    "source": "Reality Check with Ross Coulthart",
+    "publishedAt": "2026-08-31T23:07:23Z"
+  },
+  {
     "id": "9d536eb5",
     "type": "video",
     "title": "“Accidental Truth: NEXT - Beyond UFO Disclosure” Ross Coulthart",
@@ -48,16 +58,6 @@
     "image": "https://i.ytimg.com/vi/U1zFtshbEJ4/hqdefault.jpg",
     "source": "IvolveTV",
     "publishedAt": "2026-08-31T16:22:18Z"
-  },
-  {
-    "id": "66dacfbd",
-    "type": "video",
-    "title": "UFO disclosure debate grows with congressional push and missing scientists questions | Backscroll",
-    "description": "This NewsNation compilation examines disclosure efforts, political developments and one of the disclosure community's biggest ...",
-    "url": "https://www.youtube.com/watch?v=95hFUzMtu9M",
-    "image": "https://i.ytimg.com/vi/95hFUzMtu9M/hqdefault.jpg",
-    "source": "NewsNation",
-    "publishedAt": "2026-08-30T18:00:06Z"
   },
   {
     "id": "30f1ab4b",
@@ -220,16 +220,6 @@
     "publishedAt": "2026-05-16T21:29:36Z"
   },
   {
-    "id": "78b6ecc5",
-    "type": "video",
-    "title": "UFOs - They Lost Time",
-    "description": "A Weekly Livestream Show with a focus on recounting cases and stories of the Strange and Unexplained, Mysterious Events, ...",
-    "url": "https://www.youtube.com/watch?v=A63HsIEHCpI",
-    "image": "https://i.ytimg.com/vi/A63HsIEHCpI/hqdefault.jpg",
-    "source": "Cristina Gomez",
-    "publishedAt": "2023-08-15T22:35:51Z"
-  },
-  {
     "id": "ff24fe1c",
     "type": "video",
     "title": "JFree906 Podcast - Cristina Gomez joins us live for The Secret of Skinwalker Ranch S4 Ep 6 Recap",
@@ -238,5 +228,15 @@
     "image": "https://i.ytimg.com/vi/n-FkWV4n8vo/hqdefault.jpg",
     "source": "JFree906 - The Freeman Files",
     "publishedAt": "2023-05-27T13:36:33Z"
+  },
+  {
+    "id": "df322ef7",
+    "type": "video",
+    "title": "Ep. 1779 Cristina Gomez:  Bigfoot!",
+    "description": "Cristina Gomez is a video content creator and podcaster who brings a young and fresh perspective to the UFO and Paranormal ...",
+    "url": "https://www.youtube.com/watch?v=_8I-p0Ihdmk",
+    "image": "https://i.ytimg.com/vi/_8I-p0Ihdmk/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2023-03-17T04:15:18Z"
   }
 ]
