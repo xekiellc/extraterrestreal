@@ -170,6 +170,16 @@
     "publishedAt": "2026-07-22T08:32:11Z"
   },
   {
+    "id": "3bb3258e",
+    "type": "podcast",
+    "title": "UFO Experts Come Forward (Full Documentary) - IPN LIVE TOUR",
+    "description": "AREA 52 Shop: https://www.area52.shop Patreon Exclusive Content: https://www.patreon.com/Area52investigations Second ...",
+    "url": "https://www.youtube.com/watch?v=OwksWJifxYk",
+    "image": "https://i.ytimg.com/vi/OwksWJifxYk/hqdefault.jpg",
+    "source": "Area52",
+    "publishedAt": "2026-08-28T16:00:30Z"
+  },
+  {
     "id": "c7b9d620",
     "type": "podcast",
     "title": "&quot;I Was Inside A UFO.&quot; | Area 51 Whistleblower Bob Lazar",
@@ -188,15 +198,5 @@
     "image": "https://i.ytimg.com/vi/dDxYZyMEmUU/hqdefault.jpg",
     "source": "National Geographic",
     "publishedAt": "2026-06-27T13:00:25Z"
-  },
-  {
-    "id": "46b80a76",
-    "type": "podcast",
-    "title": "The Age of Disclosure: Who Actually Controls the UAP Secrets? | w/ Dan Farah | SSHQ",
-    "description": "Who actually controls the biggest secret in modern history? For decades, UFOs were treated as conspiracy theories, fringe ...",
-    "url": "https://www.youtube.com/watch?v=MWM5AtR3n9o",
-    "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
-    "source": "VICE News",
-    "publishedAt": "2026-06-18T18:46:34Z"
   }
 ]
