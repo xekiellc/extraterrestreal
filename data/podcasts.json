@@ -60,6 +60,16 @@
     "publishedAt": "2026-08-17T21:13:49Z"
   },
   {
+    "id": "06817500",
+    "type": "podcast",
+    "title": "The Cote Photo: The Clearest UFO Image Ever Captured? | Adam Pillon &amp; Megan Woomer",
+    "description": "Could the Cote Photo be one of the clearest UFO photographs ever captured? We are joined by filmmakers Adam Pillon and ...",
+    "url": "https://www.youtube.com/watch?v=77or8BTZZcg",
+    "image": "https://i.ytimg.com/vi/77or8BTZZcg/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-09-07T14:00:06Z"
+  },
+  {
     "id": "10ac443b",
     "type": "podcast",
     "title": "FBI UFO Unit REVEALED, RECOVERED Alien Beings, Sandra Bullock&#39;s UFO &amp; AARO’s Secret DEAL",
@@ -78,16 +88,6 @@
     "image": "https://i.ytimg.com/vi/wAdGdZ-GNFY/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-09-05T20:00:06Z"
-  },
-  {
-    "id": "4ff2a9ed",
-    "type": "podcast",
-    "title": "We Haven&#39;t Seen You in a While | Stories from UFO Reddit",
-    "description": "Reddit #UAP #Aliens At just five years old, a child wakes in the middle of the night to an unnaturally silent bedroom, an open ...",
-    "url": "https://www.youtube.com/watch?v=YIJ8OKXMIT0",
-    "image": "https://i.ytimg.com/vi/YIJ8OKXMIT0/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-09-05T16:00:06Z"
   },
   {
     "id": "05d2037f",
@@ -158,35 +158,5 @@
     "image": "https://i.ytimg.com/vi/ihVtuX8qML8/hqdefault.jpg",
     "source": "Disclosure Team",
     "publishedAt": "2026-07-22T08:32:11Z"
-  },
-  {
-    "id": "3bb3258e",
-    "type": "podcast",
-    "title": "UFO Experts Come Forward (Full Documentary) - IPN LIVE TOUR",
-    "description": "AREA 52 Shop: https://www.area52.shop Patreon Exclusive Content: https://www.patreon.com/Area52investigations Second ...",
-    "url": "https://www.youtube.com/watch?v=OwksWJifxYk",
-    "image": "https://i.ytimg.com/vi/OwksWJifxYk/hqdefault.jpg",
-    "source": "Area52",
-    "publishedAt": "2026-08-28T16:00:30Z"
-  },
-  {
-    "id": "c7b9d620",
-    "type": "podcast",
-    "title": "&quot;I Was Inside A UFO.&quot; | Area 51 Whistleblower Bob Lazar",
-    "description": "Bob Lazar says that between December 1988 and April 1989 he worked as a senior staff physicist at S4, a facility built into a ...",
-    "url": "https://www.youtube.com/watch?v=PHoU0wxVF9Q",
-    "image": "https://i.ytimg.com/vi/PHoU0wxVF9Q/hqdefault.jpg",
-    "source": "GSP Podcast",
-    "publishedAt": "2026-08-04T16:00:06Z"
-  },
-  {
-    "id": "7b1955c9",
-    "type": "podcast",
-    "title": "UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic",
-    "description": "Is there life beyond Planet Earth? In this UFOs: Investigating the Unknown Mega Episode from National Geographic, explore the ...",
-    "url": "https://www.youtube.com/watch?v=dDxYZyMEmUU",
-    "image": "https://i.ytimg.com/vi/dDxYZyMEmUU/hqdefault.jpg",
-    "source": "National Geographic",
-    "publishedAt": "2026-06-27T13:00:25Z"
   }
 ]
