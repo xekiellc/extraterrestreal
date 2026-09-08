@@ -60,6 +60,16 @@
     "publishedAt": "2026-09-05T13:00:05Z"
   },
   {
+    "id": "cd9bada1",
+    "type": "video",
+    "title": "MATT BROWN on the UFO/Alien Agenda",
+    "description": "Rep. Anna Paulina Luna just showed a journalist a challenge coin from the FBI's internal UAP unit — and it opened up the ...",
+    "url": "https://www.youtube.com/watch?v=fgAMGiBXNbE",
+    "image": "https://i.ytimg.com/vi/fgAMGiBXNbE/hqdefault.jpg",
+    "source": "NIGHT SHIFT",
+    "publishedAt": "2026-09-04T20:59:27Z"
+  },
+  {
     "id": "672c1373",
     "type": "video",
     "title": "Mario Woods &amp; Michael Johnson FINALLY REUNITED (From JRE #2545)",
@@ -78,16 +88,6 @@
     "image": "https://i.ytimg.com/vi/8rpeLbxPHBw/hqdefault.jpg",
     "source": "Elijah Zielke",
     "publishedAt": "2026-08-31T20:00:14Z"
-  },
-  {
-    "id": "c9e82a1f",
-    "type": "video",
-    "title": "Matthew Brown Drops UFO Bombshell",
-    "description": "Patrick finds hidden clue in new UFO Whistleblower Matthew Brown interview on Jesse Michels channel. Check out our NEW ...",
-    "url": "https://www.youtube.com/watch?v=bydj-7d9ywo",
-    "image": "https://i.ytimg.com/vi/bydj-7d9ywo/hqdefault.jpg",
-    "source": "VETTED",
-    "publishedAt": "2026-08-30T18:17:30Z"
   },
   {
     "id": "b0bd8dbc",
@@ -120,6 +120,16 @@
     "publishedAt": "2026-08-07T04:09:20Z"
   },
   {
+    "id": "47e7001b",
+    "type": "video",
+    "title": "Warning About A Daylight Landing | Dr. Steven Greer",
+    "description": "This is the strategy half of Dr Steven Greer's 1995 IUFOC talk, and it is the part almost nobody quotes. Having read his national ...",
+    "url": "https://www.youtube.com/watch?v=-mCuKNUiTHE",
+    "image": "https://i.ytimg.com/vi/-mCuKNUiTHE/hqdefault.jpg",
+    "source": "Best of Dr Steven Greer",
+    "publishedAt": "2026-09-08T16:00:09Z"
+  },
+  {
     "id": "9bf6d75c",
     "type": "video",
     "title": "ART BELL | &quot;They Are Hiding It...&quot; The Alien Megastructure Mystery (2026)",
@@ -138,16 +148,6 @@
     "image": "https://i.ytimg.com/vi/TbeRwd7m7Dw/hqdefault.jpg",
     "source": "Russell's House",
     "publishedAt": "2026-09-06T01:00:05Z"
-  },
-  {
-    "id": "db8f4122",
-    "type": "video",
-    "title": "Art Bell | THE FORBIDDEN DISCLOSURE Government Hid Alien Tech For 50 Years, Art Bell Stunned! 1997",
-    "description": "What if the greatest technological leap in human history was locked away in deep black-budget vaults for over half a century?",
-    "url": "https://www.youtube.com/watch?v=0OqZewMyDkc",
-    "image": "https://i.ytimg.com/vi/0OqZewMyDkc/hqdefault.jpg",
-    "source": "Art Bell's UFO & Alien Files",
-    "publishedAt": "2026-09-05T23:00:38Z"
   },
   {
     "id": "3bb3258e",
@@ -220,16 +220,6 @@
     "publishedAt": "2026-05-16T21:29:36Z"
   },
   {
-    "id": "78b6ecc5",
-    "type": "video",
-    "title": "UFOs - They Lost Time",
-    "description": "A Weekly Livestream Show with a focus on recounting cases and stories of the Strange and Unexplained, Mysterious Events, ...",
-    "url": "https://www.youtube.com/watch?v=A63HsIEHCpI",
-    "image": "https://i.ytimg.com/vi/A63HsIEHCpI/hqdefault.jpg",
-    "source": "Cristina Gomez",
-    "publishedAt": "2023-08-15T22:35:51Z"
-  },
-  {
     "id": "ff24fe1c",
     "type": "video",
     "title": "JFree906 Podcast - Cristina Gomez joins us live for The Secret of Skinwalker Ranch S4 Ep 6 Recap",
@@ -238,5 +228,15 @@
     "image": "https://i.ytimg.com/vi/n-FkWV4n8vo/hqdefault.jpg",
     "source": "JFree906 - The Freeman Files",
     "publishedAt": "2023-05-27T13:36:33Z"
+  },
+  {
+    "id": "df322ef7",
+    "type": "video",
+    "title": "Ep. 1779 Cristina Gomez:  Bigfoot!",
+    "description": "Cristina Gomez is a video content creator and podcaster who brings a young and fresh perspective to the UFO and Paranormal ...",
+    "url": "https://www.youtube.com/watch?v=_8I-p0Ihdmk",
+    "image": "https://i.ytimg.com/vi/_8I-p0Ihdmk/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2023-03-17T04:15:18Z"
   }
 ]
