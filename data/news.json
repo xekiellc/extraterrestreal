@@ -40,6 +40,16 @@
     "publishedAt": "2026-08-18T15:34:59Z"
   },
   {
+    "id": "e020ce91",
+    "type": "news",
+    "title": "‘Disclosure Day’ Sets Peacock Streaming Release Date",
+    "description": "Steven Spielberg’s latest sci-fi adventure, “Disclosure Day,” will stream on Peacock starting Oct. 9 Emily Blunt and Josh O’Connor star as a meteorologist and whistleblower who discover an unexpected connection with alie…",
+    "url": "https://variety.com/2026/film/news/disclosure-day-peacock-release-date-streaming-how-to-watch-1236806947/",
+    "image": "https://variety.com/wp-content/uploads/2026/05/2593_D042_00407R.jpg?w=1000&h=563&crop=1",
+    "source": "Variety",
+    "publishedAt": "2026-09-09T14:34:08Z"
+  },
+  {
     "id": "678b5693",
     "type": "news",
     "title": "From ‘Black Panther’ To ‘They Cloned Tyrone’: Black Sci-Fi Movies That Changed The Genre",
@@ -110,13 +120,13 @@
     "publishedAt": "2026-09-08T09:00:00Z"
   },
   {
-    "id": "642c5a7b",
+    "id": "52648a9e",
     "type": "news",
-    "title": "Are UFOs inspiring a new religion?",
-    "description": "People around the world are gathering in wilderness settings with the intention to initiate contact with UFOs using various techniques.",
-    "url": "https://theconversation.com/are-ufos-inspiring-a-new-religion-287467",
-    "image": "https://images.theconversation.com/files/753084/original/file-20260810-50-wd35mf.jpg?ixlib=rb-4.1.1&rect=0%2C1014%2C3631%2C1815&q=45&auto=format&w=1356&h=668&fit=crop",
-    "source": "The Conversation Africa",
-    "publishedAt": "2026-08-10T12:42:03Z"
+    "title": "Secret space-age weapon built to spy on Americans spotted at China's Area 51",
+    "description": "A mysterious aircraft has been spotted at a secret base which been compared to America's infamous UFO research capital.",
+    "url": "https://www.dailymail.com/sciencetech/article-16117493/china-area-51-wzx-drone-malan.html",
+    "image": "https://i.dailymail.com/1s/2026/09/09/16/111144107-0-image-m-11_1788966547952.jpg",
+    "source": "Dailymail.com",
+    "publishedAt": "2026-09-09T15:34:30Z"
   }
 ]
