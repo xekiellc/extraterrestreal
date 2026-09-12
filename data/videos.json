@@ -30,6 +30,16 @@
     "publishedAt": "2026-09-09T14:18:24Z"
   },
   {
+    "id": "6b0ab1ed",
+    "type": "video",
+    "title": "What happens if UFO disclosure becomes reality? Experts examine the fallout | Reality Check Rewind",
+    "description": "What would happen to society if governments confirmed that humanity is not alone? Ross Coulthart speaks with John Priestland ...",
+    "url": "https://www.youtube.com/watch?v=T7r0h4puym0",
+    "image": "https://i.ytimg.com/vi/T7r0h4puym0/hqdefault.jpg",
+    "source": "Reality Check with Ross Coulthart",
+    "publishedAt": "2026-09-12T13:00:18Z"
+  },
+  {
     "id": "392f3773",
     "type": "video",
     "title": "Where Are the Aliens?",
@@ -48,16 +58,6 @@
     "image": "https://i.ytimg.com/vi/BfYUITFIgqc/hqdefault.jpg",
     "source": "Reality Check with Ross Coulthart",
     "publishedAt": "2026-09-10T14:46:41Z"
-  },
-  {
-    "id": "dc833f16",
-    "type": "video",
-    "title": "Ross on the White House UAP board, whistleblower amnesty and Apollo 16 | Reality Check Rewind",
-    "description": "Ross Coulthart answers questions about the latest developments in UAP disclosure. He examines the White House's new UAP ...",
-    "url": "https://www.youtube.com/watch?v=cDXAWq_ggqs",
-    "image": "https://i.ytimg.com/vi/cDXAWq_ggqs/hqdefault.jpg",
-    "source": "Reality Check with Ross Coulthart",
-    "publishedAt": "2026-09-08T18:00:11Z"
   },
   {
     "id": "f61d51b0",
@@ -140,14 +140,14 @@
     "publishedAt": "2026-09-09T09:30:43Z"
   },
   {
-    "id": "47e7001b",
+    "id": "fc51ef94",
     "type": "video",
-    "title": "We Will Disclose This Without Their Permission | Dr. Steven Greer",
-    "description": "This is the strategy half of Dr Steven Greer's 1995 IUFOC talk, and it is the part almost nobody quotes. Having read his national ...",
-    "url": "https://www.youtube.com/watch?v=-mCuKNUiTHE",
-    "image": "https://i.ytimg.com/vi/-mCuKNUiTHE/hqdefault.jpg",
-    "source": "Best of Dr Steven Greer",
-    "publishedAt": "2026-09-08T16:00:09Z"
+    "title": "What are our responsibilities post Disclosure. - Podcast 23",
+    "description": "About Dr. Steven Greer: Dr. Steven Greer is best known for his dedication to disclosing classified UFO and extraterrestrial ...",
+    "url": "https://www.youtube.com/watch?v=mbrFiP6bEIk",
+    "image": "https://i.ytimg.com/vi/mbrFiP6bEIk/hqdefault.jpg",
+    "source": "Dr. Steven Greer",
+    "publishedAt": "2026-09-08T16:01:02Z"
   },
   {
     "id": "3bb3258e",
