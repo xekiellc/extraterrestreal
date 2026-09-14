@@ -40,16 +40,6 @@
     "publishedAt": "2026-09-12T13:00:18Z"
   },
   {
-    "id": "392f3773",
-    "type": "video",
-    "title": "Where Are the Aliens?",
-    "description": "UFO whistleblowers have made some extraordinary claims about UAPs, recovered spacecraft, secret government programs and ...",
-    "url": "https://www.youtube.com/watch?v=BG20t2BMCLs",
-    "image": "https://i.ytimg.com/vi/BG20t2BMCLs/hqdefault.jpg",
-    "source": "tv watcher",
-    "publishedAt": "2026-09-11T04:13:28Z"
-  },
-  {
     "id": "8ae6a2a9",
     "type": "video",
     "title": "Trump &amp; the UFO files: The push for disclosure intensifies | Reality Check Rewind",
@@ -58,6 +48,16 @@
     "image": "https://i.ytimg.com/vi/BfYUITFIgqc/hqdefault.jpg",
     "source": "Reality Check with Ross Coulthart",
     "publishedAt": "2026-09-10T14:46:41Z"
+  },
+  {
+    "id": "77c866c9",
+    "type": "video",
+    "title": "Physicist, former NASA researcher takes UAP seriously | Reality Check",
+    "description": "Check Out Odoo, The all-in-one platform to manage your business at https://www.odoo.com/r/4gMN In this episode of \"Reality ...",
+    "url": "https://www.youtube.com/watch?v=UxiZrYBFjXk",
+    "image": "https://i.ytimg.com/vi/UxiZrYBFjXk/hqdefault.jpg",
+    "source": "NewsNation",
+    "publishedAt": "2026-09-08T21:00:06Z"
   },
   {
     "id": "f61d51b0",
@@ -120,6 +120,16 @@
     "publishedAt": "2026-08-07T04:09:20Z"
   },
   {
+    "id": "e35cc423",
+    "type": "video",
+    "title": "ALIEN DISCLOSURE: The Unidentified Technology Truths With Dr Steven Greer | Dana &amp; David",
+    "description": "Prepare for a mind-bending journey beyond conventional reality as Dana & David sit down with the world's leading authority on ...",
+    "url": "https://www.youtube.com/watch?v=Ra-cUx94q6c",
+    "image": "https://i.ytimg.com/vi/Ra-cUx94q6c/hqdefault.jpg",
+    "source": "Wallflower Comedy",
+    "publishedAt": "2026-09-14T00:30:02Z"
+  },
+  {
     "id": "e8b54d63",
     "type": "video",
     "title": "25°ANNIVERSARIO DISCLOSURE DAY | STEVEN GREER, Washington DC",
@@ -138,16 +148,6 @@
     "image": "https://i.ytimg.com/vi/uzeAsQQoVdg/hqdefault.jpg",
     "source": "The Watchers",
     "publishedAt": "2026-09-09T09:30:43Z"
-  },
-  {
-    "id": "fc51ef94",
-    "type": "video",
-    "title": "What are our responsibilities post Disclosure. - Podcast 23",
-    "description": "About Dr. Steven Greer: Dr. Steven Greer is best known for his dedication to disclosing classified UFO and extraterrestrial ...",
-    "url": "https://www.youtube.com/watch?v=mbrFiP6bEIk",
-    "image": "https://i.ytimg.com/vi/mbrFiP6bEIk/hqdefault.jpg",
-    "source": "Dr. Steven Greer",
-    "publishedAt": "2026-09-08T16:01:02Z"
   },
   {
     "id": "3bb3258e",
@@ -190,16 +190,6 @@
     "publishedAt": "2026-06-21T18:00:02Z"
   },
   {
-    "id": "946149b6",
-    "type": "video",
-    "title": "UFO disclosure push and growing debate over government transparency | Backscroll",
-    "description": "This NewsNation compilation examines bipartisan efforts, whistleblower claims and skepticism surrounding UAP secrecy.",
-    "url": "https://www.youtube.com/watch?v=eNcCmk1rq2Q",
-    "image": "https://i.ytimg.com/vi/eNcCmk1rq2Q/hqdefault.jpg",
-    "source": "NewsNation",
-    "publishedAt": "2026-06-18T18:00:21Z"
-  },
-  {
     "id": "bf793ef1",
     "type": "video",
     "title": "Director of UFO documentary hopes film spurs ‘national conversation’ | CUOMO",
@@ -208,6 +198,16 @@
     "image": "https://i.ytimg.com/vi/jhXNaZIN4F4/hqdefault.jpg",
     "source": "NewsNation",
     "publishedAt": "2025-11-21T02:28:26Z"
+  },
+  {
+    "id": "f5cc1c1f",
+    "type": "video",
+    "title": "#ElizabethVargas Reports on UAP@NewsNation",
+    "description": "Explosive UAP Revelations: New Video Emerges from Congressional Hearing – Elizabeth Vargas Breaks It Down Dive into the ...",
+    "url": "https://www.youtube.com/watch?v=NkmEM_CfYM4",
+    "image": "https://i.ytimg.com/vi/NkmEM_CfYM4/hqdefault.jpg",
+    "source": "#Attikusspeaks #Truth ",
+    "publishedAt": "2025-10-31T00:00:06Z"
   },
   {
     "id": "6a06ccf7",
