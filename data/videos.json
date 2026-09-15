@@ -1,15 +1,5 @@
 [
   {
-    "id": "6bf51dbe",
-    "type": "video",
-    "title": "Late Night UFO: McCasland, Bigelow &amp; Vallée, Jeremy Corbell Losing Patience",
-    "description": "Tonight on Gabriel Speaks, we're diving back into one of the strangest intersections of UFO disclosure, advanced science, ...",
-    "url": "https://www.youtube.com/watch?v=iU_bFmjCuk4",
-    "image": "https://i.ytimg.com/vi/iU_bFmjCuk4/hqdefault.jpg",
-    "source": "The Gabriel Speaks Show",
-    "publishedAt": "2026-09-12T19:02:01Z"
-  },
-  {
     "id": "04f00c40",
     "type": "video",
     "title": "The Pentagon documents that pulled George Knapp into UFO reporting",
@@ -28,6 +18,16 @@
     "image": "https://i.ytimg.com/vi/kOs7z0wOUpo/hqdefault.jpg",
     "source": "TheSneezingMonkey",
     "publishedAt": "2026-09-09T14:18:24Z"
+  },
+  {
+    "id": "f8182126",
+    "type": "video",
+    "title": "He Saw Four TIC TAC UFOs - Then AARO Came Calling",
+    "description": "It's easy to demand that UFO witnesses step forward. It's considerably harder to live with what happens after they do. Senior Chief ...",
+    "url": "https://www.youtube.com/watch?v=YEO7dy88pyw",
+    "image": "https://i.ytimg.com/vi/YEO7dy88pyw/hqdefault.jpg",
+    "source": "Jeremy Corbell",
+    "publishedAt": "2026-09-08T19:00:06Z"
   },
   {
     "id": "6b0ab1ed",
@@ -210,6 +210,16 @@
     "publishedAt": "2025-11-21T02:28:26Z"
   },
   {
+    "id": "54dcb66f",
+    "type": "video",
+    "title": "DISCLOSURE JUST SHIFTED INSIDE THE WHITE HOUSE",
+    "description": "Cristina Gomez reviews the latest UFO / UAP news and covers the reported presidential briefing on the legacy UAP crash retrieval ...",
+    "url": "https://www.youtube.com/watch?v=oHSJb30GqZ8",
+    "image": "https://i.ytimg.com/vi/oHSJb30GqZ8/hqdefault.jpg",
+    "source": "Cristina Gomez",
+    "publishedAt": "2026-05-19T19:00:11Z"
+  },
+  {
     "id": "6a06ccf7",
     "type": "video",
     "title": "CONGRESS CAUGHT IN MASSIVE UFO FLIP",
@@ -228,15 +238,5 @@
     "image": "https://i.ytimg.com/vi/A63HsIEHCpI/hqdefault.jpg",
     "source": "Cristina Gomez",
     "publishedAt": "2023-08-15T22:35:51Z"
-  },
-  {
-    "id": "ff24fe1c",
-    "type": "video",
-    "title": "JFree906 Podcast - Cristina Gomez joins us live for The Secret of Skinwalker Ranch S4 Ep 6 Recap",
-    "description": "Tonight Seth and I are joined by podcaster Cristina Gomez from Shifting the Paradigm to discuss The Secret of Skinwalker Ranch ...",
-    "url": "https://www.youtube.com/watch?v=n-FkWV4n8vo",
-    "image": "https://i.ytimg.com/vi/n-FkWV4n8vo/hqdefault.jpg",
-    "source": "JFree906 - The Freeman Files",
-    "publishedAt": "2023-05-27T13:36:33Z"
   }
 ]

@@ -1,5 +1,15 @@
 [
   {
+    "id": "5067470e",
+    "type": "news",
+    "title": "Pentagon Issues Major Change to UFO Disclosure Rules",
+    "description": "The Department of War announced Monday that it is issuing a legal waiver allowing current and former military personnel, civilian employees and contractors to disclose information related to Unidentified Anomalous Phenom…",
+    "url": "https://biztoc.com/x/e15dd0f8643e9b13",
+    "image": "https://biztoc.com/cdn/e15dd0f8643e9b13_s.webp",
+    "source": "Biztoc.com",
+    "publishedAt": "2026-09-14T21:08:07Z"
+  },
+  {
     "id": "d1271fea",
     "type": "news",
     "title": "The Trump Alien ‘Disclosure Speech’ Rumors Are Reaching a Fever Pitch",
@@ -28,16 +38,6 @@
     "image": "https://i.dailymail.com/1s/2026/09/03/19/111037721-0-image-m-9_1788461095314.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-09-03T19:15:52Z"
-  },
-  {
-    "id": "1e62bee9",
-    "type": "news",
-    "title": "Pentagon UFO scientist Dr Eric Davis claims US has evidence of 4 alien species after 30 years of UAP research: ‘I’ve seen the evidence, I’ve seen the records’",
-    "description": "Pentagon-linked astrophysicist Dr Eric Davis claims he has seen classified records and evidence allegedly documenting four different alien species recovered from crashed UAPs. The alleged beings include Grays, Nordics, I…",
-    "url": "https://timesofindia.indiatimes.com/world/us/pentagon-ufo-scientist-dr-eric-davis-claims-us-has-evidence-of-4-alien-species-after-30-years-of-uap-research-ive-seen-the-evidence-ive-seen-the-records/articleshow/133331999.cms",
-    "image": "https://static.toiimg.com/thumb/msid-133332031,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-    "source": "The Times of India",
-    "publishedAt": "2026-08-18T20:13:48Z"
   },
   {
     "id": "3cde39d9",
@@ -98,45 +98,5 @@
     "image": "https://i.dailymail.com/1s/2026/08/18/16/110708019-0-image-m-24_1787067118998.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-08-18T15:34:59Z"
-  },
-  {
-    "id": "49a90133",
-    "type": "news",
-    "title": "After nearly 70 years of searching, humanity has found no confirmed evidence of extraterrestrial life—only potential biosignatures in a Martian rock, disputed chemistry 124 light-years away, and thousands of UAP reports that may have nothing to do with aliens at all. The answer, whatever it is, still arrives only in fragments.",
-    "description": "Mars, K2-18 b and decades of UAP reports offer intriguing fragments, but each remains separated from confirmed extraterrestrial life by a different evidentiary gap. The post After nearly 70 years of searching, humanity h…",
-    "url": "https://spacedaily.com/t-extraterrestrial-life-evidence-mars-k2-18b-uap-fragments/",
-    "image": "https://spacedaily.com/wp-content/uploads/2026/08/nasa-marsdaily-cheyava-falls-leopard-spots.png",
-    "source": "Space Daily",
-    "publishedAt": "2026-09-01T00:30:00Z"
-  },
-  {
-    "id": "9b24ed1e",
-    "type": "news",
-    "title": "Skeptoid #1057: The 1973 Mansfield UFO Encounter",
-    "description": "Four men in an Air National Guard helicopter had a terrifying UFO encounter in the skies above Ohio. Learn about your ad choices: dovetail.prx.org/ad-choices",
-    "url": "https://skeptoid.com/episodes/1057",
-    "image": "https://skeptoid.com/eps1200x744/ep1057.jpg",
-    "source": "Skeptoid.com",
-    "publishedAt": "2026-09-08T09:00:00Z"
-  },
-  {
-    "id": "54ad480c",
-    "type": "news",
-    "title": "Vulnerability Summary for the Week of September 7, 2026",
-    "description": "High Vulnerabilities PrimaryVendor -- Product Description Published CVSS Score Source Info 100plugins--Open User Map Unauthenticated Cross Site Scripting (XSS) in Open Us…",
-    "url": "https://www.cisa.gov/news-events/bulletins/sb26-257",
-    "image": "",
-    "source": "Cisa.gov",
-    "publishedAt": "2026-09-14T12:07:08Z"
-  },
-  {
-    "id": "52648a9e",
-    "type": "news",
-    "title": "Secret space-age weapon built to spy on Americans spotted at China's Area 51",
-    "description": "A mysterious aircraft has been spotted at a secret base which been compared to America's infamous UFO research capital.",
-    "url": "https://www.dailymail.com/sciencetech/article-16117493/china-area-51-wzx-drone-malan.html",
-    "image": "https://i.dailymail.com/1s/2026/09/09/16/111144107-0-image-m-11_1788966547952.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-09-09T15:34:30Z"
   }
 ]
