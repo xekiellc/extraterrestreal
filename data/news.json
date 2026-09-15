@@ -120,6 +120,16 @@
     "publishedAt": "2026-09-08T09:00:00Z"
   },
   {
+    "id": "54ad480c",
+    "type": "news",
+    "title": "Vulnerability Summary for the Week of September 7, 2026",
+    "description": "High Vulnerabilities PrimaryVendor -- Product Description Published CVSS Score Source Info 100plugins--Open User Map Unauthenticated Cross Site Scripting (XSS) in Open Us…",
+    "url": "https://www.cisa.gov/news-events/bulletins/sb26-257",
+    "image": "",
+    "source": "Cisa.gov",
+    "publishedAt": "2026-09-14T12:07:08Z"
+  },
+  {
     "id": "52648a9e",
     "type": "news",
     "title": "Secret space-age weapon built to spy on Americans spotted at China's Area 51",
