@@ -1,5 +1,15 @@
 [
   {
+    "id": "0ef06c3f",
+    "type": "news",
+    "title": "Pentagon issues waiver to enable personnel to report UFO sightings",
+    "description": "The US government is moving to make it easier for military personnel and civilian employees to report their encounters. While UFO reporting systems ha...",
+    "url": "https://www.unexplained-mysteries.com/news/400153/pentagon-issues-waiver-to-enable-personnel-to-report-ufo-sightings",
+    "image": "https://www.unexplained-mysteries.com/images/news_large_retina/news-hq-ufo-huge.jpg",
+    "source": "Unexplained-mysteries.com",
+    "publishedAt": "2026-09-15T10:10:39Z"
+  },
+  {
     "id": "ca0c779c",
     "type": "news",
     "title": "Pentagon creates legal waiver allowing personnel sworn to UFO secrecy to come forward",
@@ -28,16 +38,6 @@
     "image": "https://media.wired.com/photos/6aa085cf50048b9f2b3259a5/191:100/w_1280,c_limit/Trump-Alien-Disclosure-Speech.jpg",
     "source": "Wired",
     "publishedAt": "2026-09-11T10:30:00Z"
-  },
-  {
-    "id": "a81dda27",
-    "type": "news",
-    "title": "Dr. Phil says ‘the government has lied straight to our face,’ blasts Pentagon for allegedly ignoring legitimate UFO reports from the public",
-    "description": "Dr. Phil blasted the Pentagon for ignoring over 1,800 credible public UFO reports, accusing the government of deceiving the American people.",
-    "url": "https://nypost.com/2026/09/04/us-news/dr-phil-blasts-pentagon-for-ignoring-legitimate-ufo-reports-from-the-public/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/COMP-UFO.jpg?quality=75&strip=all&w=1200",
-    "source": "New York Post",
-    "publishedAt": "2026-09-04T06:21:06Z"
   },
   {
     "id": "3cde39d9",
@@ -98,6 +98,16 @@
     "image": "https://i.dailymail.com/1s/2026/08/18/16/110708019-0-image-m-24_1787067118998.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-08-18T15:34:59Z"
+  },
+  {
+    "id": "a81dda27",
+    "type": "news",
+    "title": "Dr. Phil says ‘the government has lied straight to our face,’ blasts Pentagon for allegedly ignoring legitimate UFO reports from the public",
+    "description": "Dr. Phil blasted the Pentagon for ignoring over 1,800 credible public UFO reports, accusing the government of deceiving the American people.",
+    "url": "https://nypost.com/2026/09/04/us-news/dr-phil-blasts-pentagon-for-ignoring-legitimate-ufo-reports-from-the-public/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/COMP-UFO.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-09-04T06:21:06Z"
   },
   {
     "id": "d152528a",
