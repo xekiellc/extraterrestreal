@@ -1,5 +1,15 @@
 [
   {
+    "id": "ca0c779c",
+    "type": "news",
+    "title": "Pentagon creates legal waiver allowing personnel sworn to UFO secrecy to come forward",
+    "description": "The Pentagon is now allowing current and former personnel sworn to secrecy about Unidentified Anomalous Phenomena (UAP) activity to legally share that information with the government.",
+    "url": "https://nypost.com/2026/09/15/us-news/pentagon-creates-legal-waiver-allowing-personnel-sworn-to-ufo-secrecy-to-come-forward/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-sbnbx93fj-1789452744786.jpg?quality=75&strip=all&1789438402&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-09-15T06:19:00Z"
+  },
+  {
     "id": "5067470e",
     "type": "news",
     "title": "Pentagon Issues Major Change to UFO Disclosure Rules",
@@ -28,16 +38,6 @@
     "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/COMP-UFO.jpg?quality=75&strip=all&w=1200",
     "source": "New York Post",
     "publishedAt": "2026-09-04T06:21:06Z"
-  },
-  {
-    "id": "d152528a",
-    "type": "news",
-    "title": "Dr Phil rages over the giant lie the US government has told Americans for years: 'I don't trust them about this at all'",
-    "description": "Dr Phil McGraw slammed what he claimed was an 80-year coverup that was intentionally carried out to deceive the American people and keep over 300 million people in the dark.",
-    "url": "https://www.dailymail.com/sciencetech/article-16102385/dr-phil-government-ufo-coverup.html",
-    "image": "https://i.dailymail.com/1s/2026/09/03/19/111037721-0-image-m-9_1788461095314.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-09-03T19:15:52Z"
   },
   {
     "id": "3cde39d9",
@@ -98,6 +98,16 @@
     "image": "https://i.dailymail.com/1s/2026/08/18/16/110708019-0-image-m-24_1787067118998.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-08-18T15:34:59Z"
+  },
+  {
+    "id": "d152528a",
+    "type": "news",
+    "title": "Dr Phil rages over the giant lie the US government has told Americans for years: 'I don't trust them about this at all'",
+    "description": "Dr Phil McGraw slammed what he claimed was an 80-year coverup that was intentionally carried out to deceive the American people and keep over 300 million people in the dark.",
+    "url": "https://www.dailymail.com/sciencetech/article-16102385/dr-phil-government-ufo-coverup.html",
+    "image": "https://i.dailymail.com/1s/2026/09/03/19/111037721-0-image-m-9_1788461095314.jpg",
+    "source": "Dailymail.com",
+    "publishedAt": "2026-09-03T19:15:52Z"
   },
   {
     "id": "49a90133",
