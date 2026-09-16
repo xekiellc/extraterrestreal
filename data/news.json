@@ -1,5 +1,15 @@
 [
   {
+    "id": "cea87ceb",
+    "type": "news",
+    "title": "Pentagon Makes Major Change To UFO Disclosure Rules For Military, Government Employees",
+    "description": "The Pentagon has made it easier for military personnel and government employees to disclose information about their UFO encounters. On Monday, the Department of War announced it will grant a legal waiver allowing civilia…",
+    "url": "https://brobible.com/culture/article/pentagon-ufo-disclosure-rules-military-government-employees/",
+    "image": "https://brobible.com/wp-content/uploads/2026/09/pentagon-ufo-disclosure-rules.jpg",
+    "source": "BroBible",
+    "publishedAt": "2026-09-15T18:56:05Z"
+  },
+  {
     "id": "0ef06c3f",
     "type": "news",
     "title": "Pentagon issues waiver to enable personnel to report UFO sightings",
@@ -28,16 +38,6 @@
     "image": "https://biztoc.com/cdn/e15dd0f8643e9b13_s.webp",
     "source": "Biztoc.com",
     "publishedAt": "2026-09-14T21:08:07Z"
-  },
-  {
-    "id": "d1271fea",
-    "type": "news",
-    "title": "The Trump Alien ‘Disclosure Speech’ Rumors Are Reaching a Fever Pitch",
-    "description": "The US government has been sharing more information about UFOs. That's fueling excitement over the possibility of the president announcing that humans are not alone.",
-    "url": "https://www.wired.com/story/the-trump-alien-disclosure-speech-rumors-are-reaching-a-fever-pitch/",
-    "image": "https://media.wired.com/photos/6aa085cf50048b9f2b3259a5/191:100/w_1280,c_limit/Trump-Alien-Disclosure-Speech.jpg",
-    "source": "Wired",
-    "publishedAt": "2026-09-11T10:30:00Z"
   },
   {
     "id": "3cde39d9",
@@ -120,16 +120,6 @@
     "publishedAt": "2026-09-03T19:15:52Z"
   },
   {
-    "id": "49a90133",
-    "type": "news",
-    "title": "After nearly 70 years of searching, humanity has found no confirmed evidence of extraterrestrial life—only potential biosignatures in a Martian rock, disputed chemistry 124 light-years away, and thousands of UAP reports that may have nothing to do with aliens at all. The answer, whatever it is, still arrives only in fragments.",
-    "description": "Mars, K2-18 b and decades of UAP reports offer intriguing fragments, but each remains separated from confirmed extraterrestrial life by a different evidentiary gap. The post After nearly 70 years of searching, humanity h…",
-    "url": "https://spacedaily.com/t-extraterrestrial-life-evidence-mars-k2-18b-uap-fragments/",
-    "image": "https://spacedaily.com/wp-content/uploads/2026/08/nasa-marsdaily-cheyava-falls-leopard-spots.png",
-    "source": "Space Daily",
-    "publishedAt": "2026-09-01T00:30:00Z"
-  },
-  {
     "id": "9b24ed1e",
     "type": "news",
     "title": "Skeptoid #1057: The 1973 Mansfield UFO Encounter",
@@ -158,5 +148,15 @@
     "image": "https://i.dailymail.com/1s/2026/09/09/16/111144107-0-image-m-11_1788966547952.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-09-09T15:34:30Z"
+  },
+  {
+    "id": "49a90133",
+    "type": "news",
+    "title": "After nearly 70 years of searching, humanity has found no confirmed evidence of extraterrestrial life—only potential biosignatures in a Martian rock, disputed chemistry 124 light-years away, and thousands of UAP reports that may have nothing to do with aliens at all. The answer, whatever it is, still arrives only in fragments.",
+    "description": "Mars, K2-18 b and decades of UAP reports offer intriguing fragments, but each remains separated from confirmed extraterrestrial life by a different evidentiary gap. The post After nearly 70 years of searching, humanity h…",
+    "url": "https://spacedaily.com/t-extraterrestrial-life-evidence-mars-k2-18b-uap-fragments/",
+    "image": "https://spacedaily.com/wp-content/uploads/2026/08/nasa-marsdaily-cheyava-falls-leopard-spots.png",
+    "source": "Space Daily",
+    "publishedAt": "2026-09-01T00:30:00Z"
   }
 ]
