@@ -40,6 +40,16 @@
     "publishedAt": "2026-09-14T21:08:07Z"
   },
   {
+    "id": "ead6b2db",
+    "type": "news",
+    "title": "Did Chinese government warn people not to respond to aliens and call UN hotline instead?",
+    "description": "The Chinese government issued a nationwide alert telling people not to communicate with aliens and to contact the United Nations if extraterrestrial life reaches out to them.",
+    "url": "https://www.snopes.com//fact-check/china-warning-aliens-un-hotline/",
+    "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/08/china_ufo.png",
+    "source": "Snopes.com",
+    "publishedAt": "2026-09-15T22:16:00Z"
+  },
+  {
     "id": "3cde39d9",
     "type": "news",
     "title": "America's newest super weapon sparks wild accusations the government has lied about UFOs",
@@ -68,16 +78,6 @@
     "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/09/covers-of-leviathan-wakes-the-ministry-for-the-future-and-contact.png?w=1600&h=900&fit=crop",
     "source": "MakeUseOf",
     "publishedAt": "2026-09-13T15:30:14Z"
-  },
-  {
-    "id": "9554be11",
-    "type": "news",
-    "title": "Chinese robot startup JoyIn says OpenAI copied its ideas and its website",
-    "description": "Chinese robotics startup JoyIn says OpenAI copied its ‘alien mind’ ideas and website design. It says it has started legal proceedings.",
-    "url": "https://thenextweb.com/news/joyin-openai-copying-claim-aether-alien-mind",
-    "image": "https://media.thenextweb.com/2026/09/OpenAI-Astra.jpg",
-    "source": "The Next Web",
-    "publishedAt": "2026-09-11T14:29:34Z"
   },
   {
     "id": "95661b8e",
