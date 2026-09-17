@@ -30,6 +30,16 @@
     "publishedAt": "2026-09-09T14:18:24Z"
   },
   {
+    "id": "8639b928",
+    "type": "video",
+    "title": "Jacques Vallée&#39;s final report | Reality Check",
+    "description": "In this episode of \"Reality Check,\" Ross Coulthart sits down with Dr. Jacques Vallée, the astrophysicist, computer scientist and ...",
+    "url": "https://www.youtube.com/watch?v=hSrOdAGke6U",
+    "image": "https://i.ytimg.com/vi/hSrOdAGke6U/hqdefault.jpg",
+    "source": "NewsNation",
+    "publishedAt": "2026-09-15T21:00:08Z"
+  },
+  {
     "id": "a276df06",
     "type": "video",
     "title": "First Contact Is Coming: What You Need to Know Before 2030",
@@ -50,14 +60,24 @@
     "publishedAt": "2026-09-13T12:00:06Z"
   },
   {
-    "id": "6b0ab1ed",
+    "id": "92925bd8",
     "type": "video",
-    "title": "Preparing for UFO disclosure: What happens when we learn we’re not alone? | Reality Check Rewind",
-    "description": "What would happen to society if governments confirmed that humanity is not alone? Ross Coulthart speaks with John Priestland ...",
-    "url": "https://www.youtube.com/watch?v=T7r0h4puym0",
-    "image": "https://i.ytimg.com/vi/T7r0h4puym0/hqdefault.jpg",
-    "source": "Reality Check with Ross Coulthart",
-    "publishedAt": "2026-09-12T13:00:18Z"
+    "title": "Jesse Michels on Nuclear-Site UFO Patterns | JRE #2545",
+    "description": "More from JRE #2545 — Jesse Michels on UAP patterns near nuclear sites, including historical Ellsworth / facility reports.",
+    "url": "https://www.youtube.com/watch?v=rZ9bvgFFaB8",
+    "image": "https://i.ytimg.com/vi/rZ9bvgFFaB8/hqdefault.jpg",
+    "source": "JRE UFO",
+    "publishedAt": "2026-09-15T05:12:54Z"
+  },
+  {
+    "id": "f61d51b0",
+    "type": "video",
+    "title": "Matthew Brown’s Warning to Elon Musk: “You’ve Been Lied To” | Signal 003",
+    "description": "Matthew Brown sent a cryptic public message to Elon Musk: “You've been lied to.” But what exactly was he trying to say? In Signal ...",
+    "url": "https://www.youtube.com/watch?v=a3jYkOXePAM",
+    "image": "https://i.ytimg.com/vi/a3jYkOXePAM/hqdefault.jpg",
+    "source": "The State Files",
+    "publishedAt": "2026-09-11T07:48:26Z"
   },
   {
     "id": "0766bfa0",
@@ -68,26 +88,6 @@
     "image": "https://i.ytimg.com/vi/PkWVweQ7hmk/hqdefault.jpg",
     "source": "VETTED",
     "publishedAt": "2026-09-08T18:42:12Z"
-  },
-  {
-    "id": "5b2a209b",
-    "type": "video",
-    "title": "Nuclear Guard&#39;s Abduction Partner Found After 50 Years!",
-    "description": "Main episode with Mario Woods and Michael Johnson: https://youtu.be/rjUdn6FklAU Please support the GoFundMe. Let's give ...",
-    "url": "https://www.youtube.com/watch?v=BBfRQHM_L7w",
-    "image": "https://i.ytimg.com/vi/BBfRQHM_L7w/hqdefault.jpg",
-    "source": "Jesse Michels Clips",
-    "publishedAt": "2026-09-07T19:43:16Z"
-  },
-  {
-    "id": "c105d42b",
-    "type": "video",
-    "title": "I Found The Missing Witness To The Most INTENSE Alien Abduction [50 Years Later!]",
-    "description": "In 1977, two Air Force security policemen guarding nuclear missiles at Ellsworth Air Force Base encountered a massive craft, ...",
-    "url": "https://www.youtube.com/watch?v=rjUdn6FklAU",
-    "image": "https://i.ytimg.com/vi/rjUdn6FklAU/hqdefault.jpg",
-    "source": "Jesse Michels",
-    "publishedAt": "2026-09-07T17:40:20Z"
   },
   {
     "id": "b0bd8dbc",
@@ -160,16 +160,6 @@
     "publishedAt": "2026-08-28T16:00:30Z"
   },
   {
-    "id": "f8c5ef93",
-    "type": "video",
-    "title": "The MITRE Corporation - UFO Reverse Engineering, USO Tracking, &amp; Legacy Programs",
-    "description": "An exploration into the MITRE Corporation, referred to as \"the most important company you've never heard of.\" Since its inception ...",
-    "url": "https://www.youtube.com/watch?v=107BtDYhTkA",
-    "image": "https://i.ytimg.com/vi/107BtDYhTkA/hqdefault.jpg",
-    "source": "UAP Gerb",
-    "publishedAt": "2026-08-07T18:30:52Z"
-  },
-  {
     "id": "0f3a67a7",
     "type": "video",
     "title": "UAP researcher: Lue Elizondo&#39;s new role is a &#39;controlled narrative&#39; | Reality Check",
@@ -178,6 +168,16 @@
     "image": "https://i.ytimg.com/vi/HZiEFA2h79U/hqdefault.jpg",
     "source": "NewsNation",
     "publishedAt": "2026-07-28T21:00:06Z"
+  },
+  {
+    "id": "e8953b24",
+    "type": "video",
+    "title": "Jeremy Corbell Drops Unexpected UFO Bombshell",
+    "description": "Sign up here and check out @official.freecash: ...",
+    "url": "https://www.youtube.com/watch?v=uHSLJcUIT8A",
+    "image": "https://i.ytimg.com/vi/uHSLJcUIT8A/hqdefault.jpg",
+    "source": "VETTED",
+    "publishedAt": "2026-07-26T01:24:57Z"
   },
   {
     "id": "52334c6a",
