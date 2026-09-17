@@ -10,6 +10,16 @@
     "publishedAt": "2026-09-15T18:56:05Z"
   },
   {
+    "id": "cf423112",
+    "type": "news",
+    "title": "Pentagon creates legal waiver allowing personnel sworn to UFO secrecy to come forward",
+    "description": "The Pentagon is now allowing current and former personnel sworn to secrecy about Unidentified Anomalous Phenomena (UAP) activity to legally share that information with the government.",
+    "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260915-azertac04.htm",
+    "image": "",
+    "source": "Globalsecurity.org",
+    "publishedAt": "2026-09-15T12:00:00Z"
+  },
+  {
     "id": "0ef06c3f",
     "type": "news",
     "title": "Pentagon issues waiver to enable personnel to report UFO sightings",
@@ -28,16 +38,6 @@
     "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/newspress-collage-sbnbx93fj-1789452744786.jpg?quality=75&strip=all&1789438402&w=1200",
     "source": "New York Post",
     "publishedAt": "2026-09-15T06:19:00Z"
-  },
-  {
-    "id": "5067470e",
-    "type": "news",
-    "title": "Pentagon Issues Major Change to UFO Disclosure Rules",
-    "description": "The Department of War announced Monday that it is issuing a legal waiver allowing current and former military personnel, civilian employees and contractors to disclose information related to Unidentified Anomalous Phenom…",
-    "url": "https://biztoc.com/x/e15dd0f8643e9b13",
-    "image": "https://biztoc.com/cdn/e15dd0f8643e9b13_s.webp",
-    "source": "Biztoc.com",
-    "publishedAt": "2026-09-14T21:08:07Z"
   },
   {
     "id": "ead6b2db",
@@ -110,14 +110,14 @@
     "publishedAt": "2026-08-18T15:34:59Z"
   },
   {
-    "id": "a81dda27",
+    "id": "0891e455",
     "type": "news",
-    "title": "Dr. Phil says ‘the government has lied straight to our face,’ blasts Pentagon for allegedly ignoring legitimate UFO reports from the public",
-    "description": "Dr. Phil blasted the Pentagon for ignoring over 1,800 credible public UFO reports, accusing the government of deceiving the American people.",
-    "url": "https://nypost.com/2026/09/04/us-news/dr-phil-blasts-pentagon-for-ignoring-legitimate-ufo-reports-from-the-public/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/COMP-UFO.jpg?quality=75&strip=all&w=1200",
-    "source": "New York Post",
-    "publishedAt": "2026-09-04T06:21:06Z"
+    "title": "What Fascination With UFOs Reveals About Conspiratorial Thinking in America",
+    "description": "A detective story is supposed to end with the mystery being solved: Sherlock Holmes or Hercule Poirot is always able to follow the clues and figure out what really happened. This is impossible with a UFO mystery, because…",
+    "url": "https://lithub.com/what-fascination-with-ufos-reveals-about-conspiratorial-thinking-in-america/",
+    "image": "https://s26162.pcdn.co/wp-content/uploads/2026/09/ufo-1502376302Ykd-1.jpg",
+    "source": "Lithub.com",
+    "publishedAt": "2026-09-16T09:09:02Z"
   },
   {
     "id": "9b24ed1e",
@@ -128,6 +128,16 @@
     "image": "https://skeptoid.com/eps1200x744/ep1057.jpg",
     "source": "Skeptoid.com",
     "publishedAt": "2026-09-08T09:00:00Z"
+  },
+  {
+    "id": "a81dda27",
+    "type": "news",
+    "title": "Dr. Phil says ‘the government has lied straight to our face,’ blasts Pentagon for allegedly ignoring legitimate UFO reports from the public",
+    "description": "Dr. Phil blasted the Pentagon for ignoring over 1,800 credible public UFO reports, accusing the government of deceiving the American people.",
+    "url": "https://nypost.com/2026/09/04/us-news/dr-phil-blasts-pentagon-for-ignoring-legitimate-ufo-reports-from-the-public/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/COMP-UFO.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-09-04T06:21:06Z"
   },
   {
     "id": "54ad480c",
