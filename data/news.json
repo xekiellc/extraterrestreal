@@ -40,6 +40,16 @@
     "publishedAt": "2026-09-15T06:19:00Z"
   },
   {
+    "id": "126ec768",
+    "type": "news",
+    "title": "One lucky person will finally be able to fly into Area 51... but there's a major catch",
+    "description": "A mysterious job listing online has been tied to the infamous Air Force base that whistleblowers claim is home to secret government research on alien technology.",
+    "url": "https://www.dailymail.com/sciencetech/article-16136717/area-51-job-las-vegas-pilot.html",
+    "image": "https://i.dailymail.com/1s/2026/09/16/19/111292821-0-image-a-9_1789582204201.jpg",
+    "source": "Dailymail.com",
+    "publishedAt": "2026-09-16T18:12:46Z"
+  },
+  {
     "id": "ead6b2db",
     "type": "news",
     "title": "Did Chinese government warn people not to respond to aliens and call UN hotline instead?",
@@ -68,16 +78,6 @@
     "image": "http://static1.squarespace.com/static/51b3dc8ee4b051b96ceb10de/51ce6099e4b0d911b4489b79/6aa2c247c1908311647e1a57/1789317399798/Steven+Spielberg%E2%80%99s+DISCLOSURE+DAY+Brings+Its+Alien+Mystery+to+Peacock+in+October.jpg?format=1500w",
     "source": "GeekTyrant",
     "publishedAt": "2026-09-13T16:36:00Z"
-  },
-  {
-    "id": "5be02db4",
-    "type": "news",
-    "title": "7 sci-fi novels for people who want NASA, not Star Wars",
-    "description": "Space operas are great, but sometimes you want your sci-fi to be a little more plausible.",
-    "url": "https://www.makeuseof.com/7-sci-fi-novels-nasa-not-star-wars-mars-expanse-contact-project-hail-mary/",
-    "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2026/09/covers-of-leviathan-wakes-the-ministry-for-the-future-and-contact.png?w=1600&h=900&fit=crop",
-    "source": "MakeUseOf",
-    "publishedAt": "2026-09-13T15:30:14Z"
   },
   {
     "id": "95661b8e",
