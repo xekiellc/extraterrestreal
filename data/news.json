@@ -1,5 +1,15 @@
 [
   {
+    "id": "51a027eb",
+    "type": "news",
+    "title": "‘We are not alone:’ Coalition of UFO whistleblowers call on Trump to let them publicly reveal secrets",
+    "description": "UFO whistleblowers David Grusch, Dylan Borland, and Matthew Brown want President Trump to waive their NDAs so they can reveal classified secrets.",
+    "url": "https://nypost.com/2026/09/19/us-news/ufo-whistleblowers-want-ok-from-trump-to-reveal-secrets-to-public/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/2026-visual-aid-support-pursue-141498732.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-09-19T12:24:17Z"
+  },
+  {
     "id": "548a611c",
     "type": "news",
     "title": "US War Department Releases 6th Tranche of Unidentified Aerial Phenomena Files",
@@ -28,16 +38,6 @@
     "image": "https://brobible.com/wp-content/uploads/2026/09/pentagon-ufo-disclosure-rules.jpg",
     "source": "BroBible",
     "publishedAt": "2026-09-15T18:56:05Z"
-  },
-  {
-    "id": "cf423112",
-    "type": "news",
-    "title": "Pentagon creates legal waiver allowing personnel sworn to UFO secrecy to come forward",
-    "description": "The Pentagon is now allowing current and former personnel sworn to secrecy about Unidentified Anomalous Phenomena (UAP) activity to legally share that information with the government.",
-    "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260915-azertac04.htm",
-    "image": "",
-    "source": "Globalsecurity.org",
-    "publishedAt": "2026-09-15T12:00:00Z"
   },
   {
     "id": "dde6e33d",
@@ -70,16 +70,6 @@
     "publishedAt": "2026-09-16T18:12:46Z"
   },
   {
-    "id": "ead6b2db",
-    "type": "news",
-    "title": "Did Chinese government warn people not to respond to aliens and call UN hotline instead?",
-    "description": "The Chinese government issued a nationwide alert telling people not to communicate with aliens and to contact the United Nations if extraterrestrial life reaches out to them.",
-    "url": "https://www.snopes.com//fact-check/china-warning-aliens-un-hotline/",
-    "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/08/china_ufo.png",
-    "source": "Snopes.com",
-    "publishedAt": "2026-09-15T22:16:00Z"
-  },
-  {
     "id": "ae89f570",
     "type": "news",
     "title": "Gottheimer unveils 2 bipartisan AI safety bills - Politico",
@@ -108,6 +98,16 @@
     "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/Collage-Ufo-Invasion-Forest-1784349.jpg",
     "source": "Naturalnews.com",
     "publishedAt": "2026-09-16T06:00:00Z"
+  },
+  {
+    "id": "cf423112",
+    "type": "news",
+    "title": "Pentagon creates legal waiver allowing personnel sworn to UFO secrecy to come forward",
+    "description": "The Pentagon is now allowing current and former personnel sworn to secrecy about Unidentified Anomalous Phenomena (UAP) activity to legally share that information with the government.",
+    "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260915-azertac04.htm",
+    "image": "",
+    "source": "Globalsecurity.org",
+    "publishedAt": "2026-09-15T12:00:00Z"
   },
   {
     "id": "ca0c779c",
