@@ -170,6 +170,16 @@
     "publishedAt": "2026-09-04T06:21:06Z"
   },
   {
+    "id": "d68a6066",
+    "type": "news",
+    "title": "Vulnerability Summary for the Week of September 14, 2026",
+    "description": "High Vulnerabilities PrimaryVendor -- Product Description Published CVSS Score Source Info 03-lovepreetSingh--MCP A vulnerability was identified in 03-lovepreetSingh MCP …",
+    "url": "https://www.cisa.gov/news-events/bulletins/sb26-264",
+    "image": "",
+    "source": "Cisa.gov",
+    "publishedAt": "2026-09-21T11:58:01Z"
+  },
+  {
     "id": "54ad480c",
     "type": "news",
     "title": "Vulnerability Summary for the Week of September 7, 2026",
