@@ -1,5 +1,25 @@
 [
   {
+    "id": "8a39f55e",
+    "type": "news",
+    "title": "In Brief: Dan Farah Hires \"Sopranos\" Writer to Adapt Jay Stratton UFO Memoir for TV",
+    "description": "​Dan Farah, the filmmaker behind The Age of Disclosure documentary that took Washington by storm last year, has made good on his promise to acquire the rights to former UAP Task Force director Jay Stratton’s forthcoming …",
+    "url": "https://www.jasoncolavito.com/blog/in-brief-dan-farah-hires-sopranos-writer-to-adapt-jay-stratton-ufo-memoir-for-tv",
+    "image": "http://www.jasoncolavito.com/uploads/3/7/5/9/3759274/blog-square_orig.jpg",
+    "source": "Jasoncolavito.com",
+    "publishedAt": "2026-09-24T19:39:44Z"
+  },
+  {
+    "id": "e4ad579c",
+    "type": "news",
+    "title": "The Sopranos Writer Making TV Show About US Government’s Real-Life UFO Cover-Ups",
+    "description": "The Sopranos writer is diving into UFO territory next. He’s developing a TV adaptation of a memoir about alleged U.S. government UFO investigations. Terence Winter‘s new project will draw from former intelligence officia…",
+    "url": "https://www.comingsoon.net/tv/news/2196713-the-sopranos-writer-tv-show-us-government-real-life-ufo-cover-ups",
+    "image": "https://www.comingsoon.net/wp-content/uploads/sites/3/2026/09/the-sopranos.jpg?resize=1200,630",
+    "source": "ComingSoon.net",
+    "publishedAt": "2026-09-24T17:27:52Z"
+  },
+  {
     "id": "5822800a",
     "type": "news",
     "title": "Sopranos Writer Terence Winter to Adapt UFO Insider's New Book",
@@ -28,16 +48,6 @@
     "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/pentagon-ufo-files-aaro-uap-4311-original.jpg",
     "source": "Naturalnews.com",
     "publishedAt": "2026-09-23T06:00:00Z"
-  },
-  {
-    "id": "b594bafa",
-    "type": "news",
-    "title": "Pentagon Releases Sixth Batch of UAP Files, Including Secretive Military Program Documents",
-    "description": "The Pentagon on Friday released its sixth batch of files on unidentified anomalous phenomena, or UAP, including dozens of documents detailing a secretive military program that commissioned studies of warp drives, wormhol…",
-    "url": "https://www.naturalnews.com/2026-09-21-pentagon-releases-uap-files-secretive-military-documents.html",
-    "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/pentagon-uap-files-unidentified-anomalous-phenomena-advanced-aerospace-weapon-system-applications-program-4287-original.jpg",
-    "source": "Naturalnews.com",
-    "publishedAt": "2026-09-21T06:00:00Z"
   },
   {
     "id": "90953617",
@@ -98,6 +108,16 @@
     "image": "",
     "source": "Slashdot.org",
     "publishedAt": "2026-09-18T22:32:56Z"
+  },
+  {
+    "id": "b594bafa",
+    "type": "news",
+    "title": "Pentagon Releases Sixth Batch of UAP Files, Including Secretive Military Program Documents",
+    "description": "The Pentagon on Friday released its sixth batch of files on unidentified anomalous phenomena, or UAP, including dozens of documents detailing a secretive military program that commissioned studies of warp drives, wormhol…",
+    "url": "https://www.naturalnews.com/2026-09-21-pentagon-releases-uap-files-secretive-military-documents.html",
+    "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/pentagon-uap-files-unidentified-anomalous-phenomena-advanced-aerospace-weapon-system-applications-program-4287-original.jpg",
+    "source": "Naturalnews.com",
+    "publishedAt": "2026-09-21T06:00:00Z"
   },
   {
     "id": "b7fc2073",
