@@ -1,5 +1,25 @@
 [
   {
+    "id": "5822800a",
+    "type": "news",
+    "title": "Sopranos Writer Terence Winter to Adapt UFO Insider's New Book",
+    "description": "The 'Sopranos' and 'Tulsa King' writer will adapt former U.S. intelligence official Jay Stratton's upcoming memoir into a series.",
+    "url": "http://www.hollywoodreporter.com/tv/tv-news/terence-winter-age-of-disclosure-ufo-1236708412/",
+    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Terence-Winter-Headshot-pc-Brigitte-Lacombe.jpg?crop=0px%2C11px%2C1536px%2C859px&resize=1440%2C810",
+    "source": "Hollywood Reporter",
+    "publishedAt": "2026-09-24T13:00:51Z"
+  },
+  {
+    "id": "50728f36",
+    "type": "news",
+    "title": "Terence Winter, Dan Farah Team to Develop Series Based on UAP Memoir ‘Out of the Shadows’",
+    "description": "Terence Winter and Dan Farah are partnering for a series take on the memoir of former U.S. Intelligence official Jay Stratton titled “Out of the Shadows,” Variety has learned. In the memoir, which will be published by Ha…",
+    "url": "https://variety.com/2026/tv/news/terence-winter-dan-farah-uap-memoir-out-of-the-shadows-1236874218/",
+    "image": "https://variety.com/wp-content/uploads/2026/09/Terence-Winter-UAP-Jay-Stratton.jpg?w=1000&h=563&crop=1",
+    "source": "Variety",
+    "publishedAt": "2026-09-24T13:00:00Z"
+  },
+  {
     "id": "b7304f14",
     "type": "news",
     "title": "Sixth Batch of Declassified UAP Files Features Warp-Drive Research and Unidentified Footage",
@@ -18,26 +38,6 @@
     "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/pentagon-uap-files-unidentified-anomalous-phenomena-advanced-aerospace-weapon-system-applications-program-4287-original.jpg",
     "source": "Naturalnews.com",
     "publishedAt": "2026-09-21T06:00:00Z"
-  },
-  {
-    "id": "51a027eb",
-    "type": "news",
-    "title": "‘We are not alone:’ Coalition of UFO whistleblowers call on Trump to let them publicly reveal secrets",
-    "description": "UFO whistleblowers David Grusch, Dylan Borland, and Matthew Brown want President Trump to waive their NDAs so they can reveal classified secrets.",
-    "url": "https://nypost.com/2026/09/19/us-news/ufo-whistleblowers-want-ok-from-trump-to-reveal-secrets-to-public/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/2026-visual-aid-support-pursue-141498732.jpg?quality=75&strip=all&w=1200",
-    "source": "New York Post",
-    "publishedAt": "2026-09-19T12:24:17Z"
-  },
-  {
-    "id": "548a611c",
-    "type": "news",
-    "title": "US War Department Releases 6th Tranche of Unidentified Aerial Phenomena Files",
-    "description": "WASHINGTON (Sputnik) - The US Department of War on Friday said it released its sixth batch of files disclosing Unidentified Aerial Phenomena (UAP).",
-    "url": "https://sputnikglobe.com/20260918/us-war-department-releases-6th-tranche-of-unidentified-aerial-phenomena-files-1124758820.html",
-    "image": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124758820.jpg?11208501731789745463",
-    "source": "Sputnikglobe.com",
-    "publishedAt": "2026-09-18T15:31:03Z"
   },
   {
     "id": "90953617",
@@ -68,6 +68,16 @@
     "image": "https://i.dailymail.com/1s/2026/09/18/21/111340219-0-image-m-19_1789762811042.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-09-20T15:00:46Z"
+  },
+  {
+    "id": "51a027eb",
+    "type": "news",
+    "title": "‘We are not alone:’ Coalition of UFO whistleblowers call on Trump to let them publicly reveal secrets",
+    "description": "UFO whistleblowers David Grusch, Dylan Borland, and Matthew Brown want President Trump to waive their NDAs so they can reveal classified secrets.",
+    "url": "https://nypost.com/2026/09/19/us-news/ufo-whistleblowers-want-ok-from-trump-to-reveal-secrets-to-public/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/2026-visual-aid-support-pursue-141498732.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-09-19T12:24:17Z"
   },
   {
     "id": "ae89f570",
