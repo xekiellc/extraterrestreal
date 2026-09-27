@@ -60,16 +60,6 @@
     "publishedAt": "2026-08-24T21:34:33Z"
   },
   {
-    "id": "e0f7c80b",
-    "type": "podcast",
-    "title": "250 British Police Officers Break Their Silence on UFO Encounters | Inspector Roy Teague",
-    "description": "police #ukpolice #uap Ryan is joined by active UK police officer Inspector Roy Teague, author of Close Encounters of the Police ...",
-    "url": "https://www.youtube.com/watch?v=Y-YHlotB4iU",
-    "image": "https://i.ytimg.com/vi/Y-YHlotB4iU/hqdefault_live.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-09-26T17:36:32Z"
-  },
-  {
     "id": "e69fb92d",
     "type": "podcast",
     "title": "Richard Dolan | USOs, PURSUE Files &amp; Where UFO Disclosure Goes Next (@RichardMDolan)",
@@ -88,6 +78,16 @@
     "image": "https://i.ytimg.com/vi/fbEIeb-JMRE/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-09-21T14:00:06Z"
+  },
+  {
+    "id": "cd2992d4",
+    "type": "podcast",
+    "title": "UFO News LIVE: Wall Street Journal Under Fire, PURSUE Files, NHI Communication &amp; Pentagon Space War",
+    "description": "LIVE #UFOs #UFOnews Tonight on Somewhere in the Skies LIVE, Ryan and Suzanne break down the latest UFO/ UAP news, ...",
+    "url": "https://www.youtube.com/watch?v=ep8kfHDx75A",
+    "image": "https://i.ytimg.com/vi/ep8kfHDx75A/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-09-20T22:02:16Z"
   },
   {
     "id": "91d2313c",
@@ -168,5 +168,35 @@
     "image": "https://i.ytimg.com/vi/ihVtuX8qML8/hqdefault.jpg",
     "source": "Disclosure Team",
     "publishedAt": "2026-07-22T08:32:11Z"
+  },
+  {
+    "id": "3bb3258e",
+    "type": "podcast",
+    "title": "UFO Experts Come Forward (Full Documentary) - IPN LIVE TOUR",
+    "description": "AREA 52 Shop: https://www.area52.shop Patreon Exclusive Content: https://www.patreon.com/Area52investigations Second ...",
+    "url": "https://www.youtube.com/watch?v=OwksWJifxYk",
+    "image": "https://i.ytimg.com/vi/OwksWJifxYk/hqdefault.jpg",
+    "source": "Area52",
+    "publishedAt": "2026-08-28T16:00:30Z"
+  },
+  {
+    "id": "c7b9d620",
+    "type": "podcast",
+    "title": "&quot;I Was Inside A UFO.&quot; | Area 51 Whistleblower Bob Lazar",
+    "description": "Bob Lazar says that between December 1988 and April 1989 he worked as a senior staff physicist at S4, a facility built into a ...",
+    "url": "https://www.youtube.com/watch?v=PHoU0wxVF9Q",
+    "image": "https://i.ytimg.com/vi/PHoU0wxVF9Q/hqdefault.jpg",
+    "source": "GSP Podcast",
+    "publishedAt": "2026-08-04T16:00:06Z"
+  },
+  {
+    "id": "7b1955c9",
+    "type": "podcast",
+    "title": "UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic",
+    "description": "Is there life beyond Planet Earth? In this UFOs: Investigating the Unknown Mega Episode from National Geographic, explore the ...",
+    "url": "https://www.youtube.com/watch?v=dDxYZyMEmUU",
+    "image": "https://i.ytimg.com/vi/dDxYZyMEmUU/hqdefault.jpg",
+    "source": "National Geographic",
+    "publishedAt": "2026-06-27T13:00:25Z"
   }
 ]
