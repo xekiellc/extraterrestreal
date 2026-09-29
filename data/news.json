@@ -190,6 +190,26 @@
     "publishedAt": "2026-09-04T06:21:06Z"
   },
   {
+    "id": "7d401b97",
+    "type": "news",
+    "title": "Government UFO Whistleblower Claims He Knows ‘For A Fact’ The US Has Recovered Non-Human Craft",
+    "description": "UFO whistleblower Dylan Borland, who testified before Congress in September 2025, claims he knows “for a fact” that the U.S. government has recovered a non-human craft. He also made some unusual speculation about the rea…",
+    "url": "https://brobible.com/culture/article/government-ufo-whistleblower-us-recovered-non-human-craft/",
+    "image": "https://brobible.com/wp-content/uploads/2026/09/UFO-over-trees.jpg",
+    "source": "BroBible",
+    "publishedAt": "2026-09-28T14:24:10Z"
+  },
+  {
+    "id": "968ddc42",
+    "type": "news",
+    "title": "Vulnerability Summary for the Week of September 21, 2026",
+    "description": "High Vulnerabilities PrimaryVendor -- Product Description Published CVSS Score Source Info 101gen--Automation Web Platform Notifications and OTP for WooCommerce, Advanced Country …",
+    "url": "https://www.cisa.gov/news-events/bulletins/sb26-271",
+    "image": "",
+    "source": "Cisa.gov",
+    "publishedAt": "2026-09-28T11:32:46Z"
+  },
+  {
     "id": "d68a6066",
     "type": "news",
     "title": "Vulnerability Summary for the Week of September 14, 2026",
@@ -198,16 +218,6 @@
     "image": "",
     "source": "Cisa.gov",
     "publishedAt": "2026-09-21T11:58:01Z"
-  },
-  {
-    "id": "54ad480c",
-    "type": "news",
-    "title": "Vulnerability Summary for the Week of September 7, 2026",
-    "description": "High Vulnerabilities PrimaryVendor -- Product Description Published CVSS Score Source Info 100plugins--Open User Map Unauthenticated Cross Site Scripting (XSS) in Open Us…",
-    "url": "https://www.cisa.gov/news-events/bulletins/sb26-257",
-    "image": "",
-    "source": "Cisa.gov",
-    "publishedAt": "2026-09-14T12:07:08Z"
   },
   {
     "id": "49a90133",
