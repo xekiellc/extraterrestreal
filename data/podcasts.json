@@ -30,6 +30,16 @@
     "publishedAt": "2026-07-18T21:47:56Z"
   },
   {
+    "id": "10b3d275",
+    "type": "podcast",
+    "title": "Doomer Friday: The crew dissects Dylan Borland&#39;s true feelings of NHI intent - Psicoactivo Live #65",
+    "description": "On a fresh Doomer Friday, the gang discusses the interview Dylan Borland just gave to Sean Hannity. Plus, we also go through ...",
+    "url": "https://www.youtube.com/watch?v=nW14OJWRn3s",
+    "image": "https://i.ytimg.com/vi/nW14OJWRn3s/hqdefault.jpg",
+    "source": "Psicoactivo Podcast",
+    "publishedAt": "2026-09-25T20:51:41Z"
+  },
+  {
     "id": "2ce3dbca",
     "type": "podcast",
     "title": "Shane Smith &amp; Vice Media get into the UFO game with an upcoming docuseries - Psicoactivo Live #59",
@@ -50,14 +60,24 @@
     "publishedAt": "2026-09-05T19:00:06Z"
   },
   {
-    "id": "79da014b",
+    "id": "95964e3b",
     "type": "podcast",
-    "title": "Dissecting Dr. Eric Davis &amp; Matthew Brown&#39;s recent views on UFO Disclosure - Psicoactivo Live #55",
-    "description": "On a pressing Psicoactivo, we dissect Dr. Eric Davis' Interview with Andy, Matthew Brown's interview on the Anomalous Coalition ...",
-    "url": "https://www.youtube.com/watch?v=yVaGc6tK8os",
-    "image": "https://i.ytimg.com/vi/yVaGc6tK8os/hqdefault.jpg",
-    "source": "Psicoactivo Podcast",
-    "publishedAt": "2026-08-24T21:34:33Z"
+    "title": "Richard Dolan: How Disclosure is Playing Out",
+    "description": "Richard Dolan breaks down how UFO disclosure is actually unfolding, where the process may be heading, and why the reality ...",
+    "url": "https://www.youtube.com/watch?v=J0OXbnDUGQQ",
+    "image": "https://i.ytimg.com/vi/J0OXbnDUGQQ/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-09-29T17:00:09Z"
+  },
+  {
+    "id": "1b19d35b",
+    "type": "podcast",
+    "title": "Richard Dolan: Alien AI and The Red Queen Hypothesis",
+    "description": "Richard Dolan explores the provocative connection between AI, alien communication, and the Red Queen from Alice in ...",
+    "url": "https://www.youtube.com/watch?v=hANajyzGuug",
+    "image": "https://i.ytimg.com/vi/hANajyzGuug/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-09-29T15:00:14Z"
   },
   {
     "id": "8a750df0",
@@ -70,26 +90,6 @@
     "publishedAt": "2026-09-29T14:00:16Z"
   },
   {
-    "id": "e69fb92d",
-    "type": "podcast",
-    "title": "Richard Dolan | USOs, PURSUE Files &amp; Where UFO Disclosure Goes Next (@RichardMDolan)",
-    "description": "UFODisclosure #RichardDolan #Aliens Richard Dolan returns for a deep dive into the hidden history of USOs and some of the ...",
-    "url": "https://www.youtube.com/watch?v=41_uBZDbrK8",
-    "image": "https://i.ytimg.com/vi/41_uBZDbrK8/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-09-28T14:00:07Z"
-  },
-  {
-    "id": "64470e5f",
-    "type": "podcast",
-    "title": "4 UFO Encounters That Changed Their Lives | Witness Accounts: Volume 42",
-    "description": "AlienEncounters #Paranormal #HighStrangeness In Witness Accounts: Volume 42, we return to the heart of the podcast: YOU, the ...",
-    "url": "https://www.youtube.com/watch?v=fbEIeb-JMRE",
-    "image": "https://i.ytimg.com/vi/fbEIeb-JMRE/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-09-21T14:00:06Z"
-  },
-  {
     "id": "a4f9c33e",
     "type": "podcast",
     "title": "Dept. of War Releases New UFO Files!",
@@ -100,16 +100,6 @@
     "publishedAt": "2026-09-28T02:58:37Z"
   },
   {
-    "id": "91d2313c",
-    "type": "podcast",
-    "title": "Ep 2358: William Henry: Göbekli Tepe",
-    "description": "Tonight, Thursday on FADE to BLACK: William Henry takes us on an unforgettable journey through Turkey—from Hagia Sophia ...",
-    "url": "https://www.youtube.com/watch?v=dCupDbOO1cg",
-    "image": "https://i.ytimg.com/vi/dCupDbOO1cg/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-09-25T04:08:44Z"
-  },
-  {
     "id": "aaa2779b",
     "type": "podcast",
     "title": "Ep 2357: Whitley Strieber: Transformation 2026",
@@ -118,6 +108,16 @@
     "image": "https://i.ytimg.com/vi/r15vxN_Bykk/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2026-09-24T04:08:08Z"
+  },
+  {
+    "id": "05d2037f",
+    "type": "podcast",
+    "title": "Ep 2347: Tim Swartz: UFOs, Bigfoot... and Ghosts!",
+    "description": "Tonight, Monday on FADE to BLACK: Join us for a fascinating conversation with Tim R. Swartz, Emmy Award–winning television ...",
+    "url": "https://www.youtube.com/watch?v=JHopw77aUVg",
+    "image": "https://i.ytimg.com/vi/JHopw77aUVg/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-09-01T04:20:32Z"
   },
   {
     "id": "2bd4f1c3",
