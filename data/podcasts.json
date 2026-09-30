@@ -60,16 +60,6 @@
     "publishedAt": "2026-09-05T19:00:06Z"
   },
   {
-    "id": "95964e3b",
-    "type": "podcast",
-    "title": "Richard Dolan: How Disclosure is Playing Out",
-    "description": "Richard Dolan breaks down how UFO disclosure is actually unfolding, where the process may be heading, and why the reality ...",
-    "url": "https://www.youtube.com/watch?v=J0OXbnDUGQQ",
-    "image": "https://i.ytimg.com/vi/J0OXbnDUGQQ/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-09-29T17:00:09Z"
-  },
-  {
     "id": "1b19d35b",
     "type": "podcast",
     "title": "Richard Dolan: Alien AI and The Red Queen Hypothesis",
@@ -90,6 +80,16 @@
     "publishedAt": "2026-09-29T14:00:16Z"
   },
   {
+    "id": "e69fb92d",
+    "type": "podcast",
+    "title": "Richard Dolan | USOs, PURSUE Files &amp; Where UFO Disclosure Goes Next (@RichardMDolan)",
+    "description": "UFODisclosure #RichardDolan #Aliens Richard Dolan returns for a deep dive into the hidden history of USOs and some of the ...",
+    "url": "https://www.youtube.com/watch?v=41_uBZDbrK8",
+    "image": "https://i.ytimg.com/vi/41_uBZDbrK8/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-09-28T14:00:07Z"
+  },
+  {
     "id": "a4f9c33e",
     "type": "podcast",
     "title": "Dept. of War Releases New UFO Files!",
@@ -100,6 +100,16 @@
     "publishedAt": "2026-09-28T02:58:37Z"
   },
   {
+    "id": "91d2313c",
+    "type": "podcast",
+    "title": "Ep 2358: William Henry: Göbekli Tepe",
+    "description": "Tonight, Thursday on FADE to BLACK: William Henry takes us on an unforgettable journey through Turkey—from Hagia Sophia ...",
+    "url": "https://www.youtube.com/watch?v=dCupDbOO1cg",
+    "image": "https://i.ytimg.com/vi/dCupDbOO1cg/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-09-25T04:08:44Z"
+  },
+  {
     "id": "aaa2779b",
     "type": "podcast",
     "title": "Ep 2357: Whitley Strieber: Transformation 2026",
@@ -108,16 +118,6 @@
     "image": "https://i.ytimg.com/vi/r15vxN_Bykk/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2026-09-24T04:08:08Z"
-  },
-  {
-    "id": "05d2037f",
-    "type": "podcast",
-    "title": "Ep 2347: Tim Swartz: UFOs, Bigfoot... and Ghosts!",
-    "description": "Tonight, Monday on FADE to BLACK: Join us for a fascinating conversation with Tim R. Swartz, Emmy Award–winning television ...",
-    "url": "https://www.youtube.com/watch?v=JHopw77aUVg",
-    "image": "https://i.ytimg.com/vi/JHopw77aUVg/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-09-01T04:20:32Z"
   },
   {
     "id": "2bd4f1c3",
@@ -160,14 +160,14 @@
     "publishedAt": "2026-07-24T20:19:28Z"
   },
   {
-    "id": "b1db30fd",
+    "id": "47806f57",
     "type": "podcast",
-    "title": "NIght Shift x Disclosure Team - Clint Weldon",
-    "description": "I'm joined by Clint Weldon, host of the Night Shift podcast, for a relaxed conversation covering all things UFOs and UAP.",
-    "url": "https://www.youtube.com/watch?v=ihVtuX8qML8",
-    "image": "https://i.ytimg.com/vi/ihVtuX8qML8/hqdefault.jpg",
-    "source": "Disclosure Team",
-    "publishedAt": "2026-07-22T08:32:11Z"
+    "title": "Contact Confidential - Vinnie Adams",
+    "description": "Vinnie Adams from Youtube's Disclosure Team joins contact confidential to share a personal encounter and his perspectives on ...",
+    "url": "https://www.youtube.com/watch?v=SynMIjXALYc",
+    "image": "https://i.ytimg.com/vi/SynMIjXALYc/hqdefault.jpg",
+    "source": "TOOWi Arts",
+    "publishedAt": "2026-06-23T20:42:25Z"
   },
   {
     "id": "3bb3258e",
