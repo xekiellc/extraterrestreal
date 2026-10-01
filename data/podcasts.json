@@ -90,16 +90,6 @@
     "publishedAt": "2026-09-28T14:00:07Z"
   },
   {
-    "id": "a4f9c33e",
-    "type": "podcast",
-    "title": "Dept. of War Releases New UFO Files!",
-    "description": "On Sept. 8th, 2026, the Dept. of War released the Tranche 6 UFO/UAP Files... The documents and videos included the 1952 ...",
-    "url": "https://www.youtube.com/watch?v=thNBKwZCui0",
-    "image": "https://i.ytimg.com/vi/thNBKwZCui0/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-09-28T02:58:37Z"
-  },
-  {
     "id": "91d2313c",
     "type": "podcast",
     "title": "Ep 2358: William Henry: Göbekli Tepe",
@@ -118,6 +108,16 @@
     "image": "https://i.ytimg.com/vi/r15vxN_Bykk/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2026-09-24T04:08:08Z"
+  },
+  {
+    "id": "51c79589",
+    "type": "podcast",
+    "title": "Ep 2355: Patricia Cori: CERN &amp; Shifting Realities",
+    "description": "Tonight, Monday on FADE to BLACK: Patricia Cori joins us for a deep dive into UFOs, entities, ancient wisdom, transhumanism, ...",
+    "url": "https://www.youtube.com/watch?v=7UTMo_iJB0s",
+    "image": "https://i.ytimg.com/vi/7UTMo_iJB0s/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-09-22T04:19:42Z"
   },
   {
     "id": "2bd4f1c3",
