@@ -100,16 +100,6 @@
     "publishedAt": "2026-09-25T04:08:44Z"
   },
   {
-    "id": "aaa2779b",
-    "type": "podcast",
-    "title": "Ep 2357: Whitley Strieber: Transformation 2026",
-    "description": "Tonight, Wednesday on FADE to BLACK: Whitley Strieber discusses his new book, Transformation 2026, revisiting his ...",
-    "url": "https://www.youtube.com/watch?v=r15vxN_Bykk",
-    "image": "https://i.ytimg.com/vi/r15vxN_Bykk/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-09-24T04:08:08Z"
-  },
-  {
     "id": "51c79589",
     "type": "podcast",
     "title": "Ep 2355: Patricia Cori: CERN &amp; Shifting Realities",
@@ -118,6 +108,16 @@
     "image": "https://i.ytimg.com/vi/7UTMo_iJB0s/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2026-09-22T04:19:42Z"
+  },
+  {
+    "id": "61fff18d",
+    "type": "podcast",
+    "title": "Ep 2354: Richard Syrett: R&amp;R Twilight Zone",
+    "description": "Tonight, Wednesday on FADE to BLACK: Richard Syrett's new book, Tales From The Rock & Roll Twilight Zone: Eerie Enigmas ...",
+    "url": "https://www.youtube.com/watch?v=Utr33dguE-Q",
+    "image": "https://i.ytimg.com/vi/Utr33dguE-Q/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-09-17T04:08:48Z"
   },
   {
     "id": "2bd4f1c3",

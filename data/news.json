@@ -148,5 +148,95 @@
     "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/Collage-Ufo-Invasion-Forest-1784349.jpg",
     "source": "Naturalnews.com",
     "publishedAt": "2026-09-16T06:00:00Z"
+  },
+  {
+    "id": "cea87ceb",
+    "type": "news",
+    "title": "Pentagon Makes Major Change To UFO Disclosure Rules For Military, Government Employees",
+    "description": "The Pentagon has made it easier for military personnel and government employees to disclose information about their UFO encounters. On Monday, the Department of War announced it will grant a legal waiver allowing civilia…",
+    "url": "https://brobible.com/culture/article/pentagon-ufo-disclosure-rules-military-government-employees/",
+    "image": "https://brobible.com/wp-content/uploads/2026/09/pentagon-ufo-disclosure-rules.jpg",
+    "source": "BroBible",
+    "publishedAt": "2026-09-15T18:56:05Z"
+  },
+  {
+    "id": "cf423112",
+    "type": "news",
+    "title": "Pentagon creates legal waiver allowing personnel sworn to UFO secrecy to come forward",
+    "description": "The Pentagon is now allowing current and former personnel sworn to secrecy about Unidentified Anomalous Phenomena (UAP) activity to legally share that information with the government.",
+    "url": "https://www.globalsecurity.org/military/library/news/2026/09/mil-260915-azertac04.htm",
+    "image": "",
+    "source": "Globalsecurity.org",
+    "publishedAt": "2026-09-15T12:00:00Z"
+  },
+  {
+    "id": "26ce8892",
+    "type": "news",
+    "title": "Pentagon Releases 6th Batch Of UFO Files, Including New Details About Infamous 1952 UFO Sighting In Utah",
+    "description": "The Pentagon released a sixth batch of UFO files on Friday. The documents include a 2008 expense report detailing a nearly $22 million federal inquiry into unexplained aerial phenomena, along with film of UFOs appearing …",
+    "url": "https://brobible.com/sports/article/pentagon-6th-ufo-files-1952-ufo-sighting-utah/",
+    "image": "https://brobible.com/wp-content/uploads/2026/09/1952-pentagon-ufo-utah.jpg",
+    "source": "BroBible",
+    "publishedAt": "2026-09-18T15:44:30Z"
+  },
+  {
+    "id": "0891e455",
+    "type": "news",
+    "title": "What Fascination With UFOs Reveals About Conspiratorial Thinking in America",
+    "description": "A detective story is supposed to end with the mystery being solved: Sherlock Holmes or Hercule Poirot is always able to follow the clues and figure out what really happened. This is impossible with a UFO mystery, because…",
+    "url": "https://lithub.com/what-fascination-with-ufos-reveals-about-conspiratorial-thinking-in-america/",
+    "image": "https://s26162.pcdn.co/wp-content/uploads/2026/09/ufo-1502376302Ykd-1.jpg",
+    "source": "Lithub.com",
+    "publishedAt": "2026-09-16T09:09:02Z"
+  },
+  {
+    "id": "9b24ed1e",
+    "type": "news",
+    "title": "Skeptoid #1057: The 1973 Mansfield UFO Encounter",
+    "description": "Four men in an Air National Guard helicopter had a terrifying UFO encounter in the skies above Ohio. Learn about your ad choices: dovetail.prx.org/ad-choices",
+    "url": "https://skeptoid.com/episodes/1057",
+    "image": "https://skeptoid.com/eps1200x744/ep1057.jpg",
+    "source": "Skeptoid.com",
+    "publishedAt": "2026-09-08T09:00:00Z"
+  },
+  {
+    "id": "a81dda27",
+    "type": "news",
+    "title": "Dr. Phil says ‘the government has lied straight to our face,’ blasts Pentagon for allegedly ignoring legitimate UFO reports from the public",
+    "description": "Dr. Phil blasted the Pentagon for ignoring over 1,800 credible public UFO reports, accusing the government of deceiving the American people.",
+    "url": "https://nypost.com/2026/09/04/us-news/dr-phil-blasts-pentagon-for-ignoring-legitimate-ufo-reports-from-the-public/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/COMP-UFO.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-09-04T06:21:06Z"
+  },
+  {
+    "id": "fc0ee02d",
+    "type": "news",
+    "title": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
+    "description": "Cloudflare introduces an adaptive security framework connecting risk discovery, agent governance, runtime protection, and AI-powered response in a continuous learning loop.",
+    "url": "https://blog.cloudflare.com/ai-era-framework/",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3N4TQ58B13HXY8E4041MCTX.01M3N4TQVB54R9DEXGXWYE36B8.png",
+    "source": "Cloudflare.com",
+    "publishedAt": "2026-09-29T13:00:00Z"
+  },
+  {
+    "id": "7d401b97",
+    "type": "news",
+    "title": "Government UFO Whistleblower Claims He Knows ‘For A Fact’ The US Has Recovered Non-Human Craft",
+    "description": "UFO whistleblower Dylan Borland, who testified before Congress in September 2025, claims he knows “for a fact” that the U.S. government has recovered a non-human craft. He also made some unusual speculation about the rea…",
+    "url": "https://brobible.com/culture/article/government-ufo-whistleblower-us-recovered-non-human-craft/",
+    "image": "https://brobible.com/wp-content/uploads/2026/09/UFO-over-trees.jpg",
+    "source": "BroBible",
+    "publishedAt": "2026-09-28T14:24:10Z"
+  },
+  {
+    "id": "968ddc42",
+    "type": "news",
+    "title": "Vulnerability Summary for the Week of September 21, 2026",
+    "description": "High Vulnerabilities PrimaryVendor -- Product Description Published CVSS Score Source Info 101gen--Automation Web Platform Notifications and OTP for WooCommerce, Advanced Country …",
+    "url": "https://www.cisa.gov/news-events/bulletins/sb26-271",
+    "image": "",
+    "source": "Cisa.gov",
+    "publishedAt": "2026-09-28T11:32:46Z"
   }
 ]
