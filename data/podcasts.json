@@ -60,16 +60,6 @@
     "publishedAt": "2026-09-05T19:00:06Z"
   },
   {
-    "id": "1b19d35b",
-    "type": "podcast",
-    "title": "Richard Dolan: Alien AI and The Red Queen Hypothesis",
-    "description": "Richard Dolan explores the provocative connection between AI, alien communication, and the Red Queen from Alice in ...",
-    "url": "https://www.youtube.com/watch?v=hANajyzGuug",
-    "image": "https://i.ytimg.com/vi/hANajyzGuug/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-09-29T15:00:14Z"
-  },
-  {
     "id": "8a750df0",
     "type": "podcast",
     "title": "Richard Dolan: Was the Wall Street Journal UFO Story a Psyop?",
@@ -88,6 +78,16 @@
     "image": "https://i.ytimg.com/vi/41_uBZDbrK8/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-09-28T14:00:07Z"
+  },
+  {
+    "id": "64470e5f",
+    "type": "podcast",
+    "title": "4 UFO Encounters That Changed Their Lives | Witness Accounts: Volume 42",
+    "description": "AlienEncounters #Paranormal #HighStrangeness In Witness Accounts: Volume 42, we return to the heart of the podcast: YOU, the ...",
+    "url": "https://www.youtube.com/watch?v=fbEIeb-JMRE",
+    "image": "https://i.ytimg.com/vi/fbEIeb-JMRE/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-09-21T14:00:06Z"
   },
   {
     "id": "91d2313c",
