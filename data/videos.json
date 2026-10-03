@@ -60,6 +60,16 @@
     "publishedAt": "2026-09-30T11:00:06Z"
   },
   {
+    "id": "d3690f78",
+    "type": "video",
+    "title": "16 Alien Bodies Crashed HERE… And We Just Found PROOF",
+    "description": "Our American Alchemists this week are Scott and Suzanne Ramsey, the husband-and-wife research team who have spent ...",
+    "url": "https://www.youtube.com/watch?v=OZ_oCpKYQJ0",
+    "image": "https://i.ytimg.com/vi/OZ_oCpKYQJ0/hqdefault.jpg",
+    "source": "Jesse Michels",
+    "publishedAt": "2026-09-29T20:00:05Z"
+  },
+  {
     "id": "cbe86ac2",
     "type": "video",
     "title": "464 Years Apart: Two &#39;Conflicts in the Sky&#39;",
@@ -78,16 +88,6 @@
     "image": "https://i.ytimg.com/vi/BSXdnsyCqxw/hqdefault.jpg",
     "source": "Jesse Michels",
     "publishedAt": "2026-09-19T18:06:07Z"
-  },
-  {
-    "id": "f4a7fda1",
-    "type": "video",
-    "title": "“I Met The Head Of The Entire UFO Program!” - Grant Cameron",
-    "description": "Our American Alchemist this week is Grant Cameron, a Canadian UFO researcher, author, and longtime investigator of ...",
-    "url": "https://www.youtube.com/watch?v=fpUa3xJN64Q",
-    "image": "https://i.ytimg.com/vi/fpUa3xJN64Q/hqdefault.jpg",
-    "source": "Jesse Michels",
-    "publishedAt": "2026-09-15T17:56:35Z"
   },
   {
     "id": "b7256379",
@@ -118,6 +118,36 @@
     "image": "https://i.ytimg.com/vi/4j-j94g1BkQ/hqdefault.jpg",
     "source": "Richard Dolan Intelligent Disclosure ",
     "publishedAt": "2026-09-21T17:41:09Z"
+  },
+  {
+    "id": "8f8069ea",
+    "type": "video",
+    "title": "They Don&#39;t Want You To Watch This!  Beyond Top Secret: The Era of Disclosure",
+    "description": "Dr. Greer and Blake Cousins discuss the new bombshell documentary - Beyond Top Secret: The Era of Disclosure. Available now ...",
+    "url": "https://www.youtube.com/watch?v=3kJ7OMv5baM",
+    "image": "https://i.ytimg.com/vi/3kJ7OMv5baM/hqdefault.jpg",
+    "source": "Dr. Steven Greer",
+    "publishedAt": "2026-10-02T01:47:28Z"
+  },
+  {
+    "id": "f3f36af9",
+    "type": "video",
+    "title": "11. DR  STEVEN GREER PODCASTİ,   21.  BÖLÜM",
+    "description": "Bu bölümde Dr. Greer, Spielberg'in *Disclosure Day* filminden önemli noktaları ve ayrıca Temmuz ayında gerçekleştireceği CE5 ...",
+    "url": "https://www.youtube.com/watch?v=_SWmt8TxA2E",
+    "image": "https://i.ytimg.com/vi/_SWmt8TxA2E/hqdefault.jpg",
+    "source": "Anadolu Uyanıyor",
+    "publishedAt": "2026-10-01T19:13:33Z"
+  },
+  {
+    "id": "cb9dab66",
+    "type": "video",
+    "title": "10. DR  STEVEN GREER PODCASTİ,   22.  BÖLÜM",
+    "description": "Bu bölümde Dr. Greer, inanç sistemlerinin UAP/NHI konusundaki bir anlatıyı nasıl etkileyip yönlendirebileceğini değerlendiriyor.",
+    "url": "https://www.youtube.com/watch?v=7wSnE54BzXc",
+    "image": "https://i.ytimg.com/vi/7wSnE54BzXc/hqdefault.jpg",
+    "source": "Anadolu Uyanıyor",
+    "publishedAt": "2026-10-01T18:54:09Z"
   },
   {
     "id": "85421256",
@@ -178,5 +208,35 @@
     "image": "https://i.ytimg.com/vi/NkmEM_CfYM4/hqdefault.jpg",
     "source": "#Attikusspeaks #Truth ",
     "publishedAt": "2025-10-31T00:00:06Z"
+  },
+  {
+    "id": "6a06ccf7",
+    "type": "video",
+    "title": "CONGRESS CAUGHT IN MASSIVE UFO FLIP",
+    "description": "Cristina Gomez reviews the latest UFO / UAP news and covers Anna Paulina Luna's surprising public endorsement of AARO ...",
+    "url": "https://www.youtube.com/watch?v=7Jc9q9u6SBQ",
+    "image": "https://i.ytimg.com/vi/7Jc9q9u6SBQ/hqdefault.jpg",
+    "source": "Cristina Gomez",
+    "publishedAt": "2026-05-16T21:29:36Z"
+  },
+  {
+    "id": "78b6ecc5",
+    "type": "video",
+    "title": "UFOs - They Lost Time",
+    "description": "A Weekly Livestream Show with a focus on recounting cases and stories of the Strange and Unexplained, Mysterious Events, ...",
+    "url": "https://www.youtube.com/watch?v=A63HsIEHCpI",
+    "image": "https://i.ytimg.com/vi/A63HsIEHCpI/hqdefault.jpg",
+    "source": "Cristina Gomez",
+    "publishedAt": "2023-08-15T22:35:51Z"
+  },
+  {
+    "id": "ff24fe1c",
+    "type": "video",
+    "title": "JFree906 Podcast - Cristina Gomez joins us live for The Secret of Skinwalker Ranch S4 Ep 6 Recap",
+    "description": "Tonight Seth and I are joined by podcaster Cristina Gomez from Shifting the Paradigm to discuss The Secret of Skinwalker Ranch ...",
+    "url": "https://www.youtube.com/watch?v=n-FkWV4n8vo",
+    "image": "https://i.ytimg.com/vi/n-FkWV4n8vo/hqdefault.jpg",
+    "source": "JFree906 - The Freeman Files",
+    "publishedAt": "2023-05-27T13:36:33Z"
   }
 ]
