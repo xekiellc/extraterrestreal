@@ -220,6 +220,16 @@
     "publishedAt": "2026-09-04T06:21:06Z"
   },
   {
+    "id": "42c0f2a6",
+    "type": "news",
+    "title": "UFO whistleblower David Grusch makes wild alien claims on Joe Rogan podcast: ‘Greek gods’ and ‘gorilla lizards’",
+    "description": "On Joe Rogan's podcast, UFO whistleblower David Grusch claimed multiple alien species exist on Earth, including 7-foot-tall reptilian beings.",
+    "url": "https://nypost.com/2026/10/03/us-news/ufo-whistleblower-david-grusch-talks-aliens-on-joe-rogan-podcast/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/original-sleestak-costumes-land-lost-143498607.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-10-03T15:40:02Z"
+  },
+  {
     "id": "fc0ee02d",
     "type": "news",
     "title": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
@@ -238,15 +248,5 @@
     "image": "https://brobible.com/wp-content/uploads/2026/09/UFO-over-trees.jpg",
     "source": "BroBible",
     "publishedAt": "2026-09-28T14:24:10Z"
-  },
-  {
-    "id": "968ddc42",
-    "type": "news",
-    "title": "Vulnerability Summary for the Week of September 21, 2026",
-    "description": "High Vulnerabilities PrimaryVendor -- Product Description Published CVSS Score Source Info 101gen--Automation Web Platform Notifications and OTP for WooCommerce, Advanced Country …",
-    "url": "https://www.cisa.gov/news-events/bulletins/sb26-271",
-    "image": "",
-    "source": "Cisa.gov",
-    "publishedAt": "2026-09-28T11:32:46Z"
   }
 ]
