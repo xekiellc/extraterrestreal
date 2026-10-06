@@ -30,6 +30,16 @@
     "publishedAt": "2026-07-18T21:47:56Z"
   },
   {
+    "id": "0d5c17bf",
+    "type": "podcast",
+    "title": "Jake Barber joins David Grusch with his most outlandish claims to this day - Psicoactivo Live #68",
+    "description": "In a fresh Psicoactivo Live, we have the Monday show with Andy McGrillen to discuss David Grusch's statements in detail and ...",
+    "url": "https://www.youtube.com/watch?v=lLXYK8nVN4s",
+    "image": "https://i.ytimg.com/vi/lLXYK8nVN4s/hqdefault.jpg",
+    "source": "Psicoactivo Podcast",
+    "publishedAt": "2026-10-05T21:18:44Z"
+  },
+  {
     "id": "10b3d275",
     "type": "podcast",
     "title": "Doomer Friday: The crew dissects Dylan Borland&#39;s true feelings of NHI intent - Psicoactivo Live #65",
@@ -48,16 +58,6 @@
     "image": "https://i.ytimg.com/vi/upLKvPLvmL4/hqdefault.jpg",
     "source": "Psicoactivo Podcast",
     "publishedAt": "2026-09-07T21:38:59Z"
-  },
-  {
-    "id": "8a31b76f",
-    "type": "podcast",
-    "title": "Diana Pasulka: UFOs, The Antichrist, AI &amp; Life After Death",
-    "description": "Dr Diana Pasulka returns for a huge two-hour conversation about UFOs, AI, religion, death, the Vatican and her new book, The ...",
-    "url": "https://www.youtube.com/watch?v=DkKlWcYvMo4",
-    "image": "https://i.ytimg.com/vi/DkKlWcYvMo4/hqdefault.jpg",
-    "source": "That UFO Podcast",
-    "publishedAt": "2026-09-05T19:00:06Z"
   },
   {
     "id": "d9a5eb4b",
@@ -138,35 +138,5 @@
     "image": "https://i.ytimg.com/vi/p-UVj6mWLWw/hqdefault.jpg",
     "source": "Down The Rabbit Hole",
     "publishedAt": "2022-07-08T11:45:07Z"
-  },
-  {
-    "id": "7b1955c9",
-    "type": "podcast",
-    "title": "UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic",
-    "description": "Is there life beyond Planet Earth? In this UFOs: Investigating the Unknown Mega Episode from National Geographic, explore the ...",
-    "url": "https://www.youtube.com/watch?v=dDxYZyMEmUU",
-    "image": "https://i.ytimg.com/vi/dDxYZyMEmUU/hqdefault.jpg",
-    "source": "National Geographic",
-    "publishedAt": "2026-06-27T13:00:25Z"
-  },
-  {
-    "id": "46b80a76",
-    "type": "podcast",
-    "title": "The Age of Disclosure: Who Actually Controls the UAP Secrets? | w/ Dan Farah | SSHQ",
-    "description": "Who actually controls the biggest secret in modern history? For decades, UFOs were treated as conspiracy theories, fringe ...",
-    "url": "https://www.youtube.com/watch?v=MWM5AtR3n9o",
-    "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
-    "source": "VICE News",
-    "publishedAt": "2026-06-18T18:46:34Z"
-  },
-  {
-    "id": "3e1a11d7",
-    "type": "podcast",
-    "title": "Is THIS the Creepiest UFO Story Yet?",
-    "description": "His wife searched the entire house and he was nowhere to be found. Minutes later he was suddenly back in bed, while phone ...",
-    "url": "https://www.youtube.com/watch?v=w_9Kdj2R-78",
-    "image": "https://i.ytimg.com/vi/w_9Kdj2R-78/hqdefault.jpg",
-    "source": "Jillian Michaels",
-    "publishedAt": "2026-05-19T19:00:16Z"
   }
 ]
