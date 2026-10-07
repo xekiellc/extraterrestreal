@@ -210,6 +210,16 @@
     "publishedAt": "2026-09-08T09:00:00Z"
   },
   {
+    "id": "188b1018",
+    "type": "news",
+    "title": "Nolan’s The Odyssey: Kill the Gods, Save the Myth",
+    "description": "A film that keeps its gods almost entirely offstage, and treats its monsters as, quite possibly, the fever dreams of a traumatized soldier, has no business being called a faithful Odyssey. And yet British-American filmma…",
+    "url": "https://www.fairobserver.com/culture/nolans-the-odyssey-kill-the-gods-save-the-myth/",
+    "image": "https://www.fairobserver.com/wp-content/uploads/2026/10/The-Odyssey.jpg",
+    "source": "Fair Observer",
+    "publishedAt": "2026-10-06T13:22:18Z"
+  },
+  {
     "id": "42c0f2a6",
     "type": "news",
     "title": "UFO whistleblower David Grusch makes wild alien claims on Joe Rogan podcast: ‘Greek gods’ and ‘gorilla lizards’",
@@ -228,15 +238,5 @@
     "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3N4TQ58B13HXY8E4041MCTX.01M3N4TQVB54R9DEXGXWYE36B8.png",
     "source": "Cloudflare.com",
     "publishedAt": "2026-09-29T13:00:00Z"
-  },
-  {
-    "id": "7d401b97",
-    "type": "news",
-    "title": "Government UFO Whistleblower Claims He Knows ‘For A Fact’ The US Has Recovered Non-Human Craft",
-    "description": "UFO whistleblower Dylan Borland, who testified before Congress in September 2025, claims he knows “for a fact” that the U.S. government has recovered a non-human craft. He also made some unusual speculation about the rea…",
-    "url": "https://brobible.com/culture/article/government-ufo-whistleblower-us-recovered-non-human-craft/",
-    "image": "https://brobible.com/wp-content/uploads/2026/09/UFO-over-trees.jpg",
-    "source": "BroBible",
-    "publishedAt": "2026-09-28T14:24:10Z"
   }
 ]
