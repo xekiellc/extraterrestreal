@@ -60,6 +60,16 @@
     "publishedAt": "2026-09-07T21:38:59Z"
   },
   {
+    "id": "e0f7c80b",
+    "type": "podcast",
+    "title": "250 British Police Officers Break Their Silence on UFO Encounters | Inspector Roy Teague",
+    "description": "police #ukpolice #uap Ryan is joined by active UK police officer Inspector Roy Teague, author of Close Encounters of the Police ...",
+    "url": "https://www.youtube.com/watch?v=Y-YHlotB4iU",
+    "image": "https://i.ytimg.com/vi/Y-YHlotB4iU/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-10-05T14:00:09Z"
+  },
+  {
     "id": "17f68264",
     "type": "podcast",
     "title": "The Shag Harbour UFO Incident: Canada’s Most Mysterious UFO Crash (SITS CLASSIC)",
@@ -78,16 +88,6 @@
     "image": "https://i.ytimg.com/vi/hANajyzGuug/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-09-29T15:00:14Z"
-  },
-  {
-    "id": "8a750df0",
-    "type": "podcast",
-    "title": "Richard Dolan: Was the Wall Street Journal UFO Story a Psyop?",
-    "description": "Richard Dolan breaks down why he believes the Wall Street Journal's UFO story may be part of something much bigger—and why ...",
-    "url": "https://www.youtube.com/watch?v=Dr09bhsF9_E",
-    "image": "https://i.ytimg.com/vi/Dr09bhsF9_E/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-09-29T14:00:16Z"
   },
   {
     "id": "a4f9c33e",
@@ -118,16 +118,6 @@
     "image": "https://i.ytimg.com/vi/r15vxN_Bykk/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2026-09-24T04:08:08Z"
-  },
-  {
-    "id": "bd562728",
-    "type": "podcast",
-    "title": "Alien Encounters With The Real Life X-Files Agent - Nick Pope - DEBRIEFED ep. 34",
-    "description": "Subscribe to Artlist (get 2 Months For Free): https://bit.ly/Area52Artlist NEW MERCH! : https://www.area52.shop Patreon Exclusive ...",
-    "url": "https://www.youtube.com/watch?v=B6WFLOIkyho",
-    "image": "https://i.ytimg.com/vi/B6WFLOIkyho/hqdefault.jpg",
-    "source": "Area52",
-    "publishedAt": "2025-04-18T16:00:12Z"
   },
   {
     "id": "2bd4f1c3",
@@ -198,5 +188,15 @@
     "image": "https://i.ytimg.com/vi/PHoU0wxVF9Q/hqdefault.jpg",
     "source": "GSP Podcast",
     "publishedAt": "2026-08-04T16:00:06Z"
+  },
+  {
+    "id": "7b1955c9",
+    "type": "podcast",
+    "title": "UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic",
+    "description": "Is there life beyond Planet Earth? In this UFOs: Investigating the Unknown Mega Episode from National Geographic, explore the ...",
+    "url": "https://www.youtube.com/watch?v=dDxYZyMEmUU",
+    "image": "https://i.ytimg.com/vi/dDxYZyMEmUU/hqdefault.jpg",
+    "source": "National Geographic",
+    "publishedAt": "2026-06-27T13:00:25Z"
   }
 ]
