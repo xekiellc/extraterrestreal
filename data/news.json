@@ -148,5 +148,85 @@
     "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/pentagon-uap-files-unidentified-anomalous-phenomena-advanced-aerospace-weapon-system-applications-program-4287-original.jpg",
     "source": "Naturalnews.com",
     "publishedAt": "2026-09-21T06:00:00Z"
+  },
+  {
+    "id": "931be372",
+    "type": "news",
+    "title": "Pentagon Video of 6 Mysterious Spheres Moving at 480 MPH Sparks Bigger Questions",
+    "description": "A mission report records an estimated speed near 480 mph while investigators flag key details remain redacted.",
+    "url": "https://military.com/pentagon-releases-video-of-6-mysterious-spheres-moving-at-480-mph-sparks-bigger-questions",
+    "image": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/dow-uap-pr135-unresolved-uap-report-middle-east-2025.jpg?w=1600&h=900&fit=crop",
+    "source": "Military.com",
+    "publishedAt": "2026-10-03T09:00:14Z"
+  },
+  {
+    "id": "b7fc2073",
+    "type": "news",
+    "title": "UFOs and nuclear sites: Decades of mysterious encounters raise national security concerns",
+    "description": "Over 2,800 UFO sightings have been documented near 90 U.S. nuclear facilities in the past 80 years, with objects displaying impossible flight characteristics (e.g., morphing shapes, instant acceleration). Military person…",
+    "url": "https://www.naturalnews.com/2026-09-16-mysterious-ufo-encounters-raise-national-security-concerns.html",
+    "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/Collage-Ufo-Invasion-Forest-1784349.jpg",
+    "source": "Naturalnews.com",
+    "publishedAt": "2026-09-16T06:00:00Z"
+  },
+  {
+    "id": "cea87ceb",
+    "type": "news",
+    "title": "Pentagon Makes Major Change To UFO Disclosure Rules For Military, Government Employees",
+    "description": "The Pentagon has made it easier for military personnel and government employees to disclose information about their UFO encounters. On Monday, the Department of War announced it will grant a legal waiver allowing civilia…",
+    "url": "https://brobible.com/culture/article/pentagon-ufo-disclosure-rules-military-government-employees/",
+    "image": "https://brobible.com/wp-content/uploads/2026/09/pentagon-ufo-disclosure-rules.jpg",
+    "source": "BroBible",
+    "publishedAt": "2026-09-15T18:56:05Z"
+  },
+  {
+    "id": "26ce8892",
+    "type": "news",
+    "title": "Pentagon Releases 6th Batch Of UFO Files, Including New Details About Infamous 1952 UFO Sighting In Utah",
+    "description": "The Pentagon released a sixth batch of UFO files on Friday. The documents include a 2008 expense report detailing a nearly $22 million federal inquiry into unexplained aerial phenomena, along with film of UFOs appearing …",
+    "url": "https://brobible.com/sports/article/pentagon-6th-ufo-files-1952-ufo-sighting-utah/",
+    "image": "https://brobible.com/wp-content/uploads/2026/09/1952-pentagon-ufo-utah.jpg",
+    "source": "BroBible",
+    "publishedAt": "2026-09-18T15:44:30Z"
+  },
+  {
+    "id": "0891e455",
+    "type": "news",
+    "title": "What Fascination With UFOs Reveals About Conspiratorial Thinking in America",
+    "description": "A detective story is supposed to end with the mystery being solved: Sherlock Holmes or Hercule Poirot is always able to follow the clues and figure out what really happened. This is impossible with a UFO mystery, because…",
+    "url": "https://lithub.com/what-fascination-with-ufos-reveals-about-conspiratorial-thinking-in-america/",
+    "image": "https://s26162.pcdn.co/wp-content/uploads/2026/09/ufo-1502376302Ykd-1.jpg",
+    "source": "Lithub.com",
+    "publishedAt": "2026-09-16T09:09:02Z"
+  },
+  {
+    "id": "188b1018",
+    "type": "news",
+    "title": "Nolan’s The Odyssey: Kill the Gods, Save the Myth",
+    "description": "A film that keeps its gods almost entirely offstage, and treats its monsters as, quite possibly, the fever dreams of a traumatized soldier, has no business being called a faithful Odyssey. And yet British-American filmma…",
+    "url": "https://www.fairobserver.com/culture/nolans-the-odyssey-kill-the-gods-save-the-myth/",
+    "image": "https://www.fairobserver.com/wp-content/uploads/2026/10/The-Odyssey.jpg",
+    "source": "Fair Observer",
+    "publishedAt": "2026-10-06T13:22:18Z"
+  },
+  {
+    "id": "42c0f2a6",
+    "type": "news",
+    "title": "UFO whistleblower David Grusch makes wild alien claims on Joe Rogan podcast: ‘Greek gods’ and ‘gorilla lizards’",
+    "description": "On Joe Rogan's podcast, UFO whistleblower David Grusch claimed multiple alien species exist on Earth, including 7-foot-tall reptilian beings.",
+    "url": "https://nypost.com/2026/10/03/us-news/ufo-whistleblower-david-grusch-talks-aliens-on-joe-rogan-podcast/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/original-sleestak-costumes-land-lost-143498607.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-10-03T15:40:02Z"
+  },
+  {
+    "id": "fc0ee02d",
+    "type": "news",
+    "title": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
+    "description": "Cloudflare introduces an adaptive security framework connecting risk discovery, agent governance, runtime protection, and AI-powered response in a continuous learning loop.",
+    "url": "https://blog.cloudflare.com/ai-era-framework/",
+    "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3N4TQ58B13HXY8E4041MCTX.01M3N4TQVB54R9DEXGXWYE36B8.png",
+    "source": "Cloudflare.com",
+    "publishedAt": "2026-09-29T13:00:00Z"
   }
 ]
