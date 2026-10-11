@@ -120,66 +120,6 @@
     "publishedAt": "2026-09-24T04:08:08Z"
   },
   {
-    "id": "bd562728",
-    "type": "podcast",
-    "title": "Alien Encounters With The Real Life X-Files Agent - Nick Pope - DEBRIEFED ep. 34",
-    "description": "Subscribe to Artlist (get 2 Months For Free): https://bit.ly/Area52Artlist NEW MERCH! : https://www.area52.shop Patreon Exclusive ...",
-    "url": "https://www.youtube.com/watch?v=B6WFLOIkyho",
-    "image": "https://i.ytimg.com/vi/B6WFLOIkyho/hqdefault.jpg",
-    "source": "Area52",
-    "publishedAt": "2025-04-18T16:00:12Z"
-  },
-  {
-    "id": "01b0bb93",
-    "type": "podcast",
-    "title": "The Alien King Talks Aliens &amp; Ghosts | Haunted With Payne Lindsey",
-    "description": "Put your tinfoil hats on, friends. Payne Lindsey, the Alien King, has graced our presence to talk all things alien and a little bit of ...",
-    "url": "https://www.youtube.com/watch?v=X8G6v3sntUU",
-    "image": "https://i.ytimg.com/vi/X8G6v3sntUU/hqdefault.jpg",
-    "source": "Two Girls One Ghost",
-    "publishedAt": "2023-05-23T21:00:12Z"
-  },
-  {
-    "id": "2bd4f1c3",
-    "type": "podcast",
-    "title": "High Strange | Coming 3.23.23",
-    "description": "Payne Lindsey attempts to break the stigma surrounding the topic of UFOs. In this new investigative series, Lindsey shines light on ...",
-    "url": "https://www.youtube.com/watch?v=kWL9zSlLk4Y",
-    "image": "https://i.ytimg.com/vi/kWL9zSlLk4Y/hqdefault.jpg",
-    "source": "Tenderfoot TV",
-    "publishedAt": "2023-02-24T19:46:55Z"
-  },
-  {
-    "id": "1c3ceeac",
-    "type": "podcast",
-    "title": "Episode #1 - British UFO Cases, The Calvine Photo, Orbs &amp; Disclosure | Chat With Vinnie Adams",
-    "description": "Welcome to the first episode of Beyond With Sean For the very first conversation, I'm joined by Vinnie Adams, UFO/UAP ...",
-    "url": "https://www.youtube.com/watch?v=0mVqWzvslUo",
-    "image": "https://i.ytimg.com/vi/0mVqWzvslUo/hqdefault.jpg",
-    "source": "Search With Sean",
-    "publishedAt": "2026-10-05T22:02:42Z"
-  },
-  {
-    "id": "c296fd7a",
-    "type": "podcast",
-    "title": "The UFO Conversation - Chris Ramsay",
-    "description": "Chris is the host of the hugely popular YouTube channel 'Area 52\". He joins Vinnie to talk all things UFO/UAP!",
-    "url": "https://www.youtube.com/watch?v=fzXxeguFeGI",
-    "image": "https://i.ytimg.com/vi/fzXxeguFeGI/hqdefault.jpg",
-    "source": "Disclosure Team",
-    "publishedAt": "2026-07-30T08:39:47Z"
-  },
-  {
-    "id": "86480c61",
-    "type": "podcast",
-    "title": "The Dan Burisch Tapes: Disclosure Team Reacts",
-    "description": "Dan Burisch says he lead a team of biologists as part of an ultra secret program to study a living non-human being at S4.",
-    "url": "https://www.youtube.com/watch?v=4_emXhrdD1w",
-    "image": "https://i.ytimg.com/vi/4_emXhrdD1w/hqdefault.jpg",
-    "source": "NIGHT SHIFT",
-    "publishedAt": "2026-07-24T20:19:28Z"
-  },
-  {
     "id": "3bb3258e",
     "type": "podcast",
     "title": "UFO Experts Come Forward (Full Documentary) - IPN LIVE TOUR",
@@ -198,5 +138,15 @@
     "image": "https://i.ytimg.com/vi/PHoU0wxVF9Q/hqdefault.jpg",
     "source": "GSP Podcast",
     "publishedAt": "2026-08-04T16:00:06Z"
+  },
+  {
+    "id": "7b1955c9",
+    "type": "podcast",
+    "title": "UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic",
+    "description": "Is there life beyond Planet Earth? In this UFOs: Investigating the Unknown Mega Episode from National Geographic, explore the ...",
+    "url": "https://www.youtube.com/watch?v=dDxYZyMEmUU",
+    "image": "https://i.ytimg.com/vi/dDxYZyMEmUU/hqdefault.jpg",
+    "source": "National Geographic",
+    "publishedAt": "2026-06-27T13:00:25Z"
   }
 ]
