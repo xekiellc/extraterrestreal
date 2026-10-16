@@ -1,5 +1,15 @@
 [
   {
+    "id": "fc85d1dd",
+    "type": "news",
+    "title": "Dr. Steven Greer: Is the Alien Threat a Hoax? | Planet Tyrus",
+    "description": "Dr. Steven Greer joins Tyrus on Planet Tyrus to expose what he believes is the truth behind UFO sightings, UAP disclosure, secret government programs, extraterrestrial technology, and the mysterious Buga Sphere. Are we b…",
+    "url": "https://radio.foxnews.com/2026/10/15/dr-steven-greer-is-the-alien-threat-a-hoax-planet-tyrus/",
+    "image": "https://static-radio.foxnews.com/radio.foxnews.com/content/uploads/2025/10/FEATURED_IMAGE_PLANET_TYRUS.jpg",
+    "source": "Fox News",
+    "publishedAt": "2026-10-15T19:00:00Z"
+  },
+  {
     "id": "7f2887f8",
     "type": "news",
     "title": "Missing Air Force general's alleged UFO ties with White House insider detailed in explosive interview",
@@ -30,16 +40,6 @@
     "publishedAt": "2026-09-24T17:27:52Z"
   },
   {
-    "id": "5822800a",
-    "type": "news",
-    "title": "Sopranos Writer Terence Winter to Adapt UFO Insider's New Book",
-    "description": "The 'Sopranos' and 'Tulsa King' writer will adapt former U.S. intelligence official Jay Stratton's upcoming memoir into a series.",
-    "url": "http://www.hollywoodreporter.com/tv/tv-news/terence-winter-age-of-disclosure-ufo-1236708412/",
-    "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/09/Terence-Winter-Headshot-pc-Brigitte-Lacombe.jpg?crop=0px%2C11px%2C1536px%2C859px&resize=1440%2C810",
-    "source": "Hollywood Reporter",
-    "publishedAt": "2026-09-24T13:00:51Z"
-  },
-  {
     "id": "e67d6874",
     "type": "news",
     "title": "Every ’80s Kid Expected ALF to Go Home — Then the Finale Handed Him to the Military",
@@ -68,16 +68,6 @@
     "image": "https://decider.com/wp-content/uploads/2026/10/DECIDER_WeeklyShows-1.jpg?quality=75&strip=all&w=1200",
     "source": "Decider",
     "publishedAt": "2026-10-09T12:00:00Z"
-  },
-  {
-    "id": "496aaab1",
-    "type": "news",
-    "title": "OTT Releases This Week: Ishqa Ishqa, Spider-Man, Khalifa",
-    "description": "Discover the latest movies and series hitting OTT platforms this week, like Spider-Man: Brand New Day and Steven Spielberg's Disclosure Day, alongside a diverse array of K-dramas, Hindi films, and regional Indian content…",
-    "url": "https://www.rediff.com/movies/report/ott-releases-this-week-ishqa-ishqa-spider-man-khalifa/20261009.htm",
-    "image": "https://im.rediff.com/1200-630/movies/2026/oct/09ott1.jpg",
-    "source": "Rediff.com",
-    "publishedAt": "2026-10-09T10:19:42Z"
   },
   {
     "id": "4e987458",
