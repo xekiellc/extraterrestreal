@@ -30,6 +30,76 @@
     "publishedAt": "2026-08-01T13:52:00Z"
   },
   {
+    "id": "8de900e2",
+    "type": "podcast",
+    "title": "That UFO Podcast: From Two Listeners to 15 Million Downloads and The Leap",
+    "description": "What started as a hobby during the COVID lockdown has become Andy McGrillen's full-time career as the creator and host of That ...",
+    "url": "https://www.youtube.com/watch?v=BJcU9kpucM8",
+    "image": "https://i.ytimg.com/vi/BJcU9kpucM8/hqdefault.jpg",
+    "source": "Produced By",
+    "publishedAt": "2026-10-16T01:41:15Z"
+  },
+  {
+    "id": "d9907e32",
+    "type": "podcast",
+    "title": "UFO Arms Race: Is China Ahead? Weinstein Speaks &amp; Stratton’s Book Preview",
+    "description": "Is China ahead in a UFO arms race, and how do we separate secret military technology from genuinely unexplained encounters?",
+    "url": "https://www.youtube.com/watch?v=I5AyM0U5zPE",
+    "image": "https://i.ytimg.com/vi/I5AyM0U5zPE/hqdefault.jpg",
+    "source": "That UFO Podcast",
+    "publishedAt": "2026-10-12T20:18:51Z"
+  },
+  {
+    "id": "0d5c17bf",
+    "type": "podcast",
+    "title": "Jake Barber joins David Grusch with his most outlandish claims to this day - Psicoactivo Live #68",
+    "description": "In a fresh Psicoactivo Live, we have the Monday show with Andy McGrillen to discuss David Grusch's statements in detail and ...",
+    "url": "https://www.youtube.com/watch?v=lLXYK8nVN4s",
+    "image": "https://i.ytimg.com/vi/lLXYK8nVN4s/hqdefault.jpg",
+    "source": "Psicoactivo Podcast",
+    "publishedAt": "2026-10-05T21:18:44Z"
+  },
+  {
+    "id": "eaa0ebe3",
+    "type": "podcast",
+    "title": "I Found Something in the Vietnam Jungle We Were NEVER Meant to See",
+    "description": "vietnam #uap #alien In 1968, a U.S. soldier discovers a mysterious black craft deep in the Vietnamese jungle, triggering helicopter ...",
+    "url": "https://www.youtube.com/watch?v=WXRY8L0AOgo",
+    "image": "https://i.ytimg.com/vi/WXRY8L0AOgo/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-10-15T14:00:09Z"
+  },
+  {
+    "id": "e4a557f2",
+    "type": "podcast",
+    "title": "We Found a DEAD Alien on an Air Force Base",
+    "description": "Alien #AirForce #uap In 1978, a military policeman allegedly shoots an alien being near Fort Dix, leading to the discovery of a ...",
+    "url": "https://www.youtube.com/watch?v=WYB6tpRuXPM",
+    "image": "https://i.ytimg.com/vi/WYB6tpRuXPM/hqdefault_live.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-10-15T08:01:46Z"
+  },
+  {
+    "id": "a2917363",
+    "type": "podcast",
+    "title": "Rewatching SIGNS | Does M. Night Shyamalan’s Alien Invasion Movie Still Hold Up?",
+    "description": "It's time to look to the skies as Somewhere on the Screen revisits one of the most memorable alien movies of the early 2000s: M.",
+    "url": "https://www.youtube.com/watch?v=Yf57z1mSK6k",
+    "image": "https://i.ytimg.com/vi/Yf57z1mSK6k/hqdefault.jpg",
+    "source": "Somewhere on the Screen w/ Ryan Sprague",
+    "publishedAt": "2026-10-14T14:00:10Z"
+  },
+  {
+    "id": "5f6f88a6",
+    "type": "podcast",
+    "title": "Ep 2365: Samantha Treasure: Out-of-Body Experiences",
+    "description": "Tonight, Thursday on FADE to BLACK: Samantha Treasure explores the science and mystery of Out-of-Body Experiences ...",
+    "url": "https://www.youtube.com/watch?v=3bDOtfIAYIs",
+    "image": "https://i.ytimg.com/vi/3bDOtfIAYIs/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-10-16T04:05:42Z"
+  },
+  {
     "id": "775a2545",
     "type": "podcast",
     "title": "Ep 2362: Monalisa Coburn: Alien Abductions",
@@ -50,16 +120,6 @@
     "publishedAt": "2026-09-28T02:58:37Z"
   },
   {
-    "id": "91d2313c",
-    "type": "podcast",
-    "title": "Ep 2358: William Henry: Göbekli Tepe",
-    "description": "Tonight, Thursday on FADE to BLACK: William Henry takes us on an unforgettable journey through Turkey—from Hagia Sophia ...",
-    "url": "https://www.youtube.com/watch?v=dCupDbOO1cg",
-    "image": "https://i.ytimg.com/vi/dCupDbOO1cg/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-09-25T04:08:44Z"
-  },
-  {
     "id": "2bd4f1c3",
     "type": "podcast",
     "title": "High Strange | Coming 3.23.23",
@@ -78,6 +138,36 @@
     "image": "https://i.ytimg.com/vi/p-UVj6mWLWw/hqdefault.jpg",
     "source": "Down The Rabbit Hole",
     "publishedAt": "2022-07-08T11:45:07Z"
+  },
+  {
+    "id": "1c3ceeac",
+    "type": "podcast",
+    "title": "Episode #1 - British UFO Cases, The Calvine Photo, Orbs &amp; Disclosure | Chat With Vinnie Adams",
+    "description": "Welcome to the first episode of Beyond With Sean For the very first conversation, I'm joined by Vinnie Adams, UFO/UAP ...",
+    "url": "https://www.youtube.com/watch?v=0mVqWzvslUo",
+    "image": "https://i.ytimg.com/vi/0mVqWzvslUo/hqdefault.jpg",
+    "source": "Search With Sean",
+    "publishedAt": "2026-10-05T22:02:42Z"
+  },
+  {
+    "id": "c296fd7a",
+    "type": "podcast",
+    "title": "The UFO Conversation - Chris Ramsay",
+    "description": "Chris is the host of the hugely popular YouTube channel 'Area 52\". He joins Vinnie to talk all things UFO/UAP!",
+    "url": "https://www.youtube.com/watch?v=fzXxeguFeGI",
+    "image": "https://i.ytimg.com/vi/fzXxeguFeGI/hqdefault.jpg",
+    "source": "Disclosure Team",
+    "publishedAt": "2026-07-30T08:39:47Z"
+  },
+  {
+    "id": "86480c61",
+    "type": "podcast",
+    "title": "The Dan Burisch Tapes: Disclosure Team Reacts",
+    "description": "Dan Burisch says he lead a team of biologists as part of an ultra secret program to study a living non-human being at S4.",
+    "url": "https://www.youtube.com/watch?v=4_emXhrdD1w",
+    "image": "https://i.ytimg.com/vi/4_emXhrdD1w/hqdefault.jpg",
+    "source": "NIGHT SHIFT",
+    "publishedAt": "2026-07-24T20:19:28Z"
   },
   {
     "id": "1f302b65",
