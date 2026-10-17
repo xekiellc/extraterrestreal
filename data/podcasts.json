@@ -120,16 +120,6 @@
     "publishedAt": "2026-09-28T02:58:37Z"
   },
   {
-    "id": "01b0bb93",
-    "type": "podcast",
-    "title": "The Alien King Talks Aliens &amp; Ghosts | Haunted With Payne Lindsey",
-    "description": "Put your tinfoil hats on, friends. Payne Lindsey, the Alien King, has graced our presence to talk all things alien and a little bit of ...",
-    "url": "https://www.youtube.com/watch?v=X8G6v3sntUU",
-    "image": "https://i.ytimg.com/vi/X8G6v3sntUU/hqdefault.jpg",
-    "source": "Two Girls One Ghost",
-    "publishedAt": "2023-05-23T21:00:12Z"
-  },
-  {
     "id": "2bd4f1c3",
     "type": "podcast",
     "title": "High Strange | Coming 3.23.23",
@@ -198,5 +188,15 @@
     "image": "https://i.ytimg.com/vi/OwksWJifxYk/hqdefault.jpg",
     "source": "Area52",
     "publishedAt": "2026-08-28T16:00:30Z"
+  },
+  {
+    "id": "c7b9d620",
+    "type": "podcast",
+    "title": "&quot;I Was Inside A UFO.&quot; | Area 51 Whistleblower Bob Lazar",
+    "description": "Bob Lazar says that between December 1988 and April 1989 he worked as a senior staff physicist at S4, a facility built into a ...",
+    "url": "https://www.youtube.com/watch?v=PHoU0wxVF9Q",
+    "image": "https://i.ytimg.com/vi/PHoU0wxVF9Q/hqdefault.jpg",
+    "source": "GSP Podcast",
+    "publishedAt": "2026-08-04T16:00:06Z"
   }
 ]

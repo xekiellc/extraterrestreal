@@ -40,6 +40,16 @@
     "publishedAt": "2026-09-24T19:39:44Z"
   },
   {
+    "id": "509d3d51",
+    "type": "news",
+    "title": "Netflix’s Odd Alien Comedy From the Makers of ‘Bluey’ Gets a Release Date and Teaser",
+    "description": "Get a first look at 'Allen', the bizarre new Australian sci-fi comedy arriving on Netflix in November 2026.",
+    "url": "https://www.whats-on-netflix.com/news/allen-netflix-movie-australia-everything-we-know/",
+    "image": "https://www.whats-on-netflix.com/wp-content/uploads/2026/10/allen-first-look-netflix-australia.png",
+    "source": "What's on Netflix",
+    "publishedAt": "2026-10-16T14:11:36Z"
+  },
+  {
     "id": "e1826d01",
     "type": "news",
     "title": "OTT Releases This Week: DC, Enna Vilai, The Diplomat 4",
@@ -58,16 +68,6 @@
     "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/09/alf-puppet-tv-show.png?resize=2000,1125",
     "source": "ComicBook.com",
     "publishedAt": "2026-10-15T07:32:00Z"
-  },
-  {
-    "id": "1afc708e",
-    "type": "news",
-    "title": "Ex-Pentagon UFO Investigator Alleges 80-Year Alien Cover-Up, Claims US Recovered Crashed Spacecrafts And Non-Human Bodies",
-    "description": "Former Pentagon UFO investigator Jay Stratton claims aliens were recovered alive from the infamous Roswell, New Mexico, crash in 1947, but later died after refusing food and human contact. Stratton was the chief of air a…",
-    "url": "https://brobible.com/culture/article/pentagon-ufo-investigator-recovered-crashed-spacecrafts-non-human-bodies/",
-    "image": "https://brobible.com/wp-content/uploads/2026/10/aliens-roswell.jpg",
-    "source": "BroBible",
-    "publishedAt": "2026-10-14T15:42:11Z"
   },
   {
     "id": "4e987458",
@@ -98,6 +98,16 @@
     "image": "",
     "source": "Slashdot.org",
     "publishedAt": "2026-09-18T22:32:56Z"
+  },
+  {
+    "id": "1afc708e",
+    "type": "news",
+    "title": "Ex-Pentagon UFO Investigator Alleges 80-Year Alien Cover-Up, Claims US Recovered Crashed Spacecrafts And Non-Human Bodies",
+    "description": "Former Pentagon UFO investigator Jay Stratton claims aliens were recovered alive from the infamous Roswell, New Mexico, crash in 1947, but later died after refusing food and human contact. Stratton was the chief of air a…",
+    "url": "https://brobible.com/culture/article/pentagon-ufo-investigator-recovered-crashed-spacecrafts-non-human-bodies/",
+    "image": "https://brobible.com/wp-content/uploads/2026/10/aliens-roswell.jpg",
+    "source": "BroBible",
+    "publishedAt": "2026-10-14T15:42:11Z"
   },
   {
     "id": "00f098bb",
