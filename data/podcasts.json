@@ -63,7 +63,7 @@
     "id": "3722a1a6",
     "type": "podcast",
     "title": "Jay Stratton: Out of the Shadows | Pentagon UFO Secrets Finally Revealed?",
-    "description": "LIVE #JayStratton #UFOs Ryan and Suzanne are LIVE with the latest UFO news. This week, they take a deep dive into Out of the ...",
+    "description": "LIVE #JayStratton #UFOs Ryan and Suzanne are LIVE with another explosive week of UFO news! Tonight, we take a deep dive ...",
     "url": "https://www.youtube.com/watch?v=dXkIQJAPgnE",
     "image": "https://i.ytimg.com/vi/dXkIQJAPgnE/hqdefault_live.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
@@ -168,5 +168,35 @@
     "image": "https://i.ytimg.com/vi/4_emXhrdD1w/hqdefault.jpg",
     "source": "NIGHT SHIFT",
     "publishedAt": "2026-07-24T20:19:28Z"
+  },
+  {
+    "id": "1f302b65",
+    "type": "podcast",
+    "title": "Joe Rogan Experience #2560 - David Grusch",
+    "description": "David Grusch is a former United States Air Force intelligence officer, former representative of the National Reconnaissance Office ...",
+    "url": "https://www.youtube.com/watch?v=dYPXINFcvmI",
+    "image": "https://i.ytimg.com/vi/dYPXINFcvmI/hqdefault.jpg",
+    "source": "PowerfulJRE",
+    "publishedAt": "2026-09-30T17:00:34Z"
+  },
+  {
+    "id": "3bb3258e",
+    "type": "podcast",
+    "title": "UFO Experts Come Forward (Full Documentary) - IPN LIVE TOUR",
+    "description": "AREA 52 Shop: https://www.area52.shop Patreon Exclusive Content: https://www.patreon.com/Area52investigations Second ...",
+    "url": "https://www.youtube.com/watch?v=OwksWJifxYk",
+    "image": "https://i.ytimg.com/vi/OwksWJifxYk/hqdefault.jpg",
+    "source": "Area52",
+    "publishedAt": "2026-08-28T16:00:30Z"
+  },
+  {
+    "id": "c7b9d620",
+    "type": "podcast",
+    "title": "&quot;I Was Inside A UFO.&quot; | Area 51 Whistleblower Bob Lazar",
+    "description": "Bob Lazar says that between December 1988 and April 1989 he worked as a senior staff physicist at S4, a facility built into a ...",
+    "url": "https://www.youtube.com/watch?v=PHoU0wxVF9Q",
+    "image": "https://i.ytimg.com/vi/PHoU0wxVF9Q/hqdefault.jpg",
+    "source": "GSP Podcast",
+    "publishedAt": "2026-08-04T16:00:06Z"
   }
 ]
