@@ -70,16 +70,6 @@
     "publishedAt": "2026-10-17T09:04:57Z"
   },
   {
-    "id": "eaa0ebe3",
-    "type": "podcast",
-    "title": "I Found Something in the Vietnam Jungle We Were NEVER Meant to See",
-    "description": "vietnam #uap #alien In 1968, a U.S. soldier discovers a mysterious black craft deep in the Vietnamese jungle, triggering helicopter ...",
-    "url": "https://www.youtube.com/watch?v=WXRY8L0AOgo",
-    "image": "https://i.ytimg.com/vi/WXRY8L0AOgo/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-10-15T14:00:09Z"
-  },
-  {
     "id": "7d355afc",
     "type": "podcast",
     "title": "Jacques Vallée&#39;s Final Report: 60 Years of UFO Secrets &amp; Science",
@@ -88,6 +78,16 @@
     "image": "https://i.ytimg.com/vi/IYo6ua_aybA/hqdefault_live.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-10-13T21:23:30Z"
+  },
+  {
+    "id": "66970e4b",
+    "type": "podcast",
+    "title": "He Knew Too Much: The Mysterious Death of James Forrestal",
+    "description": "TrueCrime #murdermystery #UFOs We are joined by author and researcher, Peter Robbins, to investigate the mysterious death of ...",
+    "url": "https://www.youtube.com/watch?v=S3xM4Iuof98",
+    "image": "https://i.ytimg.com/vi/S3xM4Iuof98/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-10-12T14:00:11Z"
   },
   {
     "id": "5f6f88a6",
