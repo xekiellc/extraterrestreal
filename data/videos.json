@@ -100,16 +100,6 @@
     "publishedAt": "2026-10-17T16:26:34Z"
   },
   {
-    "id": "c36c89ae",
-    "type": "video",
-    "title": "UFOs for the 21st Century Mind Audiobook by Richard Dolan",
-    "description": "Listen to this title for free on Audible : https://amzn.to/4ygBDlL Title: UFOs for the 21st Century Mind Subtitle: The Definitive Guide ...",
-    "url": "https://www.youtube.com/watch?v=pYKHsCSAr5Q",
-    "image": "https://i.ytimg.com/vi/pYKHsCSAr5Q/hqdefault.jpg",
-    "source": "Free Audiobook",
-    "publishedAt": "2026-10-17T14:44:07Z"
-  },
-  {
     "id": "f4336ea4",
     "type": "video",
     "title": "Underwater UFO Cases You’re Told Don’t Exist | Richard Dolan",
@@ -118,6 +108,16 @@
     "image": "https://i.ytimg.com/vi/DGVcBT4sAHs/hqdefault.jpg",
     "source": "Gaia",
     "publishedAt": "2026-10-17T00:00:20Z"
+  },
+  {
+    "id": "3ecbad95",
+    "type": "video",
+    "title": "What Animals Sense When UFOs Appear",
+    "description": "Dogs whimper, horses rear, and cattle scatter when UFO encounters occur. Discover what animals detect during these events.",
+    "url": "https://www.youtube.com/watch?v=8BBf2BblwO4",
+    "image": "https://i.ytimg.com/vi/8BBf2BblwO4/hqdefault.jpg",
+    "source": "Richard Dolan Intelligent Disclosure ",
+    "publishedAt": "2026-10-06T22:00:05Z"
   },
   {
     "id": "a7b5f683",
@@ -130,6 +130,16 @@
     "publishedAt": "2026-10-20T07:18:04Z"
   },
   {
+    "id": "2f5f97eb",
+    "type": "video",
+    "title": "The Light Gate Episode #181: Daniel Sheehan (UFOS/UAPS/DISCLOSURE)",
+    "description": "The Light Gate Episode Welcomes GUEST: Daniel Sheehan Date: October 19, 2026 Time: 5-7 pm pacific / 8-10 pm eastern ...",
+    "url": "https://www.youtube.com/watch?v=odTLe2J1O0w",
+    "image": "https://i.ytimg.com/vi/odTLe2J1O0w/hqdefault.jpg",
+    "source": "Preston Dennett",
+    "publishedAt": "2026-10-20T02:06:39Z"
+  },
+  {
     "id": "ca53bfad",
     "type": "video",
     "title": "They Recovered the Craft… and the BODIES | Dr Steven Greer",
@@ -138,16 +148,6 @@
     "image": "https://i.ytimg.com/vi/pW1AzTUsBlU/hqdefault.jpg",
     "source": "Best of Dr Steven Greer",
     "publishedAt": "2026-10-16T23:00:10Z"
-  },
-  {
-    "id": "696606e1",
-    "type": "video",
-    "title": "Dr. Steven Greer: The Ancient UFO They Can&#39;t Explain! | Planet Tyrus",
-    "description": "Dr. Steven Greer joins Tyrus on Planet Tyrus to expose what he believes is the truth behind UFO sightings, UAP disclosure, secret ...",
-    "url": "https://www.youtube.com/watch?v=cQVSDNrPQ4g",
-    "image": "https://i.ytimg.com/vi/cQVSDNrPQ4g/hqdefault.jpg",
-    "source": "Planet Tyrus",
-    "publishedAt": "2026-10-15T15:00:01Z"
   },
   {
     "id": "85421256",
