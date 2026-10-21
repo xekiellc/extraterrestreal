@@ -1,35 +1,5 @@
 [
   {
-    "id": "5d62351e",
-    "type": "podcast",
-    "title": "#77 What Should We Tell The Children? — Need To Know — September 2026",
-    "description": "How should we talk to children about UFOs, unexplained phenomena, and other sensitive subjects? In this episode of Need To ...",
-    "url": "https://www.youtube.com/watch?v=vzLoTaxVmNE",
-    "image": "https://i.ytimg.com/vi/vzLoTaxVmNE/hqdefault.jpg",
-    "source": "Stellar Productions",
-    "publishedAt": "2026-09-06T15:48:09Z"
-  },
-  {
-    "id": "ffa9b02b",
-    "type": "podcast",
-    "title": "Ross Coulthart Q&amp;A: Skywatcher didn&#39;t disappear — it went government | Reality Check",
-    "description": "If you're ever injured in an accident, you can check out Morgan & Morgan. You can start your claim in just a click without having to ...",
-    "url": "https://www.youtube.com/watch?v=IOZdVCoZ51Q",
-    "image": "https://i.ytimg.com/vi/IOZdVCoZ51Q/hqdefault.jpg",
-    "source": "NewsNation",
-    "publishedAt": "2026-08-09T12:00:06Z"
-  },
-  {
-    "id": "8e0863b1",
-    "type": "podcast",
-    "title": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
-    "description": "On July 15, Sound, Light & Frequency co-host Bryce Zabel joined former Deputy Assistant Secretary of Defense for Intelligence ...",
-    "url": "https://www.youtube.com/watch?v=QscaracBciE",
-    "image": "https://i.ytimg.com/vi/QscaracBciE/hqdefault.jpg",
-    "source": "Stellar Productions",
-    "publishedAt": "2026-07-18T21:47:56Z"
-  },
-  {
     "id": "8de900e2",
     "type": "podcast",
     "title": "That UFO Podcast: From Two Listeners to 15 Million Downloads and The Leap",
@@ -58,36 +28,6 @@
     "image": "https://i.ytimg.com/vi/_TFJjL1EyO0/hqdefault.jpg",
     "source": "That UFO Podcast",
     "publishedAt": "2026-10-11T18:30:06Z"
-  },
-  {
-    "id": "7d355afc",
-    "type": "podcast",
-    "title": "Jacques Vallée&#39;s Final Report: 60 Years of UFO Secrets &amp; Science",
-    "description": "JacquesVallee #Aliens #Science Legendary UFO researcher and author Jacques Vallee returns to discuss his latest book, ...",
-    "url": "https://www.youtube.com/watch?v=IYo6ua_aybA",
-    "image": "https://i.ytimg.com/vi/IYo6ua_aybA/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-10-19T14:00:08Z"
-  },
-  {
-    "id": "a45c1d3b",
-    "type": "podcast",
-    "title": "Jay Stratton | Out of the Shadows",
-    "description": "Ryan takes a deep dive into Out of the Shadows, the new book from former Pentagon UFO investigator, Jay Stratton. From alleged ...",
-    "url": "https://www.youtube.com/watch?v=kIgJmW2Jz_8",
-    "image": "https://i.ytimg.com/vi/kIgJmW2Jz_8/hqdefault_live.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-10-19T13:53:19Z"
-  },
-  {
-    "id": "3722a1a6",
-    "type": "podcast",
-    "title": "Jay Stratton: Out of the Shadows | Pentagon UFO Secrets Finally Revealed?",
-    "description": "LIVE #JayStratton #UFOs Ryan and Suzanne are LIVE with another explosive week of UFO news! Tonight, we take a deep dive ...",
-    "url": "https://www.youtube.com/watch?v=dXkIQJAPgnE",
-    "image": "https://i.ytimg.com/vi/dXkIQJAPgnE/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-10-18T22:16:10Z"
   },
   {
     "id": "bb4c350a",
@@ -150,36 +90,6 @@
     "publishedAt": "2023-02-24T19:46:55Z"
   },
   {
-    "id": "1c3ceeac",
-    "type": "podcast",
-    "title": "Episode #1 - British UFO Cases, The Calvine Photo, Orbs &amp; Disclosure | Chat With Vinnie Adams",
-    "description": "Welcome to the first episode of Beyond With Sean For the very first conversation, I'm joined by Vinnie Adams, UFO/UAP ...",
-    "url": "https://www.youtube.com/watch?v=0mVqWzvslUo",
-    "image": "https://i.ytimg.com/vi/0mVqWzvslUo/hqdefault.jpg",
-    "source": "Search With Sean",
-    "publishedAt": "2026-10-05T22:02:42Z"
-  },
-  {
-    "id": "c296fd7a",
-    "type": "podcast",
-    "title": "The UFO Conversation - Chris Ramsay",
-    "description": "Chris is the host of the hugely popular YouTube channel 'Area 52\". He joins Vinnie to talk all things UFO/UAP!",
-    "url": "https://www.youtube.com/watch?v=fzXxeguFeGI",
-    "image": "https://i.ytimg.com/vi/fzXxeguFeGI/hqdefault.jpg",
-    "source": "Disclosure Team",
-    "publishedAt": "2026-07-30T08:39:47Z"
-  },
-  {
-    "id": "86480c61",
-    "type": "podcast",
-    "title": "The Dan Burisch Tapes: Disclosure Team Reacts",
-    "description": "Dan Burisch says he lead a team of biologists as part of an ultra secret program to study a living non-human being at S4.",
-    "url": "https://www.youtube.com/watch?v=4_emXhrdD1w",
-    "image": "https://i.ytimg.com/vi/4_emXhrdD1w/hqdefault.jpg",
-    "source": "NIGHT SHIFT",
-    "publishedAt": "2026-07-24T20:19:28Z"
-  },
-  {
     "id": "1f302b65",
     "type": "podcast",
     "title": "Joe Rogan Experience #2560 - David Grusch",
@@ -198,5 +108,15 @@
     "image": "https://i.ytimg.com/vi/OwksWJifxYk/hqdefault.jpg",
     "source": "Area52",
     "publishedAt": "2026-08-28T16:00:30Z"
+  },
+  {
+    "id": "c7b9d620",
+    "type": "podcast",
+    "title": "&quot;I Was Inside A UFO.&quot; | Area 51 Whistleblower Bob Lazar",
+    "description": "Bob Lazar says that between December 1988 and April 1989 he worked as a senior staff physicist at S4, a facility built into a ...",
+    "url": "https://www.youtube.com/watch?v=PHoU0wxVF9Q",
+    "image": "https://i.ytimg.com/vi/PHoU0wxVF9Q/hqdefault.jpg",
+    "source": "GSP Podcast",
+    "publishedAt": "2026-08-04T16:00:06Z"
   }
 ]

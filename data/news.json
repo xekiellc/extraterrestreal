@@ -90,16 +90,6 @@
     "publishedAt": "2026-09-24T14:28:23Z"
   },
   {
-    "id": "51a027eb",
-    "type": "news",
-    "title": "‘We are not alone:’ Coalition of UFO whistleblowers call on Trump to let them publicly reveal secrets",
-    "description": "UFO whistleblowers David Grusch, Dylan Borland, and Matthew Brown want President Trump to waive their NDAs so they can reveal classified secrets.",
-    "url": "https://nypost.com/2026/09/19/us-news/ufo-whistleblowers-want-ok-from-trump-to-reveal-secrets-to-public/",
-    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/2026-visual-aid-support-pursue-141498732.jpg?quality=75&strip=all&w=1200",
-    "source": "New York Post",
-    "publishedAt": "2026-09-19T12:24:17Z"
-  },
-  {
     "id": "34946eb3",
     "type": "news",
     "title": "Former Pentagon UAP chief claims to have seen 'non-human beings'",
@@ -118,5 +108,55 @@
     "image": "https://brobible.com/wp-content/uploads/2026/10/aliens-roswell.jpg",
     "source": "BroBible",
     "publishedAt": "2026-10-14T15:42:11Z"
+  },
+  {
+    "id": "931be372",
+    "type": "news",
+    "title": "Pentagon Video of 6 Mysterious Spheres Moving at 480 MPH Sparks Bigger Questions",
+    "description": "A mission report records an estimated speed near 480 mph while investigators flag key details remain redacted.",
+    "url": "https://military.com/pentagon-releases-video-of-6-mysterious-spheres-moving-at-480-mph-sparks-bigger-questions",
+    "image": "https://static0.mltimages.com/wordpress/wp-content/uploads/2026/09/dow-uap-pr135-unresolved-uap-report-middle-east-2025.jpg?w=1600&h=900&fit=crop",
+    "source": "Military.com",
+    "publishedAt": "2026-10-03T09:00:14Z"
+  },
+  {
+    "id": "b7304f14",
+    "type": "news",
+    "title": "Sixth Batch of Declassified UAP Files Features Warp-Drive Research and Unidentified Footage",
+    "description": "The sixth batch of declassified files related to unidentified anomalous phenomena released by the Pentagon on Sept. 19, 2026, includes documents on theoretical warp-drive research, medical incident reports involving mili…",
+    "url": "https://www.naturalnews.com/2026-09-23-sixth-batch-uap-files-features-warp-drive-research.html",
+    "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/pentagon-ufo-files-aaro-uap-4311-original.jpg",
+    "source": "Naturalnews.com",
+    "publishedAt": "2026-09-23T06:00:00Z"
+  },
+  {
+    "id": "188b1018",
+    "type": "news",
+    "title": "Nolan’s The Odyssey: Kill the Gods, Save the Myth",
+    "description": "A film that keeps its gods almost entirely offstage, and treats its monsters as, quite possibly, the fever dreams of a traumatized soldier, has no business being called a faithful Odyssey. And yet British-American filmma…",
+    "url": "https://www.fairobserver.com/culture/nolans-the-odyssey-kill-the-gods-save-the-myth/",
+    "image": "https://www.fairobserver.com/wp-content/uploads/2026/10/The-Odyssey.jpg",
+    "source": "Fair Observer",
+    "publishedAt": "2026-10-06T13:22:18Z"
+  },
+  {
+    "id": "42c0f2a6",
+    "type": "news",
+    "title": "UFO whistleblower David Grusch makes wild alien claims on Joe Rogan podcast: ‘Greek gods’ and ‘gorilla lizards’",
+    "description": "On Joe Rogan's podcast, UFO whistleblower David Grusch claimed multiple alien species exist on Earth, including 7-foot-tall reptilian beings.",
+    "url": "https://nypost.com/2026/10/03/us-news/ufo-whistleblower-david-grusch-talks-aliens-on-joe-rogan-podcast/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/original-sleestak-costumes-land-lost-143498607.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-10-03T15:40:02Z"
+  },
+  {
+    "id": "9527e8b2",
+    "type": "news",
+    "title": "Secret underwater UFO base spanning 'multiple city blocks' exposed in new whistleblower interview",
+    "description": "An Air Force veteran has revealed shocking new details of an alleged underwater invasion the military has known about for years.",
+    "url": "https://www.dailymail.com/sciencetech/article-16175603/secret-underwater-ufo-base-david-grusch.html",
+    "image": "https://i.dailymail.com/1s/2026/10/01/17/111595251-0-image-m-13_1790873681690.jpg",
+    "source": "Dailymail.com",
+    "publishedAt": "2026-10-01T17:02:11Z"
   }
 ]
