@@ -90,6 +90,26 @@
     "publishedAt": "2026-10-19T14:00:08Z"
   },
   {
+    "id": "bfa6559c",
+    "type": "podcast",
+    "title": "FADE to BLACK 2340 Daniel Branco",
+    "description": "Jimmy Church: host of FADE to BLACK, Into the Vortex, and Beyond Belief bringing you all of the knowledge you need... Watch ...",
+    "url": "https://www.youtube.com/watch?v=qdyf6ROVsfA",
+    "image": "https://i.ytimg.com/vi/qdyf6ROVsfA/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-10-23T22:19:34Z"
+  },
+  {
+    "id": "a5393f45",
+    "type": "podcast",
+    "title": "FADE to BLACK 2366 Carl Crusher",
+    "description": "Jimmy Church: host of FADE to BLACK, Into the Vortex, and Beyond Belief bringing you all of the knowledge you need... Watch ...",
+    "url": "https://www.youtube.com/watch?v=OCsv8QCesBI",
+    "image": "https://i.ytimg.com/vi/OCsv8QCesBI/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-10-23T19:44:33Z"
+  },
+  {
     "id": "bb4c350a",
     "type": "podcast",
     "title": "Ep 2366: Carl Crusher: Calling UFOs",
@@ -98,26 +118,6 @@
     "image": "https://i.ytimg.com/vi/qs-WP2FU6Po/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2026-10-20T04:06:42Z"
-  },
-  {
-    "id": "775a2545",
-    "type": "podcast",
-    "title": "Ep 2362: Monalisa Coburn: Alien Abductions",
-    "description": "Tonight, Monday on FADE to BLACK: MonaLisa Coburn shares her extraordinary journey through alien abductions, near-death ...",
-    "url": "https://www.youtube.com/watch?v=8_zCnlXrrMM",
-    "image": "https://i.ytimg.com/vi/8_zCnlXrrMM/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-10-13T04:08:12Z"
-  },
-  {
-    "id": "a4f9c33e",
-    "type": "podcast",
-    "title": "Dept. of War Releases New UFO Files!",
-    "description": "On Sept. 8th, 2026, the Dept. of War released the Tranche 6 UFO/UAP Files... The documents and videos included the 1952 ...",
-    "url": "https://www.youtube.com/watch?v=thNBKwZCui0",
-    "image": "https://i.ytimg.com/vi/thNBKwZCui0/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-09-28T02:58:37Z"
   },
   {
     "id": "39b319b1",
