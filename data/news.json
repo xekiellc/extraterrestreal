@@ -40,6 +40,16 @@
     "publishedAt": "2026-10-06T17:50:32Z"
   },
   {
+    "id": "b0eff314",
+    "type": "news",
+    "title": "I Did This Without Your Knowledge",
+    "description": "It was fortunate that I was the first one to wake up on 8/1. The past week had been one where sleep was rare. The next year loomed large — I was drea…",
+    "url": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge",
+    "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
+    "source": "Lesswrong.com",
+    "publishedAt": "2026-10-23T05:51:45Z"
+  },
+  {
     "id": "47c6a9fa",
     "type": "news",
     "title": "JJ Abrams' Documentary Series About Real UFOs Is A Must-Watch On Streaming",
@@ -70,16 +80,6 @@
     "publishedAt": "2026-10-19T15:09:12Z"
   },
   {
-    "id": "96550cda",
-    "type": "news",
-    "title": "Harvard Astrophysicist Challenges Ex-Pentagon UFO Investigator’s Claims Of Recovered Alien Spacecrafts And Non-Human Bodies",
-    "description": "A former Pentagon UFO investigator claims the U.S. has recovered alien spacecraft and non-human bodies (i.e. alien bodies). Harvard astrophysicist Avi Loeb is skeptical of those claims and demands evidence. This is a cur…",
-    "url": "https://brobible.com/culture/article/harvard-astrophysicist-pentagon-ufo-investigators-spacecrafts-bodies/",
-    "image": "https://brobible.com/wp-content/uploads/2026/10/crashed-ufo-spacecraft-alien-bodies.jpg",
-    "source": "BroBible",
-    "publishedAt": "2026-10-19T14:19:16Z"
-  },
-  {
     "id": "4e987458",
     "type": "news",
     "title": "UAP whistleblower makes stunning claim about secrets behind government’s recovered craft",
@@ -88,6 +88,16 @@
     "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/uap-whistleblower-hang-out-with-sean-hannity.jpg",
     "source": "Fox News",
     "publishedAt": "2026-09-24T14:28:23Z"
+  },
+  {
+    "id": "96550cda",
+    "type": "news",
+    "title": "Harvard Astrophysicist Challenges Ex-Pentagon UFO Investigator’s Claims Of Recovered Alien Spacecrafts And Non-Human Bodies",
+    "description": "A former Pentagon UFO investigator claims the U.S. has recovered alien spacecraft and non-human bodies (i.e. alien bodies). Harvard astrophysicist Avi Loeb is skeptical of those claims and demands evidence. This is a cur…",
+    "url": "https://brobible.com/culture/article/harvard-astrophysicist-pentagon-ufo-investigators-spacecrafts-bodies/",
+    "image": "https://brobible.com/wp-content/uploads/2026/10/crashed-ufo-spacecraft-alien-bodies.jpg",
+    "source": "BroBible",
+    "publishedAt": "2026-10-19T14:19:16Z"
   },
   {
     "id": "34946eb3",
