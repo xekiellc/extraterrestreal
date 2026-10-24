@@ -1,5 +1,15 @@
 [
   {
+    "id": "4bc9b6f9",
+    "type": "news",
+    "title": "Eerie Catalina Island UFO encounters exposed in White House document dump",
+    "description": "Catalina Island, a California tourism hotspot known for its crystal-clear waters and Hollywood history, has emerged as a UFO hotspot, with newly released White House documents detailing a string of eerie alleged encounte…",
+    "url": "https://nypost.com/2026/10/23/us-news/eerie-catalina-island-ufo-sightings-exposed-in-white-house-docs/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146142191.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-10-23T12:00:00Z"
+  },
+  {
     "id": "cfae4965",
     "type": "news",
     "title": "The Mind-Weapon Panic: From CIA Psychics and UFOs to AI Apocalypse",
@@ -28,16 +38,6 @@
     "image": "https://static-radio.foxnews.com/radio.foxnews.com/content/uploads/2025/10/FEATURED_IMAGE_PLANET_TYRUS.jpg",
     "source": "Fox News",
     "publishedAt": "2026-10-15T19:00:00Z"
-  },
-  {
-    "id": "7f2887f8",
-    "type": "news",
-    "title": "Missing Air Force general's alleged UFO ties with White House insider detailed in explosive interview",
-    "description": "A UFO whistleblower has made new claims about the missing Air Force general who vanished in February and his ties to UFOs.",
-    "url": "https://www.dailymail.com/sciencetech/article-16187503/missing-air-force-general-ufo-ties-albuquerque.html",
-    "image": "https://i.dailymail.com/1s/2026/10/06/18/111683881-0-image-m-16_1791307925695.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-10-06T17:50:32Z"
   },
   {
     "id": "b0eff314",
