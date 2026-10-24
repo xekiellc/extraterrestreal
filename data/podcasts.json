@@ -60,6 +60,26 @@
     "publishedAt": "2026-10-12T20:18:51Z"
   },
   {
+    "id": "24127ec3",
+    "type": "podcast",
+    "title": "ParaPod Awards 2026  Best UFO Podcast Winner",
+    "description": "THIS WIN IS OUT OF THIS WORLD! Congratulations to Somewhere in the Skies, hosted by Ryan Sprague, winner of Best UFO ...",
+    "url": "https://www.youtube.com/watch?v=h0YJNstUK1w",
+    "image": "https://i.ytimg.com/vi/h0YJNstUK1w/hqdefault.jpg",
+    "source": "Parapod Podcast Awards",
+    "publishedAt": "2026-10-24T17:24:13Z"
+  },
+  {
+    "id": "f1294df7",
+    "type": "podcast",
+    "title": "Somewhere in the Skies Audiobook by Ryan Sprague",
+    "description": "Listen to this title for free on Audible : https://amzn.to/4ygBDlL Title: Somewhere in the Skies Subtitle: A Human Approach to the ...",
+    "url": "https://www.youtube.com/watch?v=M5AvRtBSiyY",
+    "image": "https://i.ytimg.com/vi/M5AvRtBSiyY/hqdefault.jpg",
+    "source": "Free Audiobook",
+    "publishedAt": "2026-10-24T16:49:55Z"
+  },
+  {
     "id": "a45c1d3b",
     "type": "podcast",
     "title": "Jay Stratton | Out of the Shadows",
@@ -68,26 +88,6 @@
     "image": "https://i.ytimg.com/vi/kIgJmW2Jz_8/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-10-21T14:00:07Z"
-  },
-  {
-    "id": "75727f3d",
-    "type": "podcast",
-    "title": "Jacques Vallée Says France&#39;s UFO Researchers Now Sign a Security Agreement #shorts",
-    "description": "France's GEIPAN, the UFO office inside the space agency CNES, has published its case files online since 2007. On Somewhere ...",
-    "url": "https://www.youtube.com/watch?v=2EWc2PMXe2g",
-    "image": "https://i.ytimg.com/vi/2EWc2PMXe2g/hqdefault.jpg",
-    "source": "Archive of the Unidentified",
-    "publishedAt": "2026-10-21T01:00:12Z"
-  },
-  {
-    "id": "7d355afc",
-    "type": "podcast",
-    "title": "Jacques Vallée&#39;s Final Report: 60 Years of UFO Secrets &amp; Science",
-    "description": "JacquesVallee #Aliens #Science Legendary UFO researcher and author Jacques Vallee returns to discuss his latest book, ...",
-    "url": "https://www.youtube.com/watch?v=IYo6ua_aybA",
-    "image": "https://i.ytimg.com/vi/IYo6ua_aybA/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-10-19T14:00:08Z"
   },
   {
     "id": "bfa6559c",
