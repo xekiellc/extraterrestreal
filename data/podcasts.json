@@ -40,6 +40,16 @@
     "publishedAt": "2026-10-19T20:15:21Z"
   },
   {
+    "id": "2a23ee8e",
+    "type": "podcast",
+    "title": "Podcast Success Isn&#39;t Just About Downloads",
+    "description": "That UFO Podcast's Andy McGrillen on Success.",
+    "url": "https://www.youtube.com/watch?v=YXWWSt9Cu8Y",
+    "image": "https://i.ytimg.com/vi/YXWWSt9Cu8Y/hqdefault.jpg",
+    "source": "Produced By",
+    "publishedAt": "2026-10-17T04:00:23Z"
+  },
+  {
     "id": "34d0da3b",
     "type": "podcast",
     "title": "Andy McGrillen Describes His Childhood UFO Sighting",
@@ -48,16 +58,6 @@
     "image": "https://i.ytimg.com/vi/jMkbW1vGfvc/hqdefault.jpg",
     "source": "Produced By",
     "publishedAt": "2026-10-16T01:48:16Z"
-  },
-  {
-    "id": "8de900e2",
-    "type": "podcast",
-    "title": "That UFO Podcast: From Two Listeners to 15 Million Downloads and The Leap",
-    "description": "What started as a hobby during the COVID lockdown has become Andy McGrillen's full-time career as the creator and host of That ...",
-    "url": "https://www.youtube.com/watch?v=BJcU9kpucM8",
-    "image": "https://i.ytimg.com/vi/BJcU9kpucM8/hqdefault.jpg",
-    "source": "Produced By",
-    "publishedAt": "2026-10-16T01:41:15Z"
   },
   {
     "id": "0a82ac7e",
