@@ -60,6 +60,16 @@
     "publishedAt": "2026-10-16T01:48:16Z"
   },
   {
+    "id": "e2793760",
+    "type": "podcast",
+    "title": "Incident 88",
+    "description": "ProjectBlueBook #UFOs #podcast Buried deep within the declassified Project Blue Book files lies a mysterious UFO case known ...",
+    "url": "https://www.youtube.com/watch?v=uZLHIJQwOjM",
+    "image": "https://i.ytimg.com/vi/uZLHIJQwOjM/hqdefault.jpg",
+    "source": "Somewhere in the Skies w/ Ryan Sprague",
+    "publishedAt": "2026-10-25T14:49:21Z"
+  },
+  {
     "id": "0a82ac7e",
     "type": "podcast",
     "title": "WE WON BEST UFO PODCAST TWO YEARS IN A ROW! 🏆",
@@ -78,16 +88,6 @@
     "image": "https://i.ytimg.com/vi/h0YJNstUK1w/hqdefault.jpg",
     "source": "Parapod Podcast Awards",
     "publishedAt": "2026-10-24T17:24:13Z"
-  },
-  {
-    "id": "f1294df7",
-    "type": "podcast",
-    "title": "Somewhere in the Skies Audiobook by Ryan Sprague",
-    "description": "Listen to this title for free on Audible : https://amzn.to/4ygBDlL Title: Somewhere in the Skies Subtitle: A Human Approach to the ...",
-    "url": "https://www.youtube.com/watch?v=M5AvRtBSiyY",
-    "image": "https://i.ytimg.com/vi/M5AvRtBSiyY/hqdefault.jpg",
-    "source": "Free Audiobook",
-    "publishedAt": "2026-10-24T16:49:55Z"
   },
   {
     "id": "bfa6559c",
