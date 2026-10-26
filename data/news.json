@@ -40,6 +40,16 @@
     "publishedAt": "2026-10-16T06:00:00Z"
   },
   {
+    "id": "2df3a4d8",
+    "type": "news",
+    "title": "Official: Dynamite January 2027 Full Solicits With X-Files 2",
+    "description": "Dynamite Entertainment's January 2027 Solicits and Solicitations include Thundercats '85, Terminator's Valentine's Day, 80 Page giants for Vampirella and Red Sonja, as well as more X-Files, Ben 10, Sabrina The Teenage Wi…",
+    "url": "https://bleedingcool.com/comics/official-dynamite-january-2027-full-solicits-with-x-files-2/",
+    "image": "https://bleedingcool.com/wp-content/uploads/2026/10/218-2000x1125.jpg",
+    "source": "Bleeding Cool News",
+    "publishedAt": "2026-10-25T09:57:12Z"
+  },
+  {
     "id": "34abbc23",
     "type": "news",
     "title": "No straightforward explanation: Pentagon reports 3rd physics-defying triangular UFO",
@@ -58,16 +68,6 @@
     "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
     "source": "Lesswrong.com",
     "publishedAt": "2026-10-23T05:51:45Z"
-  },
-  {
-    "id": "47c6a9fa",
-    "type": "news",
-    "title": "JJ Abrams' Documentary Series About Real UFOs Is A Must-Watch On Streaming",
-    "description": "UFO was a docuseries made by J.J. Abrams' company Bad Robot that aired on Showtime in 2021, featuring interviews with researchers and journalists, is on Hulu.",
-    "url": "https://www.bgr.com/2291075/jj-abrams-documentary-series-real-ufo-streaming-hulu/",
-    "image": "https://www.bgr.com/img/gallery/jj-abrams-documentary-series-about-real-ufos-is-a-must-watch-on-streaming/l-intro-1792443998.jpg",
-    "source": "BGR",
-    "publishedAt": "2026-10-22T14:17:00Z"
   },
   {
     "id": "851426e3",
@@ -98,6 +98,16 @@
     "image": "https://www.unexplained-mysteries.com/images/news_large_retina/news-hq-pentagon-zoom.jpg",
     "source": "Unexplained-mysteries.com",
     "publishedAt": "2026-10-19T12:20:32Z"
+  },
+  {
+    "id": "96301438",
+    "type": "news",
+    "title": "New Pentagon UFO files detail FBI agents' sighting of silent triangular object with no visible engines",
+    "description": "FBI agents described a silent black triangular UAP hovering before accelerating at fighter-jet speeds in newly released Department of War documents.",
+    "url": "https://www.foxnews.com/us/pentagon-ufo-files-detail-fbi-agents-sighting-silent-triangular-object-no-visible-engines",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/AARO-Latest-File-Drop-001.jpg",
+    "source": "Fox News",
+    "publishedAt": "2026-10-25T10:00:43Z"
   },
   {
     "id": "1afc708e",
