@@ -1,5 +1,15 @@
 [
   {
+    "id": "dc97c039",
+    "type": "news",
+    "title": "Pentagon Releases New UFO Files Detailing Mysterious Black Triangle And Alleged Alien Bodies At Roswell",
+    "description": "The Pentagon has released a new set of UFO files that add more detail to some long-standing mysteries. Among the revelations are reports of a black triangular craft seen near U.S. military sites and claims about alien bo…",
+    "url": "https://brobible.com/culture/article/pentagon-new-ufo-files-black-triangle-alien-bodies-roswell/",
+    "image": "https://brobible.com/wp-content/uploads/2026/10/black-triangle-ufo.jpg",
+    "source": "BroBible",
+    "publishedAt": "2026-10-26T14:33:46Z"
+  },
+  {
     "id": "46f2a061",
     "type": "news",
     "title": "UFO files detail strange, silent triangular craft: \"Absolute acoustic silence\"",
@@ -28,16 +38,6 @@
     "image": "https://storage.ghost.io/c/36/db/36db2d53-b96a-4b7f-9ea6-1e48a1d7715e/content/images/size/w1200/2026/10/mind_weapon_panic_room.webp",
     "source": "Skeptic.com",
     "publishedAt": "2026-10-21T18:17:13Z"
-  },
-  {
-    "id": "914df7f0",
-    "type": "news",
-    "title": "U.S., China, Russia Face Questions Over UFO Technology Race, Officials Say",
-    "description": "The possibility is drawing renewed attention as lawmakers, former intelligence officials and military veterans warn that Washington could be falling behind its geopolitical rivals in the race to understand mysterious aer…",
-    "url": "https://www.naturalnews.com/2026-10-16-us-china-russia-questions-ufo-technology-race.html",
-    "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/ufo-technology-race-unidentified-flying-objects-uap-5123-fb43272b-original.jpg",
-    "source": "Naturalnews.com",
-    "publishedAt": "2026-10-16T06:00:00Z"
   },
   {
     "id": "2df3a4d8",
@@ -128,6 +128,16 @@
     "image": "https://brobible.com/wp-content/uploads/2026/10/aliens-roswell.jpg",
     "source": "BroBible",
     "publishedAt": "2026-10-14T15:42:11Z"
+  },
+  {
+    "id": "914df7f0",
+    "type": "news",
+    "title": "U.S., China, Russia Face Questions Over UFO Technology Race, Officials Say",
+    "description": "The possibility is drawing renewed attention as lawmakers, former intelligence officials and military veterans warn that Washington could be falling behind its geopolitical rivals in the race to understand mysterious aer…",
+    "url": "https://www.naturalnews.com/2026-10-16-us-china-russia-questions-ufo-technology-race.html",
+    "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/ufo-technology-race-unidentified-flying-objects-uap-5123-fb43272b-original.jpg",
+    "source": "Naturalnews.com",
+    "publishedAt": "2026-10-16T06:00:00Z"
   },
   {
     "id": "188b1018",
