@@ -90,16 +90,6 @@
     "publishedAt": "2026-10-24T17:24:13Z"
   },
   {
-    "id": "bfa6559c",
-    "type": "podcast",
-    "title": "FADE to BLACK 2340 Daniel Branco",
-    "description": "Jimmy Church: host of FADE to BLACK, Into the Vortex, and Beyond Belief bringing you all of the knowledge you need... Watch ...",
-    "url": "https://www.youtube.com/watch?v=qdyf6ROVsfA",
-    "image": "https://i.ytimg.com/vi/qdyf6ROVsfA/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-10-23T22:19:34Z"
-  },
-  {
     "id": "a5393f45",
     "type": "podcast",
     "title": "FADE to BLACK 2366 Carl Crusher",
@@ -118,6 +108,16 @@
     "image": "https://i.ytimg.com/vi/qs-WP2FU6Po/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2026-10-20T04:06:42Z"
+  },
+  {
+    "id": "4692bcd3",
+    "type": "podcast",
+    "title": "F2B Podcast: Ep. 1 One Take No Edit &#39;Your Bubble&#39;",
+    "description": "This is the first episode of 'One Take No Edits' No script... just a pure stream of consciousness straight into a microphone.",
+    "url": "https://www.youtube.com/watch?v=CzweV4QNOSE",
+    "image": "https://i.ytimg.com/vi/CzweV4QNOSE/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-10-18T05:42:21Z"
   },
   {
     "id": "39b319b1",
@@ -178,25 +178,5 @@
     "image": "https://i.ytimg.com/vi/4_emXhrdD1w/hqdefault.jpg",
     "source": "NIGHT SHIFT",
     "publishedAt": "2026-07-24T20:19:28Z"
-  },
-  {
-    "id": "1f302b65",
-    "type": "podcast",
-    "title": "Joe Rogan Experience #2560 - David Grusch",
-    "description": "David Grusch is a former United States Air Force intelligence officer, former representative of the National Reconnaissance Office ...",
-    "url": "https://www.youtube.com/watch?v=dYPXINFcvmI",
-    "image": "https://i.ytimg.com/vi/dYPXINFcvmI/hqdefault.jpg",
-    "source": "PowerfulJRE",
-    "publishedAt": "2026-09-30T17:00:34Z"
-  },
-  {
-    "id": "3bb3258e",
-    "type": "podcast",
-    "title": "UFO Experts Come Forward (Full Documentary) - IPN LIVE TOUR",
-    "description": "AREA 52 Shop: https://www.area52.shop Patreon Exclusive Content: https://www.patreon.com/Area52investigations Second ...",
-    "url": "https://www.youtube.com/watch?v=OwksWJifxYk",
-    "image": "https://i.ytimg.com/vi/OwksWJifxYk/hqdefault.jpg",
-    "source": "Area52",
-    "publishedAt": "2026-08-28T16:00:30Z"
   }
 ]
