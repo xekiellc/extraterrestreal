@@ -1,5 +1,15 @@
 [
   {
+    "id": "fddb5177",
+    "type": "news",
+    "title": "Pentagon releases seventh tranche of UFO files; Roswell witness describes alien bodies, egg-shaped craft",
+    "description": "The Department of Defense released its seventh batch of declassified files under the PURSUE program, including documents on the 1947 Roswell incident and reported paranormal activity at Utah’s Skinwalker Ranch. Walter Ha…",
+    "url": "https://www.naturalnews.com/2026-10-27-roswell-witness-describes-alien-bodies-egg-shaped-craft.html",
+    "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/roswell-incident-ufo-witness-alien-bodies-5730-85a5d49c-original.jpg",
+    "source": "Naturalnews.com",
+    "publishedAt": "2026-10-27T06:00:00Z"
+  },
+  {
     "id": "dc97c039",
     "type": "news",
     "title": "Pentagon Releases New UFO Files Detailing Mysterious Black Triangle And Alleged Alien Bodies At Roswell",
@@ -30,16 +40,6 @@
     "publishedAt": "2026-10-23T12:00:00Z"
   },
   {
-    "id": "cfae4965",
-    "type": "news",
-    "title": "The Mind-Weapon Panic: From CIA Psychics and UFOs to AI Apocalypse",
-    "description": "A dubious 1959 story about telepathy aboard a US submarine ignited a Cold War psychic arms race. Now AI insiders warn of human extinction. Alex Kalinin traces how fear, secrecy, and funding feed each other, and how to te…",
-    "url": "https://www.skeptic.com/article/the-mind-weapon-panic-from-cia-psychics-and-ufos-to-ai-apocalypse/",
-    "image": "https://storage.ghost.io/c/36/db/36db2d53-b96a-4b7f-9ea6-1e48a1d7715e/content/images/size/w1200/2026/10/mind_weapon_panic_room.webp",
-    "source": "Skeptic.com",
-    "publishedAt": "2026-10-21T18:17:13Z"
-  },
-  {
     "id": "2df3a4d8",
     "type": "news",
     "title": "Official: Dynamite January 2027 Full Solicits With X-Files 2",
@@ -60,16 +60,6 @@
     "publishedAt": "2026-10-23T16:29:17Z"
   },
   {
-    "id": "b0eff314",
-    "type": "news",
-    "title": "I Did This Without Your Knowledge",
-    "description": "It was fortunate that I was the first one to wake up on 8/1. The past week had been one where sleep was rare. The next year loomed large — I was drea…",
-    "url": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge",
-    "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/v1654295382/new_mississippi_river_fjdmww.jpg",
-    "source": "Lesswrong.com",
-    "publishedAt": "2026-10-23T05:51:45Z"
-  },
-  {
     "id": "851426e3",
     "type": "news",
     "title": "Strange triangular craft reported in new U.S. government UFO release",
@@ -78,6 +68,16 @@
     "image": "https://static.scientificamerican.com/dam/asset/70786ab8-5522-4ed2-a8c2-2bc9d9e7e511/DOW-UAP-PR46-Unresolved-UAP-Report-INDOPACOM-2024.jpg?m=1792781432.491&w=1200",
     "source": "Scientific American",
     "publishedAt": "2026-10-23T18:30:00Z"
+  },
+  {
+    "id": "cfae4965",
+    "type": "news",
+    "title": "The Mind-Weapon Panic: From CIA Psychics and UFOs to AI Apocalypse",
+    "description": "A dubious 1959 story about telepathy aboard a US submarine ignited a Cold War psychic arms race. Now AI insiders warn of human extinction. Alex Kalinin traces how fear, secrecy, and funding feed each other, and how to te…",
+    "url": "https://www.skeptic.com/article/the-mind-weapon-panic-from-cia-psychics-and-ufos-to-ai-apocalypse/",
+    "image": "https://storage.ghost.io/c/36/db/36db2d53-b96a-4b7f-9ea6-1e48a1d7715e/content/images/size/w1200/2026/10/mind_weapon_panic_room.webp",
+    "source": "Skeptic.com",
+    "publishedAt": "2026-10-21T18:17:13Z"
   },
   {
     "id": "96550cda",
