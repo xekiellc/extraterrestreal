@@ -1,5 +1,15 @@
 [
   {
+    "id": "bdc9a34b",
+    "type": "podcast",
+    "title": "UAP Top 10 Episode 6 Need to Know",
+    "description": "UAP TOP 10: THE BIGGEST UAP STORIES OF THE WEEK | EPISODE 6 Welcome to Episode 6 of UAP TOP 10, your weekly ...",
+    "url": "https://www.youtube.com/watch?v=C84lKJWu01w",
+    "image": "https://i.ytimg.com/vi/C84lKJWu01w/hqdefault.jpg",
+    "source": "ANOMALOUS Documentary",
+    "publishedAt": "2026-10-29T20:43:31Z"
+  },
+  {
     "id": "5d62351e",
     "type": "podcast",
     "title": "#77 What Should We Tell The Children? — Need To Know — September 2026",
@@ -18,16 +28,6 @@
     "image": "https://i.ytimg.com/vi/IOZdVCoZ51Q/hqdefault.jpg",
     "source": "NewsNation",
     "publishedAt": "2026-08-09T12:00:06Z"
-  },
-  {
-    "id": "8e0863b1",
-    "type": "podcast",
-    "title": "Bryce Zabel on The Dr. Phil Podcast (Excerpts)",
-    "description": "On July 15, Sound, Light & Frequency co-host Bryce Zabel joined former Deputy Assistant Secretary of Defense for Intelligence ...",
-    "url": "https://www.youtube.com/watch?v=QscaracBciE",
-    "image": "https://i.ytimg.com/vi/QscaracBciE/hqdefault.jpg",
-    "source": "Stellar Productions",
-    "publishedAt": "2026-07-18T21:47:56Z"
   },
   {
     "id": "3a011119",
