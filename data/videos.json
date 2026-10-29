@@ -1,5 +1,15 @@
 [
   {
+    "id": "dcae1402",
+    "type": "video",
+    "title": "UAP Top 10 Episode 6 Reality Check",
+    "description": "UAP TOP 10: THE BIGGEST UAP STORIES OF THE WEEK | EPISODE 6 Welcome to Episode 6 of UAP TOP 10, your weekly ...",
+    "url": "https://www.youtube.com/watch?v=SqB8vWJPOTg",
+    "image": "https://i.ytimg.com/vi/SqB8vWJPOTg/hqdefault.jpg",
+    "source": "ANOMALOUS Documentary",
+    "publishedAt": "2026-10-29T13:57:59Z"
+  },
+  {
     "id": "ce7ab111",
     "type": "video",
     "title": "UUAP Top 10 Episode 6 Avi Loeb",
@@ -20,16 +30,6 @@
     "publishedAt": "2026-10-28T13:34:42Z"
   },
   {
-    "id": "443cd6d9",
-    "type": "video",
-    "title": "Why the Pentagon&#39;s Skinwalker Report Matches the Books #Shorts",
-    "description": "The Pentagon's Skinwalker Ranch report reads almost exactly like the books about the ranch. Journalist George Knapp, co-author ...",
-    "url": "https://www.youtube.com/watch?v=c4q3_pQ9onM",
-    "image": "https://i.ytimg.com/vi/c4q3_pQ9onM/hqdefault.jpg",
-    "source": "Archive of the Unidentified",
-    "publishedAt": "2026-10-27T00:45:38Z"
-  },
-  {
     "id": "5b393890",
     "type": "video",
     "title": "🚨 Ross Coulthart: “What the F*** Is Going On?”🚨",
@@ -48,16 +48,6 @@
     "image": "https://i.ytimg.com/vi/nfqwtMYBZHw/hqdefault.jpg",
     "source": "NewsNation",
     "publishedAt": "2026-10-26T15:00:21Z"
-  },
-  {
-    "id": "3824a1a1",
-    "type": "video",
-    "title": "Ross Coulthart on new UFO files: Pentagon &#39;knows the answer&#39; | NewsNation Prime",
-    "description": "NewsNation special correspondent and investigative journalist Ross Coulthart discusses the latest release of government UFO ...",
-    "url": "https://www.youtube.com/watch?v=QopZwWRTVyU",
-    "image": "https://i.ytimg.com/vi/QopZwWRTVyU/hqdefault.jpg",
-    "source": "NewsNation",
-    "publishedAt": "2026-10-26T02:55:01Z"
   },
   {
     "id": "35fefc78",
@@ -140,14 +130,24 @@
     "publishedAt": "2026-10-27T21:12:04Z"
   },
   {
-    "id": "c7d60f10",
+    "id": "18ac2059",
     "type": "video",
-    "title": "The Fake Alien Invasion… It&#39;s Already OPERATIONAL | Dr Steven Greer",
-    "description": "Dr Steven Greer lays out how the fake alien invasion was built, from Wernher von Braun's deathbed warning about 'the last card' ...",
-    "url": "https://www.youtube.com/watch?v=M9lC-NWc0Sw",
-    "image": "https://i.ytimg.com/vi/M9lC-NWc0Sw/hqdefault.jpg",
+    "title": "Reverse Engineered Alien Technology: What the Insiders Saw | Dr Steven Greer",
+    "description": "Dr Steven Greer reveals the insiders who say reverse-engineered alien technology is already flying: Ben Rich's last words about ...",
+    "url": "https://www.youtube.com/watch?v=h4b_TJaN0c8",
+    "image": "https://i.ytimg.com/vi/h4b_TJaN0c8/hqdefault.jpg",
     "source": "Best of Dr Steven Greer",
-    "publishedAt": "2026-10-23T15:00:29Z"
+    "publishedAt": "2026-10-26T16:00:24Z"
+  },
+  {
+    "id": "03b7eda5",
+    "type": "video",
+    "title": "NASIC - Air Force UFO Crash Retrieval &amp; Reverse Engineering",
+    "description": "An exploration of the National Air and Space Intelligence Center (NASIC), the Air Force's primary intelligence center for scientific ...",
+    "url": "https://www.youtube.com/watch?v=3ghztFdMnmw",
+    "image": "https://i.ytimg.com/vi/3ghztFdMnmw/hqdefault.jpg",
+    "source": "UAP Gerb",
+    "publishedAt": "2026-10-23T19:34:30Z"
   },
   {
     "id": "85421256",
@@ -168,16 +168,6 @@
     "image": "https://i.ytimg.com/vi/OwksWJifxYk/hqdefault.jpg",
     "source": "Area52",
     "publishedAt": "2026-08-28T16:00:30Z"
-  },
-  {
-    "id": "f8c5ef93",
-    "type": "video",
-    "title": "The MITRE Corporation - UFO Reverse Engineering, USO Tracking, &amp; Legacy Programs",
-    "description": "An exploration into the MITRE Corporation, referred to as \"the most important company you've never heard of.\" Since its inception ...",
-    "url": "https://www.youtube.com/watch?v=107BtDYhTkA",
-    "image": "https://i.ytimg.com/vi/107BtDYhTkA/hqdefault.jpg",
-    "source": "UAP Gerb",
-    "publishedAt": "2026-08-07T18:30:52Z"
   },
   {
     "id": "52334c6a",
@@ -238,5 +228,15 @@
     "image": "https://i.ytimg.com/vi/_8I-p0Ihdmk/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2023-03-17T04:15:18Z"
+  },
+  {
+    "id": "1239e4cd",
+    "type": "video",
+    "title": "Bob Lazar Said It First: 1989 vs 2023 #Shorts",
+    "description": "Bob Lazar's 1989 Area 51 claims vs David Grusch's 2023 Congress testimony: same story, 34 years apart. Full video on the ...",
+    "url": "https://www.youtube.com/watch?v=KnQoIwMTjcg",
+    "image": "https://i.ytimg.com/vi/KnQoIwMTjcg/hqdefault.jpg",
+    "source": "Archive of the Unidentified",
+    "publishedAt": "2026-10-28T00:55:48Z"
   }
 ]
