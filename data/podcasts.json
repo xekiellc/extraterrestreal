@@ -30,36 +30,6 @@
     "publishedAt": "2026-07-18T21:47:56Z"
   },
   {
-    "id": "3a011119",
-    "type": "podcast",
-    "title": "UAP Top 10 Episode 6 That UFO Podcast",
-    "description": "UAP TOP 10: THE BIGGEST UAP STORIES OF THE WEEK | EPISODE 6 Welcome to Episode 6 of UAP TOP 10, your weekly ...",
-    "url": "https://www.youtube.com/watch?v=dvrUF34yS3Q",
-    "image": "https://i.ytimg.com/vi/dvrUF34yS3Q/hqdefault.jpg",
-    "source": "ANOMALOUS Documentary",
-    "publishedAt": "2026-10-28T13:34:42Z"
-  },
-  {
-    "id": "be259d3b",
-    "type": "podcast",
-    "title": "UAP Top 10 Episode 6 Shawn Ryan",
-    "description": "UAP TOP 10: THE BIGGEST UAP STORIES OF THE WEEK | EPISODE 6 Welcome to Episode 6 of UAP TOP 10, your weekly ...",
-    "url": "https://www.youtube.com/watch?v=LYkdIxTmD-4",
-    "image": "https://i.ytimg.com/vi/LYkdIxTmD-4/hqdefault.jpg",
-    "source": "ANOMALOUS Documentary",
-    "publishedAt": "2026-10-28T13:31:49Z"
-  },
-  {
-    "id": "c13426bc",
-    "type": "podcast",
-    "title": "Why Is Dr. Phil Seeing UFO Footage Before Scientists?",
-    "description": "Dr. Phil sees UFO footage before the scientists tasked with investigating the subject. Garry Nolan's comments raise a bigger ...",
-    "url": "https://www.youtube.com/watch?v=VYi817kPeWo",
-    "image": "https://i.ytimg.com/vi/VYi817kPeWo/hqdefault.jpg",
-    "source": "That UFO Podcast",
-    "publishedAt": "2026-10-19T20:15:21Z"
-  },
-  {
     "id": "0a82ac7e",
     "type": "podcast",
     "title": "WE WON BEST UFO PODCAST TWO YEARS IN A ROW! 🏆",
@@ -198,5 +168,15 @@
     "image": "https://i.ytimg.com/vi/OwksWJifxYk/hqdefault.jpg",
     "source": "Area52",
     "publishedAt": "2026-08-28T16:00:30Z"
+  },
+  {
+    "id": "c7b9d620",
+    "type": "podcast",
+    "title": "&quot;I Was Inside A UFO.&quot; | Area 51 Whistleblower Bob Lazar",
+    "description": "Bob Lazar says that between December 1988 and April 1989 he worked as a senior staff physicist at S4, a facility built into a ...",
+    "url": "https://www.youtube.com/watch?v=PHoU0wxVF9Q",
+    "image": "https://i.ytimg.com/vi/PHoU0wxVF9Q/hqdefault.jpg",
+    "source": "GSP Podcast",
+    "publishedAt": "2026-08-04T16:00:06Z"
   }
 ]
