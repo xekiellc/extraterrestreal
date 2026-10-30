@@ -1,5 +1,35 @@
 [
   {
+    "id": "bdc9a34b",
+    "type": "podcast",
+    "title": "UAP Top 10 Episode 6 Need to Know",
+    "description": "UAP TOP 10: THE BIGGEST UAP STORIES OF THE WEEK | EPISODE 6 Welcome to Episode 6 of UAP TOP 10, your weekly ...",
+    "url": "https://www.youtube.com/watch?v=C84lKJWu01w",
+    "image": "https://i.ytimg.com/vi/C84lKJWu01w/hqdefault.jpg",
+    "source": "ANOMALOUS Documentary",
+    "publishedAt": "2026-10-29T20:43:31Z"
+  },
+  {
+    "id": "5d62351e",
+    "type": "podcast",
+    "title": "#77 What Should We Tell The Children? — Need To Know — September 2026",
+    "description": "How should we talk to children about UFOs, unexplained phenomena, and other sensitive subjects? In this episode of Need To ...",
+    "url": "https://www.youtube.com/watch?v=vzLoTaxVmNE",
+    "image": "https://i.ytimg.com/vi/vzLoTaxVmNE/hqdefault.jpg",
+    "source": "Stellar Productions",
+    "publishedAt": "2026-09-06T15:48:09Z"
+  },
+  {
+    "id": "ffa9b02b",
+    "type": "podcast",
+    "title": "Ross Coulthart Q&amp;A: Skywatcher didn&#39;t disappear — it went government | Reality Check",
+    "description": "If you're ever injured in an accident, you can check out Morgan & Morgan. You can start your claim in just a click without having to ...",
+    "url": "https://www.youtube.com/watch?v=IOZdVCoZ51Q",
+    "image": "https://i.ytimg.com/vi/IOZdVCoZ51Q/hqdefault.jpg",
+    "source": "NewsNation",
+    "publishedAt": "2026-08-09T12:00:06Z"
+  },
+  {
     "id": "3a011119",
     "type": "podcast",
     "title": "UAP Top 10 Episode 6 That UFO Podcast",
@@ -60,6 +90,16 @@
     "publishedAt": "2026-10-21T14:00:07Z"
   },
   {
+    "id": "b523dc22",
+    "type": "podcast",
+    "title": "Ep 2373: Mike Ricksecker: Interdimensional Beings",
+    "description": "Tonight, Thursday on FADE to BLACK: Mike Ricksecker joins us for a discussion into interdimensional beings that are using ...",
+    "url": "https://www.youtube.com/watch?v=SvEWEAXPDqo",
+    "image": "https://i.ytimg.com/vi/SvEWEAXPDqo/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-10-30T04:10:01Z"
+  },
+  {
     "id": "bb4c350a",
     "type": "podcast",
     "title": "Ep 2366: Carl Crusher: Calling UFOs",
@@ -80,14 +120,24 @@
     "publishedAt": "2026-10-18T05:42:21Z"
   },
   {
-    "id": "5f6f88a6",
+    "id": "bd562728",
     "type": "podcast",
-    "title": "Ep 2365: Samantha Treasure: Out-of-Body Experiences",
-    "description": "Tonight, Thursday on FADE to BLACK: Samantha Treasure explores the science and mystery of Out-of-Body Experiences ...",
-    "url": "https://www.youtube.com/watch?v=3bDOtfIAYIs",
-    "image": "https://i.ytimg.com/vi/3bDOtfIAYIs/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-10-16T04:05:42Z"
+    "title": "Alien Encounters With The Real Life X-Files Agent - Nick Pope - DEBRIEFED ep. 34",
+    "description": "Subscribe to Artlist (get 2 Months For Free): https://bit.ly/Area52Artlist NEW MERCH! : https://www.area52.shop Patreon Exclusive ...",
+    "url": "https://www.youtube.com/watch?v=B6WFLOIkyho",
+    "image": "https://i.ytimg.com/vi/B6WFLOIkyho/hqdefault.jpg",
+    "source": "Area52",
+    "publishedAt": "2025-04-18T16:00:12Z"
+  },
+  {
+    "id": "65f4e198",
+    "type": "podcast",
+    "title": "The UAP Reality - Daz Smith and Joe Murgia Discuss High Strangeness",
+    "description": "This is a July 7, 2022 discussion with Joe Murgia. Joe is a prominent and cutting-edge UAP researcher with a very informative ...",
+    "url": "https://www.youtube.com/watch?v=p-UVj6mWLWw",
+    "image": "https://i.ytimg.com/vi/p-UVj6mWLWw/hqdefault.jpg",
+    "source": "Down The Rabbit Hole",
+    "publishedAt": "2022-07-08T11:45:07Z"
   },
   {
     "id": "1c3ceeac",
