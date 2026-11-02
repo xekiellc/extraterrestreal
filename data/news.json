@@ -1,5 +1,15 @@
 [
   {
+    "id": "0ddad919",
+    "type": "news",
+    "title": "Former Pentagon UFO chief disputes FBI black triangle sighting, says reports lack evidence",
+    "description": "The former Pentagon UFO office chief says the FBI's triangular object sighting lacks evidence, calling witness credibility a \"classic authority bias.\"",
+    "url": "https://www.foxnews.com/us/former-pentagon-ufo-chief-disputes-fbi-black-triangle-sighting-says-reports-lack-evidence",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/AARO-Latest-File-Drop-001.jpg",
+    "source": "Fox News",
+    "publishedAt": "2026-11-01T11:00:24Z"
+  },
+  {
     "id": "80ccf0e2",
     "type": "news",
     "title": "Dems gearing up to seize UFO disclosure issue from GOP after midterms",
@@ -30,14 +40,14 @@
     "publishedAt": "2026-10-27T06:00:00Z"
   },
   {
-    "id": "dc97c039",
+    "id": "c278ec14",
     "type": "news",
-    "title": "Pentagon Releases New UFO Files Detailing Mysterious Black Triangle And Alleged Alien Bodies At Roswell",
-    "description": "The Pentagon has released a new set of UFO files that add more detail to some long-standing mysteries. Among the revelations are reports of a black triangular craft seen near U.S. military sites and claims about alien bo…",
-    "url": "https://brobible.com/culture/article/pentagon-new-ufo-files-black-triangle-alien-bodies-roswell/",
-    "image": "https://brobible.com/wp-content/uploads/2026/10/black-triangle-ufo.jpg",
-    "source": "BroBible",
-    "publishedAt": "2026-10-26T14:33:46Z"
+    "title": "5 Forgotten 1990s Sci-Fi Shows That Grown ’80s Kids Need to Rediscover in 2026",
+    "description": "Image courtesy of Hasbro The 90s were a fantastic decade for television, and 80s kids had the good fortune of spending their teen years watching it all. That is especially true for science fiction series, of which there …",
+    "url": "http://comicbook.com/tv-shows/list/5-forgotten-1990s-sci-fi-shows-that-grown-80s-kids-need-to-rediscover-in-2026/",
+    "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/05/The-Maximals-in-Beast-Wars-Transformers.jpg?resize=2000,1125",
+    "source": "ComicBook.com",
+    "publishedAt": "2026-11-01T08:20:00Z"
   },
   {
     "id": "ebcb0961",
@@ -58,16 +68,6 @@
     "image": "https://images.americanthinker.com/ll/llo1ymgu3mccioxgcylh_1200.jpeg",
     "source": "Americanthinker.com",
     "publishedAt": "2026-10-28T04:00:00Z"
-  },
-  {
-    "id": "1e5349ad",
-    "type": "news",
-    "title": "‘Allen’ Trailer: First Look at Ludo Studio’s Heartwarming Alien Sci-Fi Comedy Coming to Netflix",
-    "description": "Ludo Studio is moving from 'Bluey' to the big screen with their first-ever live-action feature film, 'Allen,' arriving on Netflix in late 2026.",
-    "url": "https://www.whats-on-netflix.com/news/allen-netflix-movie-release-date/",
-    "image": "https://www.whats-on-netflix.com/wp-content/uploads/2026/02/Allen-Official-Trailer-Netflix-1-55-screenshot.png",
-    "source": "What's on Netflix",
-    "publishedAt": "2026-10-27T21:30:56Z"
   },
   {
     "id": "851426e3",
@@ -138,16 +138,6 @@
     "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/23/d30caa55-8792-4014-8998-8471a8e64661/thumbnail/1200x630/bb789382a0429331e0033a2c642d192f/screenshot-2026-10-23-at-4-18-51-pm.png",
     "source": "CBS News",
     "publishedAt": "2026-10-23T21:02:21Z"
-  },
-  {
-    "id": "1afc708e",
-    "type": "news",
-    "title": "Ex-Pentagon UFO Investigator Alleges 80-Year Alien Cover-Up, Claims US Recovered Crashed Spacecrafts And Non-Human Bodies",
-    "description": "Former Pentagon UFO investigator Jay Stratton claims aliens were recovered alive from the infamous Roswell, New Mexico, crash in 1947, but later died after refusing food and human contact. Stratton was the chief of air a…",
-    "url": "https://brobible.com/culture/article/pentagon-ufo-investigator-recovered-crashed-spacecrafts-non-human-bodies/",
-    "image": "https://brobible.com/wp-content/uploads/2026/10/aliens-roswell.jpg",
-    "source": "BroBible",
-    "publishedAt": "2026-10-14T15:42:11Z"
   },
   {
     "id": "914df7f0",
