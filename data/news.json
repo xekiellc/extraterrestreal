@@ -70,6 +70,16 @@
     "publishedAt": "2026-10-28T04:00:00Z"
   },
   {
+    "id": "f9cd2d61",
+    "type": "news",
+    "title": "Is the truth really out there? Studying UAP sightings",
+    "description": "Seven decades after the first reported sightings of Unidentified Flying Objects, a scientific council is investigating records and video released by the government of Unidentified Anomalous Phenomena (UAPs), to possibly …",
+    "url": "https://www.cbsnews.com/news/is-the-truth-really-out-there-studying-uap-sightings/",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/10/31/92cefc93-e8e5-43f1-bb77-8c7ff3044915/thumbnail/1200x630/1fecf9d18a0a263af523749271a445b1/uaps-top-secret-1280.jpg",
+    "source": "CBS News",
+    "publishedAt": "2026-11-01T14:28:02Z"
+  },
+  {
     "id": "851426e3",
     "type": "news",
     "title": "Strange triangular craft reported in new U.S. government UFO release",
@@ -98,16 +108,6 @@
     "image": "https://brobible.com/wp-content/uploads/2026/10/crashed-ufo-spacecraft-alien-bodies.jpg",
     "source": "BroBible",
     "publishedAt": "2026-10-19T14:19:16Z"
-  },
-  {
-    "id": "34946eb3",
-    "type": "news",
-    "title": "Former Pentagon UAP chief claims to have seen 'non-human beings'",
-    "description": "A series of controversial claims about UFOs and aliens from a top Pentagon official have been raising eyebrows this week. Jay Stratton - once the dire...",
-    "url": "https://www.unexplained-mysteries.com/news/400187/former-pentagon-uap-chief-claims-to-have-seen-non-human-beings",
-    "image": "https://www.unexplained-mysteries.com/images/news_large_retina/news-hq-pentagon-zoom.jpg",
-    "source": "Unexplained-mysteries.com",
-    "publishedAt": "2026-10-19T12:20:32Z"
   },
   {
     "id": "28c7ef61",
@@ -168,15 +168,5 @@
     "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/original-sleestak-costumes-land-lost-143498607.jpg?quality=75&strip=all&w=1200",
     "source": "New York Post",
     "publishedAt": "2026-10-03T15:40:02Z"
-  },
-  {
-    "id": "9527e8b2",
-    "type": "news",
-    "title": "Secret underwater UFO base spanning 'multiple city blocks' exposed in new whistleblower interview",
-    "description": "An Air Force veteran has revealed shocking new details of an alleged underwater invasion the military has known about for years.",
-    "url": "https://www.dailymail.com/sciencetech/article-16175603/secret-underwater-ufo-base-david-grusch.html",
-    "image": "https://i.dailymail.com/1s/2026/10/01/17/111595251-0-image-m-13_1790873681690.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-10-01T17:02:11Z"
   }
 ]
