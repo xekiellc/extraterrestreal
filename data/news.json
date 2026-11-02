@@ -1,5 +1,15 @@
 [
   {
+    "id": "80ccf0e2",
+    "type": "news",
+    "title": "Dems gearing up to seize UFO disclosure issue from GOP after midterms",
+    "description": "House Democrats plan to form a UFO caucus to take over transparency efforts from the GOP if they win the House, Rep. Andre Carson says.",
+    "url": "https://nypost.com/2026/10/31/us-news/democrats-plot-taking-ufo-disclosure-issue-from-gop-after-midterms/",
+    "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146999096.jpg?quality=75&strip=all&w=1200",
+    "source": "New York Post",
+    "publishedAt": "2026-11-01T02:00:17Z"
+  },
+  {
     "id": "1d6a6695",
     "type": "news",
     "title": "Seeing Things",
@@ -28,16 +38,6 @@
     "image": "https://brobible.com/wp-content/uploads/2026/10/black-triangle-ufo.jpg",
     "source": "BroBible",
     "publishedAt": "2026-10-26T14:33:46Z"
-  },
-  {
-    "id": "46f2a061",
-    "type": "news",
-    "title": "UFO files detail strange, silent triangular craft: \"Absolute acoustic silence\"",
-    "description": "Federal agents encountered a large aircraft that zoomed across the sky from a standstill while making no noise or giving off any exhaust, according to new files.",
-    "url": "https://www.cbsnews.com/news/ufo-files-pentagon-triangular-craft/",
-    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/23/d30caa55-8792-4014-8998-8471a8e64661/thumbnail/1200x630/bb789382a0429331e0033a2c642d192f/screenshot-2026-10-23-at-4-18-51-pm.png",
-    "source": "CBS News",
-    "publishedAt": "2026-10-23T21:02:21Z"
   },
   {
     "id": "ebcb0961",
@@ -128,6 +128,16 @@
     "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/AARO-Latest-File-Drop-001.jpg",
     "source": "Fox News",
     "publishedAt": "2026-10-25T10:00:43Z"
+  },
+  {
+    "id": "46f2a061",
+    "type": "news",
+    "title": "UFO files detail strange, silent triangular craft: \"Absolute acoustic silence\"",
+    "description": "Federal agents encountered a large aircraft that zoomed across the sky from a standstill while making no noise or giving off any exhaust, according to new files.",
+    "url": "https://www.cbsnews.com/news/ufo-files-pentagon-triangular-craft/",
+    "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/10/23/d30caa55-8792-4014-8998-8471a8e64661/thumbnail/1200x630/bb789382a0429331e0033a2c642d192f/screenshot-2026-10-23-at-4-18-51-pm.png",
+    "source": "CBS News",
+    "publishedAt": "2026-10-23T21:02:21Z"
   },
   {
     "id": "1afc708e",
