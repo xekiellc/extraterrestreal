@@ -120,6 +120,16 @@
     "publishedAt": "2026-10-26T19:34:46Z"
   },
   {
+    "id": "31cf184f",
+    "type": "video",
+    "title": "외계인을 만나는 2027년",
+    "description": "Russell Crowe believes in full contact by 2027. Well, that's what he's reading anyway.",
+    "url": "https://www.youtube.com/watch?v=rqzWisNWn3M",
+    "image": "https://i.ytimg.com/vi/rqzWisNWn3M/hqdefault.jpg",
+    "source": "그림자단 TeamShadow",
+    "publishedAt": "2026-11-04T08:00:32Z"
+  },
+  {
     "id": "0cec0f7c",
     "type": "video",
     "title": "Art Bell: Who Shut Down the Nuclear Missiles? UFO Claims with Dr. Steven Greer.",
@@ -138,16 +148,6 @@
     "image": "https://i.ytimg.com/vi/Pmdt9BOFuJE/hqdefault.jpg",
     "source": "CFM-罕",
     "publishedAt": "2026-11-03T13:13:28Z"
-  },
-  {
-    "id": "277d8f4a",
-    "type": "video",
-    "title": "Dr. Steven Greer BOMBSHELL: Aliens Are Fake! UFOs Are Man-Made!",
-    "description": "What if some of the most famous UFO sightings, military encounters and alleged alien abductions in history weren't extraterrestrial ...",
-    "url": "https://www.youtube.com/watch?v=bKF_oVXFvSw",
-    "image": "https://i.ytimg.com/vi/bKF_oVXFvSw/hqdefault.jpg",
-    "source": "The Avondale Project",
-    "publishedAt": "2026-11-02T21:56:13Z"
   },
   {
     "id": "03b7eda5",
@@ -210,16 +210,6 @@
     "publishedAt": "2025-10-31T00:00:06Z"
   },
   {
-    "id": "6a06ccf7",
-    "type": "video",
-    "title": "CONGRESS CAUGHT IN MASSIVE UFO FLIP",
-    "description": "Cristina Gomez reviews the latest UFO / UAP news and covers Anna Paulina Luna's surprising public endorsement of AARO ...",
-    "url": "https://www.youtube.com/watch?v=7Jc9q9u6SBQ",
-    "image": "https://i.ytimg.com/vi/7Jc9q9u6SBQ/hqdefault.jpg",
-    "source": "Cristina Gomez",
-    "publishedAt": "2026-05-16T21:29:36Z"
-  },
-  {
     "id": "78b6ecc5",
     "type": "video",
     "title": "UFOs - They Lost Time",
@@ -238,5 +228,15 @@
     "image": "https://i.ytimg.com/vi/_8I-p0Ihdmk/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2023-03-17T04:15:18Z"
+  },
+  {
+    "id": "43ddc57a",
+    "type": "video",
+    "title": "2022 WRAP UP - And review of Missing 411 The UFO Connection",
+    "description": "SHIFTING THE PARADIGM PLAYLIST - https://www.youtube.com/playlist?list=PLneWjPNXc1RwPk7mA_1fMCzLrG0s3j2wT A ...",
+    "url": "https://www.youtube.com/watch?v=FLcuq9p5akY",
+    "image": "https://i.ytimg.com/vi/FLcuq9p5akY/hqdefault.jpg",
+    "source": "Cristina Gomez",
+    "publishedAt": "2022-12-28T03:47:10Z"
   }
 ]
