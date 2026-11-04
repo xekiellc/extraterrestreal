@@ -1,5 +1,15 @@
 [
   {
+    "id": "125e71fa",
+    "type": "video",
+    "title": "UAP Top 10 Brandon Fugal",
+    "description": "UAP TOP 10: THE BIGGEST UAP STORIES OF THE WEEK | EPISODE 7 Welcome to Episode 7 of UAP TOP 10, your weekly ...",
+    "url": "https://www.youtube.com/watch?v=jFWrbTW75Vc",
+    "image": "https://i.ytimg.com/vi/jFWrbTW75Vc/hqdefault.jpg",
+    "source": "ANOMALOUS Documentary",
+    "publishedAt": "2026-11-04T19:49:22Z"
+  },
+  {
     "id": "baecdd2f",
     "type": "video",
     "title": "UAP Top 10 Tim Gallaudet",
@@ -18,16 +28,6 @@
     "image": "https://i.ytimg.com/vi/RU1OqWJ87Nk/hqdefault.jpg",
     "source": "ANOMALOUS Documentary",
     "publishedAt": "2026-11-04T00:39:12Z"
-  },
-  {
-    "id": "e8de1bc1",
-    "type": "video",
-    "title": "UAP Top 10 Robert Hastings",
-    "description": "UAP TOP 10: THE BIGGEST UAP STORIES OF THE WEEK | EPISODE 7 Welcome to Episode 7 of UAP TOP 10, your weekly ...",
-    "url": "https://www.youtube.com/watch?v=HsyZfLa75lY",
-    "image": "https://i.ytimg.com/vi/HsyZfLa75lY/hqdefault.jpg",
-    "source": "ANOMALOUS Documentary",
-    "publishedAt": "2026-11-03T19:16:20Z"
   },
   {
     "id": "263726d8",
@@ -60,6 +60,16 @@
     "publishedAt": "2026-11-02T15:06:55Z"
   },
   {
+    "id": "5fdd029b",
+    "type": "video",
+    "title": "Meet The Scientist That Says The Sun Is Alive (And Monitoring Earth!)",
+    "description": "Our American Alchemist this week is Rupert Sheldrake, a biologist, author, and former Cambridge University research fellow best ...",
+    "url": "https://www.youtube.com/watch?v=uvRzhb2Pef4",
+    "image": "https://i.ytimg.com/vi/uvRzhb2Pef4/hqdefault.jpg",
+    "source": "Jesse Michels",
+    "publishedAt": "2026-10-31T20:21:16Z"
+  },
+  {
     "id": "980fc31c",
     "type": "video",
     "title": "There’s A Cosmic War Going On Above Your Head  (Jason Jorjani Part 3)",
@@ -68,16 +78,6 @@
     "image": "https://i.ytimg.com/vi/QjU7FfTcACE/hqdefault.jpg",
     "source": "Jesse Michels",
     "publishedAt": "2026-10-27T18:48:48Z"
-  },
-  {
-    "id": "c6f8d3a6",
-    "type": "video",
-    "title": "This Professor Says the Aliens Are US (But Not How You Think!)",
-    "description": "Main episode with Jeff Kripal: https://www.youtube.com/watch?v=wuVIWaU2k_A Grab Your Alchemy Merchandise!",
-    "url": "https://www.youtube.com/watch?v=GCjlQ_-WYTY",
-    "image": "https://i.ytimg.com/vi/GCjlQ_-WYTY/hqdefault.jpg",
-    "source": "Jesse Michels Clips",
-    "publishedAt": "2026-10-27T16:23:52Z"
   },
   {
     "id": "93b95fcd",
