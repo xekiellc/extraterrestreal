@@ -1,5 +1,15 @@
 [
   {
+    "id": "44f15197",
+    "type": "video",
+    "title": "UAP Top 10 Richard Doland",
+    "description": "UAP TOP 10: THE BIGGEST UAP STORIES OF THE WEEK | EPISODE 7 Welcome to Episode 7 of UAP TOP 10, your weekly ...",
+    "url": "https://www.youtube.com/watch?v=RU1OqWJ87Nk",
+    "image": "https://i.ytimg.com/vi/RU1OqWJ87Nk/hqdefault.jpg",
+    "source": "ANOMALOUS Documentary",
+    "publishedAt": "2026-11-04T00:39:12Z"
+  },
+  {
     "id": "e8de1bc1",
     "type": "video",
     "title": "UAP Top 10 Robert Hastings",
@@ -18,16 +28,6 @@
     "image": "https://i.ytimg.com/vi/rQNRyu-mVBA/hqdefault.jpg",
     "source": "ANOMALOUS Documentary",
     "publishedAt": "2026-11-03T02:15:19Z"
-  },
-  {
-    "id": "8f6b1b8c",
-    "type": "video",
-    "title": "UAP Top 10 Episode 7 Dr. Steven Greer",
-    "description": "UAP TOP 10: THE BIGGEST UAP STORIES OF THE WEEK | EPISODE 7 Welcome to Episode 7 of UAP TOP 10, your weekly ...",
-    "url": "https://www.youtube.com/watch?v=ZvIaXcr-nis",
-    "image": "https://i.ytimg.com/vi/ZvIaXcr-nis/hqdefault.jpg",
-    "source": "ANOMALOUS Documentary",
-    "publishedAt": "2026-11-02T19:21:53Z"
   },
   {
     "id": "3b3c7f8d",
@@ -120,6 +120,16 @@
     "publishedAt": "2026-10-26T19:34:46Z"
   },
   {
+    "id": "0cec0f7c",
+    "type": "video",
+    "title": "Art Bell: Who Shut Down the Nuclear Missiles? UFO Claims with Dr. Steven Greer.",
+    "description": "Who shut down the nuclear missiles—and could UFOs have been involved? Art Bell speaks with Dr. Steven Greer about accounts ...",
+    "url": "https://www.youtube.com/watch?v=to_3C68kAmA",
+    "image": "https://i.ytimg.com/vi/to_3C68kAmA/hqdefault.jpg",
+    "source": "Art Bell Archives",
+    "publishedAt": "2026-11-04T00:27:29Z"
+  },
+  {
     "id": "5182c3e0",
     "type": "video",
     "title": "Art Bell &amp; Dr. Steven Greer: The ET Cover-Up (Full Dark Matter Interview)",
@@ -138,16 +148,6 @@
     "image": "https://i.ytimg.com/vi/bKF_oVXFvSw/hqdefault.jpg",
     "source": "The Avondale Project",
     "publishedAt": "2026-11-02T21:56:13Z"
-  },
-  {
-    "id": "8a726dab",
-    "type": "video",
-    "title": "Dr Steven Greer i tajemnice UFO. Pionier prawdy czy mistrz kontrowersji?",
-    "description": "Kim naprawdę jest dr Steven Greer: pionier ujawniania tajemnic UFO, wizjoner czy mistrz kontrowersji? Poznaj historię człowieka ...",
-    "url": "https://www.youtube.com/watch?v=d7POBYHvSeQ",
-    "image": "https://i.ytimg.com/vi/d7POBYHvSeQ/hqdefault.jpg",
-    "source": "Zanim Zgaśnie Światło",
-    "publishedAt": "2026-11-01T10:30:22Z"
   },
   {
     "id": "03b7eda5",
