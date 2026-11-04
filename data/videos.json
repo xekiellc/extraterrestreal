@@ -1,5 +1,15 @@
 [
   {
+    "id": "baecdd2f",
+    "type": "video",
+    "title": "UAP Top 10 Tim Gallaudet",
+    "description": "UAP TOP 10: THE BIGGEST UAP STORIES OF THE WEEK | EPISODE 7 Welcome to Episode 7 of UAP TOP 10, your weekly ...",
+    "url": "https://www.youtube.com/watch?v=zuAnfK_8hzk",
+    "image": "https://i.ytimg.com/vi/zuAnfK_8hzk/hqdefault.jpg",
+    "source": "ANOMALOUS Documentary",
+    "publishedAt": "2026-11-04T14:47:33Z"
+  },
+  {
     "id": "44f15197",
     "type": "video",
     "title": "UAP Top 10 Richard Doland",
@@ -18,16 +28,6 @@
     "image": "https://i.ytimg.com/vi/HsyZfLa75lY/hqdefault.jpg",
     "source": "ANOMALOUS Documentary",
     "publishedAt": "2026-11-03T19:16:20Z"
-  },
-  {
-    "id": "94d594bd",
-    "type": "video",
-    "title": "UAP Top 10 Danny Sheehan",
-    "description": "UAP TOP 10: THE BIGGEST UAP STORIES OF THE WEEK | EPISODE 7 Welcome to Episode 7 of UAP TOP 10, your weekly ...",
-    "url": "https://www.youtube.com/watch?v=rQNRyu-mVBA",
-    "image": "https://i.ytimg.com/vi/rQNRyu-mVBA/hqdefault.jpg",
-    "source": "ANOMALOUS Documentary",
-    "publishedAt": "2026-11-03T02:15:19Z"
   },
   {
     "id": "3b3c7f8d",
@@ -80,14 +80,14 @@
     "publishedAt": "2026-10-27T16:23:52Z"
   },
   {
-    "id": "93b95fcd",
+    "id": "ed380014",
     "type": "video",
-    "title": "He Knew His Name. His Lips Never Moved. | Nordic Encounter #Shorts",
-    "description": "An original retelling of Brent Friedman's reported encounter on Orcas Island, followed by the separate compound story he says his ...",
-    "url": "https://www.youtube.com/watch?v=AaTiuRkXaC4",
-    "image": "https://i.ytimg.com/vi/AaTiuRkXaC4/hqdefault.jpg",
-    "source": "Beyond the Signal",
-    "publishedAt": "2026-10-26T19:17:15Z"
+    "title": "The Hidden Link Between Mysticism and UFOs",
+    "description": "Dr. Jeffrey Kripal joins Jesse Michels on American Alchemy to discuss the striking parallels between religious ecstasy and ...",
+    "url": "https://www.youtube.com/watch?v=lqY1vO_Bxs4",
+    "image": "https://i.ytimg.com/vi/lqY1vO_Bxs4/hqdefault.jpg",
+    "source": "Mysterious Truths Clips",
+    "publishedAt": "2026-10-22T15:01:32Z"
   },
   {
     "id": "1ec545c7",
