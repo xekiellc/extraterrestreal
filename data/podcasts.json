@@ -60,36 +60,6 @@
     "publishedAt": "2026-10-26T21:45:37Z"
   },
   {
-    "id": "e2793760",
-    "type": "podcast",
-    "title": "Incident 88",
-    "description": "ProjectBlueBook #UFOs #podcast Buried deep within the declassified Project Blue Book files lies a mysterious UFO case known ...",
-    "url": "https://www.youtube.com/watch?v=uZLHIJQwOjM",
-    "image": "https://i.ytimg.com/vi/uZLHIJQwOjM/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-11-02T15:00:06Z"
-  },
-  {
-    "id": "b4aab72e",
-    "type": "podcast",
-    "title": "Love and Saucers | The Bizarre Alien Encounters of David Huggins",
-    "description": "documentary #Aliens #AlienAbduction What happens when a man claims to have spent his entire life in contact with ...",
-    "url": "https://www.youtube.com/watch?v=jRgSddn2xuE",
-    "image": "https://i.ytimg.com/vi/jRgSddn2xuE/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-11-02T14:25:36Z"
-  },
-  {
-    "id": "0a82ac7e",
-    "type": "podcast",
-    "title": "WE WON BEST UFO PODCAST TWO YEARS IN A ROW! 🏆",
-    "description": "WE WON BEST UFO PODCAST TWO YEARS IN A ROW! Somewhere in the Skies has officially been named Best UFO Podcast at ...",
-    "url": "https://www.youtube.com/watch?v=-SVXP-_klqo",
-    "image": "https://i.ytimg.com/vi/-SVXP-_klqo/hqdefault.jpg",
-    "source": "Somewhere in the Skies w/ Ryan Sprague",
-    "publishedAt": "2026-10-24T23:00:34Z"
-  },
-  {
     "id": "b523dc22",
     "type": "podcast",
     "title": "Ep 2373: Mike Ricksecker: Interdimensional Beings",
@@ -198,5 +168,15 @@
     "image": "https://i.ytimg.com/vi/OwksWJifxYk/hqdefault.jpg",
     "source": "Area52",
     "publishedAt": "2026-08-28T16:00:30Z"
+  },
+  {
+    "id": "c7b9d620",
+    "type": "podcast",
+    "title": "&quot;I Was Inside A UFO.&quot; | Area 51 Whistleblower Bob Lazar",
+    "description": "Bob Lazar says that between December 1988 and April 1989 he worked as a senior staff physicist at S4, a facility built into a ...",
+    "url": "https://www.youtube.com/watch?v=PHoU0wxVF9Q",
+    "image": "https://i.ytimg.com/vi/PHoU0wxVF9Q/hqdefault.jpg",
+    "source": "GSP Podcast",
+    "publishedAt": "2026-08-04T16:00:06Z"
   }
 ]
