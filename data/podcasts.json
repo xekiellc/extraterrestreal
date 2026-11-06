@@ -30,6 +30,36 @@
     "publishedAt": "2026-08-09T12:00:06Z"
   },
   {
+    "id": "3a011119",
+    "type": "podcast",
+    "title": "UAP Top 10 Episode 6 That UFO Podcast",
+    "description": "UAP TOP 10: THE BIGGEST UAP STORIES OF THE WEEK | EPISODE 6 Welcome to Episode 6 of UAP TOP 10, your weekly ...",
+    "url": "https://www.youtube.com/watch?v=dvrUF34yS3Q",
+    "image": "https://i.ytimg.com/vi/dvrUF34yS3Q/hqdefault.jpg",
+    "source": "ANOMALOUS Documentary",
+    "publishedAt": "2026-10-28T13:34:42Z"
+  },
+  {
+    "id": "be259d3b",
+    "type": "podcast",
+    "title": "UAP Top 10 Episode 6 Shawn Ryan",
+    "description": "UAP TOP 10: THE BIGGEST UAP STORIES OF THE WEEK | EPISODE 6 Welcome to Episode 6 of UAP TOP 10, your weekly ...",
+    "url": "https://www.youtube.com/watch?v=LYkdIxTmD-4",
+    "image": "https://i.ytimg.com/vi/LYkdIxTmD-4/hqdefault.jpg",
+    "source": "ANOMALOUS Documentary",
+    "publishedAt": "2026-10-28T13:31:49Z"
+  },
+  {
+    "id": "c16af5ff",
+    "type": "podcast",
+    "title": "Eric Burlison, Jake Barber, a Psionics scandal &amp; UFO Luring Operations - Psicoactivo Live #75",
+    "description": "On today's Psicoactivo Live, I'm joined by Andy of That UFO Podcast to discuss everything that's happened over the weekend.",
+    "url": "https://www.youtube.com/watch?v=SQbHiDzZeVU",
+    "image": "https://i.ytimg.com/vi/SQbHiDzZeVU/hqdefault.jpg",
+    "source": "Psicoactivo Podcast",
+    "publishedAt": "2026-10-26T21:45:37Z"
+  },
+  {
     "id": "2bd501e8",
     "type": "podcast",
     "title": "The U.S. Midterms, Disclosure, and Stories from Somewhere in the Skies",
@@ -60,6 +90,16 @@
     "publishedAt": "2026-10-24T23:00:34Z"
   },
   {
+    "id": "16390cd1",
+    "type": "podcast",
+    "title": "Ep 2377: Caroline Cory: Film: Superhuman 2",
+    "description": "Tonight, Thursday on FADE to BLACK: Caroline Cory will talk about her new film, Superhuman 2: The Rebirth. She'll explore ...",
+    "url": "https://www.youtube.com/watch?v=pueVd0iPJks",
+    "image": "https://i.ytimg.com/vi/pueVd0iPJks/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-11-06T05:05:41Z"
+  },
+  {
     "id": "b523dc22",
     "type": "podcast",
     "title": "Ep 2373: Mike Ricksecker: Interdimensional Beings",
@@ -78,16 +118,6 @@
     "image": "https://i.ytimg.com/vi/aNHuJeh33y4/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2026-10-24T07:01:23Z"
-  },
-  {
-    "id": "bfa6559c",
-    "type": "podcast",
-    "title": "FADE to BLACK 2340 Daniel Branco",
-    "description": "Jimmy Church: host of FADE to BLACK, Into the Vortex, and Beyond Belief bringing you all of the knowledge you need... Watch ...",
-    "url": "https://www.youtube.com/watch?v=qdyf6ROVsfA",
-    "image": "https://i.ytimg.com/vi/qdyf6ROVsfA/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-10-23T22:19:34Z"
   },
   {
     "id": "f35df76f",
@@ -168,15 +198,5 @@
     "image": "https://i.ytimg.com/vi/OwksWJifxYk/hqdefault.jpg",
     "source": "Area52",
     "publishedAt": "2026-08-28T16:00:30Z"
-  },
-  {
-    "id": "c7b9d620",
-    "type": "podcast",
-    "title": "&quot;I Was Inside A UFO.&quot; | Area 51 Whistleblower Bob Lazar",
-    "description": "Bob Lazar says that between December 1988 and April 1989 he worked as a senior staff physicist at S4, a facility built into a ...",
-    "url": "https://www.youtube.com/watch?v=PHoU0wxVF9Q",
-    "image": "https://i.ytimg.com/vi/PHoU0wxVF9Q/hqdefault.jpg",
-    "source": "GSP Podcast",
-    "publishedAt": "2026-08-04T16:00:06Z"
   }
 ]
