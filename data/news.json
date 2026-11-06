@@ -40,6 +40,16 @@
     "publishedAt": "2026-10-27T06:00:00Z"
   },
   {
+    "id": "9363f38c",
+    "type": "news",
+    "title": "Mysterious 'UFO' spotted in NASA video sparks claim space station narrowly escaped collision",
+    "description": "A strange object has been spotted in a NASA video, leading to claims that astronauts on the International Space Station were nearly involved in a fatal collision.",
+    "url": "https://www.dailymail.com/sciencetech/article-16266345/nasa-space-station-ufo-sighting.html",
+    "image": "https://i.dailymail.com/1s/2026/11/04/21/112306853-0-image-m-36_1793827207573.jpg",
+    "source": "Dailymail.com",
+    "publishedAt": "2026-11-05T05:22:26Z"
+  },
+  {
     "id": "c278ec14",
     "type": "news",
     "title": "5 Forgotten 1990s Sci-Fi Shows That Grown ’80s Kids Need to Rediscover in 2026",
@@ -58,16 +68,6 @@
     "image": "https://i.dailymail.com/1s/2026/10/29/18/112178221-0-image-m-27_1793299960170.jpg",
     "source": "Dailymail.com",
     "publishedAt": "2026-10-30T03:14:57Z"
-  },
-  {
-    "id": "ba42f1d0",
-    "type": "news",
-    "title": "Angels, aliens, and answers",
-    "description": "By Greg MarescaA book review of Derrick Warfel’s new book, “UFOS and GOD.”",
-    "url": "https://www.americanthinker.com/blog/2026/10/angels-aliens-and-answers/",
-    "image": "https://images.americanthinker.com/ll/llo1ymgu3mccioxgcylh_1200.jpeg",
-    "source": "Americanthinker.com",
-    "publishedAt": "2026-10-28T04:00:00Z"
   },
   {
     "id": "f9cd2d61",
