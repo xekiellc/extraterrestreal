@@ -100,16 +100,6 @@
     "publishedAt": "2026-11-06T05:05:41Z"
   },
   {
-    "id": "08cade53",
-    "type": "podcast",
-    "title": "Ep 2375: Tue: Jen Kruse and Jena Grover: The She-Squatchers!",
-    "description": "Tonight, Tuesday on FADE to BLACK: Join the She-Squatchers for an extraordinary Bigfoot journey through Northern Minnesota, ...",
-    "url": "https://www.youtube.com/watch?v=u3cizoeQPok",
-    "image": "https://i.ytimg.com/vi/u3cizoeQPok/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-11-04T05:07:54Z"
-  },
-  {
     "id": "b523dc22",
     "type": "podcast",
     "title": "Ep 2373: Mike Ricksecker: Interdimensional Beings",
@@ -118,6 +108,16 @@
     "image": "https://i.ytimg.com/vi/SvEWEAXPDqo/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2026-10-30T04:10:01Z"
+  },
+  {
+    "id": "9fc50030",
+    "type": "podcast",
+    "title": "F2B Podcast 2: One Take No Edits: &#39;Entropy&#39;",
+    "description": "Conscious Life Expo https://consciouslifeexpo.com/ Contact Modalities Expo https://www.contactmodalitiesxpo.com/ Contact in the ...",
+    "url": "https://www.youtube.com/watch?v=aNHuJeh33y4",
+    "image": "https://i.ytimg.com/vi/aNHuJeh33y4/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-10-24T07:01:23Z"
   },
   {
     "id": "f35df76f",
