@@ -30,6 +30,16 @@
     "publishedAt": "2026-11-06T16:09:34Z"
   },
   {
+    "id": "aaab3128",
+    "type": "video",
+    "title": "UAP: Coulthart Says Whistleblowers Have One Protected Door",
+    "description": "Will a whistleblower use the one protected door? UAP NEWS: Ross Coulthart's Reality Check Q&A aired today with his claim that ...",
+    "url": "https://www.youtube.com/watch?v=1bSWejmuYh8",
+    "image": "https://i.ytimg.com/vi/1bSWejmuYh8/hqdefault.jpg",
+    "source": "NerdHub",
+    "publishedAt": "2026-11-08T20:38:29Z"
+  },
+  {
     "id": "bd832830",
     "type": "video",
     "title": "Ross Coulthart Q&amp;A: UFO crashes, the &#39;face on Mars&#39; and US midterm elections | Reality Check",
@@ -48,16 +58,6 @@
     "image": "https://i.ytimg.com/vi/fPj2gv56eow/hqdefault.jpg",
     "source": "TheTruthisOutThere",
     "publishedAt": "2026-11-08T10:04:04Z"
-  },
-  {
-    "id": "d5d0a0eb",
-    "type": "video",
-    "title": "Inside the Pentagon&#39;s UFO Office | Reality Check",
-    "description": "In this episode of Reality Check, Ross Coulthart sits down with physicist Dr. Randy Bostick, former science advisor to the ...",
-    "url": "https://www.youtube.com/watch?v=lfoX8YygksQ",
-    "image": "https://i.ytimg.com/vi/lfoX8YygksQ/hqdefault.jpg",
-    "source": "NewsNation",
-    "publishedAt": "2026-11-03T22:02:56Z"
   },
   {
     "id": "7037ebfd",
@@ -140,14 +140,14 @@
     "publishedAt": "2026-11-04T08:00:32Z"
   },
   {
-    "id": "0cec0f7c",
+    "id": "5182c3e0",
     "type": "video",
-    "title": "Art Bell: Who Shut Down the Nuclear Missiles? UFO Claims with Dr. Steven Greer.",
-    "description": "Who shut down the nuclear missiles—and could UFOs have been involved? Art Bell speaks with Dr. Steven Greer about accounts ...",
-    "url": "https://www.youtube.com/watch?v=to_3C68kAmA",
-    "image": "https://i.ytimg.com/vi/to_3C68kAmA/hqdefault.jpg",
-    "source": "Art Bell Archives",
-    "publishedAt": "2026-11-04T00:27:29Z"
+    "title": "Art Bell &amp; Dr. Steven Greer: The ET Cover-Up (Full Dark Matter Interview)",
+    "description": "Legendary late-night host Art Bell talks with Dr. Steven Greer, founder of The Disclosure Project and CSETI, about UFOs, ...",
+    "url": "https://www.youtube.com/watch?v=Pmdt9BOFuJE",
+    "image": "https://i.ytimg.com/vi/Pmdt9BOFuJE/hqdefault.jpg",
+    "source": "CFM-罕",
+    "publishedAt": "2026-11-03T13:13:28Z"
   },
   {
     "id": "03b7eda5",
