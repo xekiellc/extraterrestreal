@@ -90,6 +90,66 @@
     "publishedAt": "2026-10-24T23:00:34Z"
   },
   {
+    "id": "16390cd1",
+    "type": "podcast",
+    "title": "Ep 2377: Caroline Cory: Film: Superhuman 2",
+    "description": "Tonight, Thursday on FADE to BLACK: Caroline Cory will talk about her new film, Superhuman 2: The Rebirth. She'll explore ...",
+    "url": "https://www.youtube.com/watch?v=pueVd0iPJks",
+    "image": "https://i.ytimg.com/vi/pueVd0iPJks/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-11-06T05:05:41Z"
+  },
+  {
+    "id": "b523dc22",
+    "type": "podcast",
+    "title": "Ep 2373: Mike Ricksecker: Interdimensional Beings",
+    "description": "Tonight, Thursday on FADE to BLACK: Mike Ricksecker joins us for a discussion into interdimensional beings that are using ...",
+    "url": "https://www.youtube.com/watch?v=SvEWEAXPDqo",
+    "image": "https://i.ytimg.com/vi/SvEWEAXPDqo/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-10-30T04:10:01Z"
+  },
+  {
+    "id": "9fc50030",
+    "type": "podcast",
+    "title": "F2B Podcast 2: One Take No Edits: &#39;Entropy&#39;",
+    "description": "Conscious Life Expo https://consciouslifeexpo.com/ Contact Modalities Expo https://www.contactmodalitiesxpo.com/ Contact in the ...",
+    "url": "https://www.youtube.com/watch?v=aNHuJeh33y4",
+    "image": "https://i.ytimg.com/vi/aNHuJeh33y4/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-10-24T07:01:23Z"
+  },
+  {
+    "id": "f35df76f",
+    "type": "podcast",
+    "title": "Uncovering High Strangeness: My Full Investigative Workflow",
+    "description": "Join me as I pull back the curtain on the 64 paranormal investigation and 50 ufo investigation process here at Backwoods Signal.",
+    "url": "https://www.youtube.com/watch?v=p3rwwNTFUHw",
+    "image": "https://i.ytimg.com/vi/p3rwwNTFUHw/hqdefault.jpg",
+    "source": "Backwoods Signal ",
+    "publishedAt": "2026-07-05T14:36:01Z"
+  },
+  {
+    "id": "a4727c28",
+    "type": "podcast",
+    "title": "A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups",
+    "description": "Payne Lindsey is an investigative filmmaker and podcaster known for hosting hit the true crime series including “Up and ...",
+    "url": "https://www.youtube.com/watch?v=bmJ2Eg9YDK4",
+    "image": "https://i.ytimg.com/vi/bmJ2Eg9YDK4/hqdefault.jpg",
+    "source": "IRONCLAD",
+    "publishedAt": "2026-06-03T21:30:06Z"
+  },
+  {
+    "id": "bc3957b4",
+    "type": "podcast",
+    "title": "Alien Encounters, Mutilations, &amp; The Paranormal w/ Payne Lindsey | EP. 180 | Ninjas Are Butterflies",
+    "description": "Payne Lindsey from High Strange joins Ninjas Are Butterflies for an exclusive deep dive into the strange, the unexplained, and ...",
+    "url": "https://www.youtube.com/watch?v=0aqTXgilkEU",
+    "image": "https://i.ytimg.com/vi/0aqTXgilkEU/hqdefault.jpg",
+    "source": "Ninjas Are Butterflies ",
+    "publishedAt": "2026-02-06T11:00:02Z"
+  },
+  {
     "id": "1c3ceeac",
     "type": "podcast",
     "title": "Episode #1 - British UFO Cases, The Calvine Photo, Orbs &amp; Disclosure | Chat With Vinnie Adams",
@@ -118,5 +178,25 @@
     "image": "https://i.ytimg.com/vi/4_emXhrdD1w/hqdefault.jpg",
     "source": "NIGHT SHIFT",
     "publishedAt": "2026-07-24T20:19:28Z"
+  },
+  {
+    "id": "1f302b65",
+    "type": "podcast",
+    "title": "Joe Rogan Experience #2560 - David Grusch",
+    "description": "David Grusch is a former United States Air Force intelligence officer, former representative of the National Reconnaissance Office ...",
+    "url": "https://www.youtube.com/watch?v=dYPXINFcvmI",
+    "image": "https://i.ytimg.com/vi/dYPXINFcvmI/hqdefault.jpg",
+    "source": "PowerfulJRE",
+    "publishedAt": "2026-09-30T17:00:34Z"
+  },
+  {
+    "id": "3bb3258e",
+    "type": "podcast",
+    "title": "UFO Experts Come Forward (Full Documentary) - IPN LIVE TOUR",
+    "description": "AREA 52 Shop: https://www.area52.shop Patreon Exclusive Content: https://www.patreon.com/Area52investigations Second ...",
+    "url": "https://www.youtube.com/watch?v=OwksWJifxYk",
+    "image": "https://i.ytimg.com/vi/OwksWJifxYk/hqdefault.jpg",
+    "source": "Area52",
+    "publishedAt": "2026-08-28T16:00:30Z"
   }
 ]
