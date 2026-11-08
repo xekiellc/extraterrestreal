@@ -40,6 +40,16 @@
     "publishedAt": "2026-10-27T06:00:00Z"
   },
   {
+    "id": "85e6e676",
+    "type": "news",
+    "title": "Recasting the Original Men in Black for 2026",
+    "description": "The blockbuster film Men in Black hit theaters on June 2, 1997. The best of the franchise, it centered on agents of the titular secret government organization tasked with policing and covering up extraterrestrial activit…",
+    "url": "http://comicbook.com/movies/list/recasting-the-original-men-in-black-for-2026/",
+    "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/10/men-in-black-1997-movie.jpg?resize=2000,1125",
+    "source": "ComicBook.com",
+    "publishedAt": "2026-11-07T11:13:00Z"
+  },
+  {
     "id": "9363f38c",
     "type": "news",
     "title": "Mysterious 'UFO' spotted in NASA video sparks claim space station narrowly escaped collision",
@@ -58,16 +68,6 @@
     "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/05/The-Maximals-in-Beast-Wars-Transformers.jpg?resize=2000,1125",
     "source": "ComicBook.com",
     "publishedAt": "2026-11-01T08:20:00Z"
-  },
-  {
-    "id": "ebcb0961",
-    "type": "news",
-    "title": "NASA astronaut reveals reason he is convinced aliens exist as he warns of possible war in space",
-    "description": "A veteran NASA astronaut has revealed how he knows there is intelligent life in outer space, and issued a dark warning about a military showdown in orbit.",
-    "url": "https://www.dailymail.com/sciencetech/article-16249871/nasa-astronaut-winston-scott-aliens-space-war.html",
-    "image": "https://i.dailymail.com/1s/2026/10/29/18/112178221-0-image-m-27_1793299960170.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-10-30T03:14:57Z"
   },
   {
     "id": "f9cd2d61",
