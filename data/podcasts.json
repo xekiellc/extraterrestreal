@@ -1,5 +1,15 @@
 [
   {
+    "id": "9d81be29",
+    "type": "podcast",
+    "title": "UAP Top 10 Episode 8 Need to Know",
+    "description": "UAP TOP 10: THE BIGGEST UAP STORIES OF THE WEEK | EPISODE 8 Welcome to Episode 8 of UAP TOP 10, your weekly ...",
+    "url": "https://www.youtube.com/watch?v=Hx_BcESXNME",
+    "image": "https://i.ytimg.com/vi/Hx_BcESXNME/hqdefault.jpg",
+    "source": "ANOMALOUS Documentary",
+    "publishedAt": "2026-11-10T15:10:00Z"
+  },
+  {
     "id": "bdc9a34b",
     "type": "podcast",
     "title": "UAP Top 10 Episode 6 Need to Know",
@@ -20,14 +30,14 @@
     "publishedAt": "2026-09-06T15:48:09Z"
   },
   {
-    "id": "ffa9b02b",
+    "id": "9b1e30e9",
     "type": "podcast",
-    "title": "Ross Coulthart Q&amp;A: Skywatcher didn&#39;t disappear — it went government | Reality Check",
-    "description": "If you're ever injured in an accident, you can check out Morgan & Morgan. You can start your claim in just a click without having to ...",
-    "url": "https://www.youtube.com/watch?v=IOZdVCoZ51Q",
-    "image": "https://i.ytimg.com/vi/IOZdVCoZ51Q/hqdefault.jpg",
-    "source": "NewsNation",
-    "publishedAt": "2026-08-09T12:00:06Z"
+    "title": "Do You Buy Trump’s UFO Answer on 60 Minutes? | Live",
+    "description": "Donald Trump says Air Force pilots told him a round object flew past their F-22 at three times their speed. He's told versions of that ...",
+    "url": "https://www.youtube.com/watch?v=VcCuPAYSY1A",
+    "image": "https://i.ytimg.com/vi/VcCuPAYSY1A/hqdefault.jpg",
+    "source": "That UFO Podcast",
+    "publishedAt": "2026-11-09T22:29:11Z"
   },
   {
     "id": "fa191157",
@@ -48,16 +58,6 @@
     "image": "https://i.ytimg.com/vi/_eKu3FuPa_E/hqdefault.jpg",
     "source": "That UFO Podcast",
     "publishedAt": "2026-11-02T19:00:08Z"
-  },
-  {
-    "id": "3a011119",
-    "type": "podcast",
-    "title": "UAP Top 10 Episode 6 That UFO Podcast",
-    "description": "UAP TOP 10: THE BIGGEST UAP STORIES OF THE WEEK | EPISODE 6 Welcome to Episode 6 of UAP TOP 10, your weekly ...",
-    "url": "https://www.youtube.com/watch?v=dvrUF34yS3Q",
-    "image": "https://i.ytimg.com/vi/dvrUF34yS3Q/hqdefault.jpg",
-    "source": "ANOMALOUS Documentary",
-    "publishedAt": "2026-10-28T13:34:42Z"
   },
   {
     "id": "2bd501e8",

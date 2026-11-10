@@ -1,5 +1,15 @@
 [
   {
+    "id": "466d84e9",
+    "type": "news",
+    "title": "What's Really in the Government's UAP Files?",
+    "description": "A journey inside the \"disclosure\" movement seeking to reveal that the government is hiding alien technology",
+    "url": "https://reason.com/video/2026/11/09/whats-really-in-the-governments-uap-files/",
+    "image": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2026/10/UAP-2.jpg",
+    "source": "Reason",
+    "publishedAt": "2026-11-09T16:30:24Z"
+  },
+  {
     "id": "0ddad919",
     "type": "news",
     "title": "Former Pentagon UFO chief disputes FBI black triangle sighting, says reports lack evidence",
@@ -28,16 +38,6 @@
     "image": "https://richmondmagazine.com/downloads/49207/download/Local_Flashback_RAMarshallJrTHUMBNAIL_MichaelONeil_rp1026.jpg?cb=e154861befb7303db68a624d81675912&w=1200",
     "source": "Richmondmagazine.com",
     "publishedAt": "2026-10-30T13:40:00Z"
-  },
-  {
-    "id": "fddb5177",
-    "type": "news",
-    "title": "Pentagon releases seventh tranche of UFO files; Roswell witness describes alien bodies, egg-shaped craft",
-    "description": "The Department of Defense released its seventh batch of declassified files under the PURSUE program, including documents on the 1947 Roswell incident and reported paranormal activity at Utah’s Skinwalker Ranch. Walter Ha…",
-    "url": "https://www.naturalnews.com/2026-10-27-roswell-witness-describes-alien-bodies-egg-shaped-craft.html",
-    "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/roswell-incident-ufo-witness-alien-bodies-5730-85a5d49c-original.jpg",
-    "source": "Naturalnews.com",
-    "publishedAt": "2026-10-27T06:00:00Z"
   },
   {
     "id": "6012032c",
@@ -70,6 +70,16 @@
     "publishedAt": "2026-11-05T05:22:26Z"
   },
   {
+    "id": "de1076d2",
+    "type": "news",
+    "title": "Trump says Air Force pilots described a round UFO flying three times faster than an F-22 fighter jet",
+    "description": "Trump says Air Force pilots told him a round, non-aerodynamic object flew past an F-22 at three times its speed during a mysterious encounter.",
+    "url": "https://www.foxnews.com/us/trump-air-force-pilots-round-ufo-flying-three-times-faster-f22-fighter-jet",
+    "image": "https://static.foxnews.com/foxnews.com/content/uploads/2025/10/ufo-alien-space-mystery_01.jpg",
+    "source": "Fox News",
+    "publishedAt": "2026-11-09T15:57:34Z"
+  },
+  {
     "id": "f9cd2d61",
     "type": "news",
     "title": "Is the truth really out there? Studying UAP sightings",
@@ -100,13 +110,23 @@
     "publishedAt": "2026-10-21T18:17:13Z"
   },
   {
-    "id": "96550cda",
+    "id": "28c7ef61",
     "type": "news",
-    "title": "Harvard Astrophysicist Challenges Ex-Pentagon UFO Investigator’s Claims Of Recovered Alien Spacecrafts And Non-Human Bodies",
-    "description": "A former Pentagon UFO investigator claims the U.S. has recovered alien spacecraft and non-human bodies (i.e. alien bodies). Harvard astrophysicist Avi Loeb is skeptical of those claims and demands evidence. This is a cur…",
-    "url": "https://brobible.com/culture/article/harvard-astrophysicist-pentagon-ufo-investigators-spacecrafts-bodies/",
-    "image": "https://brobible.com/wp-content/uploads/2026/10/crashed-ufo-spacecraft-alien-bodies.jpg",
-    "source": "BroBible",
-    "publishedAt": "2026-10-19T14:19:16Z"
+    "title": "FBI Agents Witnessed Eerie Silent UFO Over 'National Security Site' In June",
+    "description": "The object went from a hover to the speed of a military fighter jet in a matter of seconds.",
+    "url": "https://www.huffpost.com/entry/ufo-over-national-security-site_n_6adeeee4e4b06b41b48d95d2",
+    "image": "https://img.huffingtonpost.com/asset/6adef4a9140000125be0152f.jpeg?cache=rOh61KfGXs&ops=1200_630",
+    "source": "HuffPost",
+    "publishedAt": "2026-10-26T07:27:32Z"
+  },
+  {
+    "id": "914df7f0",
+    "type": "news",
+    "title": "U.S., China, Russia Face Questions Over UFO Technology Race, Officials Say",
+    "description": "The possibility is drawing renewed attention as lawmakers, former intelligence officials and military veterans warn that Washington could be falling behind its geopolitical rivals in the race to understand mysterious aer…",
+    "url": "https://www.naturalnews.com/2026-10-16-us-china-russia-questions-ufo-technology-race.html",
+    "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/ufo-technology-race-unidentified-flying-objects-uap-5123-fb43272b-original.jpg",
+    "source": "Naturalnews.com",
+    "publishedAt": "2026-10-16T06:00:00Z"
   }
 ]
