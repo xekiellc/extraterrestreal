@@ -90,6 +90,16 @@
     "publishedAt": "2026-10-26T15:00:06Z"
   },
   {
+    "id": "be53bd88",
+    "type": "podcast",
+    "title": "Ep 2378: Derek Condit: The Skagit Triangle",
+    "description": "Tonight, Monday on FADE to BLACK: Derek Condit discusses his Sasquatch encounters, UFO activity, and the mysterious Skagit ...",
+    "url": "https://www.youtube.com/watch?v=SsBprXqoV3Y",
+    "image": "https://i.ytimg.com/vi/SsBprXqoV3Y/hqdefault.jpg",
+    "source": "FADE TO BLACK Radio",
+    "publishedAt": "2026-11-10T05:09:22Z"
+  },
+  {
     "id": "08cade53",
     "type": "podcast",
     "title": "Ep 2375: Tue: Jen Kruse and Jena Grover: The She-Squatchers!",
@@ -108,16 +118,6 @@
     "image": "https://i.ytimg.com/vi/SvEWEAXPDqo/hqdefault.jpg",
     "source": "FADE TO BLACK Radio",
     "publishedAt": "2026-10-30T04:10:01Z"
-  },
-  {
-    "id": "bfa6559c",
-    "type": "podcast",
-    "title": "FADE to BLACK 2340 Daniel Branco",
-    "description": "Jimmy Church: host of FADE to BLACK, Into the Vortex, and Beyond Belief bringing you all of the knowledge you need... Watch ...",
-    "url": "https://www.youtube.com/watch?v=qdyf6ROVsfA",
-    "image": "https://i.ytimg.com/vi/qdyf6ROVsfA/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-10-23T22:19:34Z"
   },
   {
     "id": "eafac7ac",
