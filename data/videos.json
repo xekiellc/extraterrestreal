@@ -30,16 +30,6 @@
     "publishedAt": "2026-11-09T17:55:50Z"
   },
   {
-    "id": "9d81be29",
-    "type": "video",
-    "title": "UAP Top 10 Episode 8 Need to Know",
-    "description": "BRYCE ZABEL & BEN SCHRECKINGER — UFO SECRECY, LOCKHEED MARTIN & THE FIGHT OVER RECOVERED ...",
-    "url": "https://www.youtube.com/watch?v=Hx_BcESXNME",
-    "image": "https://i.ytimg.com/vi/Hx_BcESXNME/hqdefault.jpg",
-    "source": "ANOMALOUS Documentary",
-    "publishedAt": "2026-11-10T15:10:00Z"
-  },
-  {
     "id": "aaab3128",
     "type": "video",
     "title": "UAP: Coulthart Says Whistleblowers Have One Protected Door",
@@ -58,6 +48,16 @@
     "image": "https://i.ytimg.com/vi/7HrPAg2vTeI/hqdefault.jpg",
     "source": "NewsNation",
     "publishedAt": "2026-11-08T13:00:06Z"
+  },
+  {
+    "id": "a26ec070",
+    "type": "video",
+    "title": "Ross Coulthart: The Catch in UFO Whistleblower NDA Waivers #shorts",
+    "description": "Want to blow the whistle on UFOs? There's a catch. In this week's Reality Check Q&A, Ross Coulthart says NDA waivers for ...",
+    "url": "https://www.youtube.com/watch?v=fPj2gv56eow",
+    "image": "https://i.ytimg.com/vi/fPj2gv56eow/hqdefault.jpg",
+    "source": "TheTruthisOutThere",
+    "publishedAt": "2026-11-08T10:04:04Z"
   },
   {
     "id": "9a20280d",
@@ -170,14 +170,14 @@
     "publishedAt": "2026-10-16T13:00:04Z"
   },
   {
-    "id": "3bb3258e",
+    "id": "85421256",
     "type": "video",
-    "title": "UFO Experts Come Forward (Full Documentary) - IPN LIVE TOUR",
-    "description": "AREA 52 Shop: https://www.area52.shop Patreon Exclusive Content: https://www.patreon.com/Area52investigations Second ...",
-    "url": "https://www.youtube.com/watch?v=OwksWJifxYk",
-    "image": "https://i.ytimg.com/vi/OwksWJifxYk/hqdefault.jpg",
-    "source": "Area52",
-    "publishedAt": "2026-08-28T16:00:30Z"
+    "title": "Vetted on whether UFO’s are Aliens, the UAP Gerb Drama &amp; the Psionic Documentary",
+    "description": "In yesterday's livestream, I had the chance to speak with Patrick from Vetted. Follow Vetted on YouTube: ...",
+    "url": "https://www.youtube.com/watch?v=gTpp-mTRcok",
+    "image": "https://i.ytimg.com/vi/gTpp-mTRcok/hqdefault.jpg",
+    "source": "TheSneezingMonkey",
+    "publishedAt": "2026-09-20T19:30:17Z"
   },
   {
     "id": "52334c6a",
