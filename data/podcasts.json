@@ -3,7 +3,7 @@
     "id": "9d81be29",
     "type": "podcast",
     "title": "UAP Top 10 Episode 8 Need to Know",
-    "description": "UAP TOP 10: THE BIGGEST UAP STORIES OF THE WEEK | EPISODE 8 Welcome to Episode 8 of UAP TOP 10, your weekly ...",
+    "description": "BRYCE ZABEL & BEN SCHRECKINGER — UFO SECRECY, LOCKHEED MARTIN & THE FIGHT OVER RECOVERED ...",
     "url": "https://www.youtube.com/watch?v=Hx_BcESXNME",
     "image": "https://i.ytimg.com/vi/Hx_BcESXNME/hqdefault.jpg",
     "source": "ANOMALOUS Documentary",
@@ -43,7 +43,7 @@
     "id": "fa191157",
     "type": "podcast",
     "title": "UAP Top 10 Episode 8 That UFO Podcast",
-    "description": "UAP TOP 10: THE BIGGEST UAP STORIES OF THE WEEK | EPISODE 8 Welcome to Episode 8 of UAP TOP 10, your weekly ...",
+    "description": "ANDY McGRILLEN — MIDTERM ELECTION FALLOUT AND THE FIGHT FOR UAP DISCLOSURE On That UFO Podcast, Andy ...",
     "url": "https://www.youtube.com/watch?v=69um_iT_PG4",
     "image": "https://i.ytimg.com/vi/69um_iT_PG4/hqdefault.jpg",
     "source": "ANOMALOUS Documentary",
@@ -88,66 +88,6 @@
     "image": "https://i.ytimg.com/vi/YTPoqr-OJbA/hqdefault.jpg",
     "source": "Somewhere in the Skies w/ Ryan Sprague",
     "publishedAt": "2026-10-26T15:00:06Z"
-  },
-  {
-    "id": "be53bd88",
-    "type": "podcast",
-    "title": "Ep 2378: Derek Condit: The Skagit Triangle",
-    "description": "Tonight, Monday on FADE to BLACK: Derek Condit discusses his Sasquatch encounters, UFO activity, and the mysterious Skagit ...",
-    "url": "https://www.youtube.com/watch?v=SsBprXqoV3Y",
-    "image": "https://i.ytimg.com/vi/SsBprXqoV3Y/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-11-10T05:09:22Z"
-  },
-  {
-    "id": "08cade53",
-    "type": "podcast",
-    "title": "Ep 2375: Tue: Jen Kruse and Jena Grover: The She-Squatchers!",
-    "description": "Tonight, Tuesday on FADE to BLACK: Join the She-Squatchers for an extraordinary Bigfoot journey through Northern Minnesota, ...",
-    "url": "https://www.youtube.com/watch?v=u3cizoeQPok",
-    "image": "https://i.ytimg.com/vi/u3cizoeQPok/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-11-04T05:07:54Z"
-  },
-  {
-    "id": "b523dc22",
-    "type": "podcast",
-    "title": "Ep 2373: Mike Ricksecker: Interdimensional Beings",
-    "description": "Tonight, Thursday on FADE to BLACK: Mike Ricksecker joins us for a discussion into interdimensional beings that are using ...",
-    "url": "https://www.youtube.com/watch?v=SvEWEAXPDqo",
-    "image": "https://i.ytimg.com/vi/SvEWEAXPDqo/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-10-30T04:10:01Z"
-  },
-  {
-    "id": "eafac7ac",
-    "type": "podcast",
-    "title": "Have You Seen Something in the Sky? Tell Me Your Story",
-    "description": "https://highstrangeness202.wixsite.com/mysite Have you witnessed unexplained aerial phenomena? Share your encounter with ...",
-    "url": "https://www.youtube.com/watch?v=_hXR4nzw73o",
-    "image": "https://i.ytimg.com/vi/_hXR4nzw73o/hqdefault.jpg",
-    "source": "High Strangeness",
-    "publishedAt": "2026-11-03T15:30:12Z"
-  },
-  {
-    "id": "f35df76f",
-    "type": "podcast",
-    "title": "Uncovering High Strangeness: My Full Investigative Workflow",
-    "description": "Join me as I pull back the curtain on the 64 paranormal investigation and 50 ufo investigation process here at Backwoods Signal.",
-    "url": "https://www.youtube.com/watch?v=p3rwwNTFUHw",
-    "image": "https://i.ytimg.com/vi/p3rwwNTFUHw/hqdefault.jpg",
-    "source": "Backwoods Signal ",
-    "publishedAt": "2026-07-05T14:36:01Z"
-  },
-  {
-    "id": "a4727c28",
-    "type": "podcast",
-    "title": "A DARKER Truth Behind UFO Disclosure? Missing Scientists, UFO Files &amp; Government Cover-ups",
-    "description": "Payne Lindsey is an investigative filmmaker and podcaster known for hosting hit the true crime series including “Up and ...",
-    "url": "https://www.youtube.com/watch?v=bmJ2Eg9YDK4",
-    "image": "https://i.ytimg.com/vi/bmJ2Eg9YDK4/hqdefault.jpg",
-    "source": "IRONCLAD",
-    "publishedAt": "2026-06-03T21:30:06Z"
   },
   {
     "id": "1c3ceeac",
@@ -198,5 +138,15 @@
     "image": "https://i.ytimg.com/vi/bhA-E57oQW8/hqdefault.jpg",
     "source": "NewsNation",
     "publishedAt": "2026-07-21T21:00:06Z"
+  },
+  {
+    "id": "7b1955c9",
+    "type": "podcast",
+    "title": "UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic",
+    "description": "Is there life beyond Planet Earth? In this UFOs: Investigating the Unknown Mega Episode from National Geographic, explore the ...",
+    "url": "https://www.youtube.com/watch?v=dDxYZyMEmUU",
+    "image": "https://i.ytimg.com/vi/dDxYZyMEmUU/hqdefault.jpg",
+    "source": "National Geographic",
+    "publishedAt": "2026-06-27T13:00:25Z"
   }
 ]
