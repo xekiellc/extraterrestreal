@@ -40,6 +40,26 @@
     "publishedAt": "2026-10-30T13:40:00Z"
   },
   {
+    "id": "1eee82d9",
+    "type": "news",
+    "title": "The Best Sci-Fi Movies of 2026 (So Far)",
+    "description": "Before Avengers: Doomsday and Dune: Part Three compete at the box office, Godzilla returns to remind everyone why he’s called the “King of the Monsters.”",
+    "url": "https://www.esquire.com/entertainment/movies/a74400891/2026-best-sci-fi-movies/",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/292a672a-5aaa-4ec8-9cc8-26e2f7284f2c.png?crop=0.681xw:0.675xh;0.17xw,0.07xh&resize=1200:*",
+    "source": "esquire.com",
+    "publishedAt": "2026-11-11T18:09:03Z"
+  },
+  {
+    "id": "dbbbf354",
+    "type": "news",
+    "title": "He Thinks Malaysia Air 370 Was Teleported. Thousands of People Believe Him",
+    "description": "Ashton Forbes has found fame on the internet by spreading impossible claims about U.S. military might",
+    "url": "http://www.rollingstone.com/culture/culture-features/malaysia-air-370-conspiracy-theory-ashton-forbes-1235655253/",
+    "image": "https://www.rollingstone.com/wp-content/uploads/2026/11/flight-lead-illo.jpg?crop=0px%2C165px%2C1200px%2C677px&resize=1600%2C900",
+    "source": "Rolling Stone",
+    "publishedAt": "2026-11-11T18:01:13Z"
+  },
+  {
     "id": "6012032c",
     "type": "news",
     "title": "What To Watch This Week: 40+ Premieres, Finales, And More",
@@ -48,26 +68,6 @@
     "image": "https://www.tvline.com/img/gallery/what-to-watch-this-week-40-premieres-finales-and-more/l-intro-1794018421.jpg",
     "source": "TVLine",
     "publishedAt": "2026-11-07T21:00:00Z"
-  },
-  {
-    "id": "85e6e676",
-    "type": "news",
-    "title": "Recasting the Original Men in Black for 2026",
-    "description": "The blockbuster film Men in Black hit theaters on June 2, 1997. The best of the franchise, it centered on agents of the titular secret government organization tasked with policing and covering up extraterrestrial activit…",
-    "url": "http://comicbook.com/movies/list/recasting-the-original-men-in-black-for-2026/",
-    "image": "https://comicbook.com/wp-content/uploads/sites/4/2026/10/men-in-black-1997-movie.jpg?resize=2000,1125",
-    "source": "ComicBook.com",
-    "publishedAt": "2026-11-07T11:13:00Z"
-  },
-  {
-    "id": "9363f38c",
-    "type": "news",
-    "title": "Mysterious 'UFO' spotted in NASA video sparks claim space station narrowly escaped collision",
-    "description": "A strange object has been spotted in a NASA video, leading to claims that astronauts on the International Space Station were nearly involved in a fatal collision.",
-    "url": "https://www.dailymail.com/sciencetech/article-16266345/nasa-space-station-ufo-sighting.html",
-    "image": "https://i.dailymail.com/1s/2026/11/04/21/112306853-0-image-m-36_1793827207573.jpg",
-    "source": "Dailymail.com",
-    "publishedAt": "2026-11-05T05:22:26Z"
   },
   {
     "id": "de1076d2",
