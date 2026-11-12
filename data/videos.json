@@ -120,6 +120,16 @@
     "publishedAt": "2026-10-26T19:34:46Z"
   },
   {
+    "id": "273def1f",
+    "type": "video",
+    "title": "Presidents Who Asked… and the Answer Was a WARNING | Dr Steven Greer",
+    "description": "Dr Steven Greer says the people we elect are often the last to know: a royal family that had to ask, a president refused a UFO ...",
+    "url": "https://www.youtube.com/watch?v=31F29uLJb8Q",
+    "image": "https://i.ytimg.com/vi/31F29uLJb8Q/hqdefault.jpg",
+    "source": "Best of Dr Steven Greer",
+    "publishedAt": "2026-11-10T16:00:35Z"
+  },
+  {
     "id": "14c6df8f",
     "type": "video",
     "title": "Contact Has Begun… and the PHOTO Is Stunning | Dr Steven Greer",
@@ -138,16 +148,6 @@
     "image": "https://i.ytimg.com/vi/rqzWisNWn3M/hqdefault.jpg",
     "source": "그림자단 TeamShadow",
     "publishedAt": "2026-11-04T08:00:32Z"
-  },
-  {
-    "id": "47189f1a",
-    "type": "video",
-    "title": "Art Bell &amp; Steven Greer: UFO Disclosure Project and Government Secrets",
-    "description": "Join Art Bell and Dr. Steven Greer on Coast to Coast AM for a fascinating conversation about UFO disclosure, government secrecy ...",
-    "url": "https://www.youtube.com/watch?v=2zWHuX926cI",
-    "image": "https://i.ytimg.com/vi/2zWHuX926cI/hqdefault.jpg",
-    "source": "Art Bell Archives",
-    "publishedAt": "2026-11-01T00:07:43Z"
   },
   {
     "id": "03b7eda5",
@@ -180,36 +180,6 @@
     "publishedAt": "2026-09-20T19:30:17Z"
   },
   {
-    "id": "52334c6a",
-    "type": "video",
-    "title": "Grusch&#39;s alien claims and reactions from UAP whistleblowers | Backscroll",
-    "description": "A NewsNation compilation examining extraordinary claims, expert reactions and new technologies being used to study ...",
-    "url": "https://www.youtube.com/watch?v=AD12rSZ1K-I",
-    "image": "https://i.ytimg.com/vi/AD12rSZ1K-I/hqdefault.jpg",
-    "source": "NewsNation",
-    "publishedAt": "2026-06-21T18:00:02Z"
-  },
-  {
-    "id": "946149b6",
-    "type": "video",
-    "title": "UFO disclosure push and growing debate over government transparency | Backscroll",
-    "description": "This NewsNation compilation examines bipartisan efforts, whistleblower claims and skepticism surrounding UAP secrecy.",
-    "url": "https://www.youtube.com/watch?v=eNcCmk1rq2Q",
-    "image": "https://i.ytimg.com/vi/eNcCmk1rq2Q/hqdefault.jpg",
-    "source": "NewsNation",
-    "publishedAt": "2026-06-18T18:00:21Z"
-  },
-  {
-    "id": "f5cc1c1f",
-    "type": "video",
-    "title": "#ElizabethVargas Reports on UAP@NewsNation",
-    "description": "Explosive UAP Revelations: New Video Emerges from Congressional Hearing – Elizabeth Vargas Breaks It Down Dive into the ...",
-    "url": "https://www.youtube.com/watch?v=NkmEM_CfYM4",
-    "image": "https://i.ytimg.com/vi/NkmEM_CfYM4/hqdefault.jpg",
-    "source": "#Attikusspeaks #Truth ",
-    "publishedAt": "2025-10-31T00:00:06Z"
-  },
-  {
     "id": "d8bbb390",
     "type": "video",
     "title": "7 Things To Take Away From The Lockheed UFO Fight",
@@ -238,5 +208,35 @@
     "image": "https://i.ytimg.com/vi/FLcuq9p5akY/hqdefault.jpg",
     "source": "Cristina Gomez",
     "publishedAt": "2022-12-28T03:47:10Z"
+  },
+  {
+    "id": "08febd2a",
+    "type": "video",
+    "title": "The David Grusch Files",
+    "description": "Did U.S. personnel encounter seven-foot reptilian beings and deceased grey aliens at a UFO crash site? In his Joe Rogan ...",
+    "url": "https://www.youtube.com/watch?v=KipeGCgpLhQ",
+    "image": "https://i.ytimg.com/vi/KipeGCgpLhQ/hqdefault.jpg",
+    "source": "The Scarecast",
+    "publishedAt": "2026-11-11T00:58:15Z"
+  },
+  {
+    "id": "bbc6516b",
+    "type": "video",
+    "title": "The Whistleblower: David Grusch Under Oath #Shorts",
+    "description": "July 26, 2023. Former Air Force intelligence officer David Grusch testified to the House Oversight Committee, under oath, about a ...",
+    "url": "https://www.youtube.com/watch?v=mnJFdUDDOuk",
+    "image": "https://i.ytimg.com/vi/mnJFdUDDOuk/hqdefault.jpg",
+    "source": "Strangest Things",
+    "publishedAt": "2026-11-10T12:00:28Z"
+  },
+  {
+    "id": "80c86701",
+    "type": "video",
+    "title": "A Secret UFO Program Even Presidents Don&#39;t Know About? #shorts",
+    "description": "Asked about a secret UFO program, the president said: \"If there is I'm gonna find out about it right after this interview.\" Here's the ...",
+    "url": "https://www.youtube.com/watch?v=cdP4P2oQrTQ",
+    "image": "https://i.ytimg.com/vi/cdP4P2oQrTQ/hqdefault.jpg",
+    "source": "Speculative Narratives",
+    "publishedAt": "2026-11-09T18:00:30Z"
   }
 ]
