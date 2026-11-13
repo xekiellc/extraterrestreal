@@ -40,6 +40,16 @@
     "publishedAt": "2026-10-30T13:40:00Z"
   },
   {
+    "id": "db27fee2",
+    "type": "news",
+    "title": "GTA’s Strangest Myths: A Full History",
+    "description": "From bigfoot to the Mount Chilliad mystery, GTA has a long history of urban myths. Before GTA 6 adds more to the list, we investigate the series' most talked-about legends.",
+    "url": "https://www.ign.com/articles/gtas-strangest-myths-a-full-history",
+    "image": "https://assets-prd.ignimgs.com/2026/11/09/gta-myths-1794236071663.jpg?width=1280&format=jpg&auto=webp&quality=80",
+    "source": "IGN",
+    "publishedAt": "2026-11-12T14:30:00Z"
+  },
+  {
     "id": "1eee82d9",
     "type": "news",
     "title": "The Best Sci-Fi Movies of 2026 (So Far)",
@@ -58,16 +68,6 @@
     "image": "https://www.rollingstone.com/wp-content/uploads/2026/11/flight-lead-illo.jpg?crop=0px%2C165px%2C1200px%2C677px&resize=1600%2C900",
     "source": "Rolling Stone",
     "publishedAt": "2026-11-11T18:01:13Z"
-  },
-  {
-    "id": "6012032c",
-    "type": "news",
-    "title": "What To Watch This Week: 40+ Premieres, Finales, And More",
-    "description": "TVLine offers a look at what to watch in the week ahead: A handy roundup of new TV premieres and show finales to help you plan your viewing for November 8-14.",
-    "url": "https://www.tvline.com/2300957/what-to-watch-week-of-november-8-2026-tv-shows-movies-streaming/",
-    "image": "https://www.tvline.com/img/gallery/what-to-watch-this-week-40-premieres-finales-and-more/l-intro-1794018421.jpg",
-    "source": "TVLine",
-    "publishedAt": "2026-11-07T21:00:00Z"
   },
   {
     "id": "de1076d2",
