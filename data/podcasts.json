@@ -90,36 +90,6 @@
     "publishedAt": "2026-11-06T09:00:30Z"
   },
   {
-    "id": "fc2311a5",
-    "type": "podcast",
-    "title": "Ep 2380: Jeffrey Kripal: The Flip",
-    "description": "Tonight, Wednesday on FADE to BLACK: Jeffrey Kripal, acclaimed author of The Flip and How to Think Impossibly, explores ...",
-    "url": "https://www.youtube.com/watch?v=eZYQ4SFdfTU",
-    "image": "https://i.ytimg.com/vi/eZYQ4SFdfTU/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-11-12T05:05:06Z"
-  },
-  {
-    "id": "be53bd88",
-    "type": "podcast",
-    "title": "Ep 2378: Derek Condit: The Skagit Triangle",
-    "description": "Tonight, Monday on FADE to BLACK: Derek Condit discusses his Sasquatch encounters, UFO activity, and the mysterious Skagit ...",
-    "url": "https://www.youtube.com/watch?v=SsBprXqoV3Y",
-    "image": "https://i.ytimg.com/vi/SsBprXqoV3Y/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-11-10T05:09:22Z"
-  },
-  {
-    "id": "08cade53",
-    "type": "podcast",
-    "title": "Ep 2375: Tue: Jen Kruse and Jena Grover: The She-Squatchers!",
-    "description": "Tonight, Tuesday on FADE to BLACK: Join the She-Squatchers for an extraordinary Bigfoot journey through Northern Minnesota, ...",
-    "url": "https://www.youtube.com/watch?v=u3cizoeQPok",
-    "image": "https://i.ytimg.com/vi/u3cizoeQPok/hqdefault.jpg",
-    "source": "FADE TO BLACK Radio",
-    "publishedAt": "2026-11-04T05:07:54Z"
-  },
-  {
     "id": "eafac7ac",
     "type": "podcast",
     "title": "Have You Seen Something in the Sky? Tell Me Your Story",
@@ -180,23 +150,33 @@
     "publishedAt": "2026-07-30T08:39:47Z"
   },
   {
-    "id": "45bfe77a",
+    "id": "655821e5",
     "type": "podcast",
-    "title": "Hier geht etwas vor sich – keiner weiß, was (UFO-Experte)",
-    "description": "Gast: Robert Fleischer Er hat mit Whistleblowern, Kampfjetpiloten und Militärzeugen gesprochen und nahm an einer ...",
-    "url": "https://www.youtube.com/watch?v=Feuyd0BHKEQ",
-    "image": "https://i.ytimg.com/vi/Feuyd0BHKEQ/hqdefault.jpg",
-    "source": "{ungeskriptet} by Ben",
-    "publishedAt": "2026-10-21T16:00:23Z"
+    "title": "Dr. Phil read the UAP files before the public, here&#39;s what he found | Reality Check",
+    "description": "In this episode of \"Reality Check,\" Ross Coulthart sits down with Dr. Phil McGraw, the psychologist and television host the White ...",
+    "url": "https://www.youtube.com/watch?v=bhA-E57oQW8",
+    "image": "https://i.ytimg.com/vi/bhA-E57oQW8/hqdefault.jpg",
+    "source": "NewsNation",
+    "publishedAt": "2026-07-21T21:00:06Z"
   },
   {
-    "id": "1f302b65",
+    "id": "7b1955c9",
     "type": "podcast",
-    "title": "Joe Rogan Experience #2560 - David Grusch",
-    "description": "David Grusch is a former United States Air Force intelligence officer, former representative of the National Reconnaissance Office ...",
-    "url": "https://www.youtube.com/watch?v=dYPXINFcvmI",
-    "image": "https://i.ytimg.com/vi/dYPXINFcvmI/hqdefault.jpg",
-    "source": "PowerfulJRE",
-    "publishedAt": "2026-09-30T17:00:34Z"
+    "title": "UFO Truths Exposed | UFOs: Investigating the Unknown MEGA Episode | National Geographic",
+    "description": "Is there life beyond Planet Earth? In this UFOs: Investigating the Unknown Mega Episode from National Geographic, explore the ...",
+    "url": "https://www.youtube.com/watch?v=dDxYZyMEmUU",
+    "image": "https://i.ytimg.com/vi/dDxYZyMEmUU/hqdefault.jpg",
+    "source": "National Geographic",
+    "publishedAt": "2026-06-27T13:00:25Z"
+  },
+  {
+    "id": "46b80a76",
+    "type": "podcast",
+    "title": "The Age of Disclosure: Who Actually Controls the UAP Secrets? | w/ Dan Farah | SSHQ",
+    "description": "Who actually controls the biggest secret in modern history? For decades, UFOs were treated as conspiracy theories, fringe ...",
+    "url": "https://www.youtube.com/watch?v=MWM5AtR3n9o",
+    "image": "https://i.ytimg.com/vi/MWM5AtR3n9o/hqdefault.jpg",
+    "source": "VICE News",
+    "publishedAt": "2026-06-18T18:46:34Z"
   }
 ]
